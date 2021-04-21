@@ -1,4 +1,4 @@
-Published 08.04.2021
+Published 21.04.2021
 1. Passengers are not allowed to enter.
 -This does not apply to:
 - nationals and residents of Iceland;
@@ -8,7 +8,11 @@ Published 08.04.2021
 - family members of nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and EEA Member States;
 - residents of Australia, Japan, Korea (Rep.), New Zealand, Rwanda, Singapore and Thailand arriving from their country of residence;
 - passengers in a long-term intimate relationship with a national or resident of Iceland;
-- military personnel traveling on duty.
+- military personnel traveling on duty;
+- passengers with a COVID-19 vaccination certificate. Details can be found at <a href="https://tinyurl.com/y4el6uru">https://tinyurl.com/y4el6uru</a> ;
+- passengers with a certificate of previous COVID-19 infection. The certificate must be in Danish, English, Icelandic, Norwegian or Swedish. Tests accepted are:
+- positive COVID-19 PCR test result issued at least 14 days before arrival; or
+- presence of antibodies against COVID-19 measured by ELISA serologic assay.
 More details can be found at: <a href="https://www.logreglan.is/english/regarding-travel-restrictions-to-iceland-as-a-result-of-covid-19/">https://www.logreglan.is/english/regarding-travel-restrictions-to-iceland-as-a-result-of-covid-19/</a> .
 2. Passengers traveling through Iceland to another Schengen Member State must have a written confirmation of their permission to enter the other Schengen Member State.
 3. Passengers must complete the "Preregistration for visiting Iceland" at <a href="http://visit.covid.is/">http://visit.covid.is/</a> before arrival.
