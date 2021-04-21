@@ -1,4 +1,4 @@
-Published 13.04.2021
+Published 21.04.2021
 1. Passengers who have transited or have been in Austria, Belgium, Brazil, China (People's Rep.), Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Iran, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland or in the United Kingdom (excluding overseas territories outside of Europe), in the past 14 days are not allowed to enter and transit.
 -This does not apply to:
 - nationals and permanent residents of the USA;
@@ -18,7 +18,7 @@ This does not apply to:
 - passengers younger than 2 years;
 - US military personnel;
 - passengers with a medical certificate with a positive Coronavirus (COVID-19) test result issued at most 90 days before departure from the first embarkation point; and a letter issued by a health authority stating that the passenger has been cleared for travel. The test result must specify "positive" or "detected", if marked "invalid" it is not accepted.
-3. Passengers must complete a disclosure and attestation form before departure. The form can be obtained at <a href="https://www.cdc.gov/quarantine/pdf/attachment-a-global-passenger-disclosure-and-attestation-2021-01-12-p.pdf">https://www.cdc.gov/quarantine/pdf/attachment-a-global-passenger-disclosure-and-attestation-2021-01-12-p.pdf</a> .
+3. Passengers must complete a disclosure and attestation form before departure. The form can be obtained at <a href="https://www.cdc.gov/quarantine/pdf/attachment-a-global-passenger-disclosure-attestation-2021-p.pdf">https://www.cdc.gov/quarantine/pdf/attachment-a-global-passenger-disclosure-attestation-2021-p.pdf</a> .
 4. Passengers arriving in New York State must complete the "Traveler Health Form" at <a href="https://forms.ny.gov/s3/Welcome-to-New-York-State-Traveler-Health-Form">https://forms.ny.gov/s3/Welcome-to-New-York-State-Traveler-Health-Form</a> .
 5. Passengers are subject to Coronavirus (COVID-19) measures set by the state/territory of their final destination. More information can be found at <a href="http://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html">www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html</a> .
 6. DV visas issued in September 2020 that expired are accepted for entry.
