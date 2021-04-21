@@ -2,8 +2,8 @@ Published 21.04.2021
 1. Until 26 April 2021, passengers are not allowed to enter.
 -This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
-- British nationals who reside in the United Kingdom;
-- residents of Australia, Israel, Korea (Rep.), New Zealand, Russian Fed., Rwanda, Serbia, Singapore, Thailand, USA, United Arab Emirates and United Kingdom;
+- British nationals and residents of the United Kingdom;
+- nationals and residents of Australia, Israel, Korea (Rep.), New Zealand, Russian Fed., Rwanda, Serbia, Singapore, Thailand, USA and United Arab Emirates;
 - passengers with a residence permit issued by Greece. A certificate of application for renewal of a residence permit is not accepted except if the certificate of application is referring to spouse or family member of Greek or EU national;
 - passengers with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom;
 - passengers with a long term visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;

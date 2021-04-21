@@ -1,5 +1,5 @@
 Published 22.03.2021
-1. Passengers arriving from the USA are not allowed to enter until 21 April 2021.
+1. Passengers arriving from the USA are not allowed to enter.
 -This does not apply to:
 - nationals of Canada;
 - permanent residents of Canada;
@@ -8,7 +8,7 @@ Published 22.03.2021
 - extended family members of a national of Canada or a permanent resident of Canada who are asymptomatic for Coronavirus (COVID-19). They must prove that they intend to be with their extended family member who is a national of Canada or permanent resident of Canada and that they intend to stay at least 15 days. They must have a statutory declaration signed by the Canadian national or permanent resident attesting to the relationship. They must also have a letter issued by IRCC;
 - passengers who enter on Compassionate Grounds and are asymptomatic for Coronavirus (COVID-19). They must have a letter issued by PHAC;
 - passengers who enter for the purpose of an International Single Sport Event. They must be asymptomatic and have a letter issued by the Deputy Minister of Canadian Heritage (PCH).
-2. Passengers arriving from a country other than the USA are not allowed to enter until 21 April 2021.
+2. Passengers arriving from a country other than the USA are not allowed to enter.
 -This does not apply to:
 - nationals of Canada;
 - permanent residents of Canada;

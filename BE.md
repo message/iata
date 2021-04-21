@@ -1,8 +1,9 @@
-Published 20.04.2021
+Published 21.04.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
 - residents of Australia, Korea (Rep.), New Zealand, Rwanda, Singapore and Thailand;
+- passengers with a "C" visa issued by Belgium;
 - merchant seamen;
 - passengers with a diplomatic passport traveling on duty;
 - students;
@@ -19,6 +20,7 @@ Published 20.04.2021
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
 - residents of Australia, Korea (Rep.), New Zealand, Rwanda, Singapore and Thailand;
+- passengers with a "C" visa issued by Belgium after 18 March 2020;
 - merchant seamen;
 - passengers with a diplomatic passport traveling on duty.
 4. A completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a> .
