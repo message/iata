@@ -18,11 +18,11 @@ This does not apply to:
 - nationals and residents of Andorra and Spain;
 - passengers in transit for less than 24 hours.
 3. Passengers arriving from Botswana, Brazil, Colombia, Comoros, Ghana, Kenya, Mozambique, Peru, South Africa, Tanzania, Zambia or Zimbabwe are subject to quarantine.
-4. Passengers must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: RT-PCR, RT-LAMP and TMA. The test result must be in English, French, Germany, Spanish or accompanied by a certified Spanish translation.
+4. Passengers must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: RT-PCR, RT-LAMP and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation.
 - This does not apply to:
 - passengers younger than 6 years;
 - passengers arriving from Australia, China (People's Rep.), Hong Kong (SAR China), Korea (Rep.), Macao (SAR China), New Zealand, Rwanda, Singapore or Thailand;
-- passengers with a positive COVID-19 RT-PCR test result and medical discharge specifying that the passenger is recovered, not contagious and ok to travel;
+- passengers with a positive COVID-19 RT-PCR test result and medical discharge specifying that the passenger has recovered, not contagious and ok to travel;
 - deadheading crew;
 - until 25 April 2021, passengers arriving from Trondelag in Norway;
 - effective 26 April 2021, passengers arriving from Greenland in Denmark and arriving from Nordland or Troms og Finnmark in Norway.

@@ -1,10 +1,10 @@
-Published 09.04.2021
+Published 21.04.2021
 1. Until 22 April 2021, passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals of Israel;
 - residents of Israel;
 - passengers with an authorization letter issued by the Population and Immigration Authority.
-2. Passengers must complete an "Entry Report" form at most 24 hours before departure of the last direct flight to Israel at <a href="https://govforms.gov.il/mw/forms/Quarantine@health.gov.il?displang=en">https://govforms.gov.il/mw/forms/Quarantine@health.gov.il?displang=en</a> . They will receive an electronic approval from the Ministry of Health.
+2. Passengers must complete an "Entry Report" form at most 24 hours before departure of the last direct flight to Israel at <a href="https://www.gov.il/en/service/request-entry-to-israel-covid19">https://www.gov.il/en/service/request-entry-to-israel-covid19</a> . They will receive an electronic approval from the Ministry of Health.
 3. Passengers and airline crew who have been outside Israel for more than 72 hours entering or transiting through Israel must have a negative COVID-19 PCR test result. The test must have been taken at most 72 hours before departure from the first embarkation point. The test result must include the ID number or the passport number of the passenger or airline crew.
 - This does not apply to airline crew who stay in Israel for less than 72 hours.
 4. Passengers must have health insurance to cover COVID-19 expenses.
