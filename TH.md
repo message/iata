@@ -34,9 +34,9 @@ l) Nationals of China (People's Rep.), Indonesia, Kazakhstan, Mozambique and Oma
 6. Suspension of visa on arrival facilities.
 7. Suspension of visa exemption for nationals of Cambodia and Myanmar with a normal passport.
 8. Passengers are subject to medical screening.
-9. Passengers are subject to quarantine for 7, 10 or 14 days at their own expense. They must have a confirmed hotel reservation.
+9. Passengers are subject to quarantine for up to 14 days at their own expense. They must have a confirmed hotel reservation.
 - This does not apply to nationals of Thailand.
-10. Nationals of Thailand are subject to quarantine for 7, 10 or 14 days.
+10. Nationals of Thailand are subject to quarantine for up to 14 days.
 11. Airline crew are subject to self-isolation until their next flight.
 12. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-.
 

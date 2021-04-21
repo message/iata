@@ -1,4 +1,4 @@
-Published 14.04.2021
+Published 21.04.2021
 1. Until 30 April 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
@@ -22,9 +22,10 @@ This does not apply to:
 - This does not apply to:
 - passengers younger than 6 years;
 - passengers arriving from Australia, China (People's Rep.), Hong Kong (SAR China), Korea (Rep.), Macao (SAR China), New Zealand, Rwanda, Singapore or Thailand;
-- passengers arriving from Trondelag in Norway;
 - passengers with a positive COVID-19 RT-PCR test result and medical discharge specifying that the passenger is recovered, not contagious and ok to travel;
-- deadheading crew. 
+- deadheading crew;
+- until 25 April 2021, passengers arriving from Trondelag in Norway;
+- effective 26 April 2021, passengers arriving from Greenland in Denmark and arriving from Nordland or Troms og Finnmark in Norway.
 5. Passengers must complete an "FCS Health Control Form" at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> . A QR code generated from the completed form must be presented upon arrival.
 - This does not apply to deadheading crew. 
 6. Passengers are subject to medical screening upon arrival. 

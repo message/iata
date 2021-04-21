@@ -1,4 +1,4 @@
-Published 20.04.2021
+Published 21.04.2021
 1. Passengers are not allowed to enter.
 -This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -24,7 +24,7 @@ Published 20.04.2021
 5. Passengers must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> .
 - This does not apply to passengers who in the past 21 days have only been in Australia, Mainland of China, Chinese Taipei and Macao SAR, China, New Zealand or Singapore.
 6. Passengers who in the past 21 days have only been in Australia, New Zealand or Singapore must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> .
-7. Passengers who have been in or transited through Bangladesh, Belgium, Canada, Ecuador, Egypt, Ethiopia, France, Germany, India, Indonesia, Kazakhstan, Nepal, Pakistan, Philippines, Romania, Russian Fed., Switzerland, Turkey, Ukraine, United Arab Emirates or USA in the past 21 days must have:
+7. Passengers who have been in or transited through Bangladesh, Belgium, Canada, Ecuador, Egypt, Ethiopia, France, Germany, Indonesia, Kazakhstan, Nepal, Romania, Russian Fed., Switzerland, Turkey, Ukraine, United Arab Emirates or USA in the past 21 days must have:
 - a negative COVID-19 nucleic acid test result. The test must have been taken at most 72 hours before departure of the last direct flight to Hong Kong, SAR China. The name in the test result must match the name on the travel document, or a written confirmation issued by the laboratory with the name of the passenger must be presented; and
 - a document proving that the laboratory is approved by the local government; and
 - a hotel reservation confirmation for a minimum of 21 nights.
@@ -33,7 +33,7 @@ All documents must be in Chinese or English.
 9. Passengers are subject to medical screening upon arrival and quarantine for up to 21 days. More details can be found at <a href="https://www.coronavirus.gov.hk/eng/inbound-travel.html">https://www.coronavirus.gov.hk/eng/inbound-travel.html</a> .
 10. Airline crew must have a negative COVID-19 nucleic acid test result issued at most 48 hours before departure.
 11. Airline crew are subject to medical screening upon arrival and self-isolation in a hotel.
-12. Airline crew who have been in or transited through Brazil, Ireland (Rep.), South Africa or United Kingdom in the past 21 days are subject to quarantine for 21 days.
+12. Airline crew who have been in or transited through Brazil, India, Ireland (Rep.), Pakistan, Philippines, South Africa or United Kingdom in the past 21 days are subject to quarantine for 21 days.
 13. Merchant seamen must have:
 - a negative COVID-19 nucleic acid test result issued at most 48 hours before departure, and
 - an approval letter from the Marine Department, and
