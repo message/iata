@@ -1,0 +1,17 @@
+Published 19.04.2021
+1. Passengers are not allowed to enter.
+-This does not apply to:
+- nationals of Georgia;
+- spouses and children under 18 years of nationals of Georgia;
+- British nationals and nationals of Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tajikistan, Turkey, Turkmenistan, USA, Ukraine and United Arab Emirates, if arriving from Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Kazakhstan, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, USA, Ukraine, United Arab Emirates, United Kingdom or Uzbekistan;
+- residents of Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tajikistan, Turkey, Turkmenistan, USA, Ukraine and United Arab Emirates, if arriving from Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Kazakhstan, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, USA, Ukraine, United Arab Emirates, United Kingdom or Uzbekistan;
+- passengers with a COVID-19 vaccination certificate. The vaccination certificate must be in English.
+2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be in English.
+- This does not apply to:
+- nationals of Georgia;
+- passengers with a COVID-19 vaccination certificate arriving from a country other than India. The vaccination certificate must be in English.
+3. Nationals of Georgia without a negative COVID-19 PCR test taken at most 72 hours before arrival are subject to self-isolation for 8 days.
+4. Passengers must submit a pre-registration form at <a href="https://registration.gov.ge/pub/form/8_protocol_for_arrivals_in_georgia/tk6157/">https://registration.gov.ge/pub/form/8_protocol_for_arrivals_in_georgia/tk6157/</a> .
+5. Passengers could be subject to quarantine for up to 14 days. More details can be found at <a href="https://mfa.gov.ge/MainNav/CoVID-19-sakitkhebi/sazgvris-kvetis-regulaciebi.aspx?lang=en-US">https://mfa.gov.ge/MainNav/CoVID-19-sakitkhebi/sazgvris-kvetis-regulaciebi.aspx?lang=en-US</a> .
+6. More details can be found at <a href="https://stopcov.ge/en">https://stopcov.ge/en</a> and <a href="https://mfa.gov.ge/MainNav/CoVID-19-sakitkhebi/sazgvris-kvetis-regulaciebi.aspx?lang=en-US">https://mfa.gov.ge/MainNav/CoVID-19-sakitkhebi/sazgvris-kvetis-regulaciebi.aspx?lang=en-US</a> .
+
