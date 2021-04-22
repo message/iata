@@ -1,4 +1,4 @@
-Published 19.04.2021
+Published 22.04.2021
 1. Until 30 April 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Portugal and their family members;
@@ -16,7 +16,10 @@ Published 19.04.2021
 4. Passengers traveling on a direct flight to Azores must have a negative COVID-19 RT-PCR test result. The test must have been taken at most 72 hours before departure.
 - This does not apply to passengers younger than 12 years.
 5. Passengers traveling on a direct flight to Madeira without a negative COVID-19 RT-PCR test result of a test taken at most 72 hours before departure are subject to an RT-PCR test upon arrival and quarantine until test results are ready.
-- This does not apply to passengers younger than 12 years.
+- This does not apply to:
+- passengers younger than 12 years;
+- passengers with a COVID-19 recovery certificate issued at most 90 days before arrival;
+- passengers with a COVID-19 vaccination certificate.
 6. Passengers traveling to Azores must:
 - complete a "Health Form upon arrival at the Azores" and a "Draft statement for inter-island travel" upon arrival; or
 - submit a "Questionnaire for Risk Assessment and Early Detection" before departure at <a href="https://mysafeazores.com/">https://mysafeazores.com/</a> .

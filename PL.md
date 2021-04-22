@@ -2,7 +2,7 @@ Published 21.04.2021
 1. Passengers are not allowed to enter.
 -This does not apply to:
 - nationals and residents of Poland;
-- spouses, children of nationals of Poland;
+- spouses and children of nationals of Poland;
 - passengers under the constant care of nationals of Poland;
 - nationals of Austria, Belarus, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland;
 - British nationals;
