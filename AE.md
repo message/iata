@@ -1,4 +1,4 @@
-Published 21.04.2021
+Published 22.04.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -28,7 +28,7 @@ Published 21.04.2021
 6. Residents of United Arab Emirates with a residency visa issued in Dubai returning to Dubai (DXB) must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitServiceForm.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitServiceForm.aspx</a> .
 7. Residents of United Arab Emirates must have an ICA approval obtained at <a href="https://uaeentry.ica.gov.ae">https://uaeentry.ica.gov.ae</a> before departure.
 - This does not apply to passengers returning to Dubai (DXB).
-8. Effective 22 April 2021, passengers entering Dubai (DXB) or Al Maktoum (DWC) from India must have a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+8. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from India must have a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
 - This does not apply to:
 - nationals of United Arab Emirates;
 - passengers younger than 12 years;
@@ -39,7 +39,7 @@ Published 21.04.2021
 - passengers arriving from Nigeria;
 - passengers younger than 12 years;
 - passengers with disabilities;
-- effective 22 April 2021, passengers arriving from India.
+- passengers arriving from India.
 10. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Nigeria must:
 - have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by Nigeria; or
 - have a printed negative COVID-19 rapid test taken at most 4 hours before departure of the last direct flight to United Arab Emirates.
@@ -48,7 +48,7 @@ Published 21.04.2021
 - nationals of United Arab Emirates;
 - passengers younger than 12 years;
 - passengers with disabilities.
-12. Effective 22 April 2021, passengers entering Ras Al Khaimah (RKT) from India must have a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+12. Passengers entering Ras Al Khaimah (RKT) from India must have a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
 - This does not apply to:
 - nationals of United Arab Emirates;
 - passengers younger than 12 years;
@@ -58,7 +58,7 @@ Published 21.04.2021
 - nationals of United Arab Emirates;
 - passengers younger than 12 years;
 - passengers with disabilities;
-- effective 22 April 2021, passengers arriving from India.
+- passengers arriving from India.
 14. Passengers entering Sharjah (SHJ) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. Passengers arriving from India must have a QR code in the test result.
 - This does not apply to:
 - nationals of United Arab Emirates;

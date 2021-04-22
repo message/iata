@@ -1,7 +1,7 @@
-Published 14.04.2021
-1. Flights arriving directly from Brazil, Denmark, South Africa and United Kingdom are suspended.
+Published 22.04.2021
+1. Flights arriving directly from Brazil and South Africa are suspended.
 - This does not apply to humanitarian and repatriation flights.
-2. Passengers who in the past 10 days have been in Brazil, Denmark, South Africa or United Kingdom are subject to quarantine for 10 days.
+2. Passengers who in the past 10 days have been in Brazil, India or South Africa are subject to quarantine for 14 days.
 3. Passengers and airline crew are subject to medical screening.
 4. Until 30 May 2021, passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
