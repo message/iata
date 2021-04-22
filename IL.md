@@ -1,5 +1,5 @@
 Published 21.04.2021
-1. Until 22 April 2021, passengers are not allowed to enter and transit.
+1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals of Israel;
 - residents of Israel;
