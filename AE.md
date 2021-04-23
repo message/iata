@@ -86,4 +86,12 @@ Published 23.04.2021
 26. Flights from Nigeria and Yemen are suspended.
 27. Until 7 May 2021, flights from South Africa are suspended .
 28. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
+29. Effective 25 April 2021, flights from India are suspended. 
+30. Effective 25 April 2021, passengers who in the past 14 days have been in India are not allowed to enter and transit.
+- This does not apply to:
+- nationals of United Arab Emirates;
+- passengers with a diplomatic or an official passport traveling on duty;
+- passengers with a golden visa issued by United Arab Emirates;
+- passengers transiting through United Arab Emirates to return to India as final destination.
+31. Effective 25 April 2021, passengers who in the past 14 days have been in India must have a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
 

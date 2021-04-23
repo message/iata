@@ -1,5 +1,5 @@
 Published 19.04.2021
-1. Until 24 April 2021, passengers arriving from or who have transited through Brazil are not allowed to enter.
+1. Passengers arriving from or who have transited through Brazil are not allowed to enter.
 2. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of France and their spouses and children;
