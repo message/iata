@@ -1,4 +1,4 @@
-Published 09.04.2021
+Published 23.04.2021
 1. Until 30 April 2021, flights from Brazil, Chile, Mexico and United Kingdom are suspended.
 2. Until 30 April 2021, passengers are not allowed to enter.
 - This does not apply to:
@@ -20,5 +20,5 @@ Published 09.04.2021
 - issued before 17 March 2020, must also have a National ID Card issued to residents of Argentina or a certificate issued by an Argentina consulate;
 - issued after 17 March 2020 are allowed to enter.
 This does not apply to passengers with diplomatic, official or courtesy visas.
-9. National ID cards issued to nationals and residents of Argentina which expired on 17 March 2020 or later, are considered valid until 21 April 2021.
+9. National ID cards issued to nationals and residents of Argentina which expired on 17 March 2020 or later, are considered valid until 22 May 2021.
 
