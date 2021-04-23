@@ -1,4 +1,4 @@
-Published 13.04.2021
+Published 23.04.2021
 1. Passengers are not allowed to enter Qatar. 
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates;
@@ -24,5 +24,6 @@ Published 13.04.2021
 - pregnant women and breastfeeding mothers with an infant younger than 2 years, residing in Qatar. They must be accompanied by their husband or a relative who must have a COVID-19 vaccination certificate and must have received the second vaccine dose at least 14 days before arrival. They must reside in the same place as their husband or relative;
 - passengers with a Diplomatic ID or an Admin card issued by the MOFA of Qatar;
 - US or NATO military personnel with Military ID card.
-5. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates are not allowed to enter with a national ID card. 
+5. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates are not allowed to enter with a national ID card.
+6. Effective 25 April 2021, passengers entering or transiting through Qatar must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be issued by an approved testing center listed on <a href="https://covid19.moph.gov.qa/EN/Pages/Countries-Classified-Low-Risk-of-COVID-19.aspx">https://covid19.moph.gov.qa/EN/Pages/Countries-Classified-Low-Risk-of-COVID-19.aspx</a> 
 
