@@ -1,4 +1,4 @@
-Published 20.04.2021
+Published 23.04.2021
 1. Passengers are not allowed to enter until 12 May 2021.
 - This does not apply to:
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -11,7 +11,7 @@ Published 20.04.2021
 - nationals of Moldova (Rep.) with a non-biometric passport and a transit visa;
 - students.
 More exemptions can be found at <a href="https://tinyurl.com/etr884ss">https://tinyurl.com/etr884ss</a> .
-2. Passengers arriving from Andorra, Armenia, Aruba, Austria, Bahrain, Belgium, Bermuda, Bosnia and Herzegovina, Brazil, Bulgaria, Chile, Croatia, Curacao, Cyprus, Czechia, Estonia, Eswatini, France, Hungary, Italy, Jordan, Kosovo (Rep.), Kuwait, Lebanon, Luxembourg, Moldova (Rep.), Monaco, Montenegro, Netherlands, North Macedonia (Rep.), Palestinian Territory, Poland, Puerto Rico, San Marino, Serbia, Seychelles, Slovenia, South Africa, Sweden, Turkey, Ukraine, Uruguay or Wallis and Futuna Isl. must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
+2. Passengers arriving from Andorra, Argentina, Armenia, Aruba, Austria, Azerbaijan, Bahrain, Belgium, Bermuda, Bosnia and Herzegovina, Brazil, Bulgaria, Cape Verde, Canada, Chile, Colombia, Costa Rica, Croatia, Curacao, Cyprus, Czechia, Estonia, Eswatini, France, Georgia, Greece, Hungary, Iran, Italy, Jordan, Kosovo (Rep.), Kuwait, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Maldives, Mongolia, Montenegro, Netherlands, North Macedonia (Rep.), Oman, Paraguay, Peru, Poland, Puerto Rico, Qatar, San Marino, Serbia, Seychelles, Slovenia, South Africa, Sweden, Switzerland, Turkey, Ukraine, Uruguay, USA or Wallis and Futuna Isl. must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 4 years;
 - passengers with a consular, diplomatic, official, service or special passport traveling on duty and their family members;

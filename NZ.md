@@ -1,4 +1,4 @@
-Published 19.04.2021
+Published 23.04.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -8,9 +8,6 @@ Published 19.04.2021
 - passengers who have a visa and have been granted an exemption before departure; details can be found at <a href="https://www.immigration.govt.nz/formshelp/request-for-travel-to-new-zealand">https://www.immigration.govt.nz/formshelp/request-for-travel-to-new-zealand</a> ;
 - passengers arriving from Australia, Cook Isl. or Niue if they in the past 14 days have only been in Australia, Cook Isl., New Zealand or Niue.
 2. Passengers who in the past 14 days have been in or transited through India are not allowed to enter.
-- This does not apply to:
-- passengers with a diplomatic passport and a diplomatic visa;
-- passengers who are members of the New Zealand Defence Force.
 3. Passengers are not allowed to transit.
 - This does not apply to:
 - nationals of Australia and New Zealand;
@@ -19,6 +16,7 @@ Published 19.04.2021
 - passengers with a transit visa issued by New Zealand.
 4. Passengers are not allowed to transit through New Zealand to Australia, Cook Isl. or Niue if they are arriving from Australia, Cook Isl. or Niue.
 5. Passengers are not allowed to transit through New Zealand to China (People's Rep.).
+- This does not apply to nationals of China (People’s Rep.) arriving from Cook Isl., Fiji, Niue, Samoa, Tonga or Vanuatu.
 6. Transit is only allowed at Auckland (AKL) for maximum 24 hours.
 7. Passengers transiting through New Zealand to Australia must have a confirmed onward ticket on a red zone flight within 14 days.
 8. Passengers must have a negative COVID-19 test result. Tests accepted are: antigen, LAMP, PCR and RT-PCR tests. The test must have been taken at most 72 hours before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/39tsn56h">https://tinyurl.com/39tsn56h</a> .
