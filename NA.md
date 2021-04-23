@@ -1,5 +1,7 @@
-Published 22.02.2021 
-1. Passengers without a medical certificate with a negative Coronavirus (COVID-19) SARS-CoV-2 PCR test result are subject to a test upon arrival and quarantine. The test must have been taken at most 7 days before arrival.
-2. A completed epidemiological questionnaire obtained at <a href="http://www.namibiatourism.com.na/">www.namibiatourism.com.na</a> must be presented upon arrival. 
-3. Passengers must have a travel insurance to cover medical costs.
+Published 23.04.2021 
+1. Passengers must have a negative COVID-19 antigen or PCR test taken at most 7 days before departure from the first embarkation point.
+- This does not apply to nationals and residents of Namibia.
+2. Nationals and residents of Namibia could be subject to quarantine.
+2. Passengers must present a completed epidemiological questionnaire upon arrival. The form can be obtained at <a href="http://www.namibiatourism.com.na">www.namibiatourism.com.na</a> .
+3. Passengers must have travel insurance to cover COVID-19 expenses.
 
