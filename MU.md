@@ -1,7 +1,7 @@
-Published 13.04.2021
-1. Until 30 April 2021 passengers are not allowed to enter and transit.
+Published 23.04.2021
+1. Until 14 May 2021 passengers are not allowed to enter and transit.
 2. Airline crew are subject to self-isolation for 7 days or until their next flight.
-From 1 May 2021 and until 31 May 2021:
+From 15 May 2021 and until 31 May 2021:
 1. Passengers are not allowed to enter and transit.
 - This does not apply to passengers arriving on humanitarian, medevac or repatriation flights.
 2. Passengers arriving on humanitarian, medevac or repatriation flights:
