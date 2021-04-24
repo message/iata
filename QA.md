@@ -1,4 +1,4 @@
-Published 23.04.2021
+Published 24.04.2021
 1. Passengers are not allowed to enter Qatar. 
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates;
@@ -15,9 +15,9 @@ Published 23.04.2021
 4. Passengers must have a quarantine hotel reservation for 7 days made at <a href="https://www.qatarairwaysholidays.com/qa-en/welcome-home-7-night-booking/overview">https://www.qatarairwaysholidays.com/qa-en/welcome-home-7-night-booking/overview</a>.
 - This does not apply to:
 - passengers arriving from Australia, Brunei Darussalam, China (People's Rep.), Cuba, Hong Kong (SAR China), Iceland, Ireland (Rep.), Japan, Korea (Rep.), Macao (SAR China), Malaysia, Mauritius, Mexico, Myanmar, New Zealand, Oman, Singapore, Thailand or Viet Nam;
-- passengers with a COVID-19 vaccination certificate issued outside of Qatar. Vaccines accepted are AstraZeneca, Johnson & Johnson, Moderna and Pfizer/BioNTech. They must have received: 
+- passengers with a COVID-19 vaccination certificate issued outside of Qatar. Vaccines accepted are AstraZeneca, Covishield, Johnson & Johnson, Moderna and Pfizer/BioNTech. They must have received: 
 - the single Johnson & Johnson vaccine dose at least 14 days before arrival, or
-- the second AstraZeneca, Moderna or Pfizer/BioNTech vaccine dose at least 14 days before arrival. More details can be found at <a href="https://tinyurl.com/w52x7pvb">https://tinyurl.com/w52x7pvb</a>;
+- the second AstraZeneca, Covishield, Moderna or Pfizer/BioNTech vaccine dose at least 14 days before arrival. More details can be found at <a href="https://tinyurl.com/w52x7pvb">https://tinyurl.com/w52x7pvb</a>;
 - nationals and residents of Qatar with a COVID-19 vaccination certificate issued in Qatar if they received the second vaccine dose at least 14 days before arrival. If they have not received the second vaccine dose at least 14 days before arrival, they will be subject to home quarantine for 7 days or until they complete the required 14 days, whichever is shorter;
 - passengers younger than 18 years residing in Qatar traveling alone or with family members. Family members must have a COVID-19 vaccination certificate and must have received the second vaccine dose at least 14 days before arrival;
 - passengers older than 75 years residing in Qatar and one escort. They must reside in the same place as the escort;
@@ -25,5 +25,7 @@ Published 23.04.2021
 - passengers with a Diplomatic ID or an Admin card issued by the MOFA of Qatar;
 - US or NATO military personnel with Military ID card.
 5. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates are not allowed to enter with a national ID card.
-6. Effective 25 April 2021, passengers entering or transiting through Qatar must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be issued by an approved testing center listed on <a href="https://covid19.moph.gov.qa/EN/Pages/Countries-Classified-Low-Risk-of-COVID-19.aspx">https://covid19.moph.gov.qa/EN/Pages/Countries-Classified-Low-Risk-of-COVID-19.aspx</a> 
+6. Effective 25 April 2021, passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be issued by a testing center approved by the local government.
+7. Effective 13:00 local time 25 April 2021 until 01:59 local time 27 April 2021, passengers without a negative COVID-19 PCR test taken at most 72 hours before arrival are subject to a test upon arrival at their own expense.
+- This does not apply to passengers with an Exception Entry Permit stated as Mukaines.
 
