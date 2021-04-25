@@ -1,37 +1,17 @@
-Published 20.04.2021
-1. Until 30 April 2021, passengers are not allowed to enter .
-- This does not apply to:
-- nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
-- passengers with a long-term residence permit or a long term "D" visa issued by Switzerland or an EEA Member State;
-- family members of nationals and residents of Switzerland or an EEA Member State;
-- passenger with proof of being unmarried partners of residents of Italy;
-- passengers who in the past 14 days have only been to or transited through Andorra, Austria, Australia, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France (including Guadeloupe, Martinique, Guyana, Reunion and Mayotte), Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Japan, Korea Rep., Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Rwanda, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand or United Kingdom;
-- passengers traveling on business;
-- passengers returning via Italy to their country of residence;
-- students;
-- military personnel.
-2. Until 30 April 2021, passengers who have been in or transited through Brazil in the past 14 days are not allowed to enter and transit.
-- This does not apply to:
-- passengers residing in Italy since before 13 February 2021;
-- parents of children younger than 18 years who are residing in Italy;
-- military personnel.
-3. A completed self-declaration form must be presented prior to boarding. The form can be obtained at <a href="https://www.esteri.it/mae/it/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html">https://www.esteri.it/mae/it/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html</a> .
-4. Passengers arriving in Sardinia must present a completed registration form upon arrival. The form can be obtained before departure at <a href="https://sus.regione.sardegna.it/sus/covid19/regimbarco/init;jsessionid=DBC60851683A8F71D64CBFA6632E9138.sus2?lang=en">https://sus.regione.sardegna.it/sus/covid19/regimbarco/init;jsessionid=DBC60851683A8F71D64CBFA6632E9138.sus2?lang=en</a> . 
-5. Passengers arriving in Calabria, Puglia or Sicily must present a completed health declaration form upon arrival. The form can be obtained for:
-- Calabria at <a href="https://home.rcovid19.it/">https://home.rcovid19.it/</a> ;
-- Puglia at <a href="https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus">https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus</a> ;
-- Sicily at <a href="https://testcovid.costruiresalute.it/">https://testcovid.costruiresalute.it/</a> .
-6. Until 30 April 2021, passengers must have a negative COVID-19 molecular or antigen test taken at most 48 hours before arrival. The test must be based on a swab.
-- This does not apply to:
-- passengers arriving from San Marino or Vatican City (Holy See);
-- military personnel;
-- passengers younger than 2 years;
-- more exemptions can be found at <a href="https://tinyurl.com/ndy6us66">https://tinyurl.com/ndy6us66</a> .
-7. Until 30 April 2021, passengers who have been in or transited through Brazil in the past 14 days are subject to:
-- a COVID-19 molecular or antigen test upon arrival; and
-- self-isolation for 14 days; and
-- another COVID-19 molecular or antigen test at the end of self-isolation.
-- This does not apply to passengers younger than 2 years.
-8. Passengers could be subject to self-isolation. More details can be found at <a href="https://infocovid.viaggiaresicuri.it/index_en.html">https://infocovid.viaggiaresicuri.it/index_en.html</a> .
-9. Residence permits issued by Italy which expired or will expire between 1 August 2020 and 30 April 2021 are considered valid until 30 April 2021.
+Published 03.06.2020
+1.&#32;Passengers&#32;are&#32;not&#32;allowed&#32;to&#32;enter
+-&#32;This&#32;does&#32;not&#32;apply&#32;to:
+-&#32;nationals&#32;or&#32;residents&#32;of&#32;Italy;
+-&#32;passengers&#32;traveling&#32;on&#32;business;
+-&#32;passengers&#32;traveling&#32;for&#32;urgent&#32;health&#32;reasons;
+-&#32;healthcare&#32;personnel&#32;traveling&#32;on&#32;duty;
+-&#32;passengers&#32;traveling&#32;for&#32;emergency&#32;reasons;
+-&#32;passengers&#32;returning&#32;via&#32;Italy&#32;to&#32;their&#32;country&#32;of&#32;residence;
+-&#32;passengers&#32;arriving&#32;from&#32;Andorra,&#32;Austria,&#32;Belgium,&#32;Bulgaria,&#32;Croatia,&#32;Cyprus,&#32;Czechia,&#32;Denmark,&#32;Estonia,&#32;Finland,&#32;France,&#32;Germany,&#32;Greece,&#32;Hungary,&#32;Iceland,&#32;Ireland&#32;(Rep.),&#32;Latvia,&#32;Liechtenstein,&#32;Lithuania,&#32;Luxembourg,&#32;Malta,&#32;Monaco,&#32;Netherlands,&#32;Norway,&#32;Poland,&#32;Portugal,&#32;Romania,&#32;Slovakia,&#32;Slovenia,&#32;Spain,&#32;Sweden,&#32;Switzerland&#32;or&#32;United&#32;Kingdom.
+2.&#32;Residence&#32;permits&#32;issued&#32;by&#32;Italy&#32;which&#32;have&#32;expired&#32;between&#32;31&#32;January&#32;and&#32;31&#32;July&#32;2020,&#32;are&#32;considered&#32;valid&#32;until&#32;31&#32;August&#32;2020.
+3.&#32;Passengers&#32;must&#32;present&#32;a&#32;completed&#32;self-declaration&#32;form&#32;to&#32;the&#32;transporting&#32;carrier&#32;and&#32;must&#32;communicate&#32;their&#32;entry&#32;to&#32;the&#32;Department&#32;of&#32;Prevention&#32;at&#32;local&#32;health&#32;units&#32;(ASL)&#32;of&#32;the&#32;entrance&#32;district.&#32;
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;arriving&#32;from&#32;Andorra,&#32;Austria,&#32;Belgium,&#32;Bulgaria,&#32;Croatia,&#32;Cyprus,&#32;Czechia,&#32;Denmark,&#32;Estonia,&#32;Finland,&#32;France,&#32;Germany,&#32;Greece,&#32;Hungary,&#32;Iceland,&#32;Ireland&#32;(Rep.),&#32;Latvia,&#32;Liechtenstein,&#32;Lithuania,&#32;Luxembourg,&#32;Malta,&#32;Monaco,&#32;Netherlands,&#32;Norway,&#32;Poland,&#32;Portugal,&#32;Romania,&#32;Slovakia,&#32;Slovenia,&#32;Spain,&#32;Sweden,&#32;Switzerland&#32;or&#32;United&#32;Kingdom.&#32;
+4.&#32;Passengers&#32;are&#32;subject&#32;to&#32;quarantine&#32;for&#32;14&#32;days.&#32;
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;arriving&#32;from&#32;Andorra,&#32;Austria,&#32;Belgium,&#32;Bulgaria,&#32;Croatia,&#32;Cyprus,&#32;Czechia,&#32;Denmark,&#32;Estonia,&#32;Finland,&#32;France,&#32;Germany,&#32;Greece,&#32;Hungary,&#32;Iceland,&#32;Ireland&#32;(Rep.),&#32;Latvia,&#32;Liechtenstein,&#32;Lithuania,&#32;Luxembourg,&#32;Malta,&#32;Monaco,&#32;Netherlands,&#32;Norway,&#32;Poland,&#32;Portugal,&#32;Romania,&#32;Slovakia,&#32;Slovenia,&#32;Spain,&#32;Sweden,&#32;Switzerland&#32;or&#32;United&#32;Kingdom.&#32;
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;traveling&#32;on&#32;business&#32;if&#32;their&#32;stay&#32;in&#32;Italy&#32;does&#32;not&#32;exceed&#32;72&#32;hours&#32;and&#32;if&#32;granted,&#32;the&#32;additional&#32;48&#32;hours&#32;of&#32;a&#32;justified&#32;extension&#32;for&#32;specific&#32;needs.
 

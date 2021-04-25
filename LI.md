@@ -1,33 +1,11 @@
-Published 15.04.2021
-1. Passengers are not allowed to enter.
--This does not apply to:
-- nationals and residents of Liechtenstein and Switzerland;
-- passengers with a D visa issued by Switzerland;
-- nationals of EEA Member States;
-- passengers arriving from Schengen Member States;
-- passengers arriving from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
-- spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States. They must present proof of their relationship;
-- passengers with proof of being spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of residents of Switzerland who are passengers with "British Citizens" passports , "British Overseas Territories Citizens" passports issued by Gibraltar and "British Subjects" passports with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom;
-- residents of Schengen Member States returning directly via Switzerland to their country of residence. 
-- passengers with a Schengen C visa issued by Switzerland after 16 March 2020;
-- unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship.
-2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.
--This does not apply to:
-- nationals and residents of EEA Member States and Switzerland;
-- passengers arriving directly from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
-- spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;
-- passengers with a D visa issued by a Schengen Member State they are traveling to;
-- passengers with a Schengen C visa issued by Switzerland after 16 March 2020.
-3. Passengers must have:
-- a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
-- a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point. They are subject to a COVID-19 rapid antigen or PCR test upon arrival at their own expense.
-- This does not apply to:
-- passengers younger than 12 years;
-- passengers with a positive COVID-19 test result of a test taken in the past 3 months. They must also have a recovery certificate;
-- nationals and residents of Switzerland with no possibility of getting tested in the departure country. They must complete a self-declaration form obtained at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> . They are subject to a COVID-19 test upon arrival;
-- more exemptions can be found at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> .
-4. Passengers must:
-- provide the contact details electronically at <a href="https://swissplf.admin.ch/home">https://swissplf.admin.ch/home</a> ; or
-- complete the "Contact Tracing Card" form. The form is available at <a href="https://static.vueling.com/corporative7/media/1647/swiss_authority_arriving_passenger_contact_tracing_card-pd.pdf">https://static.vueling.com/corporative7/media/1647/swiss_authority_arriving_passenger_contact_tracing_card-pd.pdf</a> or on board.
-5. Passengers could be subject to quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html">https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html</a> .
+Published 03.06.2020
+1.&#32;Passengers&#32;are&#32;not&#32;allowed&#32;to&#32;enter.
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;nationals&#32;or&#32;residents&#32;of&#32;Switzerland&#32;or&#32;Liechtenstein.
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passenger&#32;with&#32;a&#32;cross-border&#32;commuter&#32;permit&#32;who&#32;are&#32;entering&#32;Switzerland&#32;for&#32;work,&#32;with&#32;a&#32;C-visa&#32;issued&#32;by&#32;Switzerland&#32;for&#32;the&#32;purpose&#32;of&#32;"business&#32;meetings"&#32;as&#32;specialists&#32;in&#32;the&#32;field&#32;of&#32;health&#32;or&#32;"official&#32;visit"&#32;of&#32;great&#32;importance,&#32;with&#32;a&#32;D-visa&#32;issued&#32;by&#32;Switzerland&#32;or&#32;who&#32;have&#32;an&#32;assurance&#32;of&#32;a&#32;residence&#32;permit.
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;traveling&#32;directly&#32;through&#32;Switzerland,&#32;provided&#32;that&#32;there&#32;are&#32;no&#32;reasons&#32;to&#32;believe&#32;that&#32;the&#32;country&#32;towards&#32;which&#32;they&#32;intend&#32;to&#32;leave&#32;Switzerland&#32;will&#32;refuse&#32;entry.&#32;
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;who&#32;have&#32;to&#32;travel&#32;to&#32;their&#32;place&#32;of&#32;work&#32;abroad,&#32;provided&#32;they&#32;can&#32;present&#32;a&#32;valid&#32;employment&#32;contract.&#32;
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;who&#32;are&#32;already&#32;legally&#32;residing&#32;within&#32;the&#32;EU/EFTA&#32;area&#32;and&#32;that&#32;are&#32;travelling&#32;for&#32;tourist&#32;purposes,&#32;provided&#32;that&#32;they&#32;can&#32;credibly&#32;demonstrate&#32;that&#32;they&#32;actually&#32;want&#32;to/can&#32;enter&#32;the&#32;destination&#32;country,&#32;e.g.&#32;by&#32;presenting&#32;a&#32;hotel&#32;booking,&#32;holiday&#32;apartment,&#32;etc.&#32;
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;who&#32;are&#32;entitled&#32;to&#32;freedom&#32;of&#32;movement&#32;(citizens&#32;of&#32;EU/EFTA-states)&#32;and&#32;have&#32;a&#32;professional&#32;reason&#32;for&#32;entering&#32;Switzerland&#32;and&#32;have&#32;a&#32;confirmation&#32;of&#32;registration.
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;who&#32;are&#32;of&#32;great&#32;importance&#32;as&#32;specialists&#32;in&#32;the&#32;health&#32;sector.
+2.&#32;Until&#32;and&#32;including&#32;07.06.2020,&#32;passengers&#32;can&#32;only&#32;land&#32;at&#32;Basel&#32;(BSL),&#32;Geneva&#32;(GVA)&#32;or&#32;Zurich&#32;(ZRH).
 

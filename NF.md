@@ -1,21 +1,14 @@
-Published 13.04.2021
-1. Passengers are not allowed to enter Australia.
-- This does not apply to:
-- nationals of Australia and their immediate family members;
-- permanent residents of Australia and their immediate family members;
-- nationals of New Zealand residing in Australia and their immediate family members;
-- passengers arriving from New Zealand if they in the past 14 days have been in New Zealand;
-- passengers who have a visa and have been granted an exemption before departure; details can be found at <a href="https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form">https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form</a> .
-2. Passengers could be subject to presenting a "Travel Declaration" form upon arrival or when transiting through Australia. The form can be obtained at <a href="https://covid19.homeaffairs.gov.au/australia-travel-declaration">https://covid19.homeaffairs.gov.au/australia-travel-declaration</a> or upon arrival. 
-3. Passengers could be subject to quarantine for 14 days at the first point of entry. Details can be found at <a href="https://covid19.homeaffairs.gov.au/new-zealand-safe-travel-zone">https://covid19.homeaffairs.gov.au/new-zealand-safe-travel-zone</a> .
-4. Airline crew are subject to self-isolation until their next flight.
-5. Passengers transiting through Australia for 8 to 72 hours are subject to quarantine until their next flight.
-6. Passengers entering or transiting through Australia must have a medical certificate with a negative Coronavirus (COVID-19) PCR test result. The test must have been taken at most 72 hours before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/y398dxv4">https://tinyurl.com/y398dxv4</a> .
-- This does not apply to:
-- passengers younger than 5 years;
-- passengers arriving from Kiribati, New Zealand, Niue, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;
-- passengers with a medical certificate with a positive Coronavirus (COVID-19) PCR test result, and a medical discharge issued at least 4 weeks before departure which specifies that:
-- at least 14 days have passed since they were infected with Coronavirus (COVID-19); and
-- 72 hours have passed since recovery of fever and respiratory symptoms; and 
-- passengers have recovered from Coronavirus (COVID-19) and are not contagious.
+Published 27.05.2020
+1.&#32;Passengers&#32;are&#32;not&#32;allowed&#32;to&#32;enter&#32;Australia.&#32;
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;nationals&#32;of&#32;Australia.&#32;
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;the&#32;immediate&#32;family&#32;members&#32;of&#32;nationals&#32;of&#32;Australia.&#32;
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;permanent&#32;residents&#32;of&#32;Australia&#32;and&#32;their&#32;immediate&#32;family&#32;members.&#32;
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;nationals&#32;of&#32;New&#32;Zealand&#32;residing&#32;in&#32;Australia.&#32;
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;diplomats&#32;accredited&#32;to&#32;Australia&#32;and&#32;currently&#32;resident&#32;in&#32;Australia,&#32;and&#32;their&#32;immediate&#32;family&#32;members.
+2.&#32;Passengers&#32;and&#32;airline&#32;crew&#32;are&#32;required&#32;to&#32;self-isolate&#32;for&#32;a&#32;period&#32;of&#32;14&#32;days&#32;at&#32;their&#32;first&#32;arrival&#32;location&#32;in&#32;Australia.&#32;If&#32;their&#32;duration&#32;of&#32;stay&#32;is&#32;less&#32;than&#32;14&#32;days,&#32;they&#32;must&#32;self-isolate&#32;for&#32;the&#32;entire&#32;duration&#32;of&#32;stay.
+-&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;airline&#32;crew&#32;with&#32;the&#32;appropriate&#32;personal&#32;protective&#32;equipment.
+3.&#32;Airline&#32;crew&#32;who&#32;are&#32;nationals&#32;or&#32;residents&#32;of&#32;Australia&#32;must&#32;self-isolate&#32;at&#32;their&#32;place&#32;of&#32;residence&#32;(or&#32;hotel)&#32;between&#32;flights,&#32;or&#32;for&#32;14&#32;days,&#32;whichever&#32;is&#32;shorter.
+Airline&#32;crew&#32;who&#32;are&#32;not&#32;nationals&#32;or&#32;residents&#32;of&#32;Australia&#32;must&#32;self-isolate&#32;in&#32;their&#32;hotel&#32;on&#32;arrival&#32;until&#32;their&#32;next&#32;flight.
+4.&#32;When&#32;passengers&#32;transit&#32;through&#32;Australia&#32;for&#32;8&#32;to&#32;72&#32;hours,&#32;they&#32;must&#32;go&#32;to&#32;mandatory&#32;quarantine&#32;at&#32;the&#32;state&#32;designated&#32;facility&#32;until&#32;the&#32;time&#32;of&#32;the&#32;departing&#32;flight.
+5.&#32;For&#32;repatriation&#32;charter&#32;flights,&#32;airlines&#32;are&#32;advised&#32;to&#32;contact&#32;the&#32;Australian&#32;Border&#32;Force&#32;(ABF)&#32;as&#32;early&#32;as&#32;possible&#32;in&#32;the&#32;planning&#32;process.&#32;Airlines&#32;should&#32;not&#32;confirm&#32;or&#32;schedule&#32;flights&#32;before&#32;discussing&#32;arrangements&#32;with&#32;the&#32;ABF&#32;repatriation&#32;team.
 
