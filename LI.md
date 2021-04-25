@@ -1,11 +1,11 @@
 Published 03.06.2020
-1.&#32;Passengers&#32;are&#32;not&#32;allowed&#32;to&#32;enter.
--&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;nationals&#32;or&#32;residents&#32;of&#32;Switzerland&#32;or&#32;Liechtenstein.
--&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passenger&#32;with&#32;a&#32;cross-border&#32;commuter&#32;permit&#32;who&#32;are&#32;entering&#32;Switzerland&#32;for&#32;work,&#32;with&#32;a&#32;C-visa&#32;issued&#32;by&#32;Switzerland&#32;for&#32;the&#32;purpose&#32;of&#32;"business&#32;meetings"&#32;as&#32;specialists&#32;in&#32;the&#32;field&#32;of&#32;health&#32;or&#32;"official&#32;visit"&#32;of&#32;great&#32;importance,&#32;with&#32;a&#32;D-visa&#32;issued&#32;by&#32;Switzerland&#32;or&#32;who&#32;have&#32;an&#32;assurance&#32;of&#32;a&#32;residence&#32;permit.
--&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;traveling&#32;directly&#32;through&#32;Switzerland,&#32;provided&#32;that&#32;there&#32;are&#32;no&#32;reasons&#32;to&#32;believe&#32;that&#32;the&#32;country&#32;towards&#32;which&#32;they&#32;intend&#32;to&#32;leave&#32;Switzerland&#32;will&#32;refuse&#32;entry.&#32;
--&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;who&#32;have&#32;to&#32;travel&#32;to&#32;their&#32;place&#32;of&#32;work&#32;abroad,&#32;provided&#32;they&#32;can&#32;present&#32;a&#32;valid&#32;employment&#32;contract.&#32;
--&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;who&#32;are&#32;already&#32;legally&#32;residing&#32;within&#32;the&#32;EU/EFTA&#32;area&#32;and&#32;that&#32;are&#32;travelling&#32;for&#32;tourist&#32;purposes,&#32;provided&#32;that&#32;they&#32;can&#32;credibly&#32;demonstrate&#32;that&#32;they&#32;actually&#32;want&#32;to/can&#32;enter&#32;the&#32;destination&#32;country,&#32;e.g.&#32;by&#32;presenting&#32;a&#32;hotel&#32;booking,&#32;holiday&#32;apartment,&#32;etc.&#32;
--&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;who&#32;are&#32;entitled&#32;to&#32;freedom&#32;of&#32;movement&#32;(citizens&#32;of&#32;EU/EFTA-states)&#32;and&#32;have&#32;a&#32;professional&#32;reason&#32;for&#32;entering&#32;Switzerland&#32;and&#32;have&#32;a&#32;confirmation&#32;of&#32;registration.
--&#32;This&#32;does&#32;not&#32;apply&#32;to&#32;passengers&#32;who&#32;are&#32;of&#32;great&#32;importance&#32;as&#32;specialists&#32;in&#32;the&#32;health&#32;sector.
-2.&#32;Until&#32;and&#32;including&#32;07.06.2020,&#32;passengers&#32;can&#32;only&#32;land&#32;at&#32;Basel&#32;(BSL),&#32;Geneva&#32;(GVA)&#32;or&#32;Zurich&#32;(ZRH).
+1. Passengers are not allowed to enter.
+- This does not apply to nationals or residents of Switzerland or Liechtenstein.
+- This does not apply to passenger with a cross-border commuter permit who are entering Switzerland for work, with a C-visa issued by Switzerland for the purpose of "business meetings" as specialists in the field of health or "official visit" of great importance, with a D-visa issued by Switzerland or who have an assurance of a residence permit.
+- This does not apply to passengers traveling directly through Switzerland, provided that there are no reasons to believe that the country towards which they intend to leave Switzerland will refuse entry. 
+- This does not apply to passengers who have to travel to their place of work abroad, provided they can present a valid employment contract. 
+- This does not apply to passengers who are already legally residing within the EU/EFTA area and that are travelling for tourist purposes, provided that they can credibly demonstrate that they actually want to/can enter the destination country, e.g. by presenting a hotel booking, holiday apartment, etc. 
+- This does not apply to passengers who are entitled to freedom of movement (citizens of EU/EFTA-states) and have a professional reason for entering Switzerland and have a confirmation of registration.
+- This does not apply to passengers who are of great importance as specialists in the health sector.
+2. Until and including 07.06.2020, passengers can only land at Basel (BSL), Geneva (GVA) or Zurich (ZRH).
 
