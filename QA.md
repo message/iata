@@ -1,4 +1,4 @@
-Published 24.04.2021
+Published 25.04.2021
 1. Passengers are not allowed to enter Qatar. 
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates;
@@ -26,6 +26,6 @@ Published 24.04.2021
 - US or NATO military personnel with Military ID card.
 5. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates are not allowed to enter with a national ID card.
 6. Effective 25 April 2021, passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be issued by a testing center approved by the local government.
-7. Effective 13:00 local time 25 April 2021 until 01:59 local time 27 April 2021, passengers without a negative COVID-19 PCR test taken at most 72 hours before arrival are subject to a test upon arrival at their own expense.
+7. Effective 25 April 2021 until 01:59 local time 27 April 2021, passengers without a negative COVID-19 PCR test taken at most 72 hours before arrival are subject to a test upon arrival at their own expense.
 - This does not apply to passengers with an Exception Entry Permit stated as Mukaines.
 
