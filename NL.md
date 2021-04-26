@@ -1,4 +1,4 @@
-Published 22.04.2021
+Published 26.04.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of the Netherlands;
@@ -29,7 +29,7 @@ Published 22.04.2021
 - passengers with a visa issued on or after 19 March 2020 by the country of final destination;
 - merchant seamen;
 - military personnel.
-3. Until 1 May 2021, flights from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep. Ecuador, French Guiana, Guyana, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay and Venezuela to the Netherlands are suspended.
+3. Until 1 May 2021, flights from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep. Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay and Venezuela to the Netherlands are suspended.
 4. Passengers entering the Netherlands must have:
 - a negative COVID-19 test taken at most 24 hours before boarding the flight of the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before boarding the flight of the first embarkation point, and 
