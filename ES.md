@@ -13,7 +13,7 @@ This does not apply to:
 - students with proof of being enrolled in a course in Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland. They must:
 - have a medical insurance; and
 -be traveling to the country where they study, at most 15 days before the start of the course.
-2. Until 27 April 2021, flights from Brazil and South Africa to Spain are suspended. 
+2. Flights from Brazil and South Africa to Spain are suspended. 
 - This does not apply to:
 - nationals and residents of Andorra and Spain;
 - passengers in transit for less than 24 hours.

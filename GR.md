@@ -1,5 +1,5 @@
-Published 22.04.2021
-1. Until 26 April 2021, passengers are not allowed to enter.
+Published 26.04.2021
+1. Until 3 May 2021, passengers are not allowed to enter.
 -This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
 - British nationals and residents of the United Kingdom;
