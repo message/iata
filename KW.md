@@ -1,5 +1,5 @@
-Published 06.04.2021
-1. Flights from the United Kingdom are suspended.
+Published 26.04.2021
+1. Flights from India and United Kingdom are suspended.
 2. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Kuwait;
