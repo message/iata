@@ -1,4 +1,4 @@
-Published 19.04.2021
+Published 26.04.2021
 1. Passengers are not allowed to enter. 
 - This does not apply to:
 - nationals of Czechia; 
@@ -23,8 +23,8 @@ Published 19.04.2021
 - passengers with a residence permit issued by Czechia and a COVID-19 recovery certificate issued at least 14 days and at most 90 days before arrival. The certificate must be issued in Switzerland or an EEA Member State, in Czech or English;
 - passengers with a “D" visa issued by Czechia and a COVID-19 recovery certificate issued at least 14 days and at most 90 days before arrival. The certificate must be issued in Switzerland or an EEA Member State, in Czech or English; 
 - passengers with a COVID-19 recovery certificate issued by a consulate or embassy of Czechia;
-- passengers arriving from Australia, Iceland, Korea (Rep.), New Zealand, Singapore, Thailand or Vatican City (Holy See). 
-3. Passengers arriving from Austria, Belgium, Denmark, Finland, Germany, Greece, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Norway, Portugal, Romania, Slovakia, Spain or Switzerland must have:
+- passengers arriving from Australia, Korea (Rep.), New Zealand, Singapore, Thailand or Vatican City (Holy See). 
+3. Passengers arriving from Austria, Belgium, Bulgaria, Denmark, Finland, Germany, Greece, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Luxembourg, Malta, Monaco, Norway, Portugal, Romania, Slovakia, Spain or Switzerland must have:
 - a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point; or 
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
@@ -35,7 +35,7 @@ Published 19.04.2021
 - passengers with a residence permit issued by Czechia and a COVID-19 recovery certificate issued at least 14 days and at most 90 days before arrival. The certificate must be issued in Switzerland or an EEA Member State, in Czech or English;
 - passengers with a "D" visa issued by Czechia and a COVID-19 recovery certificate issued at least 14 days and at most 90 days before arrival. The certificate must be issued in Switzerland or an EEA Member State, in Czech or English; 
 - passengers with a COVID-19 recovery certificate issued by a consulate or embassy of Czechia.
-4. Passengers arriving from a country other than Australia, Austria, Belgium, Denmark, Finland, Germany, Greece, Iceland, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, New Zealand, Norway, Portugal, Romania, Singapore, Slovakia, Spain, Switzerland, Thailand or Vatican City (Holy See) must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
+4. Passengers arriving from a country other than Australia, Austria, Belgium, Bulgaria, Denmark, Finland, Germany, Greece, Iceland, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Liechtenstein, Luxembourg, Malta, Monaco, New Zealand, Norway, Portugal, Romania, Singapore, Slovakia, Spain, Switzerland, Thailand or Vatican City (Holy See) must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 5 years;
 - nationals of Czechia with a service passport;
