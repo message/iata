@@ -1,6 +1,5 @@
-Published 19.04.2021
-1. Passengers arriving from or who have transited through Brazil are not allowed to enter.
-2. Passengers are not allowed to enter.
+Published 26.04.2021
+1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of France and their spouses and children;
 - nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and an EEA Member State and their spouses and children;
@@ -11,9 +10,19 @@ Published 19.04.2021
 - students;
 - passengers with a Laissez-Passer;
 - deadheading crew. 
-3. Passengers entering or transiting through France must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a>. 
+2. Passengers entering or transiting through France must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a>. 
 - This does not apply to passengers arriving from Andorra, Australia, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New-Zealand, Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom or Vatican City (Holy See). They must have not been outside these countries in the past 14 days;
-4. Passengers must have a negative COVID-19 molecular test result. The test must have been taken at most 72 hours before departure from the first embarkation point. 
+3. Passengers must have a negative COVID-19 RT-PCR test result taken at most 72 hours before departure from the first embarkation point. 
+- This does not apply to:
+- passengers younger than 11 years;
+- deadheading crew;
+- merchant seamen;
+- passengers arriving from Argentina, Brazil, Chile, French Guiana, India and South Africa;
+- French military personnel returning from a mission abroad.
+4. Passengers arriving from Argentina, Brazil, Chile, French Guiana, India and South Africa must have:
+- a negative COVID-19 RT-PCR test taken at most 36 hours before departure from the first embarkation point; or
+- a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point, and
+- a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. 
 - This does not apply to:
 - passengers younger than 11 years;
 - deadheading crew;
