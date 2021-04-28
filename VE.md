@@ -1,7 +1,7 @@
-Published 23.04.2021
+Published 28.04.2021
 1. Until 18 May 2021, flights to Venezuela are suspended.
 - This does not apply to:
-- flights from Bolivia, Dominican Rep., Mexico, Panama or Turkey;
+- flights from Bolivia, Dominican Rep., Mexico, Panama, Russian Fed. or Turkey;
 - humanitarian, medevac and repatriation flights.
 2. Passengers entering or transiting through Venezuela must have a negative COVID-19 PCR test result issued at most 72 hours before arrival.
 - This does not apply to passengers younger than 1 year.
