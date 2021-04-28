@@ -17,9 +17,9 @@ Published 28.04.2021
 - passengers younger than 11 years;
 - deadheading crew;
 - merchant seamen;
-- passengers arriving from Argentina, Brazil, Chile, French Guiana, India and South Africa;
+- passengers arriving from Argentina, Brazil, Chile, French Guiana, India or South Africa;
 - French military personnel returning from a mission abroad.
-4. Passengers arriving from Argentina, Brazil, Chile, French Guiana, India and South Africa must have:
+4. Passengers arriving from Argentina, Brazil, Chile, French Guiana, India or South Africa must have:
 - a negative COVID-19 RT-PCR test taken at most 36 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point, and
 - a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. 
