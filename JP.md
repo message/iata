@@ -10,7 +10,8 @@ Published 28.04.2021
 - passengers with a single or multiple-entry visa issued on or before 2 April 2020 by Japanese Embassies or Consulates General in Australia, New Zealand and Taipei Kaohsiung offices of Japan-Taiwan Exchange Association;
 - US military personnel;
 - civilian personnel of the US armed forces in Japan and their dependents;
-- merchant seamen.
+- merchant seamen;
+- passengers with an Olympic Identity and Accreditation Card (OIAC) or Paralympic Identity and Accreditation Card (PIAC). They must also have a Written Pledge.
 2. Passengers must complete a "Quarantine Questionnaire" at <a href="https://arqs-qa.followup.mhlw.go.jp/">https://arqs-qa.followup.mhlw.go.jp/</a> . This will generate a QR code which must be presented upon arrival.
 3. Passengers must have a negative COVID-19 test result. The test result must be in English and the test must be taken at most 72 hours before departure of the last direct flight to Japan. Tests accepted are LAMP, NEAR, Next Generation Sequence, quantitative antigen (CLEIA), RT-PCR, Smart Amp, TMA or TRC. The sample collection method must be 'nasopharyngeal swab' or 'saliva'. More details can be found at <a href="https://www.mofa.go.jp/ca/fna/page25e_000334.html">https://www.mofa.go.jp/ca/fna/page25e_000334.html</a> .
 - This does not apply to:
