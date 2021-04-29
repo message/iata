@@ -37,7 +37,7 @@ Published 29.04.2021
 - self-isolation for 10 days; and
 - another COVID-19 molecular or antigen test at the end of self-isolation.
 - This does not apply to passengers younger than 2 years.
-9. Until 12 May 2021, passengers who have been in or transited through Bangladesh or India in the past 14 days are subject to:
+9. Until 12 May 2021, passengers who have been in or transited through Bangladesh or India in the past 14 days must have a negative COVID-19 molecular or antigen test taken at most 72 hours before arrival. The test must be based on a swab. They are also subject to:
 - a COVID-19 molecular or antigen test upon arrival; and
 - quarantine in a hotel for 10 days; and
 - another COVID-19 molecular or antigen test at the end of quarantine.
