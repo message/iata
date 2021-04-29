@@ -1,9 +1,9 @@
 Published 29.04.2021 
-1. Until 24 May 2021, passengers are not allowed to enter and transit.
+1. passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals of Brunei Darussalam;
-- residents of Brunei Darussalam arriving from a country other than India;
-- passengers with an Entry Travel Pass letter issued by The Government of Brunei Darussalam if arriving from a country other than India. They must have: 
+- until 24 May 2021, residents of Brunei Darussalam arriving from a country other than India;
+- until 24 May 2021, passengers with an Entry Travel Pass letter issued by The Government of Brunei Darussalam if arriving from a country other than India. They must have: 
 - stayed in the country of departure for the last 14 days before departure;
 - a printed and digital medical certificate with a negative COVID-19 RT-PCR test result issued at most 72 hours before departure;
 - a confirmed hotel reservation;

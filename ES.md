@@ -17,15 +17,15 @@ This does not apply to:
 - This does not apply to:
 - nationals and residents of Andorra and Spain;
 - passengers in transit for less than 24 hours.
-3. Passengers arriving from Botswana, Brazil, Colombia, Comoros, Ghana, Kenya, Mozambique, Peru, South Africa, Tanzania, Zambia or Zimbabwe are subject to quarantine.
-4. Passengers must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: RT-PCR, RT-LAMP and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation.
+3. Passengers must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: RT-PCR, RT-LAMP and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation.
 - This does not apply to:
 - passengers younger than 6 years;
 - passengers arriving from Australia, China (People's Rep.), Hong Kong (SAR China), Korea (Rep.), Macao (SAR China), New Zealand, Rwanda, Singapore or Thailand;
 - passengers arriving from Greenland in Denmark and arriving from Nordland or Troms og Finnmark in Norway;
 - passengers with a positive COVID-19 RT-PCR test result and medical discharge specifying that the passenger has recovered, not contagious and ok to travel;
 - deadheading crew;
-5. Passengers must complete an "FCS Health Control Form" at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> . A QR code generated from the completed form must be presented upon arrival.
-- This does not apply to deadheading crew. 
+4. Passengers must complete an "FCS Health Control Form" at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> . A QR code generated from the completed form must be presented upon arrival.
+- This does not apply to deadheading crew.
+5. Passengers could be subject to quarantine for 10 days; details can be found at <a href="https://tinyurl.com/ucevbmtc">https://tinyurl.com/ucevbmtc</a> .
 6. Passengers are subject to medical screening upon arrival. 
 
