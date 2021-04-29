@@ -1,5 +1,5 @@
-Published 15.04.2021
-1. Until 2 May 2021, flights from Brazil and South Africa are suspended.
+Published 29.04.2021
+1. Until 18 May 2021, flights from Brazil, India and South Africa are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Until 31 May 2021, passengers are not allowed to enter.
 - This does not apply to:

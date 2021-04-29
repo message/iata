@@ -1,4 +1,4 @@
-Published 09.04.2021
+Published 29.04.2021
 1. Passengers must have a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival.
 -This does not apply to:
 - nationals and residents of Serbia;
@@ -17,5 +17,5 @@ Published 09.04.2021
 - passengers younger than 12 years;
 - passengers in transit for less than 12 hours;
 - passengers with a COVID-19 vaccination certificate issued by the Serbian authorities.
-3. Passengers could be subject to quarantine for 10 days; details can be found at <a href="http://www.mfa.gov.rs/en/themes/covid173202019">http://www.mfa.gov.rs/en/themes/covid173202019</a> 
+3. Passengers could be subject to quarantine for 10 days; details can be found at <a href="https://tinyurl.com/2urx5xwp">https://tinyurl.com/2urx5xwp</a> .
 
