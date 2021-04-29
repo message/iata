@@ -1,5 +1,5 @@
-Published 28.04.2021 
-1. Passengers are not allowed to enter and transit.
+Published 29.04.2021 
+1. Until 24 May 2021, passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals of Brunei Darussalam;
 - residents of Brunei Darussalam arriving from a country other than India;
