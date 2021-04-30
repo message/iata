@@ -6,5 +6,5 @@ Published 30.04.2021
 - proof of chromatographic determination of antibodies (IgM, IgG) in the blood; or 
 - a COVID-19 vaccination certificate.
 3. A completed "Public Health Passenger Locator Form" must be presented upon arrival. The form is available at <a href="https://tinyurl.com/y6en4u2l">https://tinyurl.com/y6en4u2l</a> 
-4. Passengers are subject to a COVID-19 RT-PCR test upon arrival and quarantine for 7 or 21 days.
+4. Passengers are subject to a COVID-19 RT-PCR test upon arrival and quarantine for 21 days.
 

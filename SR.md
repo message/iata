@@ -1,5 +1,5 @@
-Published 28.04.2021
-1. From 20:00 local time 30 April 2021 until 10 May 2021, flights to Suriname are suspended.
+Published 30.04.2021
+1. Until 2 May 2021, flights to Suriname are suspended.
 - This does not apply to medical and repatriation flights.
 2. Passengers are not allowed to enter.
 - This does not apply to:
