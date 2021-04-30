@@ -1,4 +1,4 @@
-Published 28.04.2021
+Published 30.04.2021
 1. Passengers are not allowed to enter Qatar. 
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates;
@@ -9,9 +9,10 @@ Published 28.04.2021
 - spouses and children of nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates. They must travel together;
 - domestic workers of nationals of Qatar. They must be accompanied by the sponsor or one of the first degree sponsor's relatives and have a residence permit issued by Qatar;
 - domestic workers of nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates. They must be accompanied by the sponsor or one of the first degree sponsor's relatives. Their residence permit must be valid for at least 6 months and their passport must be valid longer than their residence permit.
-2. Passengers must have a quarantine hotel reservation for 7 days made at <a href="https://www.qatarairwaysholidays.com/qa-en/welcome-home-7-night-booking/overview">https://www.qatarairwaysholidays.com/qa-en/welcome-home-7-night-booking/overview</a> .
+2. Passengers arriving from Bangladesh, India, Nepal, Pakistan, Philippines or Sri Lanka must have a quarantine hotel reservation for 10 days made at <a href="https://www.qatarairwaysholidays.com/qa-en/welcome-home-7-night-booking/overview">https://www.qatarairwaysholidays.com/qa-en/welcome-home-7-night-booking/overview</a> .
+3. Passengers must have a quarantine hotel reservation for 7 days made at <a href="https://www.qatarairwaysholidays.com/qa-en/welcome-home-7-night-booking/overview">https://www.qatarairwaysholidays.com/qa-en/welcome-home-7-night-booking/overview</a> .
 - This does not apply to:
-- passengers arriving from Australia, Brunei Darussalam, China (People's Rep.), Cuba, Hong Kong (SAR China), Iceland, Ireland (Rep.), Japan, Korea (Rep.), Macao (SAR China), Malaysia, Mauritius, Mexico, Myanmar, New Zealand, Oman, Singapore, Thailand or Viet Nam;
+- passengers arriving from Australia, Bangladesh, Brunei Darussalam, China (People's Rep.), Cuba, Hong Kong (SAR China), Iceland, India, Ireland (Rep.), Japan, Korea (Rep.), Macao (SAR China), Malaysia, Mauritius, Mexico, Myanmar, Nepal, New Zealand, Oman, Pakistan, Philippines, Singapore, Sri Lanka, Thailand or Viet Nam;
 - passengers with a COVID-19 vaccination certificate issued outside of Qatar. Vaccines accepted are AstraZeneca, Covishield, Johnson & Johnson, Moderna and Pfizer/BioNTech. They must have received: 
 - the single Johnson & Johnson vaccine dose at least 14 days before arrival, or
 - the second AstraZeneca, Covishield, Moderna or Pfizer/BioNTech vaccine dose at least 14 days before arrival. More details can be found at <a href="https://tinyurl.com/w52x7pvb">https://tinyurl.com/w52x7pvb</a> ;
@@ -22,14 +23,14 @@ Published 28.04.2021
 - passengers with a Diplomatic ID or an Admin card issued by the MOFA of Qatar;
 - US or NATO military personnel with Military ID card;
 - passengers with a positive COVID-19 test result issued at most 6 months before arrival.
-3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be issued by a testing center approved by the local government.
-- This does not apply to Umrah passengers arriving from Saudi Arabia.
-4. Passengers are subject to home quarantine or quarantine in a hotel for 7 days; details can be found at <a href="https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx">https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx</a> .
-5. Passengers could be subject to a COVID-19 PCR test upon arrival.
-6. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates are not allowed to enter with a national ID card.
-7. Passengers must install the Ehteraz app.
-8. Effective 29 April 2021, passengers entering or transiting through Qatar from Bangladesh, India, Nepal, Pakistan, Philippines or Sri Lanka must have a negative COVID-19 PCR test taken at most 48 hours before departure of the first embarkation point. The test result must be issued by a testing center approved by the local government.
-9. Effective 29 April 2021, passengers arriving from Bangladesh, India, Nepal, Pakistan, Philippines or Sri Lanka must have a quarantine hotel reservation for 10 days made at <a href="https://www.qatarairwaysholidays.com/qa-en/welcome-home-7-night-booking/overview">https://www.qatarairwaysholidays.com/qa-en/welcome-home-7-night-booking/overview</a> .
-
+4. Passengers entering or transiting through Qatar from Bangladesh, India, Nepal, Pakistan, Philippines or Sri Lanka must have a negative COVID-19 PCR test taken at most 48 hours before departure of the first embarkation point. The test result must be issued by a testing center approved by the local government.
+5. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be issued by a testing center approved by the local government.
+- This does not apply to:
+- Umrah passengers arriving from Saudi Arabia.
+- passengers arriving from Bangladesh, India, Nepal, Pakistan, Philippines or Sri Lanka.
+6. Passengers are subject to home quarantine or quarantine in a hotel for 7 days; details can be found at <a href="https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx">https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx</a> .
+7. Passengers could be subject to a COVID-19 PCR test upon arrival.
+8. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates are not allowed to enter with a national ID card.
+9. Passengers must install the Ehteraz app.
 
 </p>
