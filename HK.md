@@ -1,4 +1,4 @@
-Published 21.04.2021
+Published 30.04.2021
 1. Passengers are not allowed to enter.
 -This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -39,4 +39,5 @@ All documents must be in Chinese or English.
 - an approval letter from the Marine Department, and
 - a letter of certification to Department of Health from Hong Kong.
 14. Airline crew are subject to a COVID-19 test upon arrival.
+15. Effective 1 May 2021, passengers who in the past 21 days have been in or transited through Nepal for more than 2 hours are not allowed to enter.
 

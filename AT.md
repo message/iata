@@ -1,4 +1,4 @@
-Published 29.04.2021
+Published 30.04.2021
 1. Until 18 May 2021, flights from Brazil, India and South Africa are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Until 31 May 2021, passengers are not allowed to enter.
@@ -14,11 +14,16 @@ Published 29.04.2021
 - passengers visiting their life partner;
 - students;
 - more COVID-19 related information can be found at <a href="https://tinyurl.com/EntryReqAT201017">https://tinyurl.com/EntryReqAT201017</a> .
-3. A completed "Pre-Travel-Clearance" form must be presented upon arrival. The form can be found at <a href="https://tinyurl.com/ATPTCEN">https://tinyurl.com/ATPTCEN</a> .
-4. Passengers who arrive from or have been in a country other than Australia, Iceland, Korea (Rep.), New Zealand, Singapore or Vatican City (Holy See) in the past 10 days must:
+3. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.
+- This does not apply to:
+- nationals of Switzerland and an EEA Member State;
+- passengers with a residence permit issued by Switzerland or an EEA Member State;
+- passengers with a "D" visa issued by Switzerland or an EEA Member State.
+4. A completed "Pre-Travel-Clearance" form must be presented upon arrival. The form can be found at <a href="https://tinyurl.com/ATPTCEN">https://tinyurl.com/ATPTCEN</a> .
+5. Passengers who arrive from or have been in a country other than Australia, Iceland, Korea (Rep.), New Zealand, Singapore or Vatican City (Holy See) in the past 10 days must:
 - have a negative COVID-19 antigen test result issued at most 48 hours before arrival; or
 - have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
 - take a test within 24 hours after arrival.
 - This does not apply to passengers who are younger than 10 years.
-5. Passengers could be subject to self-quarantine for 10 days. Details can be found at <a href="https://tinyurl.com/EntryReqAT201017">https://tinyurl.com/EntryReqAT201017</a> .
+6. Passengers could be subject to self-quarantine for 10 days. Details can be found at <a href="https://tinyurl.com/EntryReqAT201017">https://tinyurl.com/EntryReqAT201017</a> .
 
