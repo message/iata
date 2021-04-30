@@ -1,5 +1,5 @@
 Published 08.04.2021
-1. Until 30 April 2021, passengers are not allowed to enter.
+1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Chile;
 - children of nationals and residents of Chile. They must have proof of their relationship;

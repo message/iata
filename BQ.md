@@ -1,5 +1,5 @@
 Published 16.04.2021
-1. Until 1 May 2021, flights from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep. Ecuador, French Guiana, Guyana, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay and Venezuela are suspended.
+1. Flights from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep. Ecuador, French Guiana, Guyana, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay and Venezuela are suspended.
 - This does not apply to medevac and repatriation flights. 
 2. Passengers must have:
 - a negative COVID-19 test taken at most 24 hours before departure from the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR or TMA tests; or

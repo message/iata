@@ -1,4 +1,4 @@
-Published 29.04.2021
+Published 30.04.2021
 1. Passengers arriving from a country other than Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, South Africa, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals of EEA Member States and Switzerland;
@@ -15,7 +15,7 @@ Published 29.04.2021
 - unmarried partners of residents of Germany. They must have a written invitation and a copy of the identity document of the resident in Germany. They must also have a declaration and be able to present proof of their relationship.
 2. Passengers arriving from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, South Africa, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to nationals and residents of Germany.
-3. Passengers arriving from the Moselle department of France are not allowed to enter.
+3. Until 1 May 2021, passengers arriving from the Moselle department of France are not allowed to enter.
 - This does not apply to nationals and residents of Germany.
 4. Passengers arriving from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, South Africa, Zambia or Zimbabwe are not allowed to transit through Germany to Austria, Belgium, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovenia, Spain, Sweden or Switzerland.
 - This does not apply to nationals and residents of Germany.

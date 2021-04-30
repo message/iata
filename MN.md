@@ -1,5 +1,5 @@
 Published 07.04.2021
-1. Passengers are not allowed to enter until 1 May 2021.
+1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and permanent residents of Mongolia;
 - passengers with a visa issued by Mongolia on or after 8 October 2020. 

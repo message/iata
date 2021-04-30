@@ -1,5 +1,5 @@
 Published 24.02.2021
-1. Passengers are not allowed to enter until 30 April 2021.
+1. Passengers are not allowed to enter.
 -This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See), their spouses and children;
 - nationals of Albania, Australia, Belarus, Bosnia and Herzegovina, Canada, Georgia, Israel, Japan, Korea (Rep.), Kosovo (Rep.), Kuwait, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Rwanda, Serbia, Thailand, Tunisia, Turkey, Ukraine, United Arab Emirates, and Uruguay;

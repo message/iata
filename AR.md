@@ -1,6 +1,6 @@
 Published 23.04.2021
-1. Until 30 April 2021, flights from Brazil, Chile, Mexico and United Kingdom are suspended.
-2. Until 30 April 2021, passengers are not allowed to enter.
+1. Flights from Brazil, Chile, Mexico and United Kingdom are suspended.
+2. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Argentina;
 - spouses, partners with registered partnership, parents, sisters, brothers or children of nationals of Argentina. They must present proof confirming the relationship (birth, marriage or cohabitation certificate, duly apostilled or legalized); and present a copy of the national ID card of the national of Argentina; and be nationals of Andorra, Armenia, Australia, Austria, Barbados, Belarus, Belgium, Bolivia, Brazil, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Fiji, Finland, France, Georgia, Germany, Greece, Grenada, Guatemala, Guyana, Honduras, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Jamaica, Japan, Kazakhstan, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Monaco, Mongolia, Montenegro, Netherlands, New Zealand, Nicaragua, North Macedonia (Rep.), Norway, Panama, Paraguay, Peru, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Sweden, Switzerland, Thailand, Trinidad and Tobago, Turkey, USA, Ukraine, United Arab Emirates, Uruguay, Vatican City (Holy See) or Venezuela. More details can be found at: <a href="https://tinyurl.com/y5uo6mt4">https://tinyurl.com/y5uo6mt4</a> .
