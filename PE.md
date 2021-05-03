@@ -1,5 +1,5 @@
-Published 19.04.2021
-1. Flights from Brazil, South Africa and United Kingdom are suspended.
+Published 03.05.2021
+1. Until 15 May 2021, flights from Brazil, South Africa and United Kingdom are suspended.
 2. Until 9 May 2021, passengers are not allowed to enter if in the past 14 days they have been to or transited through Brazil, South Africa or United Kingdom.
 - This does not apply to nationals and residents of Peru.
 3. Passengers must have a negative COVID-19 antigen or RT-PCR test result issued at most 72 hours before departure from the first embarkation point; or
