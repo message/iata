@@ -17,8 +17,7 @@ Published 03.05.2021
 - This does not apply to:
 - nationals of United Arab Emirates;
 - passengers with a diplomatic or an official passport traveling on duty;
-- passengers with a golden visa issued by United Arab Emirates;
-- passengers transiting through United Arab Emirates to return to India as final destination.
+- passengers with a golden visa issued by United Arab Emirates.
 3. Passengers who in the past 14 days have been in or transited through Nigeria are not allowed to enter and transit.
 - This does not apply to:
 - nationals of United Arab Emirates;
