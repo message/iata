@@ -1,4 +1,4 @@
-Published 30.04.2021
+Published 03.05.2021
 1. Until 31 May 2021, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -11,7 +11,7 @@ Published 30.04.2021
 - residents of Hong Kong (SAR China) with an APEC Business Travel Card arriving from Hong Kong (SAR China);
 - students;
 - passengers transiting through Bangkok (BKK).
-2. Effective 1 May 2021, passengers arriving from India are not allowed to enter.
+2. Passengers arriving from India are not allowed to enter.
 - This does not apply to nationals of Thailand. 
 3. The following visa exemptions apply:
 a) Nationals of Andorra, Australia, Austria, Bahrain, Belgium, Brazil, Brunei, Canada, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Indonesia, Ireland, Israel, Italy, Japan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Maldives, Mauritius, Monaco, Netherlands, New Zealand, Norway, Oman, Peru, Philippines, Poland, Portugal, Qatar, San Marino, Singapore, Slovakia, Slovenia, Spain, South Africa, Sweden, Switzerland, Turkey, Ukraine, United Arab Emirates, USA, Vietnam with a normal passport traveling as tourists for a maximum stay of 45 days.
@@ -28,17 +28,18 @@ k) Nationals of Albania, Austria, Belgium, Costa Rica, Croatia, Czechia, Hungary
 l) Nationals of China (People's Rep.), Indonesia, Kazakhstan, Mozambique and Oman with a service passport for a maximum stay of 30 days.
 4. Passengers entering or transiting through Thailand must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English.
 - This does not apply to nationals of Thailand.
-5. Passengers entering or transiting through Thailand must have insurance to cover medical expenses in Thailand with a coverage cost of at least USD 100,000.-.
-- This does not apply to nationals of Thailand.
-6. Passengers entering Thailand must:
+5. Passengers entering Thailand must:
 - have a Certificate of Entry (COE) issued by Royal Thai Embassy, and
 - download the ThailandPlus App and register by using COE number and reference code.
-7. Suspension of visa on arrival facilities.
-8. Suspension of visa exemption for nationals of Cambodia and Myanmar with a normal passport.
-9. Passengers are subject to medical screening.
-10. Passengers are subject to quarantine for up to 14 days at their own expense. They must have a confirmed hotel reservation.
+6. Passengers entering or transiting through Thailand must have insurance to cover medical expenses in Thailand with a coverage cost of at least USD 100,000.-.
 - This does not apply to nationals of Thailand.
-11. Nationals of Thailand are subject to quarantine for up to 14 days.
-12. Airline crew are subject to self-isolation until their next flight.
-13. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-.
+7. Passengers transiting through Thailand must have a Fit to Fly health certificate.
+8. Suspension of visa on arrival facilities.
+9. Suspension of visa exemption for nationals of Cambodia and Myanmar with a normal passport.
+10. Passengers are subject to medical screening.
+11. Passengers are subject to quarantine for up to 14 days at their own expense. They must have a confirmed hotel reservation.
+- This does not apply to nationals of Thailand.
+12. Nationals of Thailand are subject to quarantine for up to 14 days.
+13. Airline crew are subject to self-isolation until their next flight.
+14. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-.
 
