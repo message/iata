@@ -1,4 +1,4 @@
-Published 30.04.2021
+Published 03.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -39,11 +39,11 @@ Published 30.04.2021
 10. Passengers entering Dubai (DXB) or Al Maktoum (DWC) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country.
 - This does not apply to:
 - nationals of United Arab Emirates;
-- passengers arriving from Bangladesh or Nigeria;
+- passengers arriving from Bangladesh, Nigeria, Pakistan or Sudan;
 - passengers younger than 12 years;
 - passengers with disabilities;
 - passengers who in the past 14 days have been in India.
-11. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Bangladesh must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by Bangladesh. The test result must have a QR code.
+11. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Bangladesh, Pakistan or Sudan must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by Bangladesh. The test result must have a QR code.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with disabilities.
@@ -93,7 +93,11 @@ Published 30.04.2021
 27. Flights from India, Nigeria and Yemen are suspended.
 28. Until 7 May 2021, flights from South Africa are suspended .
 29. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
-30. Effective 1 May 2021, passengers entering Dubai (DXB) or Al Maktoum (DWC) from Lebanon, Pakistan or Sudan must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by Bangladesh. The test result must have a QR code.
+30. Effective 9 May 2021, passengers entering Dubai (DXB) or Al Maktoum (DWC) from Egypt or Ethiopia must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by Bangladesh. The test result must have a QR code.
+- This does not apply to:
+- passengers younger than 12 years;
+- passengers with disabilities.
+31. Effective 10 May 2021, passengers entering Dubai (DXB) or Al Maktoum (DWC) from Lebanon must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by Bangladesh. The test result must have a QR code.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with disabilities.
