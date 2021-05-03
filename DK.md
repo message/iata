@@ -24,7 +24,8 @@ Published 03.05.2021
 - passengers traveling to Greenland;
 - passengers arriving from Norway (Nordland, Trondelag, Troms and Finnmark regions);
 - passengers arriving from Australia, Iceland, Korea (Rep.), New Zealand, Singapore or Thailand;
-- passengers with a positive COVID-19 antigen or PCR test result issued at least 14 days and at most 84 days before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish.
+- passengers with a positive COVID-19 antigen or PCR test result issued at least 14 days and at most 84 days before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish;
+- passengers with a COVID-19 vaccination certificate if they received the vaccine at least 2 weeks and at most 180 days before departure. The certificate must be issued in Switzerland or an EEA Member State. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Reunion, South Africa, Zambia or Zimbabwe. Details can be found at <a href="http://tinyurl.com/pbd4c5nj">http://tinyurl.com/pbd4c5nj</a> .
 4. Passengers could be subject to self-isolation for 10 days.
 5. Passengers traveling to Greenland:
 - must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must be in English or German. Details can be found at <a href="https://visitgreenland.com/corona-faq/">https://visitgreenland.com/corona-faq/</a> ; and
