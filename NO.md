@@ -12,7 +12,7 @@ Published 04.05.2021
 - passengers younger than 12 years;
 - passengers arriving from Denmark (only Greenland and Faroe Isl.), certain hospital districts in Finland or Iceland. More details can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> ;
 - passengers with a diplomatic or service passport;
-- passengers with a COVID-19 recovery certificate issued at least 14 days and at most 6 months before arrival.
+- passengers with a COVID-19 recovery certificate issued at least 14 days and at most 6 months before arrival. They must not be traveling to Longyearbyen (LYR);
 - merchant seamen;
 - nationals and residents of Norway with no possibility of getting tested in the departure country;
 - more exemptions can be found at <a href="https://www.udi.no/en/about-the-corona-situation/entry-to-norway-for-all-citizens/#link-18962">https://www.udi.no/en/about-the-corona-situation/entry-to-norway-for-all-citizens/#link-18962</a> .
