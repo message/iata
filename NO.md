@@ -1,4 +1,4 @@
-Published 21.04.2021
+Published 04.05.2021
 1. Until 12 May 2021, passengers are not allowed to enter.
 -This does not apply to:
 - nationals and residents of Norway;
@@ -14,10 +14,10 @@ Published 21.04.2021
 - passengers with a diplomatic or service passport;
 - passengers with a COVID-19 recovery certificate issued at least 14 days and at most 6 months before arrival.
 - merchant seamen;
+- nationals and residents of Norway with no possibility of getting tested in the departure country;
 - more exemptions can be found at <a href="https://www.udi.no/en/about-the-corona-situation/entry-to-norway-for-all-citizens/#link-18962">https://www.udi.no/en/about-the-corona-situation/entry-to-norway-for-all-citizens/#link-18962</a> .
 4. Passengers are subject to: 
 - a COVID-19 antigen test and a PCR test upon arrival; or
 - a COVID-19 antigen test or PCR test upon arrival.
 5. Passengers could be subject to quarantine in a hotel for 10 days. More details can be found at <a href="https://tinyurl.com/yoqc3omu">https://tinyurl.com/yoqc3omu</a> .
 
-</p>

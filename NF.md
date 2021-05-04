@@ -1,6 +1,6 @@
 Published 03.05.2021
 1. Until 15 May 2021, flights from India are suspended.
-2. Until 15 May 2021, passengers arriving from or who in the past 14 days have been in India are not allowed to enter.
+2. Until 15 May 2021, passengers who in the past 14 days have been in India are not allowed to enter.
 3. Passengers arriving from a country other than India are not allowed to enter.
 - This does not apply to:
 - nationals of Australia and their immediate family members;

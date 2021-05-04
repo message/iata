@@ -14,7 +14,7 @@ Published 04.05.2021
 - a negative COVID-19 molecular test. The test must be based on a nasal swab and must have been taken at most 72 hours before departure. Tests accepted are: HDA, NAAT, NEAR, RT-LAMP, RT-PCR and TMA; or
 - a positive COVID-19 molecular test result issued at least 2 weeks before arrival. The passenger must have tested positive at least 2 weeks and at most 12 weeks before departure. Tests accepted are: HDA, NAAT, NEAR, RT-LAMP, RT-PCR and TMA.
 Tests must be presented upon arrival or uploaded at <a href="http://www.edcardaruba.aw">www.edcardaruba.aw</a> at most 12 hours before departure.
-8. Passengers must have health insurance purchased before departure and available at <a href="http://www.edcardaruba.aw">www.edcardaruba.aw</a>
+8. Passengers must have health insurance purchased before departure and available at <a href="http://www.edcardaruba.aw">www.edcardaruba.aw</a> 
 This does not apply to:
 - residents of Aruba, Bonaire and Curacao;
 - passengers departing on the same calendar day;

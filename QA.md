@@ -1,4 +1,4 @@
-Published 30.04.2021
+Published 04.05.2021
 1. Passengers are not allowed to enter Qatar. 
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates;
@@ -22,7 +22,7 @@ Published 30.04.2021
 - pregnant women and breastfeeding mothers with an infant younger than 2 years, residing in Qatar. They must be accompanied by their husband or a relative who must have a COVID-19 vaccination certificate and must have received the second vaccine dose at least 14 days before arrival. They must reside in the same place as their husband or relative;
 - passengers with a Diplomatic ID or an Admin card issued by the MOFA of Qatar;
 - US or NATO military personnel with Military ID card;
-- passengers with a positive COVID-19 test result issued at most 6 months before arrival.
+- nationals and residents of Qatar with a positive COVID-19 test result issued at most 6 months before arrival.
 4. Passengers entering or transiting through Qatar from Bangladesh, India, Nepal, Pakistan, Philippines or Sri Lanka must have a negative COVID-19 PCR test taken at most 48 hours before departure of the first embarkation point. The test result must be issued by a testing center approved by the local government.
 5. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be issued by a testing center approved by the local government.
 - This does not apply to:
