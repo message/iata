@@ -89,8 +89,8 @@ Published 04.05.2021
 25. Nationals of Nigeria must have a return ticket, and a hotel booking or proof of accommodation address for the period of intended stay.
 - This does not apply to passengers with a resident visa.
 26. Passengers arriving at Sharjah (SHJ) must download the ALHOSN App.
-27. Flights from India, Nigeria and Yemen are suspended.
-28. Until 7 May 2021, flights from South Africa are suspended .
+27. Flights from India and Yemen are suspended.
+28. Until 21 May 2021, flights from Nigeria and South Africa are suspended .
 29. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
 30. Effective 6 May 2021, passengers entering Dubai (DXB) or Al Maktoum (DWC) from Nepal must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by Nepal. The test result must have a QR code.
 - This does not apply to:
