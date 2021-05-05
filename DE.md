@@ -1,4 +1,4 @@
-Published 03.05.2021
+Published 05.05.2021
 1. Passengers arriving from a country other than Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, South Africa, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals of EEA Member States and Switzerland;
@@ -21,8 +21,9 @@ Published 03.05.2021
 - This does not apply to:
 - nationals of Switzerland and an EEA Member State;
 - passengers with a residence permit issued by Switzerland or an EEA Member State;
-- passengers with a "D" visa issued by Switzerland or an EEA Member State.
-5. Passengers entering or transiting through Germany must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German. Until 30 April 2021, the test results for passengers arriving from Spain are accepted in Spanish.
+- passengers with a "D" visa issued by Switzerland or an EEA Member State;
+- passengers arriving from the United Kingdom.
+5. Passengers entering or transiting through Germany must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
 - This does not apply to passengers younger than 6 years.
 6. Airline crew entering Germany from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, South Africa, Zambia or Zimbabwe must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
 7. Airline crew entering Germany from Andorra, Argentina, Armenia, Aruba, Bahrain, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Cape Verde, Colombia, Croatia, Curacao, Cyprus, Ecuador, Egypt, Estonia, France, Hungary, Iran, Jordan, Kosovo (Rep.), Kuwait, Latvia, Lebanon, Lithuania, Malta, Mexico, Mongolia, Montenegro, Netherlands, North Macedonia (Rep.), Oman, Palestinian Territory, Paraguay, Poland, Qatar, Serbia, Seychelles, Slovakia, Slovenia, St. Maarten, Sudan, Sweden, Syria, Tanzania, Tunisia, Turkey, Ukraine or Uruguay must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
