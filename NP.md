@@ -1,5 +1,6 @@
-Published 04.05.2021
-1. Effective 7 May 2021 until 14 May 2021, flights from India are suspended.
+Published 05.05.2021
+1. Effective 7 May 2021 until 14 May 2021, flights to Nepal are suspended.
+- This does not apply to flights from India. 
 2. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Nepal;
