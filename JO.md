@@ -6,11 +6,11 @@ Published 05.05.2021
 - nationals of Jordan;
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and a diplomatic QR code and their family members.
-4. Passengers entering Jordan must have a negative COVID-19 PCR test taken at most 120 hours before arrival. The test result for passengers arriving from Egypt, Iraq, Palestinian Territory or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a>
+4. Passengers entering Jordan must have a negative COVID-19 PCR test taken at most 120 hours before arrival. The test result for passengers arriving from Egypt, Iraq, Palestinian Territory or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a> 
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and their family members.
-5. Passengers transiting through Jordan must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result for passengers arriving from Egypt, Iraq, Palestinian Territory or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a>
+5. Passengers transiting through Jordan must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result for passengers arriving from Egypt, Iraq, Palestinian Territory or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a> 
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and their family members.
