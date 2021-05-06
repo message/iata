@@ -1,13 +1,12 @@
-Published 04.05.2021
+Published 06.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals or residents of Denmark;
 - residents of Germany (Schleswig-Holstein) and Sweden (Blekinge, Halland, Scania and West Gothia);
-- passengers arriving from Norway (Nordland, Trondelag, Troms and Finnmark regions);
-- passengers arriving from Australia, Iceland, Korea (Rep.), New Zealand, Singapore or Thailand;
+- residents of Norway (Nordland, Trondelag, Troms and Finnmark regions);
+- residents of Australia, Iceland, Korea (Rep.), New Zealand, Singapore and Thailand;
 - spouses, partners, parents, children, fiances, sisters, brothers or grandparents of a person residing in Denmark. They must present proof confirming their relationship;
 - boyfriends or girlfriends of a person residing in Denmark. They must present a printed 'Solemn declaration on relationship for use in connection with entry';
-- passengers returning directly via Denmark to their country of residence;
 - passengers with a diplomatic passport;
 - spouses, partners, children or stepchildren of a person with a diplomatic passport;
 - merchant seamen;
