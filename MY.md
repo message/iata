@@ -12,8 +12,8 @@ Published 06.05.2021
 - spouses of nationals of Malaysia. They must have a MyTravelPass (MTP);
 - permanent residents of Malaysia. They must have a MyTravelPass (MTP).
 3. Passengers must install 'MySejahtera app' in their phone and complete the health declaration at least one day before departure.
-4. Passengers without a printed negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point are subject to a test upon arrival. The test result must be in English or Malaysian.
-5. Passengers are subject to medical screening and quarantine for 7 or 10 days at their own expense.
+4. Passengers arriving from Argentina, Austria, Bangladesh, Barbados, Belgium, Botswana, Brazil, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Colombia, Croatia, Czechia, Denmark, France, Gambia, Germany, Greece, Hungary, India, Iraq, Ireland (Rep.), Italy, Japan, Liechtenstein, Malawi, Mexico, Mozambique, Netherlands, Nigeria, Norway, Peru, Philippines, Poland, Portugal, Qatar, Romania, Rwanda, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Tanzania, Turkey, USA, United Arab Emirates, United Kingdom or Zambia must have a negative COVID-19 PCR test taken at most 3 days before departure from the first embarkation point.
+5. Passengers are subject to medical screening and quarantine for 7 or 14 days at their own expense.
 6. Airline crew must have their names listed on the General Declaration.
 7. Airline crew are subject to quarantine until their next flight and must install 'MySejahtera app' in their phone.
 8. Transfer from an international flight to a domestic flight is not allowed.
