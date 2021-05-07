@@ -10,7 +10,7 @@ Published 07.05.2021
 - presence of antibodies against COVID-19 measured by ELISA serologic assay. Details can be found at <a href="https://tinyurl.com/ya2tsh9p">https://tinyurl.com/ya2tsh9p</a> .
 More details can be found at: <a href="https://www.logreglan.is/english/regarding-travel-restrictions-to-iceland-as-a-result-of-covid-19/">https://www.logreglan.is/english/regarding-travel-restrictions-to-iceland-as-a-result-of-covid-19/</a> 
 2. Passengers arriving from a country other than Andorra, Argentina, Bahrain, Cape Verde, Croatia, Cyprus, France, Hungary, Lithuania, Netherlands, Poland, Serbia, Seychelles, Spain, Sweden, Turkey or Uruguay are not allowed to enter.
--This does not apply to:
+- This does not apply to:
 - nationals and residents of Iceland;
 - nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and EEA Member States;
 - British nationals who reside in Iceland and have a residence certificate (C-122), which can be obtained at <a href="http://www.icetra.is/about/press-room/news/travel-restrictions-for-uk-citizens-due-to-covid-19">www.icetra.is/about/press-room/news/travel-restrictions-for-uk-citizens-due-to-covid-19</a> 

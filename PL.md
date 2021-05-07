@@ -1,6 +1,6 @@
 Published 21.04.2021
 1. Passengers are not allowed to enter.
--This does not apply to:
+- This does not apply to:
 - nationals and residents of Poland;
 - spouses and children of nationals of Poland;
 - passengers under the constant care of nationals of Poland;

@@ -33,7 +33,7 @@ Published 03.05.2021
 4. Passengers entering the Netherlands must have:
 - a negative COVID-19 test taken at most 24 hours before boarding the flight of the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before boarding the flight of the first embarkation point, and 
--a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA. 
+- a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA. 
 This does not apply to:
 - passengers younger than 13 years;
 - passengers with a diplomatic passport;

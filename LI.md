@@ -1,6 +1,6 @@
 Published 15.04.2021
 1. Passengers are not allowed to enter.
--This does not apply to:
+- This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
 - passengers with a D visa issued by Switzerland;
 - nationals of EEA Member States;
@@ -12,7 +12,7 @@ Published 15.04.2021
 - passengers with a Schengen C visa issued by Switzerland after 16 March 2020;
 - unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship.
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.
--This does not apply to:
+- This does not apply to:
 - nationals and residents of EEA Member States and Switzerland;
 - passengers arriving directly from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;

@@ -1,6 +1,6 @@
 Published 10.12.2020
 1. Passengers are not allowed to enter Montserrat.
--This does not apply to:
+- This does not apply to:
 - passengers with a British passport with nationality "British Overseas Territories Citizen" issued by Montserrat;
 - passengers with a permanent residence permit issued by Montserrat;
 - husband, wife, child or other dependents of a passenger with a British passport with nationality "British Overseas Territories Citizen" issued by Montserrat;

@@ -1,7 +1,7 @@
 Published 23.04.2021
 1. Until 23 May 2021, flights from India and Pakistan are suspended.
 2. Until 21 May 2021, passengers are not allowed to enter.
--This does not apply to:
+- This does not apply to:
 - nationals of Canada;
 - permanent residents of Canada;
 - passengers who are asymptomatic for Coronavirus (COVID-19) and travel for a non-optional or non-discretionary purpose. They must comply with the requirement to quarantine based on their purpose of travel and intended length of stay if required;

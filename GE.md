@@ -1,6 +1,6 @@
 Published 26.04.2021
 1. Passengers are not allowed to enter.
--This does not apply to:
+- This does not apply to:
 - nationals of Georgia;
 - spouses and children under 18 years of nationals of Georgia;
 - British nationals and nationals of Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tajikistan, Turkey, Turkmenistan, USA, Ukraine, United Arab Emirates and Uzbekistan if arriving from Armenia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tajikistan, Turkey, Turkmenistan, USA, Ukraine, United Arab Emirates, United Kingdom or Uzbekistan.

@@ -1,6 +1,6 @@
 Published 24.02.2021
 1. Passengers are not allowed to enter.
--This does not apply to:
+- This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See), their spouses and children;
 - nationals of Albania, Australia, Belarus, Bosnia and Herzegovina, Canada, Georgia, Israel, Japan, Korea (Rep.), Kosovo (Rep.), Kuwait, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Rwanda, Serbia, Thailand, Tunisia, Turkey, Ukraine, United Arab Emirates, and Uruguay;
 - British nationals;
@@ -15,7 +15,7 @@ issued by Bulgaria, and their family members;
 - military personnel;
 - merchant seamen.
 2. Passengers must a negative COVID-19 PCR test result. The test must have been taken at most 72 hours before arrival. The test result must contain passengers details, name of the laboratory, the test method, and the test result written in Latin characters.
--This does not apply to:
+- This does not apply to:
 - nationals of Bulgaria, their spouses and children;
 - passengers with a residence permit issued by Bulgaria, their spouses and children;
 - British nationals and their family members with one of the following documents issued by Bulgaria:

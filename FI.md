@@ -1,6 +1,6 @@
 Published 23.04.2021
 1. Until 25 May 2021, passengers are not allowed to enter.
--This does not apply to:
+- This does not apply to:
 - nationals of Finland and their family members;
 - passengers with a residence permit issued by Finland;
 - partners of nationals or residents of Finland;

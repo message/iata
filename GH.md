@@ -1,6 +1,6 @@
 Published 08.02.2021
 1. Passengers must have a medical certificate with a negative Coronavirus (COVID-19) PCR test result. The test must have been taken at most 72 hours before departure from the first embarkation point.
--This does not apply to:
+- This does not apply to:
 - nationals and residents of Ghana returning within one week; 
 - passengers younger than 5 years. 
 2. Nationals and residents of Ghana returning within one week without a medical certificate with a negative Coronavirus (COVID-19) PCR test result, are subject to test upon arrival.

@@ -1,6 +1,6 @@
 Published 29.04.2021
 1. Passengers must have a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival.
--This does not apply to:
+- This does not apply to:
 - nationals and residents of Serbia;
 - nationals of Kosovo (Rep.) with a national ID card;
 - passengers younger than 12 years. They must be accompanied by a parent, custodian or an adult from the same household;
@@ -11,7 +11,7 @@ Published 29.04.2021
 2. Passengers arriving from the USA must have:
 - a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival; or
 - a negative COVID-19 Antigen FIA Rapid test result issued at most 48 hours before arrival.
--This does not apply to:
+- This does not apply to:
 - nationals and residents of Serbia;
 - nationals of Kosovo (Rep.) with a national ID card;
 - passengers younger than 12 years;

@@ -1,6 +1,6 @@
 Published 08.03.2021
 1. Passengers are not allowed to enter.
--This does not apply to:
+- This does not apply to:
 - nationals of Saudi Arabia;
 - first degree family members of nationals of Saudi Arabia. They must be traveling together;
 - nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must not have transited through or been in Argentina, Brazil, Egypt, France, Germany, India, Indonesia, Ireland (Rep.), Italy, Japan, Lebanon, Pakistan, Portugal, South Africa, Sweden, Switzerland, Turkey, USA, United Arab Emirates or United Kingdom in the past 14 days;

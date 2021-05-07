@@ -1,6 +1,6 @@
 Published 03.05.2021
 1. Passengers are not allowed to enter.
--This does not apply to:
+- This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
 - passengers with a Hong Kong SAR, China "Document of Identity for Visa Purposes";
 - residents of Hong Kong SAR, China with a Permanent Identity Card;

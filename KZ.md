@@ -1,6 +1,6 @@
 Published 05.05.2021
 1. Passengers are not allowed to enter and transit.
--This does not apply to:
+- This does not apply to:
 - nationals of Kazakhstan;
 - residents of Kazakhstan. They are only allowed to enter once in 30 days;
 - nationals of Belarus, Egypt, Georgia, Germany, Korea (Rep.), Kyrgyzstan, Maldives, Russian Fed., Sri Lanka, Tajikistan, Turkey, Ukraine, United Arab Emirates and Uzbekistan;
@@ -10,7 +10,7 @@ Published 05.05.2021
 - passengers traveling as students with an invitation letter from an educational institution of Kazakhstan;
 - passengers traveling on business and approved by the Deputy Prime Minister of Kazakhstan.
 2. Flights to Kazakhstan are suspended.
--This does not apply to:
+- This does not apply to:
 - flights from Belarus, Egypt, Germany, Korea (Rep.), Kyrgyzstan, Netherlands, Russian Fed., Turkey, Ukraine, United Arab Emirates and Uzbekistan;
 - repatriation flights.
 3. Passengers must have a negative COVID-19 PCR test result issued at most 3 days before arrival. 

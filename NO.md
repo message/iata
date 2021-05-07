@@ -1,6 +1,6 @@
 Published 04.05.2021
 1. Until 12 May 2021, passengers are not allowed to enter.
--This does not apply to:
+- This does not apply to:
 - nationals and residents of Norway;
 - spouses, registered partners, minor children or stepchildren, parents or stepparents of minor children or stepchildren of residents of Norway. They must present a proof confirming the relationship;
 - merchant seamen;
