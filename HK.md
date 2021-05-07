@@ -9,7 +9,7 @@ Published 07.05.2021
 - residents of Hong Kong SAR, China with an Identity card with the code "U". They must have a prior approval from Hong Kong Immigration;
 - residents of Hong Kong SAR, China with an Identity card accompanied by a visa with "Permission to remain extended until". They must enter within the validity of the permitted stay;
 - passengers with a residence or study visa issued by Hong Kong SAR, China;
-- passengers who in the past 21 days have only been in Australia, the Mainland of China, Chinese Taipei, Macao SAR, China, New Zealand or Singapore;
+- passengers who in the past 14 days have only been in Australia, the Mainland of China, Chinese Taipei, Macao SAR, China, New Zealand or Singapore;
 - passengers with a diplomatic, an official or a service passport traveling on duty;
 - spouses and minor children younger than 18 years of Hong Kong SAR, China residents. They must present proof of their relationship;
 - deadheading crew;
