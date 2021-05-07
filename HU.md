@@ -1,4 +1,4 @@
-Published 03.05.2021
+Published 07.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Hungary and their family members;
@@ -9,7 +9,7 @@ Published 03.05.2021
 - passengers traveling on business;
 - passengers with a signed and stamped letter issued by the Deputy-Chief Officer of the National Police;
 - passengers with a positive COVID-19 test taken at most 6 months before arrival. They must also have a recovery certificate;
-- passengers with a COVID-19 vaccination certificate issued by Bahrain, Hungary, Montenegro, Serbia or Slovenia. 
+- passengers with a COVID-19 vaccination certificate issued by Bahrain, Croatia, Hungary, Montenegro, Serbia or Slovenia. 
 2. Passengers are subject to medical screening.
 3. Passengers could be subject to quarantine for 10 days. More details can be found at <a href="https://tinyurl.com/3w7padwk">https://tinyurl.com/3w7padwk</a> .
 4. Airline crew are subject to medical screening and quarantine until their next scheduled flight.

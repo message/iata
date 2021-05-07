@@ -1,8 +1,7 @@
-Published 29.04.2021
-1. Passengers arriving from or who in the past 14 days have stayed for more than 24 hours in Andorra, Bahrain, Bermuda, Croatia, Curacao, Cyprus, France, Hungary, Lithuania, Netherlands, Poland, Puerto Rico, San Marino, Sweden, Turkey or Uruguay are not allowed to enter.
+Published 07.05.2021
+1. Passengers arriving from or who in the past 14 days have stayed for more than 24 hours in Andorra, Argentina, Bahrain, Cape Verde, Croatia, Cyprus, France, Hungary, Lithuania, Netherlands, Poland, Serbia, Seychelles, Spain, Sweden, Turkey or Uruguay are not allowed to enter.
 - This does not apply to:
-- nationals of Iceland;
-- residents of Iceland;
+- nationals and residents of Iceland;
 - passengers in a long-term intimate relationship with a national or resident of Iceland;
 - students;
 - passengers with a COVID-19 vaccination certificate. Details can be found at <a href="https://tinyurl.com/y4el6uru">https://tinyurl.com/y4el6uru</a> ;
@@ -10,7 +9,7 @@ Published 29.04.2021
 - positive COVID-19 PCR test result issued at least 14 days before arrival; or
 - presence of antibodies against COVID-19 measured by ELISA serologic assay. Details can be found at <a href="https://tinyurl.com/ya2tsh9p">https://tinyurl.com/ya2tsh9p</a> .
 More details can be found at: <a href="https://www.logreglan.is/english/regarding-travel-restrictions-to-iceland-as-a-result-of-covid-19/">https://www.logreglan.is/english/regarding-travel-restrictions-to-iceland-as-a-result-of-covid-19/</a> 
-2. Passengers arriving from a country other than Andorra, Bahrain, Bermuda, Croatia, Curacao, Cyprus, France, Hungary, Lithuania, Netherlands, Poland, Puerto Rico, San Marino, Sweden, Turkey or Uruguay are not allowed to enter.
+2. Passengers arriving from a country other than Andorra, Argentina, Bahrain, Cape Verde, Croatia, Cyprus, France, Hungary, Lithuania, Netherlands, Poland, Serbia, Seychelles, Spain, Sweden, Turkey or Uruguay are not allowed to enter.
 -This does not apply to:
 - nationals and residents of Iceland;
 - nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and EEA Member States;
