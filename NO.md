@@ -10,7 +10,7 @@ Published 04.05.2021
 3. Passengers must have a negative COVID-19 PCR or rapid antigen test taken at most 24 hours before departure from the first embarkation point. The test result must be in Danish, English, French, German, Norwegian or Swedish.
 - This does not apply to:
 - passengers younger than 12 years;
-- passengers arriving from Denmark (only Greenland and Faroe Isl.), certain hospital districts in Finland or Iceland. More details can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> ;
+- passengers arriving from Denmark (Greenland and Faroe Isl.), certain hospital districts in Finland or Iceland. More details can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> ;
 - passengers with a diplomatic or service passport;
 - passengers with a COVID-19 recovery certificate issued at least 14 days and at most 6 months before arrival. They must not be traveling to Longyearbyen (LYR);
 - merchant seamen;

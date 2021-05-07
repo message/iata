@@ -12,8 +12,8 @@ This does not apply to:
 - merchant seamen;
 - military personnel.
 2. Passports and national ID cards issued to nationals of Croatia which expired on 11 March 2020 or later are considered valid.
-3. Passengers arriving from Brazil, India, South Africa or Tanzania (Zanzibar only) must have a negative COVID-19 PCR test taken at most 48 hours before arrival.
-4. Passengers arriving from a country other than Brazil, India, South Africa or Tanzania (Zanzibar only):
+3. Passengers arriving from Brazil, India, South Africa or Tanzania (Zanzibar) must have a negative COVID-19 PCR test taken at most 48 hours before arrival.
+4. Passengers arriving from a country other than Brazil, India, South Africa or Tanzania (Zanzibar):
 - must have a negative COVID-19 PCR or rapid antigen test taken at most 48 hours before arrival. The rapid antigen test must be listed on <a href="https://tinyurl.com/b57mretv">https://tinyurl.com/b57mretv</a> ; or
 - must have a COVID-19 vaccination certificate. The last vaccine dose must be received at least 15 days before arrival; or
 - must have a COVID-19 recovery certificate issued at least 12 days and at most 180 days before arrival; or
