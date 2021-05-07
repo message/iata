@@ -1,31 +1,38 @@
-Published 24.02.2021
-1. Passengers are not allowed to enter.
-- This does not apply to:
-- nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See), their spouses and children;
-- nationals of Albania, Australia, Belarus, Bosnia and Herzegovina, Canada, Georgia, Israel, Japan, Korea (Rep.), Kosovo (Rep.), Kuwait, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Rwanda, Serbia, Thailand, Tunisia, Turkey, Ukraine, United Arab Emirates, and Uruguay;
-- British nationals;
-- passengers with a residence permit issued by Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See), their spouses and children;
-- family members of British nationals with a residence permit with “Type of permit: Article 50 TEU" issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; 
-- passengers with a "D" visa
-issued by Bulgaria, and their family members;
-- passengers with a diplomatic, official or service passport traveling on duty, and their family members;
-- passengers with an Alien's passport issued by Estonia and Latvia;
-- passengers traveling as students;
-- deadheading crew;
-- military personnel;
-- merchant seamen.
-2. Passengers must a negative COVID-19 PCR test result. The test must have been taken at most 72 hours before arrival. The test result must contain passengers details, name of the laboratory, the test method, and the test result written in Latin characters.
-- This does not apply to:
-- nationals of Bulgaria, their spouses and children;
-- passengers with a residence permit issued by Bulgaria, their spouses and children;
-- British nationals and their family members with one of the following documents issued by Bulgaria:
-- a certificate of application for a new residence permit; or
-- a residence permit which specifies “Type of permit: Article 50 TEU" and with the “Remark" 18(4); or
-- a residence card issued before 31 December 2020;
-- merchant seamen.
-3. Passengers could be subject to a Coronavirus (COVID-19) PCR test and quarantine for 10 days upon arrival.
-4. National ID cards, passports, and residence documents issued to nationals of Bulgaria which expired between 13 March 2020 and 31 January 2021, are considered valid with an extension of 6 months, starting from their expiry date.
-5. Nationals and residents of Bulgaria and their family members without a negative COVID-19 PCR test result of a test taken at most 72 hours before arrival are subject to:
-- a COVID-19 PCR test within 24 hours of arrival; or
-- quarantine for 10 days.
+Published 07.05.2021
+1. Until 31 May 2021, passengers arriving from Angola, Bangladesh, Botswana, Brazil, Burundi, Cameroon, Cape Verde, Comoros, Congo (Dem. Rep.), Djibouti, Equatorial Guinea, Eswatini (Swaziland), Ghana, India, Kenya, Lesotho, Libya, Malawi, Mauritania, Mauritius, Mayotte, Mozambique, Namibia, Reunion, Rwanda, Sao Tome and Principe, Seychelles, South Africa, St. Helena, Sudan, Tanzania, Uganda, Zambia or Zimbabwe, are not allowed to enter.
+- This does not apply to nationals and residents of Bulgaria, and their family members.
+2. Passengers must enter Bulgaria via Burgas (BOJ), Plovdiv (PDV),Sofia (SOF) or Varna (VAR).
+3. Nationals and residents of Bulgaria and their family members without a COVID-19 test or vaccination certificate are subject to quarantine. Tests and vaccines accepted are: 
+- a negative COVID-19 PCR test taken at most 72 hours before arrival, written in Latin characters; or
+- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival, written in Latin characters; or
+- a positive COVID-19 PCR or rapid antigen test taken at least 15 days and at most 180 days before arrival; or
+- a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V. 
+4. Passengers with a "D" visa issued by Bulgaria, must have:
+- a negative COVID-19 PCR test taken at most 72 hours before arrival, written in Latin characters; or
+- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival, written in Latin characters; or
+- a positive COVID-19 PCR or rapid antigen test taken at least 15 days and at most 180 days before arrival; or
+- a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V.
+5. Nationals and residents of Andorra, Austria, Belgium, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) and their family members, must have:
+- a negative COVID-19 PCR test taken at most 72 hours before arrival, written in Latin characters; or
+- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival, written in Latin characters; or
+- a positive COVID-19 PCR or rapid antigen test taken at least 15 days and at most 180 days before arrival; or
+- a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V.
+6. Passengers with a British passport with nationality “British Citizen", “British Overseas Territories Citizen" issued by Gibraltar or British Passports with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom, must have:
+- a negative COVID-19 PCR test taken at most 72 hours before arrival, written in Latin characters; or
+- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival, written in Latin characters; or
+- a positive COVID-19 PCR or rapid antigen test taken at least 15 days and at most 180 days before arrival; or
+- a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V.
+7. Nationals of Australia, Belarus, Bosnia and Herzegovina, Canada, China (People’s Rep.), Israel, Japan, Korea (Rep.), Kosovo (Rep.), Kuwait, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Russian Fed., Rwanda, Serbia, Thailand, Tunisia, Turkey, United Arab Emirates, USA and Uruguay must have:
+- a negative COVID-19 PCR test taken at most 72 hours before arrival, written in Latin characters; or
+- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival, written in Latin characters; or
+- a positive COVID-19 PCR or rapid antigen test taken at least 15 days and at most 180 days before arrival; or
+- a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V.
+8. Passengers must have a positive COVID-19 PCR or rapid antigen test taken at least 15 days and at most 180 days before arrival; or
+- a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V. 
+- This does not apply to: 
+- nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) and their family members; 
+- passengers with a "D" visa issued by Bulgaria;
+- passengers with a British passport with nationality “British Citizen", “British Overseas Territories Citizen" issued by Gibraltar or British Passports with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom
+- nationals of Australia, Belarus, Bosnia and Herzegovina, Canada, China (People’s Rep.), Israel, Japan, Korea (Rep.), Kosovo (Rep.), Kuwait, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Russian Fed., Rwanda, Serbia, Thailand, Tunisia, Turkey, United Arab Emirates, USA and Uruguay.
+9. Passengers could be subject to quarantine for 10 days.
 
