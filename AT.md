@@ -1,4 +1,4 @@
-Published 03.05.2021
+Published 07.05.2021
 1. Until 18 May 2021, flights from Brazil, India and South Africa are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Until 31 May 2021, passengers are not allowed to enter.
@@ -9,7 +9,7 @@ Published 03.05.2021
 - residents of Andorra, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See) and persons living in the same household;
 - passengers with a confirmation of the application pursuant to Art. 18 Para. 1 of the Agreement on the Withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union;
 - passengers with a "D" visa issued by Austria;
-- passengers departing immediately;
+- passengers entering Austria to transit by land to a third country. They must prove that they can enter the destination country;
 - passengers traveling on business;
 - passengers visiting their life partner;
 - students;

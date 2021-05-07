@@ -7,6 +7,6 @@ Published 07.05.2021
 - This does not apply to:
 - passengers younger than 18 years;
 - passengers arriving from Anguilla, Antigua and Barbuda, Barbados, Cayman Isl., Dominica, Grenada, Montserrat, St. Kitts and Nevis, St. Vincent and the Grenadines, Turks and Caicos Isl. or Virgin Isl. (British).
-4. Passengers could be subject to a COVID-19 PCR test and quarantine; details can be found at <a href="https://www.stlucia.org/en/covid-19/">https://www.stlucia.org/en/covid-19/</a>
+4. Passengers could be subject to a COVID-19 PCR test and quarantine; details can be found at <a href="https://www.stlucia.org/en/covid-19/">https://www.stlucia.org/en/covid-19/</a> 
 5. Passengers and airline crew are subject to medical screening.
 
