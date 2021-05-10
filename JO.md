@@ -1,18 +1,18 @@
-Published 07.05.2021
+Published 10.05.2021
 1. Until 17 May 2021, flights from India are suspended.
 2. Until 17 May 2021, passengers who in the past 45 days have been in India are not allowed to enter.
-- This does not apply to nationals of Jordan and their family members.
+- This does not apply to nationals of Jordan and their spouses and children.
 3. Passengers are not allowed to transit through Jordan for more than 10 hours.
 4. Passengers must have health insurance valid for the whole period of intended stay.
 - This does not apply to:
 - nationals of Jordan;
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and a diplomatic QR code and their family members.
-5. Passengers entering Jordan must have a negative COVID-19 PCR test taken at most 120 hours before arrival. The test result for passengers arriving from Egypt, Iraq, Palestinian Territory or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a>
+5. Passengers entering Jordan must have a negative COVID-19 PCR test taken at most 120 hours before arrival. The test result for passengers arriving from Egypt, Iraq, Palestinian Territory or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a> 
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and their family members.
-6. Passengers transiting through Jordan must have a negative COVID-19 PCR test taken at most 120 hours before departure. The test result for passengers arriving from Egypt, Iraq, Palestinian Territory or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a>
+6. Passengers transiting through Jordan must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result for passengers arriving from Egypt, Iraq, Palestinian Territory or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a> 
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and their family members.
@@ -22,10 +22,11 @@ Published 07.05.2021
 - passengers with a diplomatic or special passport and a diplomatic QR code and their family members.
 8. Military personnel and their family members must have a "Military QR Code" obtained before departure at <a href="https://www.gateway2jordan.gov.jo">https://www.gateway2jordan.gov.jo</a> .
 9. A completed "Passenger Health Declaration Form" and a "Locator Form" must be presented before departure.
-10. Nationals of Jordan and their family members who in the past 14 days have been in or transited through India must present a completed indemnity form. They are subject to quarantine at a hotel for 14 days at their own expense.
-11. Nationals of Jordan and their family members who have been outside India between 14 and 45 days before arrival are subject to self-quarantine for 14 days.
+10. Nationals of Jordan and their spouses and children who in the past 14 days have been in or transited through India must present a completed indemnity form. They are subject to quarantine at a hotel for 14 days at their own expense.
+11. Nationals of Jordan and their spouses and children who have been outside India between 14 and 45 days before arrival are subject to self-quarantine for 14 days.
 12. Airline crew must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point.
 - This does not apply to airline crew with a round trip flight.
-13. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
+13. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.
+14. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
 
 <p>
