@@ -8,7 +8,7 @@ Published 10.05.2021
 - passengers with a residence permit issued by an EEA Member State or Switzerland;
 - British nationals with a residence permit issued by Germany before 31 December 2020;
 - passengers with a long term "D" visa issued by an EEA Member State or Switzerland;
-- residents of Australia, Korea (Rep.), New Zealand, Singapore and Thailand. They must have been living in the residence country for at least 6 months;
+- residents of Australia, Israel, Korea (Rep.), New Zealand, Singapore and Thailand. They must have been living in the residence country for at least 6 months;
 - military personnel;
 - merchant seamen;
 - students;
@@ -20,7 +20,7 @@ Published 10.05.2021
 4. Passengers entering or transiting through Germany must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
 - This does not apply to passengers younger than 6 years.
 5. Airline crew entering Germany from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, South Africa, Zambia or Zimbabwe must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
-6. Airline crew entering Germany from Andorra, Argentina, Armenia, Aruba, Bahrain, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Cape Verde, Colombia, Croatia, Curacao, Cyprus, Ecuador, Egypt, Estonia, France, Hungary, Iran, Jordan, Kosovo (Rep.), Kuwait, Latvia, Lebanon, Lithuania, Malta, Mexico, Mongolia, Montenegro, Netherlands, North Macedonia (Rep.), Oman, Palestinian Territory, Paraguay, Poland, Qatar, Serbia, Seychelles, Slovakia, Slovenia, St. Maarten, Sudan, Sweden, Syria, Tanzania, Tunisia, Turkey, Ukraine or Uruguay must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
+6. Airline crew entering Germany from Andorra, Argentina, Armenia, Aruba, Bahrain, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Cape Verde, Colombia, Costa Rica, Croatia, Curacao, Cyprus, Ecuador, Egypt, Estonia, France, Georgia, Hungary, Iran, Jordan, Kosovo (Rep.), Kuwait, Latvia, Lebanon, Lithuania, Maldives, Malta, Mexico, Mongolia, Montenegro, Nepal, Netherlands, North Macedonia (Rep.), Oman, Palestinian Territory, Paraguay, Poland, Qatar, Serbia, Seychelles, Slovakia, Slovenia, St. Maarten, Sudan, Sweden, Syria, Tanzania, Tunisia, Turkey, Ukraine or Uruguay must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
 - This does not apply to airline crew who are staying in Germany for less than 72 hours.
 7. Passengers arriving from a risk area must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> .
 8. Airline crew arriving from a high-incidence area or an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> .
