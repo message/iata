@@ -1,4 +1,4 @@
-Published 04.05.2021
+Published 10.05.2021
 1. Until 15 May 2021, passengers are not allowed to enter .
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -16,7 +16,7 @@ Published 04.05.2021
 - parents of children younger than 18 years who are residing in Italy;
 - military personnel.
 3. Until 15 May 2021, passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.
-- This does not apply to nationals of Italy residing in Italy since before 29 April 2021.
+- This does not apply to nationals of Italy.
 4. A completed self-declaration form must be presented prior to boarding. The form can be obtained at <a href="https://www.esteri.it/mae/it/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html">https://www.esteri.it/mae/it/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html</a> .
 5. Passengers arriving in Sardinia must present a completed registration form upon arrival. The form can be obtained before departure at <a href="https://sus.regione.sardegna.it/sus/covid19/regimbarco/init;jsessionid=DBC60851683A8F71D64CBFA6632E9138.sus2?lang=en">https://sus.regione.sardegna.it/sus/covid19/regimbarco/init;jsessionid=DBC60851683A8F71D64CBFA6632E9138.sus2?lang=en</a> . 
 6. Passengers arriving in Calabria, Puglia or Sicily must present a completed health declaration form upon arrival. The form can be obtained for:

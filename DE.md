@@ -1,4 +1,4 @@
-Published 05.05.2021
+Published 10.05.2021
 1. Passengers arriving from a country other than Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, South Africa, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals of EEA Member States and Switzerland;
@@ -17,20 +17,14 @@ Published 05.05.2021
 - This does not apply to nationals and residents of Germany.
 3. Passengers arriving from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, South Africa, Zambia or Zimbabwe are not allowed to transit through Germany to Austria, Belgium, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovenia, Spain, Sweden or Switzerland.
 - This does not apply to nationals and residents of Germany.
-4. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State. 
-- This does not apply to:
-- nationals of Switzerland and an EEA Member State;
-- passengers with a residence permit issued by Switzerland or an EEA Member State;
-- passengers with a "D" visa issued by Switzerland or an EEA Member State;
-- passengers arriving from the United Kingdom.
-5. Passengers entering or transiting through Germany must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
+4. Passengers entering or transiting through Germany must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
 - This does not apply to passengers younger than 6 years.
-6. Airline crew entering Germany from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, South Africa, Zambia or Zimbabwe must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
-7. Airline crew entering Germany from Andorra, Argentina, Armenia, Aruba, Bahrain, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Cape Verde, Colombia, Croatia, Curacao, Cyprus, Ecuador, Egypt, Estonia, France, Hungary, Iran, Jordan, Kosovo (Rep.), Kuwait, Latvia, Lebanon, Lithuania, Malta, Mexico, Mongolia, Montenegro, Netherlands, North Macedonia (Rep.), Oman, Palestinian Territory, Paraguay, Poland, Qatar, Serbia, Seychelles, Slovakia, Slovenia, St. Maarten, Sudan, Sweden, Syria, Tanzania, Tunisia, Turkey, Ukraine or Uruguay must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
+5. Airline crew entering Germany from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, South Africa, Zambia or Zimbabwe must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
+6. Airline crew entering Germany from Andorra, Argentina, Armenia, Aruba, Bahrain, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Cape Verde, Colombia, Croatia, Curacao, Cyprus, Ecuador, Egypt, Estonia, France, Hungary, Iran, Jordan, Kosovo (Rep.), Kuwait, Latvia, Lebanon, Lithuania, Malta, Mexico, Mongolia, Montenegro, Netherlands, North Macedonia (Rep.), Oman, Palestinian Territory, Paraguay, Poland, Qatar, Serbia, Seychelles, Slovakia, Slovenia, St. Maarten, Sudan, Sweden, Syria, Tanzania, Tunisia, Turkey, Ukraine or Uruguay must have a negative COVID-19 test result. The test must be taken at most 48 hours before arrival. Tests accepted are: antigen, PCR, RT-LAMP and TMA. The test result must be in English, French or German.
 - This does not apply to airline crew who are staying in Germany for less than 72 hours.
-8. Passengers arriving from a risk area must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> .
-9. Airline crew arriving from a high-incidence area or an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> .
-10. Passengers could be subject to quarantine for 10 or 14 days. More information can be found at 
+7. Passengers arriving from a risk area must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> .
+8. Airline crew arriving from a high-incidence area or an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> .
+9. Passengers could be subject to quarantine for 10 or 14 days. More information can be found at 
 <a href="http://www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-entering-germany.html">www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-entering-germany.html</a> .
-11. More COVID-19 related information can be found at <a href="http://www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html">www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html</a> .
+10. More COVID-19 related information can be found at <a href="http://www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html">www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html</a> .
 
