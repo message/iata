@@ -40,5 +40,5 @@ Published 04.05.2021
 - another COVID-19 molecular or antigen test at the end of quarantine.
 - This does not apply to passengers younger than 2 years.
 10. Passengers could be subject to self-isolation. More details can be found at <a href="https://infocovid.viaggiaresicuri.it/index_en.html">https://infocovid.viaggiaresicuri.it/index_en.html</a> .
-11. Residence permits issued by Italy which expired or will expire between 1 August 2020 and 30 April 2021 are considered valid until 31 July 2021.
+11. Residence permits issued by Italy which expired between 1 August 2020 and 30 April 2021 are considered valid until 31 July 2021.
 
