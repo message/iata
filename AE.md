@@ -1,4 +1,4 @@
-Published 10.05.2021
+Published 11.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -92,4 +92,13 @@ Published 10.05.2021
 27. Flights from India and Yemen are suspended.
 28. Until 21 May 2021, flights from Nigeria and South Africa are suspended .
 29. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
+30. Effective 13 May 2021, passengers who in the past 14 days have been in Bangladesh, Nepal, Pakistan or Sri Lanka are not allowed to enter and transit.
+- This does not apply to:
+- nationals of United Arab Emirates;
+- passengers with a diplomatic or an official passport traveling on duty;
+- passengers with a golden visa issued by United Arab Emirates.
+31. Effective 13 May 2021, passengers entering or transiting through United Arab Emirates who in the past 14 days have been in Bangladesh, Nepal, Pakistan or Sri Lanka must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+- This does not apply to:
+- passengers younger than 12 years;
+- passengers with disabilities.
 

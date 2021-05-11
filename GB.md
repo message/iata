@@ -1,4 +1,4 @@
-Published 23.04.2021
+Published 11.05.2021
 1. Passengers who have been in or transited through Angola, Argentina, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Ecuador, Eswatini, Ethiopia, French Guiana, Guyana, India, Kenya, Lesotho, Malawi, Mozambique, Namibia, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Qatar, Rwanda, Seychelles, Somalia, South Africa, Suriname, Tanzania, United Arab Emirates, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days are not allowed to enter.
 This does not apply to:
 - British nationals;
@@ -34,4 +34,14 @@ More details can be found at <a href="https://quarantinehotelbookings.ctmportal.
 - military personnel with an exemption letter from the Ministry of Defence.
 9. Flights from Ethiopia, Oman, Qatar and United Arab Emirates are suspended.
 10. Airline crew not residing in the United Kingdom are subject to self-isolation in a hotel until their next flight.
+11. Effective 04:00 local time, 12 May 2021, passengers who have been in or transited through Maldives, Nepal or Turkey in the past 10 days are not allowed to enter.
+This does not apply to:
+- British nationals;
+- nationals of Ireland (Rep.);
+- residents of the United Kingdom.
+12. Effective 04:00 local time, 12 May 2021, passengers arriving in England who have been in or transited through Maldives, Nepal or Turkey in the past 10 days must:
+- have a quarantine package for 11 nights; and
+- arrive at Birmingham (BHX), Farnborough (FAB), Gatwick (LGW), Heathrow (LHR) or London City (LCY).
+More details can be found at <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a> .
+- This does not apply to military personnel with an exemption letter from the Ministry of Defence.
 
