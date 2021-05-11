@@ -6,7 +6,7 @@ Published 11.05.2021
 4. Passengers must have a printed negative COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point. The test result must be in English.
 - This does not apply to
 - nationals of Sri Lanka; 
-- merchant seamen who are nationals of Sri Lanka with a Seaman's Discharge Book. They must transfer directly from the ship to the airport;
+- merchant seamen who are nationals of Sri Lanka with a Seaman's Discharge Book. They must transfer directly from the ship to the airport.
 5. Nationals of Sri Lanka must have:
 - a printed negative COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point. The test result must be in English; or
 - a printed rapid antigen test taken at most 48 hours before departure from the first embarkation point. The test result must be in English.

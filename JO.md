@@ -28,5 +28,6 @@ Published 10.05.2021
 - This does not apply to airline crew with a round trip flight.
 13. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.
 14. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
+15. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a> 
 
 <p>
