@@ -16,8 +16,8 @@ Published 03.05.2021
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers arriving from Kiribati, New Zealand, Niue, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;
-- passengers with a medical certificate with a positive Coronavirus (COVID-19) PCR test result, and a medical discharge issued at least 4 weeks before departure which specifies that:
-- at least 14 days have passed since they were infected with Coronavirus (COVID-19); and
+- passengers with a positive COVID-19 PCR test result, and a medical discharge issued at most 4 weeks before departure which specifies that:
+- at least 14 days have passed since they were infected with COVID-19; and
 - 72 hours have passed since recovery of fever and respiratory symptoms; and
-- passengers have recovered from Coronavirus (COVID-19) and are not contagious.
+- passengers have recovered from COVID-19 and are not contagious.
 
