@@ -18,5 +18,5 @@ Published 08.03.2021
 5. A completed health disclaimer form must be presented upon arrival.
 6. Suspension of visa on arrival facilities.
 7. Suspension of e-visa issuance.
-8. Airlines can check the validity of the exit/entry visas for residents of Saudi Arabia at <a href="https://muqeem.sa/#/visa-validity/check">https://muqeem.sa/#/visa-validity/check</a> . 
+8. Airlines can check the validity of the exit/entry visas for residents of Saudi Arabia at <a href="https://muqeem.sa/#/visa-validity/check">https://muqeem.sa/#/visa-validity/check</a> 
 

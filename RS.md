@@ -17,5 +17,5 @@ Published 29.04.2021
 - passengers younger than 12 years;
 - passengers in transit for less than 12 hours;
 - passengers with a COVID-19 vaccination certificate issued by the Serbian authorities.
-3. Passengers could be subject to quarantine for 10 days; details can be found at <a href="https://tinyurl.com/2urx5xwp">https://tinyurl.com/2urx5xwp</a> .
+3. Passengers could be subject to quarantine for 10 days; details can be found at <a href="https://tinyurl.com/2urx5xwp">https://tinyurl.com/2urx5xwp</a> 
 

@@ -30,7 +30,7 @@ Published 07.05.2021
 - permanent residents of Singapore;
 - passengers who are 6 years or younger;
 - passengers (except those with travel history to Fiji, Ireland, Israel, South Africa, Thailand, United Arab Emirates, United Kingdom and Viet Nam within the past 21 days prior to departure for Singapore) with a Business Travel Pass (BTP) or a Pre-Approved Business Pass (PBP);
-- passengers who in the past 21 days have only been in low risk countries/regions listed at <a href="https://safetravel.ica.gov.sg/arriving/overview">https://safetravel.ica.gov.sg/arriving/overview</a> .
+- passengers who in the past 21 days have only been in low risk countries/regions listed at <a href="https://safetravel.ica.gov.sg/arriving/overview">https://safetravel.ica.gov.sg/arriving/overview</a>
 3. Passengers with an Air Travel Pass approval letter issued by Singapore, passengers with a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane and Singapore-China Fast Lane, and passengers with an approval letter from the Ministry of Trade and Industry (MTI) with the reference numbers C01 or C21 must: 
 - have a mobile device with the TraceTogether app already downloaded, with the passenger’s profile registered on the app and the ‘Activate App’ holding screen shown on the app; or
 - if the passenger has a mobile device with the TraceTogether app downloaded but is unable to show the ‘Activate App’ holding screen, have an electronic or physical copy of his/her booking confirmation for a Singapore SIM card from Changi Recommends; or
@@ -45,8 +45,8 @@ Published 07.05.2021
 - nationals of Singapore;
 - permanent residents of Singapore;
 - passengers who are 6 years or younger.
-6. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Please refer to <a href="https://safetravel.ica.gov.sg">https://safetravel.ica.gov.sg</a> .
-7. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense. Passengers should register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for Singapore at <a href="https://safetravel.changiairport.com">https://safetravel.changiairport.com</a> .
+6. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Please refer to <a href="https://safetravel.ica.gov.sg">https://safetravel.ica.gov.sg</a>
+7. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense. Passengers should register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for Singapore at <a href="https://safetravel.changiairport.com">https://safetravel.changiairport.com</a>
 - This does not apply to:
 - passengers who are 6 years or younger;
 - merchant seamen.

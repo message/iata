@@ -8,6 +8,6 @@ Published 11.05.2021
 - The vaccination certificate must state that they received the last dose at least 14 days before arrival. 
 4. Passengers are subject to medical screening and a COVID-19 PCR test upon arrival.
 - This does not apply to passengers younger than 5 years.
-5. Passengers must present a travel authorization obtained before departure at <a href="https://www.travel.gov.sl/">https://www.travel.gov.sl/</a>. 
+5. Passengers must present a travel authorization obtained before departure at <a href="https://www.travel.gov.sl/">https://www.travel.gov.sl/</a> 
 - This does not apply to passengers younger than 5 years.
 
