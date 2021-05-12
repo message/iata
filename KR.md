@@ -9,7 +9,7 @@ Published 12.05.2021
 5. Suspension of visa exemptions for passengers with a Hong Kong (SAR China) passport.
 6. Suspension of visa exemptions for passengers with a Macao (SAR China) passport.
 7. Passengers are subject to quarantine for 14 days.
-- This does not apply to passengers arriving from a country other than Brazil, Botswana, Malawi, Mozambique, Namibia, Paraguay, South Africa, Suriname or Tanzania with a vaccination certificate stating that they received the vaccine in Korea (Rep.) at least 2 weeks before departure.
+- This does not apply to passengers arriving from a country other than Botswana, Brazil, Malawi, Mozambique, Namibia, Paraguay, South Africa, Suriname or Tanzania with a COVID-19 vaccination certificate stating that they received the vaccine in Korea (Rep.) at least 2 weeks before departure.
 8. Passengers are subject to a PCR test for COVID-19 within 3 days after arrival.
 9. A completed Health Declaration Form and a Travel Record Declaration must be presented to the quarantine desk upon arrival.
 10. All flights must arrive at Incheon International Airport (ICN) between 05:00 and 20:00.
