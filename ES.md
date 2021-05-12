@@ -1,4 +1,4 @@
-Published 11.05.2021
+Published 12.05.2021
 1. Until 31 May 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
@@ -17,7 +17,7 @@ This does not apply to:
 - This does not apply to:
 - nationals and residents of Andorra and Spain;
 - passengers in transit for less than 24 hours.
-3. Passengers must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: RT-PCR, RT-LAMP and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation.
+3. Passengers must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: PCR, RT-LAMP, RT-PCR and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation.
 - This does not apply to:
 - passengers younger than 6 years;
 - passengers arriving from Australia, China (People's Rep.), Hong Kong (SAR China), Korea (Rep.), Macao (SAR China), New Zealand, Rwanda, Singapore or Thailand;
