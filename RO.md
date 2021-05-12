@@ -1,5 +1,5 @@
-Published 23.04.2021
-1. Passengers are not allowed to enter until 12 May 2021.
+Published 12.05.2021
+1. Passengers are not allowed to enter until 11 June 2021.
 - This does not apply to:
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
 - family members of a national of an EEA Member State or Switzerland, with a residence permit issued to family members of a Union Citizen by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
@@ -11,7 +11,7 @@ Published 23.04.2021
 - nationals of Moldova (Rep.) with a non-biometric passport and a transit visa;
 - students.
 More exemptions can be found at <a href="https://tinyurl.com/etr884ss">https://tinyurl.com/etr884ss</a> .
-2. Passengers arriving from Andorra, Argentina, Armenia, Aruba, Austria, Azerbaijan, Bahrain, Belgium, Bermuda, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Cape Verde, Chile, Colombia, Costa Rica, Croatia, Curacao, Cyprus, Czechia, Estonia, Eswatini, France, Georgia, Germany, Greece, Hungary, Iran, Italy, Jordan, Kosovo (Rep.), Kuwait, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Maldives, Mongolia, Montenegro, Netherlands, North Macedonia (Rep.), Oman, Paraguay, Peru, Poland, Puerto Rico, Qatar, San Marino, Serbia, Seychelles, Slovenia, South Africa, Sweden, Switzerland, Turkey, Ukraine, Uruguay, USA or Wallis and Futuna Isl. must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
+2. Passengers arriving from Andorra, Anguilla, Argentina, Armenia, Aruba, Austria, Azerbaijan, Bahamas, Bahrain, Belarus, Belgium, Bermuda, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Cape Verde, Chile, Colombia, Costa Rica, Croatia, Curacao, Cyprus, Czechia, Denmark, Ecuador, Estonia, Eswatini, France, Georgia, Germany, Greece, Guyana, Hungary, India, Iran, Iraq, Italy, Jordan, Kazakhstan, Kosovo (Rep.), Kuwait, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Maldives, Monaco, Mongolia, Montenegro, Netherlands, North Macedonia (Rep.), Nepal, Oman, Palestinian Territory, Paraguay, Peru, Poland, Puerto Rico, Qatar, Serbia, Seychelles, Slovenia, South Africa, Spain, Suriname, Sweden, Switzerland, Trinidad and Tobago, Tunisia, Turkey, Ukraine, United Arab Emirates, Uruguay, USA or Wallis and Futuna Isl. must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 4 years;
 - passengers with a consular, diplomatic, official, service or special passport traveling on duty and their family members;
@@ -22,5 +22,5 @@ More exemptions can be found at <a href="https://tinyurl.com/etr884ss">https://t
 - merchant seamen.
 3. A completed passenger locator form must be presented upon arrival. The form can be obtained at <a href="https://www.tarom.ro/sites/default/files/u1348/passenger_form_romania-_ro.pdf">https://www.tarom.ro/sites/default/files/u1348/passenger_form_romania-_ro.pdf</a> or <a href="https://chestionar.stsisp.ro/start">https://chestionar.stsisp.ro/start</a> .
 4. Passengers could be subject to quarantine.
-5. Residence permits issued by Romania which have expired are considered valid with an extension of 90 days after 12 May 2021. 
+5. Residence permits issued by Romania which have expired are considered valid with an extension of 90 days after 11 June 2021. 
 
