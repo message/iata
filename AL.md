@@ -1,4 +1,3 @@
-Published 15.03.2021 
-1. Flights from the United Kingdom are suspended. 
-2. Passengers arriving from the United Kingdom with indirect flights are subject to quarantine for 14 days.
+Published 14.05.2021 
+COVID-19 entry regulations lifted on 13 May 2021.
 

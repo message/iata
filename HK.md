@@ -1,4 +1,4 @@
-Published 07.05.2021
+Published 14.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -15,6 +15,7 @@ Published 07.05.2021
 - deadheading crew;
 - merchant seamen.
 2. Passengers who in the past 21 days have been in or transited through Brazil, India, Nepal, Pakistan, Philippines or South Africa for more than 2 hours are not allowed to enter.
+- This does not apply to merchant seamen.
 3. Passengers transiting through Hong Kong SAR, China must:
 - have a connecting flight booked on the same ticket, and
 - have all the boarding passes printed, and
@@ -38,5 +39,5 @@ All documents must be in Chinese or English.
 - a negative COVID-19 nucleic acid test result issued at most 48 hours before departure, and
 - an approval letter from the Marine Department, and
 - a letter of certification to Department of Health from Hong Kong.
-14. Airline crew are subject to a COVID-19 test upon arrival.
+14. Airline crew and merchant seamen are subject to a COVID-19 nucleic acid test upon arrival.
 

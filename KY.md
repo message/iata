@@ -1,5 +1,5 @@
-Published 14.04.2021
-1. Until 15 May 2021, passengers are not allowed to enter.
+Published 14.05.2021
+1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Cayman Isl.;
 - brothers, sisters, parents, grandparents or fiances of residents of Cayman Isl.;

@@ -1,4 +1,4 @@
-Published 10.05.2021
+Published 14.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -7,7 +7,7 @@ Published 10.05.2021
 - passengers with a visa issued by the Philippines (excluding 9(A) and SRRV visas);
 - passengers with a 9(A) or SRRV visa. They must have a Department of Foreign Affairs (DFA) endorsement document;
 - passengers with an Identification Certificate (IC) or a Certificate of Re-acquisition/Retention of Philippine Citizenship (CRPC) issued by the Philippines.
-2. Until 14 May 2021, passengers who in the past 14 days have been in Bangladesh, India, Nepal, Pakistan or Sri Lanka are not allowed to enter.
+2. Until 31 May 2021, passengers who in the past 14 days have been in Bangladesh, India, Nepal, Pakistan or Sri Lanka are not allowed to enter.
 3. Passengers are not allowed to transit.
 4. Suspension of all visa on arrival facilities.
 5. Suspension of all visa exemptions.

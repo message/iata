@@ -1,7 +1,5 @@
-Published 03.05.2021
-1. Until 15 May 2021, flights from India are suspended.
-2. Until 15 May 2021, passengers who in the past 14 days have been in India are not allowed to enter.
-3. Passengers arriving from a country other than India are not allowed to enter.
+Published 14.05.2021
+1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Australia and their immediate family members;
 - permanent residents of Australia and their immediate family members;
@@ -19,5 +17,5 @@ Published 03.05.2021
 - passengers with a positive COVID-19 PCR test result, and a medical discharge issued at most 4 weeks before departure which specifies that:
 - at least 14 days have passed since they were infected with COVID-19; and
 - 72 hours have passed since recovery of fever and respiratory symptoms; and
-- passengers have recovered from COVID-19 and are not contagious.
+- passengers who have recovered from COVID-19 and are not contagious.
 
