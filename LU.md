@@ -1,4 +1,4 @@
-Published 01.04.2021
+Published 14.05.2021
 1. Until 30 June 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -16,7 +16,7 @@ Published 01.04.2021
 - military personnel;
 - merchant seamen;
 - passengers with a certificate issued by the Passport, Visa and Legalization Office (BPVL).
-2. Until 15 May 2021, passengers must have a negative result of a test that detects SARS-CoV-2 nucleic acid or a COVID-19 rapid antigen test, issued at most 72 hours before departure from the first embarkation point. The test result must be in English, French, German, Italian, Luxembourgish, Portuguese or Spanish. A certified translation to English, French, German or Luxembourgish is accepted.
+2. Until 30 June 2021, passengers must have a negative result of a test that detects SARS-CoV-2 nucleic acid or a COVID-19 rapid antigen test, issued at most 72 hours before departure from the first embarkation point. The test result must be in English, French, German, Italian, Luxembourgish, Portuguese or Spanish. A certified translation to English, French, German or Luxembourgish is accepted.
 - This does not apply to:
 - passengers younger than 6 years;
 - passengers returning to Luxembourg within 72 hours if they stayed in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; 

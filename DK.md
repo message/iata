@@ -15,7 +15,7 @@ Published 14.05.2021
 - This does not apply to:
 - passengers younger than 13 years;
 - passengers traveling to Faroe Islands (FAE);
-- passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 84 days before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish;
+- passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 180 days before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish;
 - passengers with a COVID-19 vaccination certificate if they received the vaccine at least 2 weeks and at most 180 days before departure. The certificate must be issued in Switzerland or an EEA Member State. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, South Africa, Zambia or Zimbabwe. Details can be found at <a href="http://tinyurl.com/pbd4c5nj">http://tinyurl.com/pbd4c5nj</a> .
 3. Passengers are subject to a COVID-19 antigen test upon arrival.
 - This does not apply to:
