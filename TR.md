@@ -5,7 +5,9 @@ Published 14.05.2021
 3. Passengers and airline crew are subject to medical screening.
 4. Until 30 May 2021, passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
-- nationals of Hungary with a vaccination certificate stating that they received the vaccine in Hungary;
+- nationals of Hungary with a COVID-19 vaccination certificate stating that they received the vaccine in Hungary;
+- nationals of Serbia with a COVID-19 vaccination certificate stating that they received the vaccine in Serbia;
+- nationals of Serbia and Turkey who are younger than 18 years. They must be accompanied by family members with a COVID-19 vaccination certificate;
 - passengers younger than 6 years;
 - merchant seamen;
 - passengers arriving from Australia, China (People's Rep.), Estonia, Hong Kong (SAR China), Japan, Korea (Rep.), Latvia, Luxembourg, New Zealand, Singapore, Thailand, Ukraine, United Kingdom or Viet Nam.
