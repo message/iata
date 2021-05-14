@@ -8,7 +8,7 @@ Published 14.05.2021
 - nationals of Hungary with a vaccination certificate stating that they received the vaccine in Hungary;
 - passengers younger than 6 years;
 - merchant seamen;
-- effective 16 May 2021, passengers arriving from Australia, China (People's Rep.), Chinese Taipei, Estonia, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Latvia, Luxembourg, New Zealand, Singapore, Thailand, Ukraine, United Kingdom or Viet Nam.
+- passengers arriving from Australia, China (People's Rep.), Estonia, Hong Kong (SAR China), Japan, Korea (Rep.), Latvia, Luxembourg, New Zealand, Singapore, Thailand, Ukraine, United Kingdom or Viet Nam.
 5. A completed "Traveler Entry Form" must be presented at check-in and upon arrival. The form can be obtained at <a href="https://register.health.gov.tr">https://register.health.gov.tr</a> .
  - This does not apply to passengers younger than 6 years.
 
