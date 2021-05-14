@@ -1,10 +1,10 @@
-Published 05.05.2021
+Published 14.05.2021
 1. Visa on arrival facility restarted.
 2. Flights from Addis Ababa (ABB) and Baku (BAK) are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 3. Flights from Iraq, Lebanon and Syria are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
-4. Until 15 May 2021, passengers are not allowed to enter.
+4. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Bahrain;
 - nationals of Kuwait, Oman, Saudi Arabia and United Arab Emirates;

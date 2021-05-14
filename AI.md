@@ -1,6 +1,6 @@
-Published 06.05.2021
-1. Until 21 May 2021, passengers are not allowed to enter.
-Effective 22 May 2021:
+Published 14.05.2021
+1. Until 24 May 2021, passengers are not allowed to enter.
+Effective 25 May 2021:
 2. Passengers must complete an "Application for Entry" before departure at <a href="https://ivisitanguilla.com/">https://ivisitanguilla.com/</a> . They must present an "Electronic Travel Authorization Certificate" upon arrival.
 3. Passengers must have a negative COVID-19 RT-PCR test result issued at most 5 days before arrival. 
 4. Passengers must have health insurance to cover COVID-19 expenses. 
