@@ -10,4 +10,3 @@ Published 03.05.2021
 2. Passengers must have a printed negative COVID-19 PCR test result issued at most 48 hours before departure of the last direct flight to Azerbaijan.
 3. Passengers are subject to self-isolation for 14 days.
 
-<p>
