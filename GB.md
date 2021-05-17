@@ -1,16 +1,12 @@
-Published 12.05.2021
+Published 17.05.2021
 1. Passengers who have been in or transited through Angola, Argentina, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Ecuador, Eswatini, Ethiopia, French Guiana, Guyana, India, Kenya, Lesotho, Malawi, Maldives, Mozambique, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Qatar, Rwanda, Seychelles, Somalia, South Africa, Suriname, Tanzania, Turkey, United Arab Emirates, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days are not allowed to enter.
 This does not apply to:
 - British nationals;
 - nationals of Ireland (Rep.);
 - residents of the United Kingdom.
-2. Passengers are subject to quarantine for 10 days. Details can be found for:
-- England at: <a href="https://www.gov.uk/guidance/booking-and-staying-in-a-quarantine-hotel-when-you-arrive-in-england">https://www.gov.uk/guidance/booking-and-staying-in-a-quarantine-hotel-when-you-arrive-in-england</a> ;
-- Scotland at: <a href="https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/pages/self-isolation/">https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/pages/self-isolation/</a> ;
-- Wales at: <a href="https://gov.wales/how-self-isolate-when-you-travel-wales-coronavirus-covid-19">https://gov.wales/how-self-isolate-when-you-travel-wales-coronavirus-covid-19</a> ;
-- Northern Ireland at: <a href="https://www.nidirect.gov.uk/articles/coronavirus-covid-19-international-travel-advice">https://www.nidirect.gov.uk/articles/coronavirus-covid-19-international-travel-advice</a> .
-3. Passengers are subject to a COVID-19 test on day 2 and day 8 after arrival at their own expense. They must have a payment confirmation obtained at: <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a> or <a href="https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals">https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals</a> .
-4. Passengers entering the United Kingdom must complete a "Public Health Passenger Locator Form". The form must include the booking reference number for the 2 COVID-19 tests or the booking reference number for the quarantine hotel booking. The form can be obtained at <a href="https://www.gov.uk/provide-journey-contact-details-before-travel-uk">https://www.gov.uk/provide-journey-contact-details-before-travel-uk</a> and must be presented at check-in and to immigration upon arrival.
+2. Passengers arriving from Australia, Brunei Darussalam, Falkland Isl., Faroe Isl., Gibraltar, Iceland, Israel, New Zealand, Portugal, Singapore or St. Helena are subject to a COVID-19 test on day 2 after arrival at their own expense. They must have a payment confirmation obtained at: <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a> or <a href="https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals">https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals</a> .
+3. Passengers arriving from a country other than Australia, Brunei Darussalam, Falkland Isl., Faroe Isl., Gibraltar, Iceland, Israel, New Zealand, Portugal, Singapore or St. Helena are subject to a COVID-19 test on day 2 and day 8 after arrival at their own expense. They must have a payment confirmation obtained at: <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a> or <a href="https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals">https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals</a> .
+4. Passengers entering the United Kingdom must complete a "Public Health Passenger Locator Form". The form must include the booking reference number for the required COVID-19 tests or the booking reference number for the quarantine hotel booking. The form can be obtained at <a href="https://www.gov.uk/provide-journey-contact-details-before-travel-uk">https://www.gov.uk/provide-journey-contact-details-before-travel-uk</a> and must be presented at check-in and to immigration upon arrival.
 - This does not apply to military personnel with an exemption letter from the Ministry of Defence.
 - More exemptions can be found at <a href="https://tinyurl.com/yytxv2cp">https://tinyurl.com/yytxv2cp</a> .
 5. Passengers transiting through the United Kingdom must complete a "Public Health Passenger Locator Form". The form can be obtained at <a href="https://www.gov.uk/provide-journey-contact-details-before-travel-uk">https://www.gov.uk/provide-journey-contact-details-before-travel-uk</a> and must be presented at check-in and to immigration upon arrival.
@@ -32,6 +28,11 @@ More details can be found at <a href="https://quarantinehotelbookings.ctmportal.
 - This does not apply to:
 - merchant seamen;
 - military personnel with an exemption letter from the Ministry of Defence.
-9. Flights from Ethiopia, Oman, Qatar and United Arab Emirates are suspended.
-10. Airline crew not residing in the United Kingdom are subject to self-isolation in a hotel until their next flight.
+9. Passengers could be subject to quarantine for 10 days. Details can be found for:
+- England at: <a href="https://www.gov.uk/guidance/booking-and-staying-in-a-quarantine-hotel-when-you-arrive-in-england">https://www.gov.uk/guidance/booking-and-staying-in-a-quarantine-hotel-when-you-arrive-in-england</a> ;
+- Scotland at: <a href="https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/pages/self-isolation/">https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/pages/self-isolation/</a> ;
+- Wales at: <a href="https://gov.wales/how-self-isolate-when-you-travel-wales-coronavirus-covid-19">https://gov.wales/how-self-isolate-when-you-travel-wales-coronavirus-covid-19</a> ;
+- Northern Ireland at: <a href="https://www.nidirect.gov.uk/articles/coronavirus-covid-19-international-travel-advice">https://www.nidirect.gov.uk/articles/coronavirus-covid-19-international-travel-advice</a> .
+10. Flights from Ethiopia, Oman, Qatar and United Arab Emirates are suspended.
+11. Airline crew not residing in the United Kingdom are subject to self-isolation in a hotel until their next flight.
 
