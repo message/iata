@@ -1,4 +1,4 @@
-Published 14.05.2021
+Published 17.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of the Netherlands;
@@ -7,7 +7,7 @@ Published 14.05.2021
 - passengers with a long-term residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden;
 - family members of a national of an EEA Member State or Switzerland, with a residence permit issued to family members of a Union Citizen by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
 - passengers with a long-term "D" visa issued by Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland;
-- residents of Australia, Korea (Rep.), New Zealand, Rwanda, Singapore, Thailand and Uruguay;
+- residents of Australia, Israel, Korea (Rep.), New Zealand, Rwanda, Singapore, Thailand and Uruguay;
 - passengers with a consular, diplomatic, official, service or special passports traveling on duty;
 - passengers with a Schengen visa issued after 19 March 2020 traveling through the Netherlands to another Schengen Member State;
 - merchant seamen;
@@ -24,12 +24,12 @@ Published 14.05.2021
 - nationals of Albania, Andorra, Antigua and Barbuda, Argentina, Australia, Bahamas, Barbados, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Canada, Chile, Colombia, Costa Rica, Dominica, El Salvador, Grenada, Guatemala, Honduras, Japan, Kiribati, Korea (Rep.), Malaysia, Marshall Isl., Mauritius, Mexico, Micronesia (Federated States), Montenegro, New Zealand, Nicaragua, North Macedonia (Rep.), Palau, Panama, Paraguay, Peru, Samoa, San Marino, Seychelles, Singapore, Solomon Isl., St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Timor-Leste, Tonga, Trinidad and Tobago, Tuvalu, USA, United Arab Emirates, Uruguay, Vanuatu and Venezuela with an official proof that the country of destination is allowing them to enter;
 - family members of a national of an EEA Member State or Switzerland, with a residence permit issued to family members of a Union Citizen by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom;
 - passengers with a long-term "D" visa issued by Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland;
-- residents of Australia, Korea (Rep.), New Zealand, Rwanda, Singapore, Thailand and Uruguay;
+- residents of Australia, Israel, Korea (Rep.), New Zealand, Rwanda, Singapore, Thailand and Uruguay;
 - passengers with a consular, diplomatic, official, service or special passports traveling on duty;
 - passengers with a visa issued on or after 19 March 2020 by the country of final destination;
 - merchant seamen;
 - military personnel.
-3. Until 1 June 2021, flights from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep. Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay and Venezuela to the Netherlands are suspended.
+3. Until 1 June 2021, flights from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep. Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay and Venezuela are suspended.
 4. Passengers entering the Netherlands must have:
 - a negative COVID-19 test taken at most 24 hours before boarding the flight of the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before boarding the flight of the first embarkation point, and 
@@ -37,7 +37,7 @@ Published 14.05.2021
 This does not apply to:
 - passengers younger than 13 years;
 - passengers with a diplomatic passport;
-- passengers arriving from Australia, China (People's Rep.), Finland, Greece (the North Aegean region), Hong Kong (SAR China), Iceland, Korea (Rep.), Macao (SAR China), New Zealand, Portugal, Rwanda, Singapore, Spain (the Balearic islands), St. Eustatius and Saba, St. Maarten or Thailand;
+- passengers arriving from Australia, China (People's Rep.), Finland, Greece (the North Aegean region), Hong Kong (SAR China), Iceland, Ireland (Rep.), Israel, Korea (Rep.), Macao (SAR China), Malta, New Zealand, Portugal, Rwanda, Singapore, Spain (the Balearic islands), St. Eustatius and Saba, St. Maarten or Thailand;
 - merchant seamen;
 - passengers with a NATO Travel Order or a NATO-2 visa;
 - passengers with:
@@ -52,7 +52,7 @@ This does not apply to:
 This does not apply to:
 - passengers younger than 13 years;
 - passengers with a diplomatic passport;
-- passengers arriving from Australia, China (People's Rep.), Finland, Greece (the North Aegean region), Hong Kong (SAR China), Iceland, Korea (Rep.), Macao (SAR China), New Zealand, Portugal, Rwanda, Singapore, Spain (the Balearic islands), St. Eustatius and Saba, St. Maarten or Thailand;
+- passengers arriving from Australia, China (People's Rep.), Finland, Greece (the North Aegean region), Hong Kong (SAR China), Iceland, Ireland (Rep.), Israel, Korea (Rep.), Macao (SAR China), Malta, New Zealand, Portugal, Rwanda, Singapore, Spain (the Balearic islands), St. Eustatius and Saba, St. Maarten or Thailand;
 - passengers with a NATO Travel Order or a NATO-2 visa;
 - merchant seamen;
 - passengers with:

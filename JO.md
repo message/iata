@@ -1,6 +1,6 @@
-Published 10.05.2021
-1. Until 17 May 2021, flights from India are suspended.
-2. Until 17 May 2021, passengers who in the past 45 days have been in India are not allowed to enter.
+Published 17.05.2021
+1. Until 31 May 2021, flights from India are suspended.
+2. Until 31 May 2021, passengers who in the past 45 days have been in India are not allowed to enter.
 - This does not apply to nationals of Jordan and their spouses and children.
 3. Passengers are not allowed to transit through Jordan for more than 10 hours.
 4. Passengers must have health insurance valid for the whole period of intended stay.
