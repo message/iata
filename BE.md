@@ -1,4 +1,4 @@
-Published 28.04.2021
+Published 17.05.2021
 1. Passengers arriving from Brazil, India or South Africa are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Belgium;
@@ -33,10 +33,9 @@ Published 28.04.2021
 5. A completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a> or <a href="https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM_PassengerLocatorForm_ENG.pdf">https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM_PassengerLocatorForm_ENG.pdf</a> .
 6. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a> 
 7. Passengers are subject to medical screening.
-8. Passengers entering or transiting through Belgium must have a negative COVID-19 PCR test result. The test must have been taken at most 72 hours before departure from the first embarkation point. The test result must be in Dutch, English, French or German.
+8. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Dutch, English, French or German.
 - This does not apply to:
 - passengers residing in Belgium;
-- passengers younger than 6 years;
-- passengers transiting through Belgium to a non-Schengen Member State.
+- passengers younger than 6 years.
 9. Residence permits issued by Italy with an annotation of ‘ASILO’ are not accepted for entering or transiting through Belgium.
 

@@ -1,4 +1,4 @@
-Published 10.05.2021
+Published 17.05.2021
 1. Passengers arriving from a country other than Botswana, Brazil, Colombia, Eswatini, India, Kenya, Lesotho, Malawi, Mozambique, Peru, South Africa, Tanzania, Zambia or Zimbabwe are not allowed to enter. 
 - This does not apply to:
 - nationals of Czechia; 
@@ -30,7 +30,7 @@ Published 10.05.2021
 - passengers with a “D" visa issued by Czechia and a COVID-19 recovery certificate issued at least 14 days and at most 90 days before arrival. The certificate must be issued in Switzerland or an EEA Member State, in Czech or English; 
 - passengers with a COVID-19 recovery certificate issued by a consulate or embassy of Czechia;
 - passengers arriving from Australia, Israel, Korea (Rep.), New Zealand, Singapore, Thailand or Vatican City (Holy See). 
-4. Passengers arriving from Austria, Belgium, Bulgaria, Denmark, Estonia, Finland, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Luxembourg, Malta, Monaco, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain or Switzerland must have:
+4. Passengers arriving from Andorra, Austria, Belgium, Bulgaria, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Luxembourg, Malta, Monaco, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain or Switzerland must have:
 - a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point; or 
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
@@ -41,8 +41,8 @@ Published 10.05.2021
 - passengers with a residence permit issued by Czechia and a COVID-19 recovery certificate issued at least 14 days and at most 90 days before arrival. The certificate must be issued in Switzerland or an EEA Member State, in Czech or English;
 - passengers with a "D" visa issued by Czechia and a COVID-19 recovery certificate issued at least 14 days and at most 90 days before arrival. The certificate must be issued in Switzerland or an EEA Member State, in Czech or English; 
 - passengers with a COVID-19 recovery certificate issued by a consulate or embassy of Czechia;
-- passengers with a COVID-19 vaccination certificate issued in Czechia if they received the vaccine at least 14 days before arrival. 
-5. Passengers arriving from a country other than Australia, Austria, Belgium, Botswana, Brazil, Bulgaria, Colombia, Denmark, Estonia, Eswatini, Finland, Germany, Greece, Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Kenya, Korea (Rep.), Latvia, Lesotho, Liechtenstein, Luxembourg, Malawi, Malta, Monaco, Mozambique, New Zealand, Norway, Peru, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, South Africa, Spain, Switzerland, Tanzania, Thailand, Vatican City (Holy See), Zambia or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
+- passengers with a COVID-19 vaccination certificate issued in Austria, Czechia, Germany, Hungary, Poland, Slovakia or Slovenia if they received the vaccine at least 22 days before arrival.
+5. Passengers arriving from a country other than Andorra, Australia, Austria, Belgium, Botswana, Brazil, Bulgaria, Colombia, Denmark, Estonia, Eswatini, France, Finland, Germany, Greece, Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Kenya, Korea (Rep.), Latvia, Lesotho, Liechtenstein, Luxembourg, Malawi, Malta, Monaco, Mozambique, New Zealand, Norway, Peru, Poland, Portugal, Romania, Singapore, San Marino, Slovakia, Slovenia, South Africa, Spain, Switzerland, Tanzania, Thailand, Vatican City (Holy See), Zambia or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 5 years;
 - nationals of Czechia with a service passport traveling on duty for a maximum stay of 72 hours;
@@ -66,4 +66,3 @@ This does not apply to:
 7. Passengers could be subject to a COVID-19 test upon arrival and quarantine.
 
 
-<p>

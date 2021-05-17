@@ -1,8 +1,8 @@
-Published 14.05.2021
+Published 17.05.2021
 1. Until 31 May 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
-- residents of Australia, China (People's Rep.), Hong Kong (SAR China), Korea (Rep.), Macao (SAR China), New Zealand, Rwanda, Singapore or Thailand;
+- residents of Australia, China (People's Rep.), Hong Kong (SAR China), Israel, Korea (Rep.), Macao (SAR China), New Zealand, Rwanda, Singapore or Thailand;
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden or Switzerland;
 - passengers with a long-term visa issued by a Schengen Member State returning via Spain to their country of residence;
 - passengers with a diplomatic passport traveling on duty;
