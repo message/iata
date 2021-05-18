@@ -1,10 +1,10 @@
-Published 14.05.2021
-1. Until 30 May 2021, passengers are not allowed to enter.
+Published 18.05.2021
+1. Until 31 May 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See) and their family members;
 - passengers with a long term residence permit or a long term "D" visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
 - residents of Australia, Korea (Rep.), New Zealand, Rwanda, Singapore and Thailand;
-- passengers entering Croatia to transit by land to a third country for a maximum stay of 12 hours. They must prove that they can enter the destination country;
+- passengers traveling through Croatia to a third country for a maximum stay of 12 hours. They must prove that they can enter the destination country;
 - passengers traveling as tourists with proof of paid accommodation;
 - passengers traveling on business with an invitation letter from a company in Croatia;
 - passengers with a diplomatic passport traveling on duty;
