@@ -1,4 +1,4 @@
-Published 17.05.2021
+Published 18.05.2021
 1. Until 31 May 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
@@ -24,7 +24,8 @@ This does not apply to:
 - passengers arriving from Nordland, Troms og Finnmark or Trondelag in Norway;
 - passengers arriving from Pohjois-ja Ita-Suomi in Finland;
 - passengers with a positive COVID-19 PCR or RT-PCR test and a recovery certificate specifying that the passenger is fit to travel;
-- deadheading crew.
+- deadheading crew;
+- effective 24 May 2021, passengers arriving from Aland or Lansi-Suomi in Finland and passengers arriving from Israel.
 4. Passengers must complete an "FCS Health Control Form" at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> This will generate a QR code which must be presented upon arrival.
 - This does not apply to deadheading crew.
 5. Passengers could be subject to quarantine for 10 days; details can be found at <a href="https://tinyurl.com/ucevbmtc">https://tinyurl.com/ucevbmtc</a> 

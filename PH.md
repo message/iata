@@ -1,4 +1,4 @@
-Published 17.05.2021
+Published 18.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -8,17 +8,18 @@ Published 17.05.2021
 - passengers with a 9(A) or SRRV visa. They must have a Department of Foreign Affairs (DFA) endorsement document;
 - passengers with an Identification Certificate (IC) or a Certificate of Re-acquisition/Retention of Philippine Citizenship (CRPC) issued by the Philippines.
 2. Until 31 May 2021, passengers who in the past 14 days have been in Bangladesh, India, Nepal, Oman, Pakistan, Sri Lanka or United Arab Emirates are not allowed to enter.
+- This does not apply to nationals of the Philippines traveling on repatriation flights.
 3. Passengers are not allowed to transit.
 4. Suspension of all visa on arrival facilities.
 5. Suspension of all visa exemptions.
 6. Merchant seamen with a 9(C) visa issued by the Philippines must have a negative COVID-19 RT-PCR test result issued at most 72 hours before arrival.
 7. Passengers traveling to Davao (DVO) must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure.
 - This does not apply to merchant seamen with a 9(C) visa issued by the Philippines.
-8. Passengers must have a reservation confirmation of a hotel approved by Tourism and Health Agencies for at least 10 days. The hotel must be listed at <a href="https://www.thepoortraveler.net/2020/07/doh-accredited-hotels-quarantine-manila/">https://www.thepoortraveler.net/2020/07/doh-accredited-hotels-quarantine-manila/</a> .
+8. Passengers must have a reservation confirmation of a hotel approved by Tourism and Health Agencies for at least 10 days. The hotel must be listed at <a href="https://www.philippineairlines.com/en/ph/home/covid-19/ArrivingInThePH/ManilaQuarantineHotels">https://www.philippineairlines.com/en/ph/home/covid-19/ArrivingInThePH/ManilaQuarantineHotels</a> 
 - This does not apply to:
 - nationals of the Philippines who are Overseas Filipino Workers (OFW);
 - passengers with a 9(E) visa.
-9. A completed "Case Investigation Form" must be presented upon arrival. The form can be obtained at <a href="https://c19.redcross.org.ph/arriving-passengers">https://c19.redcross.org.ph/arriving-passengers</a> .
+9. A completed "Case Investigation Form" must be presented upon arrival. The form can be obtained at <a href="https://c19.redcross.org.ph/arriving-passengers">https://c19.redcross.org.ph/arriving-passengers</a>
 10. Passengers are subject to a COVID-19 RT-PCR test on day 7 after arrival and quarantine for 14 days.
 11. Passengers must install the app 'TRAZE' in their personal device before departure.
 
