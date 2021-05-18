@@ -1,4 +1,4 @@
-Published 10.05.2021
+Published 18.05.2021
 1. Until 24 May 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Norway;
@@ -7,7 +7,7 @@ Published 10.05.2021
 - more COVID-19 related information can be found at <a href="https://www.udi.no/en/about-the-corona-situation/entry-to-norway-for-all-citizens/">https://www.udi.no/en/about-the-corona-situation/entry-to-norway-for-all-citizens/</a> .
 2. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="http://www.entrynorway.no">www.entrynorway.no</a> .
 - This does not apply to airline crew who are not leaving the aircraft.
-3. Passengers must have a negative COVID-19 PCR or rapid antigen test taken at most 24 hours before departure from the first embarkation point. The test result must be in Danish, English, French, German, Norwegian or Swedish.
+3. Passengers must have a negative COVID-19 test taken at most 24 hours before departure from the first embarkation point. Tests accepted are: PCR, rapid antigen and RT-PCR. The test result must be in Danish, English, French, German, Norwegian or Swedish.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers arriving from Denmark (Greenland and Faroe Isl.), certain hospital districts in Finland or Iceland. More details can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> ;
