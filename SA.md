@@ -1,11 +1,10 @@
-Published 08.03.2021
+Published 18.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Saudi Arabia;
 - first degree family members of nationals of Saudi Arabia. They must be traveling together;
 - nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must not have transited through or been in Argentina, Brazil, Egypt, France, Germany, India, Indonesia, Ireland (Rep.), Italy, Japan, Lebanon, Pakistan, Portugal, South Africa, Sweden, Switzerland, Turkey, USA, United Arab Emirates or United Kingdom in the past 14 days;
 - residents of Saudi Arabia. They must not have transited through or been in Argentina, Brazil, Egypt, France, Germany, India, Indonesia, Ireland (Rep.), Italy, Japan, Lebanon, Pakistan, Portugal, South Africa, Sweden, Switzerland, Turkey, USA, United Arab Emirates or United Kingdom in the past 14 days;
-- residents of Saudi Arabia. They must have not been in Argentina, Brazil, India, Lebanon, South Africa or United Kingdom in the past 14 days;
 - passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia (tourist visa are not accepted). They must not have transited through or have been in Argentina, Brazil, Egypt, France, Germany, India, Indonesia, Ireland (Rep.), Italy, Japan, Lebanon, Pakistan, Portugal, South Africa, Sweden, Switzerland, Turkey, USA, United Arab Emirates or United Kingdom;
 - domestic workers of nationals of Saudi Arabia. They must be accompanied by the sponsor;
 - domestic workers of nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must be accompanied by the sponsor or one of the first degree family members of the sponsor. They must not have transited through or have been in Argentina, Brazil, Egypt, France, Germany, India, Indonesia, Ireland (Rep.), Italy, Japan, Lebanon, Pakistan, Portugal, South Africa, Sweden, Switzerland, Turkey, USA, United Arab Emirates or United Kingdom in the past 14 days.

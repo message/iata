@@ -1,17 +1,18 @@
-Published 07.05.2021
+Published 18.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Chinese Taipei travel document;
 - passengers with an Alien Resident Certificate;
-- passengers with a diplomatic or an official passport traveling on duty;
-- passengers traveling on business. They must be able to prove their business travel purpose;
-- passengers with a "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visa.
-2. Passengers who in the past 14 days have been in or transited through India are not allowed to enter.
+- until 18 May 2021, passengers with a diplomatic or an official passport traveling on duty;
+- until 18 May 2021, passengers traveling on business. They must be able to prove their business travel purpose;
+- until 18 May 2021, passengers with a "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visa;
+- effective 19 May 2021, passengers with a "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visa with "ER" stated on remarks.
+2. Until 18 May 2021, passengers who in the past 14 days have been in or transited through India are not allowed to enter.
 - This does not apply to:
 - passengers with a Chinese Taipei travel document;
 - passengers with an Alien Resident Certificate.
 3. Passengers are not allowed to transit.
-- This does not apply to passengers transiting through Taoyuan (TPE) with a confirmed onward ticket for a connecting flight within 8 hours operated by the same airline group.
+- Until 18 May 2021, this does not apply to passengers transiting through Taoyuan (TPE) with a confirmed onward ticket for a connecting flight within 8 hours operated by the same airline group.
 4. Passengers are subject to quarantine for 14 days.
 5. Passengers entering or transiting through Chinese Taipei must have a medical certificate with a negative Coronavirus (COVID-19) RT-PCR test result issued at most 3 working days before departure from the first embarkation point. Details can be found at <a href="https://www.cdc.gov.tw/Category/MPage/XQ9r73gXAgEfJZV9zm6gaA">https://www.cdc.gov.tw/Category/MPage/XQ9r73gXAgEfJZV9zm6gaA</a> .
 - This does not apply to:
