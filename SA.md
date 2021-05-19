@@ -1,4 +1,4 @@
-Published 18.05.2021
+Published 19.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Saudi Arabia;
@@ -13,6 +13,7 @@ Published 18.05.2021
 - nationals of Saudi Arabia;
 - passengers younger than 8 years.
 3. Passengers could be subject to quarantine.
+- effective 20 May 2021, this does not apply to passengers with a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival.
 4. Airline crew are subject to quarantine until their next flight.
 5. A completed health disclaimer form must be presented upon arrival.
 6. Suspension of visa on arrival facilities.
