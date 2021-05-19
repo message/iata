@@ -34,7 +34,7 @@ The test result must be in English, French or German.
 - passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. The certificate must state that they received the vaccine at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;
 - passengers transiting through Germany to a non-Schengen Member State.
 6. Airline crew entering Germany from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe must have:
- - a negative COVID-19 antigen test taken at most 24 hours before arrival; or
+- a negative COVID-19 antigen test taken at most 24 hours before arrival; or
 - a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.
 The test result must be in English, French or German.
 7. Airline crew entering Germany from Andorra, Argentina, Armenia, Aruba, Bahrain, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Cape Verde, Colombia, Costa Rica, Croatia, Curacao, Cyprus, Ecuador, Egypt, Estonia, France, Georgia, Hungary, Iran, Jordan, Kosovo (Rep.), Kuwait, Latvia, Lebanon, Lithuania, Maldives, Malta, Mexico, Mongolia, Montenegro, Netherlands, North Macedonia (Rep.), Oman, Palestinian Territory, Paraguay, Poland, Qatar, Serbia, Seychelles, Slovakia, Slovenia, St. Maarten, Sudan, Sweden, Syria, Tanzania, Tunisia, Turkey, Ukraine or Uruguay must have:

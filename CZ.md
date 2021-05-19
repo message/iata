@@ -1,5 +1,5 @@
 Published 17.05.2021
-1. Passengers arriving from a country other than Botswana, Brazil, Colombia, Eswatini, India, Kenya, Lesotho, Malawi, Mozambique, Peru, South Africa, Tanzania, Zambia or Zimbabwe are not allowed to enter. 
+1. Passengers are not allowed to enter. 
 - This does not apply to:
 - nationals of Czechia; 
 - nationals of Andorra, Australia, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand and Vatican City (Holy See);
