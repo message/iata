@@ -1,4 +1,4 @@
-Published 17.05.2021
+Published 19.05.2021
 1. Passengers arriving from a country other than Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals of EEA Member States and Switzerland;
@@ -30,7 +30,7 @@ The test result must be in English, French or German.
 The test result must be in English, French or German.
 - This does not apply to:
 - passengers younger than 6 years;
-- passengers with a COVID-19 recovery certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe;
+- passengers with a positive COVID-19 PCR, RT-LAMP or TMA test result issued at least 28 days and at most 6 months before arrival. They must in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe;
 - passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. The certificate must state that they received the vaccine at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;
 - passengers transiting through Germany to a non-Schengen Member State.
 6. Airline crew entering Germany from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe must have:

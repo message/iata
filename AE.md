@@ -1,4 +1,4 @@
-Published 14.05.2021
+Published 19.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -56,19 +56,19 @@ Published 14.05.2021
 - nationals of United Arab Emirates;
 - passengers younger than 12 years;
 - passengers with disabilities.
-14. Passengers entering Ras Al Khaimah (RKT) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country.
+14. Passengers entering Ras Al Khaimah (RKT) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country.
 - This does not apply to:
 - nationals of United Arab Emirates;
 - passengers younger than 12 years;
 - passengers with disabilities;
 - passengers arriving from Bangladesh, India, Nepal, Pakistan or Sri Lanka.
-15. Passengers entering Sharjah (SHJ) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. 
+15. Passengers entering Sharjah (SHJ) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. 
 - This does not apply to:
 - nationals of United Arab Emirates;
 - passengers younger than 12 years;
 - passengers with disabilities;
 - passengers arriving from Bangladesh, India, Nepal, Pakistan or Sri Lanka.
-16. Passengers entering or transiting through Abu Dhabi (AUH) must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. Passengers arriving from Egypt, Ethiopia, Lebanon or Sudan must have a QR code in the test result.
+16. Passengers entering or transiting through Abu Dhabi (AUH) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. Passengers arriving from Egypt, Ethiopia, Lebanon or Sudan must have a QR code in the test result.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with disabilities;
@@ -84,6 +84,6 @@ Published 14.05.2021
 - This does not apply to passengers with a resident visa.
 25. Passengers arriving at Sharjah (SHJ) must download the ALHOSN App.
 26. Flights from India and Yemen are suspended.
-27. Until 21 May 2021, flights from Nigeria and South Africa are suspended .
+27. Until 4 June 2021, flights from Nigeria and South Africa are suspended .
 28. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
 
