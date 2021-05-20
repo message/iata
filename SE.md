@@ -1,4 +1,4 @@
-Published 31.03.2021
+Published 20.05.2021
 1. Passengers are not allowed to enter until 31 May 2021.
 - This does not apply to:
 - nationals of Sweden and their family members. More details on family members can be found at: <a href="https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/">https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/</a> ;
@@ -9,7 +9,7 @@ Published 31.03.2021
 - family members of passengers with a residence permit issued by Sweden. The residence permit must be issued with a validity of more than 3 months;
 - passengers with a residence permit issued by Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Switzerland or Vatican City (Holy See) and their family members. The residence permit must be issued with a validity of more than 3 months;
 - passengers with a national visa issued by Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) and their family members. The visa must be issued with a validity of more than 3 months;
-- residents of Australia, Korea (Rep.), New Zealand, Rwanda, Singapore and Thailand;
+- residents of Australia, Israel, Korea (Rep.), New Zealand, Rwanda, Singapore and Thailand;
 - merchant seamen;
 - military personnel;
 - students;
