@@ -1,4 +1,4 @@
-Published 19.05.2021
+Published 20.05.2021
 1. Until 31 May 2021, passengers are not allowed to enter.
 This does not apply to:
 - effective 19 of May until 23 of May, passengers with an invitation letter issued by the International Tourism Trade Fair (FITUR);
@@ -17,7 +17,7 @@ This does not apply to:
 2. Until 25 May 2021, flights from Brazil and South Africa to Spain are suspended. 
 - This does not apply to:
 - nationals and residents of Andorra and Spain;
-- passengers in transit for less than 24 hours.
+- passengers transiting through Spain to a non-Schengen Member State.
 3. Passengers must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: PCR, RT-LAMP, RT-PCR and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation.
 - This does not apply to:
 - passengers younger than 6 years;
@@ -29,6 +29,6 @@ This does not apply to:
 - effective 24 May 2021, passengers arriving from Aland or Lansi-Suomi in Finland and passengers arriving from Israel.
 4. Passengers must complete an "FCS Health Control Form" at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> This will generate a QR code which must be presented upon arrival.
 - This does not apply to deadheading crew.
-5. Passengers could be subject to quarantine for 10 days; details can be found at <a href="https://tinyurl.com/ucevbmtc">https://tinyurl.com/ucevbmtc</a> 
+5. Passengers could be subject to quarantine for up to 10 days; details can be found at <a target="_blank" href="https://tinyurl.com/ucevbmtc">https://tinyurl.com/ucevbmtc</a> .
 6. Passengers are subject to medical screening upon arrival.
 
