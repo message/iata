@@ -14,9 +14,10 @@ Published 20.05.2021
 - passengers younger than 8 years.
 3. Passengers could be subject to quarantine.
 - This does not apply to passengers with a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival.
-4. Airline crew are subject to quarantine until their next flight.
-5. A completed health disclaimer form must be presented upon arrival.
-6. Suspension of visa on arrival facilities.
-7. Suspension of e-visa issuance.
-8. Airlines can check the validity of the exit/entry visas for residents of Saudi Arabia at <a href="https://muqeem.sa/#/visa-validity/check">https://muqeem.sa/#/visa-validity/check</a> 
+4. Passengers with a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival must complete "The registration immunization information form found at <a href="https://muqeem.sa/#?vaccine-registration/home">https://muqeem.sa/#?vaccine-registration/home</a> 
+5. Airline crew are subject to quarantine until their next flight.
+6. A completed health disclaimer form must be presented upon arrival.
+7. Suspension of visa on arrival facilities.
+8. Suspension of e-visa issuance.
+9. Airlines can check the validity of the exit/entry visas for residents of Saudi Arabia at <a href="https://muqeem.sa/#/visa-validity/check">https://muqeem.sa/#/visa-validity/check</a> 
 
