@@ -1,4 +1,4 @@
-Published 17.05.2021
+Published 20.05.2021
 1. Until 30 July 2021, passengers are not allowed to enter .
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -19,7 +19,7 @@ Published 17.05.2021
 - This does not apply to nationals of Italy.
 4. Until 23 May 2021, a completed self-declaration form must be presented prior to boarding. The form can be obtained at <a href="https://www.esteri.it/mae/it/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html">https://www.esteri.it/mae/it/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html</a> 
 5. Effective 24 May 2021, passengers must complete a Digital Passenger Locator Form at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a> 
-6. Passengers arriving in Sardinia must present a completed registration form upon arrival. The form can be obtained before departure at <a href="https://sus.regione.sardegna.it/sus/covid19/regimbarco/init;jsessionid=DBC60851683A8F71D64CBFA6632E9138.sus2?lang=en">https://sus.regione.sardegna.it/sus/covid19/regimbarco/init;jsessionid=DBC60851683A8F71D64CBFA6632E9138.sus2?lang=en</a> . 
+6. Passengers arriving in Sardinia must register before departure at <a href="https://sus.regione.sardegna.it/sus/covid19/regimbarco/init;jsessionid=DBC60851683A8F71D64CBFA6632E9138.sus2?lang=en">https://sus.regione.sardegna.it/sus/covid19/regimbarco/init;jsessionid=DBC60851683A8F71D64CBFA6632E9138.sus2?lang=en</a> or via the app "SardegnaSicura".
 7. Passengers arriving in Calabria, Puglia or Sicily must present a completed health declaration form upon arrival. The form can be obtained for:
 - Calabria at <a href="https://home.rcovid19.it/">https://home.rcovid19.it/</a> ;
 - Puglia at <a href="https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus">https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus</a> ;
