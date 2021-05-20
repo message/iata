@@ -1,4 +1,4 @@
-Published 17.05.2021
+Published 20.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of the Netherlands;
@@ -37,7 +37,7 @@ Published 17.05.2021
 This does not apply to:
 - passengers younger than 13 years;
 - passengers with a diplomatic passport;
-- passengers arriving from Australia, China (People's Rep.), Finland, Greece (the North Aegean region), Hong Kong (SAR China), Iceland, Ireland (Rep.), Israel, Korea (Rep.), Macao (SAR China), Malta, New Zealand, Portugal, Rwanda, Singapore, Spain (the Balearic islands), St. Eustatius and Saba, St. Maarten or Thailand;
+- passengers arriving from Aruba, Australia, China (People's Rep.), Curacao, Finland, Greece (the regions of Ionian Islands, North Aegean and South Aegean), Hong Kong (SAR China), Iceland, Ireland (Rep.), Israel, Korea (Rep.), Macao (SAR China), Malta, New Zealand, Norway (excluding Oslo and the Agder county), Portugal, Rwanda, Singapore, Spain (the Balearic and Canary Islands), St. Eustatius and Saba, St. Maarten or Thailand;
 - merchant seamen;
 - passengers with a NATO Travel Order or a NATO-2 visa;
 - passengers with:
@@ -52,7 +52,7 @@ This does not apply to:
 This does not apply to:
 - passengers younger than 13 years;
 - passengers with a diplomatic passport;
-- passengers arriving from Australia, China (People's Rep.), Finland, Greece (the North Aegean region), Hong Kong (SAR China), Iceland, Ireland (Rep.), Israel, Korea (Rep.), Macao (SAR China), Malta, New Zealand, Portugal, Rwanda, Singapore, Spain (the Balearic islands), St. Eustatius and Saba, St. Maarten or Thailand;
+- passengers arriving from Aruba, Australia, China (People's Rep.), Curacao, Finland, Greece (the regions of Ionian Islands, North Aegean and South Aegean), Hong Kong (SAR China), Iceland, Ireland (Rep.), Israel, Korea (Rep.), Macao (SAR China), Malta, New Zealand, Norway (excluding Oslo and the Agder county), Portugal, Rwanda, Singapore, Spain (the Balearic and Canary Islands), St. Eustatius and Saba, St. Maarten or Thailand;
 - passengers with a NATO Travel Order or a NATO-2 visa;
 - merchant seamen;
 - passengers with:
