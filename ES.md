@@ -1,4 +1,4 @@
-Published 20.05.2021
+Published 21.05.2021
 1. Until 31 May 2021, passengers are not allowed to enter.
 This does not apply to:
 - effective 19 of May until 23 of May, passengers with an invitation letter issued by the International Tourism Trade Fair (FITUR);
@@ -14,7 +14,7 @@ This does not apply to:
 - students with proof of being enrolled in a course in Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland. They must:
 - have a medical insurance; and
 - be traveling to the country where they study, at most 15 days before the start of the course.
-2. Until 25 May 2021, flights from Brazil and South Africa to Spain are suspended. 
+2. Until 8 June 2021, flights from Brazil and South Africa to Spain are suspended. 
 - This does not apply to:
 - nationals and residents of Andorra and Spain;
 - passengers transiting through Spain to a non-Schengen Member State.
