@@ -1,6 +1,6 @@
-Published 23.04.2021
-1. Until 23 May 2021, flights from India and Pakistan are suspended.
-2. Until 21 May 2021, passengers are not allowed to enter.
+Published 21.05.2021
+1. Until 21 June 2021, flights from India and Pakistan are suspended.
+2. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Canada;
 - permanent residents of Canada;
