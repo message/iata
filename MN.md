@@ -1,8 +1,14 @@
-Published 14.05.2021
+Published 21.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and permanent residents of Mongolia;
-- passengers who are visa exempt.
+- nationals of Argentina, Belarus, Brazil, Canada, Chile, Cuba, Ecuador, Germany, Israel, Japan, Kazakhstan, Kyrgyzstan, Lao People's Dem. Rep., Malaysia, Philippines, Russian Fed., Serbia, Singapore, Thailand, Turkey and USA;
+- passengers with a Hong Kong (SAR China) passport;
+- passengers with a Macao (SAR China) passport;
+- nationals of Albania, Armenia, Azerbaijan, Brunei Darussalam, Bulgaria, Cambodia, China (People's Rep.), Colombia, Croatia, Cyprus, Czechia, Estonia, France, Greece, Hungary, India, Indonesia, Italy, Korea (Dem. People's Rep.), Korea (Rep.), Kuwait, Latvia, Lithuania, Malta, Mexico, Myanmar, Nepal, Peru, Poland, Romania, Slovakia, Slovenia, Switzerland, Turkmenistan and Viet Nam with a diplomatic passport;
+- passengers with a British diplomatic passport;
+- nationals of Brunei Darussalam, Cambodia, Colombia, India, Korea (Dem. People's Rep.), Korea (Rep.), Mexico, Myanmar, Nepal, Slovenia and Viet Nam with an official passport;
+- nationals of Albania, Azerbaijan, Bulgaria, China (People's Rep.), Colombia, Croatia, Cyprus, Hungary, Indonesia, Latvia, Lithuania, Poland, Romania, Slovakia, Switzerland and Turkmenistan with a service passport.
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. 
 - This does not apply to:
 - passengers younger than the minimum age required for a COVID-19 test in the departure country;
