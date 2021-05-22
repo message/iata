@@ -19,7 +19,7 @@ Published 18.05.2021
 - This does not apply to:
 - nationals of the Philippines who are Overseas Filipino Workers (OFW);
 - passengers with a 9(E) visa.
-9. A completed "Case Investigation Form" must be presented upon arrival. The form can be obtained at <a href="https://c19.redcross.org.ph/arriving-passengers">https://c19.redcross.org.ph/arriving-passengers</a>
+9. A completed "Case Investigation Form" must be presented upon arrival. The form can be obtained at <a href="https://c19.redcross.org.ph/arriving-passengers">https://c19.redcross.org.ph/arriving-passengers</a> 
 10. Passengers are subject to a COVID-19 RT-PCR test on day 7 after arrival and quarantine for 14 days.
 11. Passengers must install the app 'TRAZE' in their personal device before departure.
 
