@@ -1,12 +1,11 @@
-Published 21.05.2021
+Published 24.05.2021
 1. Until 15 June 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Finland and their family members;
 - passengers with a residence permit issued by Finland;
 - partners of nationals or residents of Finland;
 - passengers arriving from Iceland or Vatican City (Holy See);
-- until 23 May 2021, residents of Australia, Korea (Rep.), New Zealand, Rwanda, Singapore and Thailand, when arriving on a direct flight from Australia, Korea (Rep.), New Zealand, Rwanda, Singapore or Thailand;
-- effective 24 May 2021, residents of Australia, Israel, Korea (Rep.), New Zealand, Rwanda and Singapore, when arriving on a direct flight from Australia, Israel, Korea (Rep.), New Zealand, Rwanda or Singapore;
+- residents of Australia, Israel, Korea (Rep.), New Zealand, Rwanda and Singapore, when arriving on a direct flight from Australia, Israel, Korea (Rep.), New Zealand, Rwanda or Singapore;
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and their family members, returning to their country of residence via Finland;
 - British nationals and their family members residing in Finland;
 - passengers studying in Finland, if arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden or Switzerland;

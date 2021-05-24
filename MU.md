@@ -1,5 +1,5 @@
-Published 17.05.2021
-Until 31 May 2021:
+Published 24.05.2021
+Until 30 June 2021:
 1. Passengers are not allowed to enter and transit.
 - This does not apply to passengers arriving on humanitarian, medevac or repatriation flights.
 2. Passengers arriving on humanitarian, medevac or repatriation flights must have:

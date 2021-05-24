@@ -1,12 +1,11 @@
-Published 21.05.2021
+Published 24.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
 - passengers with a D visa issued by Switzerland;
 - nationals of EEA Member States;
 - passengers arriving from Schengen Member States;
-- until 23 May 2021, passengers arriving from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
-- effective 24 May 2021, passengers arriving from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Israel, Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
+- passengers arriving from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Israel, Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States. They must present proof of their relationship;
 - passengers with proof of being spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of residents of Switzerland who are passengers with "British Citizens" passports , "British Overseas Territories Citizens" passports issued by Gibraltar and "British Subjects" passports with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom;
 - residents of Schengen Member States returning directly via Switzerland to their country of residence.
@@ -15,8 +14,7 @@ Published 21.05.2021
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.
 - This does not apply to:
 - nationals and residents of EEA Member States and Switzerland;
-- until 23 May 2021, passengers arriving directly from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
-- effective 24 May 2021, passengers arriving directly from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Israel, Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
+- passengers arriving directly from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Israel, Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;
 - passengers with a D visa issued by a Schengen Member State they are traveling to;
 - passengers with a Schengen C visa issued by Switzerland after 16 March 2020.
