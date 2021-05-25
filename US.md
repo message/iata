@@ -1,4 +1,4 @@
-Published 20.05.2021
+Published 25.05.2021
 1. Passengers who have transited or have been in Austria, Belgium, Brazil, China (People's Rep.), Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Iran, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland or in the United Kingdom (excluding overseas territories outside of Europe), in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
 - nationals and permanent residents of the USA;
@@ -24,4 +24,7 @@ This does not apply to:
 4. Passengers arriving in New York State must complete the "Traveler Health Form" at <a href="https://forms.ny.gov/s3/Welcome-to-New-York-State-Traveler-Health-Form">https://forms.ny.gov/s3/Welcome-to-New-York-State-Traveler-Health-Form</a> .
 5. Passengers are subject to COVID-19 measures set by the state/territory of their final destination. More information can be found at <a href="http://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html">www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html</a> .
 6. DV visas issued in September 2020 that expired are accepted for entry.
+7. Until 31 December 2021, nationals of the U.S.A. are allowed to enter with an expired passport if:
+ - it was originally valid for 10 years; or
+ - it was originally valid for 5 years and the passenger was 15 years of age or younger when the passport was issued.
 

@@ -7,11 +7,14 @@ This does not apply to:
 - students with a written approval from immigration applied at <a href="https://educationmalaysia.gov.my/">https://educationmalaysia.gov.my/</a> ;
 - merchant seamen with an official letter from the company certified by Malaysian immigration and joining the ship no later than 24 hours from arrival.
 2. Passengers arriving from Bangladesh, India, Nepal, Pakistan or Sri Lanka are not allowed to enter and transit.
-- This does not apply to nationals of Malaysia.
+This does not apply to:
+- nationals of Malaysia;
+- permanent residents of Malaysia with MyTravelPass (MTP) obtained at <a href="https://mtp.imi.gov.my/myTravelPass/main">https://mtp.imi.gov.my/myTravelPass/main</a> ;
+- spouses of nationals of Malaysia with MyTravelPass (MTP) obtained at <a href="https://mtp.imi.gov.my/myTravelPass/main">https://mtp.imi.gov.my/myTravelPass/main</a> .
 3. Passengers must install 'MySejahtera app' in their phone and complete the health declaration at least one day before departure.
 4. Passengers must have a negative COVID-19 RT-PCR test taken at most 3 days before departure from the first embarkation point.
 5. Passengers are subject to a COVID-19 RT-PCR test upon arrival at their own expense.
-6. Passengers are subject to medical screening and quarantine for up to 21 days at their own expense.
+6. Passengers are subject to medical screening and quarantine for 14 days or 21 days at their own expense.
 7. Airline crew must have their names listed on the General Declaration.
 8. Airline crew are subject to quarantine until their next flight and must install 'MySejahtera app' in their phone.
 9. Transfer from an international flight to a domestic flight is not allowed.
