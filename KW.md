@@ -1,4 +1,4 @@
-Published 26.04.2021
+Published 25.05.2021
 1. Flights from India and United Kingdom are suspended.
 2. Passengers are not allowed to enter.
 - This does not apply to:
@@ -17,8 +17,8 @@ Published 26.04.2021
 9. Passengers are subject to quarantine at a hotel or home-quarantine for up to 14 days.
 10. Passengers must have a confirmed hotel reservation booked for 7 days at <a href="https://kuwaitmosafer.com/home.html">https://kuwaitmosafer.com/home.html</a> before departure. 
 - This does not apply to:
-- passengers with a COVID-19 vaccination certificate if they received two vaccine doses at least 2 weeks before arrival;
-- passengers with a COVID-19 vaccination certificate if they received the first vaccine dose at least 5 weeks before arrival;
+- passengers with a COVID-19 vaccination certificate if they received the last vaccine dose at least 2 weeks before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTec;
+- passengers with a COVID-19 vaccination certificate if they received the first vaccine dose at least 5 weeks before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTec.
 - passengers with a COVID-19 recovery certificate and a vaccination certificate if they received the first vaccine dose at least 2 weeks before arrival;
 - students who are nationals of Kuwait studying abroad with a letter issued by the Kuwait Cultural Office and a letter issued by the University;
 - unaccompanied minors younger than 18 years.

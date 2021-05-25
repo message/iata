@@ -1,9 +1,9 @@
-Published 19.05.2021
+Published 25.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Chinese Taipei travel document;
 - passengers with an Alien Resident Certificate;
-- passengers with a "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visa with "ER" stated on remarks;
+- passengers with a "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visa with "DC", "ER", "FD" or "FO" stated on remarks;
 - passengers with a MOFA ID.
 2. Passengers are not allowed to transit.
 3. Passengers must have a negative COVID-19 RT-PCR test result issued at most 3 working days before departure from the first embarkation point. Details can be found at <a href="https://www.cdc.gov.tw/Category/MPage/XQ9r73gXAgEfJZV9zm6gaA">https://www.cdc.gov.tw/Category/MPage/XQ9r73gXAgEfJZV9zm6gaA</a> 
