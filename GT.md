@@ -5,6 +5,6 @@ Published 19.04.2021
 - This does not apply to:
 - passengers younger than 10 years;
 - passengers with a COVID-19 recovery certificate issued at least 10 days after the positive test result. The passenger must have tested positive at most 3 months before arrival;
-- passengers with a COVID-19 vaccination certificate if the last vaccine dose was received at least 2 weeks before departure.
+- passengers with a COVID-19 vaccination certificate stating that they received the last dose of the vaccine at least 2 weeks before departure.
 3. Airline crew could be subject to quarantine for 10 days.
 

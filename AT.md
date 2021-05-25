@@ -1,7 +1,9 @@
-Published 19.05.2021
-1. Until 6 June 2021, flights from Brazil, India and South Africa are suspended.
+Published 25.05.2021
+1. Until 20 June 2021, flights from Brazil, India and South Africa are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
-2. Until 30 June 2021, passengers are not allowed to enter.
+2. Effective 1 June 2021 and until 20 June 2021, flights from United Kingdom are suspended.
+- This does not apply to humanitarian, medevac and repatriation flights.
+3. Until 30 June 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and persons living in the same household;
 - residents of Austria and persons living in the same household;
@@ -14,11 +16,11 @@ Published 19.05.2021
 - passengers visiting their life partner;
 - students;
 - more COVID-19 related information can be found at <a href="https://tinyurl.com/EntryReqAT201017">https://tinyurl.com/EntryReqAT201017</a> .
-3. A completed "Pre-Travel-Clearance" form must be presented upon arrival. The form can be found at <a href="https://entry.ptc.gv.at">https://entry.ptc.gv.at</a> 
-4. Passengers who arrive from or have been in Brazil, India or South Africa in the past 10 days:
+4. A completed "Pre-Travel-Clearance" form must be presented upon arrival. The form can be found at <a href="https://entry.ptc.gv.at">https://entry.ptc.gv.at</a> 
+5. Passengers who arrive from or have been in Brazil, India, South Africa or United Kingdom in the past 10 days:
 - must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; and
 - are subject to quarantine for 10 days.
-5. Passengers must:
+6. Passengers must:
 - have a negative COVID-19 antigen test result issued at most 48 hours before arrival; or
 - have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
 - take a test within 24 hours after arrival; or
@@ -29,5 +31,5 @@ Published 19.05.2021
 - the Janssen vaccine at least 22 days and at most 9 months before arrival; or
 - the AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech or Sinopharm vaccine at most 9 months before arrival if they were tested positive at least 21 days before the vaccination.
 - This does not apply to passengers who are younger than 10 years.
-6. Passengers could be subject to self-quarantine for 10 days. Details can be found at <a href="https://tinyurl.com/EntryReqAT201017">https://tinyurl.com/EntryReqAT201017</a> .
+7. Passengers could be subject to self-quarantine for 10 days. Details can be found at <a href="https://tinyurl.com/EntryReqAT201017">https://tinyurl.com/EntryReqAT201017</a> .
 

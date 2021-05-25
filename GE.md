@@ -1,4 +1,4 @@
-Published 26.04.2021
+Published 25.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Georgia;
@@ -11,7 +11,8 @@ Published 26.04.2021
 - nationals of Georgia;
 - passengers with a COVID-19 vaccination certificate. The vaccination certificate must be in English and passengers must not have been in India in the past 14 days.
 3. Nationals of Georgia without a negative COVID-19 PCR test taken at most 72 hours before arrival are subject to self-isolation for 8 days.
-4. Passengers must submit a pre-registration form at <a href="https://registration.gov.ge/pub/form/8_protocol_for_arrivals_in_georgia/tk6157/">https://registration.gov.ge/pub/form/8_protocol_for_arrivals_in_georgia/tk6157/</a> .
+4. Passengers must submit a pre-registration form at <a href="https://registration.gov.ge/pub/form/8_protocol_for_arrivals_in_georgia/tk6157/">https://registration.gov.ge/pub/form/8_protocol_for_arrivals_in_georgia/tk6157/</a> 
+- This does not apply to passengers with a COVID-19 vaccination certificate stating they received the last vaccine dose.
 5. Passengers could be subject to quarantine for up to 14 days. More details can be found at <a href="https://mfa.gov.ge/MainNav/CoVID-19-sakitkhebi/sazgvris-kvetis-regulaciebi.aspx?lang=en-US">https://mfa.gov.ge/MainNav/CoVID-19-sakitkhebi/sazgvris-kvetis-regulaciebi.aspx?lang=en-US</a> .
 6. More details can be found at <a href="https://stopcov.ge/en">https://stopcov.ge/en</a> and <a href="https://mfa.gov.ge/MainNav/CoVID-19-sakitkhebi/sazgvris-kvetis-regulaciebi.aspx?lang=en-US">https://mfa.gov.ge/MainNav/CoVID-19-sakitkhebi/sazgvris-kvetis-regulaciebi.aspx?lang=en-US</a> .
 
