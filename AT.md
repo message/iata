@@ -16,11 +16,8 @@ Published 25.05.2021
 - passengers visiting their life partner;
 - students;
 - more COVID-19 related information can be found at <a href="https://tinyurl.com/EntryReqAT201017">https://tinyurl.com/EntryReqAT201017</a> .
-4. A completed "Pre-Travel-Clearance" form must be presented upon arrival. The form can be found at <a href="https://entry.ptc.gv.at">https://entry.ptc.gv.at</a> 
-5. Passengers who arrive from or have been in Brazil, India, South Africa or United Kingdom in the past 10 days:
-- must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; and
-- are subject to quarantine for 10 days.
-6. Passengers must:
+4. A completed "Pre-Travel-Clearance" form must be presented upon arrival. The form can be found at <a href="https://entry.ptc.gv.at">https://entry.ptc.gv.at</a> .
+5. Passengers must:
 - have a negative COVID-19 antigen test result issued at most 48 hours before arrival; or
 - have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
 - take a test within 24 hours after arrival; or
@@ -30,6 +27,16 @@ Published 25.05.2021
 - the first vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech or Sinopharm at most 9 months ago and they also received the second dose; or
 - the Janssen vaccine at least 22 days and at most 9 months before arrival; or
 - the AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech or Sinopharm vaccine at most 9 months before arrival if they were tested positive at least 21 days before the vaccination.
-- This does not apply to passengers who are younger than 10 years.
-7. Passengers could be subject to self-quarantine for 10 days. Details can be found at <a href="https://tinyurl.com/EntryReqAT201017">https://tinyurl.com/EntryReqAT201017</a> .
+- This does not apply to:
+- passengers younger than 10 years;
+- passengers who arrive from or have been in Brazil, India, South Africa or United Kingdom in the past 10 days.
+6. Passengers who arrive from or have been in Brazil, India, South Africa or United Kingdom in the past 10 days:
+- are subject to quarantine for 10 days.
+- must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival. 
+- This does not apply to residents of Austria and nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland. 
+7. Residents of Austria and nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland who arrive from or have been in Brazil, India, South Africa or United Kingdom in the past 10 days:
+- are subject to quarantine for 10 days; and
+- must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
+- take a test within 24 hours after arrival. 
+8. Passengers could be subject to self-quarantine for 10 days. Details can be found at <a href="https://tinyurl.com/EntryReqAT201017">https://tinyurl.com/EntryReqAT201017</a> .
 
