@@ -1,4 +1,4 @@
-Published 11.05.2021 
+Published 25.05.2021 
 1. Passengers must present a completed "Public Health Card" upon arrival.
 2. Passengers arriving from Argentina, Australia, Bolivia, Brazil, Canada, Chile, China (People's Rep.), Colombia, Ecuador, France (Paris), Germany (Frankfurt), Guyana, Italy (Rome), Japan, Korea (Rep.), Mexico, New-Zealand, Paraguay, Peru, Suriname, Thailand, USA, United Kingdom (London Heathrow), Uruguay or Venezuela must have a printed negative COVID-19 RT-PCR test taken at most 96 hours before departure of the last direct flight to Egypt. The test must be based on a nasal or oral swab. The test result must have a stamp of the issuing laboratory.
 - This does not apply to passengers younger than 6 years.
@@ -7,5 +7,4 @@ Published 11.05.2021
 4. Passengers arriving from Cameroon must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure of the last direct flight to Egypt. The test must be based on a nasal or oral swab. The test result must have a stamp of the issuing laboratory.
 - This does not apply to passengers younger than 6 years.
 5. Passengers arriving directly at Hurghada (HRG), Marsa Alam (RMF), Sharm El Sheikh (SSH) or Taba (TCP) without a printed negative COVID-19 PCR test result are subject to a PCR test on arrival at their own expense.
-6. Passengers arriving from Argentina, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Guyana, Honduras, India, Mexico, Nicaragua, Panama, Paraguay, Peru, Suriname, Uruguay or Venezuela are subject to a COVID-19 PCR test upon arrival.
-
+6. Passengers arriving from Argentina, Bangladesh, Belize, Bhutan, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Guyana, Honduras, India, Mexico, Myanmar, Nepal, Nicaragua, Pakistan, Panama, Paraguay, Peru, Sri Lanka, Suriname, Uruguay or Venezuela are subject to a COVID-19 PCR test upon arrival.</p><p>
