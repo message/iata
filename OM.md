@@ -1,11 +1,14 @@
-Published 22.04.2021
+Published 26.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Oman;
 - passengers with a visa issued by Oman;
 - passengers with a diplomatic passport traveling on duty.
-2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be in Arabic or English.
+2. Passengers must have a negative COVID-19 PCR test in Arabic or English. Test of passengers arriving:
+ - on flights that take 8 hours or longer, including transit; must be taken at most 96 hours before arrival;
+ - on flights that take shorter than 8 hours; must be taken at most 72 hours before arrival.
 - This does not apply to:
+- nationals of Oman who, after recovering from COVID-19, get a positive COVID-19 PCR test result. They must prove that they completed the quarantine period before taking the test;
 - passengers younger than 16 years;
 - passengers with a diplomatic passport traveling on duty.
 3. Passengers must register online before departure at <a href="https://covid19.emushrif.om/traveler/travel">https://covid19.emushrif.om/traveler/travel</a> . They must complete the "Traveler registration form" and pay the test upon arrival fee of OMR 25.
