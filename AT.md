@@ -1,4 +1,4 @@
-Published 25.05.2021
+Published 26.05.2021
 1. Until 20 June 2021, flights from Brazil, India and South Africa are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Effective 1 June 2021 and until 20 June 2021, flights from United Kingdom are suspended.
@@ -28,15 +28,17 @@ Published 25.05.2021
 - the Janssen vaccine at least 22 days and at most 9 months before arrival; or
 - the AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech or Sinopharm vaccine at most 9 months before arrival if they were tested positive at least 21 days before the vaccination.
 - This does not apply to:
-- passengers younger than 10 years;
+- passengers younger than 10 years if accompanied by an adult;
 - passengers who arrive from or have been in Brazil, India, South Africa or United Kingdom in the past 10 days.
 6. Passengers who arrive from or have been in Brazil, India, South Africa or United Kingdom in the past 10 days:
-- are subject to quarantine for 10 days.
+- are subject to quarantine for 10 days; and
 - must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival. 
 - This does not apply to residents of Austria and nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland. 
+- The COVID-19 test requirement does not apply to passengers younger than 10 years if accompanied by an adult.
 7. Residents of Austria and nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland who arrive from or have been in Brazil, India, South Africa or United Kingdom in the past 10 days:
 - are subject to quarantine for 10 days; and
 - must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
 - take a test within 24 hours after arrival. 
+- The COVID-19 test requirement does not apply to passengers younger than 10 years if accompanied by an adult.
 8. Passengers could be subject to self-quarantine for 10 days. Details can be found at <a href="https://tinyurl.com/EntryReqAT201017">https://tinyurl.com/EntryReqAT201017</a> .
 
