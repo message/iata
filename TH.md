@@ -1,4 +1,4 @@
-Published 03.05.2021
+Published 26.05.2021
 1. Until 31 May 2021, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -11,8 +11,10 @@ Published 03.05.2021
 - residents of Hong Kong (SAR China) with an APEC Business Travel Card arriving from Hong Kong (SAR China);
 - students;
 - passengers transiting through Bangkok (BKK).
-2. Passengers arriving from India are not allowed to enter.
-- This does not apply to nationals of Thailand. 
+2. Passengers arriving from Bangladesh, India, Nepal or Pakistan are not allowed to enter.
+- This does not apply to
+- nationals of Thailand;
+- passengers with a diplomatic passport and their family members. 
 3. The following visa exemptions apply:
 a) Nationals of Andorra, Australia, Austria, Bahrain, Belgium, Brazil, Brunei, Canada, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Indonesia, Ireland, Israel, Italy, Japan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Maldives, Mauritius, Monaco, Netherlands, New Zealand, Norway, Oman, Peru, Philippines, Poland, Portugal, Qatar, San Marino, Singapore, Slovakia, Slovenia, Spain, South Africa, Sweden, Switzerland, Turkey, Ukraine, United Arab Emirates, USA, Vietnam with a normal passport traveling as tourists for a maximum stay of 45 days.
 b) Passengers with a Hong Kong (SAR China) passport for a maximum stay of 45 days. 

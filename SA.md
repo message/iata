@@ -19,7 +19,7 @@ Published 25.05.2021
 - the single vaccine dose of the Janssen at least 14 days before arrival; or 
 - the second vaccine dose of Moderna at least 14 days before arrival; or 
 - the second vaccine dose of Pfizer-BioNTech at least 14 days before arrival.
-5. Passengers with a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival must complete "The registration immunization information form found at <a href="https://muqeem.sa/#?vaccine-registration/home">https://muqeem.sa/#?vaccine-registration/home</a>
+5. Passengers with a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival must complete "The registration immunization information form found at <a href="https://muqeem.sa/#?vaccine-registration/home">https://muqeem.sa/#?vaccine-registration/home</a> 
 - This does not apply to:
 - nationals of Saudi Arabia;
 - first degree family members of nationals of Saudi Arabia. They must be traveling together;
@@ -31,5 +31,5 @@ Published 25.05.2021
 6. Airline crew are subject to quarantine until their next flight.
 7. Suspension of visa on arrival facilities.
 8. Suspension of e-visa issuance.
-9. Airlines can check the validity of the exit/entry visas for residents of Saudi Arabia at <a href="https://muqeem.sa/#/visa-validity/check">https://muqeem.sa/#/visa-validity/check</a>
+9. Airlines can check the validity of the exit/entry visas for residents of Saudi Arabia at <a href="https://muqeem.sa/#/visa-validity/check">https://muqeem.sa/#/visa-validity/check</a> 
 

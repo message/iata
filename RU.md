@@ -1,4 +1,4 @@
-Published 25.05.2021
+Published 26.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Russian Fed. and their family members;
@@ -6,9 +6,9 @@ Published 25.05.2021
 - British nationals and nationals of Armenia, Azerbaijan, Belarus, Cuba, Egypt, Ethiopia, Finland, Germany, Greece, India, Japan, Kazakhstan, Korea (Rep.), Kyrgyzstan, Maldives, Qatar, Serbia, Seychelles, Singapore, Sri Lanka, Switzerland, Syria, Tajikistan, Tanzania, Turkey, United Arab Emirates, Uzbekistan, Venezuela and Vietnam if arriving on a direct flight from Armenia, Azerbaijan, Belarus, Cuba, Egypt, Ethiopia, Finland, Germany, Greece, India, Japan, Kazakhstan, Korea (Rep.), Kyrgyzstan, Maldives, Qatar, Serbia, Seychelles, Singapore, Sri Lanka, Switzerland, Syria, Tajikistan, Tanzania, Turkey, United Arab Emirates, United Kingdom, Uzbekistan, Venezuela or Vietnam;
 - residents of Armenia, Azerbaijan, Belarus, Cuba, Egypt, Ethiopia, Finland, Germany, Greece, India, Japan, Kazakhstan, Korea (Rep.), Kyrgyzstan, Maldives, Qatar, Serbia, Seychelles, Singapore, Sri Lanka, Switzerland, Syria, Tajikistan, Tanzania, Turkey, United Arab Emirates, United Kingdom, Uzbekistan, Venezuela and Vietnam if arriving on a direct flight from Armenia, Azerbaijan, Belarus, Cuba, Egypt, Ethiopia, Finland, Germany, Greece, India, Japan, Kazakhstan, Korea (Rep.), Kyrgyzstan, Maldives, Qatar, Serbia, Seychelles, Singapore, Sri Lanka, Switzerland, Syria, Tajikistan, Tanzania, Turkey, United Arab Emirates, United Kingdom, Uzbekistan, Venezuela or Vietnam;
 - students with a written approval issued by their university. The approval must have been submitted to the Federal Security Service of the Russian Fed. by the university;
-- from 29 May and until 2 July 2021, passengers with an UEFA FAN ID card traveling to the UEFA EURO CUP 2021.
+- from 29 May and until 2 July 2021, passengers traveling with an UEFA 2021 FAN ID card issued on paper or electronically.
 2. Suspension of e-visa issuance.
-3. Passengers entering or transiting the Russian Fed. must have a printed negative COVID-19 PCR test result issued at most 3 days before arrival. The test result must be in English or Russian. A notarized translation to Russian is accepted.
+3. Passengers must have a negative COVID-19 PCR test taken at most 3 days before arrival. The test result must be in English or Russian. A notarized translation to Russian is accepted.
 - This does not apply to:
 - nationals of the Russian Fed.;
 - nationals of Armenia, Belarus, Kazakhstan and Kyrgyzstan arriving on a direct flight from Armenia, Belarus or Kyrgyzstan.

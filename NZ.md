@@ -24,7 +24,7 @@ Published 25.05.2021
 - This does not apply to nationals of China (People’s Rep.) arriving from Cook Isl., Fiji, Niue, Samoa, Tonga or Vanuatu.
 6. Transit is only allowed at Auckland (AKL) for maximum 24 hours.
 7. Passengers transiting through New Zealand to Australia must have a confirmed onward ticket on a red zone flight within 14 days.
-8. Passengers must have a negative COVID-19 test result. Tests accepted are: antigen, LAMP, PCR and RT-PCR tests. The test must have been taken at most 72 hours before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/39tsn56h">https://tinyurl.com/39tsn56h</a> .
+8. Passengers must have a negative COVID-19 test result. Tests accepted are: antigen, LAMP, PCR and RT-PCR tests. The test must have been taken at most 72 hours before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/39tsn56h">https://tinyurl.com/39tsn56h</a>
 - This does not apply to:
 - passengers arriving from Antarctica, Australia, Cook Isl., Fiji, Kiribati, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Niue, Palau, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;
 - passengers younger than 2 years;
@@ -37,7 +37,7 @@ Published 25.05.2021
 - passengers arriving from Australia if they in the past 14 days have only been in Australia or New Zealand;
 - passengers arriving from Cook Isl. if they in the past 14 days have only been in Cook Isl. or New Zealand;
 - passengers arriving from Niue if they in the past 14 days have only been in New Zealand or Niue.
-10. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz">https://border.covid19.govt.nz</a>.
+10. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz">https://border.covid19.govt.nz</a>
 11. Passengers could be subject to medical screening and quarantine for 14 days.
 12. Airline crew not residing in Australia or New Zealand must have:
 - a negative COVID-19 test result. Tests accepted are: antigen, LAMP, PCR and RT-PCR tests. The test must have been taken at most 7 days before arrival; or
