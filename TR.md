@@ -1,4 +1,4 @@
-Published 21.05.2021
+Published 26.05.2021
 1. Flights arriving directly from Brazil and South Africa are suspended.
 - This does not apply to humanitarian and repatriation flights.
 2. Passengers who in the past 10 days have been in Brazil, India or South Africa are subject to quarantine for 14 days.
@@ -9,6 +9,7 @@ Published 21.05.2021
 - nationals of Serbia with a COVID-19 vaccination certificate stating that they received the vaccine in Serbia;
 - nationals of Turkey with a COVID-19 vaccination certificate stating that they received the vaccine in Turkey. They must be arriving from Hungary or Serbia;
 - nationals of Hungary, Serbia and Turkey who are younger than 18 years. They must be accompanied by nationals of Hungary, Serbia or Turkey with a COVID-19 vaccination certificate;
+- residents of Hungary with a COVID-19 vaccination certificate stating that they received the vaccine in Hungary;
 - passengers younger than 6 years;
 - merchant seamen;
 - passengers arriving from Australia, China (People's Rep.), Estonia, Hong Kong (SAR China), Japan, Korea (Rep.), Latvia, Luxembourg, New Zealand, Singapore, Thailand, Ukraine, United Kingdom or Viet Nam.
