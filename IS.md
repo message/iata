@@ -1,5 +1,5 @@
-Published 19.05.2021
-1. Passengers arriving from or who in the past 14 days have stayed for more than 24 hours in Argentina, Bahrain, Cape Verde, Costa Rica, Croatia, Cyprus, France, Lithuania, Maldives, Netherlands, Seychelles, Sweden or Uruguay are not allowed to enter.
+Published 27.05.2021
+1. Passengers arriving from or who in the past 14 days have stayed for more than 24 hours in Argentina, Bahrain, Cape Verde, Costa Rica, Croatia, France, Lithuania, Maldives, Netherlands, Seychelles, Sweden or Uruguay are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Iceland;
 - passengers in a long-term intimate relationship with a national or resident of Iceland;
@@ -9,7 +9,7 @@ Published 19.05.2021
 - positive COVID-19 PCR test result issued at least 14 days before arrival; or
 - presence of antibodies against COVID-19 measured by ELISA serologic assay. Details can be found at <a href="https://tinyurl.com/ya2tsh9p">https://tinyurl.com/ya2tsh9p</a> .
 More exemptions can be found at: <a href="https://www.logreglan.is/english/regarding-travel-restrictions-to-iceland-as-a-result-of-covid-19/">https://www.logreglan.is/english/regarding-travel-restrictions-to-iceland-as-a-result-of-covid-19/</a> 
-2. Passengers arriving from a country other than Argentina, Bahrain, Cape Verde, Costa Rica, Croatia, Cyprus, France, Lithuania, Maldives, Netherlands, Seychelles, Sweden or Uruguay are not allowed to enter.
+2. Passengers arriving from a country other than Argentina, Bahrain, Cape Verde, Costa Rica, Croatia, France, Lithuania, Maldives, Netherlands, Seychelles, Sweden or Uruguay are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Iceland;
 - nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and EEA Member States;
