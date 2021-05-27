@@ -1,6 +1,6 @@
-Published 17.05.2021
+Published 27.05.2021
 1. Until 30 May 2021, passengers are not allowed to enter.
-- This does not apply to:
+This does not apply to:
 - nationals of Portugal and their family members;
 - residents of Portugal;
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland, and their family members;
@@ -9,14 +9,14 @@ Published 17.05.2021
 - passengers with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden, returning via Portugal to their country of residence;
 - passengers with a long term visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden, returning via Portugal to their country of residence.
 2. A completed electronic "Passenger Locator Card (PLCe)" must be presented upon boarding. The form can be found at <a href="https://portugalcleanandsafe.pt/en/passenger-locator-card">https://portugalcleanandsafe.pt/en/passenger-locator-card</a> .
-3. Passengers entering or transiting through Portugal must have a negative COVID-19 RT-PCR test result. The test must have been taken at most 72 hours before departure of the last direct flight to Portugal.
-- This does not apply to:
+3. Passengers entering or transiting through Portugal must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point.
+This does not apply to:
 - passengers younger than 2 years;
 - passengers traveling on a direct flight to Azores or Madeira.
 4. Passengers traveling on a direct flight to Azores must have a negative COVID-19 RT-PCR test result. The test must have been taken at most 72 hours before departure.
 - This does not apply to passengers younger than 12 years.
 5. Passengers traveling on a direct flight to Madeira without a negative COVID-19 RT-PCR test result of a test taken at most 72 hours before departure are subject to an RT-PCR test upon arrival and quarantine until test results are ready.
-- This does not apply to:
+This does not apply to:
 - passengers younger than 12 years;
 - passengers with a COVID-19 recovery certificate issued at most 90 days before arrival;
 - passengers with a COVID-19 vaccination certificate.
