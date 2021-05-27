@@ -1,4 +1,4 @@
-Published 23.05.2021
+Published 27.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -11,7 +11,7 @@ Published 23.05.2021
 - nationals of India with a visa issued by the USA or with a residence permit issued by USA, United Kingdom or an EU Member State traveling to Abu Dhabi (AUH);
 - passengers traveling to Abu Dhabi (AUH) with a resident visa;
 - passengers traveling to Abu Dhabi (AUH) with a tourist visa issued by Abu Dhabi;
-- passengers who are traveling to Abu Dhabi (AUH) and arriving from Australia, Bhutan, Brunei Darussalam, China (People's Rep.), Chinese Taipei, Cuba, Germany, Greenland, Hong Kong (SAR China), Iceland, Israel, Japan, Korea (Rep.), Kyrgyzstan, Mauritius, Moldova (Rep.), Morocco, New Zealand, Portugal, Russian Fed., Saudi Arabia, Singapore, Spain, Switzerland, Tajikistan, USA, United Kingdom or Uzbekistan with a pre-arranged visa issued by any emirate;
+- passengers who are traveling to Abu Dhabi (AUH) and arriving from Australia, Bhutan, Brunei Darussalam, China (People's Rep.), Chinese Taipei, Cuba, Germany, Greenland, Hong Kong (SAR China), Iceland, Israel, Japan, Korea (Rep.), Kenya, Kyrgyzstan, Mauritius, Moldova (Rep.), Morocco, New Zealand, Portugal, Russian Fed., Saudi Arabia, Singapore, Spain, Switzerland, Tajikistan, USA, United Kingdom or Uzbekistan with a pre-arranged visa issued by any emirate;
 - nationals of Indonesia traveling under the Safe Travel Corridor program. They must have an entry permit and a return ticket.
 2. Passengers who in the past 14 days have been in Bangladesh, India, Nepal, Pakistan or Sri Lanka are not allowed to enter and transit.
 - This does not apply to:
