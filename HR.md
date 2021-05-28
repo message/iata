@@ -16,7 +16,7 @@ This does not apply to:
 4. Passengers arriving from a country other than Brazil, India, South Africa or Tanzania (only Zanzibar) must have:
 - a negative COVID-19 PCR or rapid antigen test taken at most 48 hours before arrival. The rapid antigen test must be listed on <a href="https://tinyurl.com/b57mretv">https://tinyurl.com/b57mretv</a> ; or
 - a COVID-19 vaccination certificate. The last vaccine dose must be received at least 14 days before arrival; or
-- a COVID-19 recovery certificate issued at least 12 days and at most 180 days before arrival; or
+- a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival; or
 - a COVID-19 recovery certificate issued at most 180 days before arrival and a COVID-19 vaccination certificate stating that the passenger received the first dose of the vaccine at most 180 days of arrival;
 - a positive COVID-19 PCR or rapid antigen test result issued at least 11 days and at most 180 days before arrival; or
 - are subject to a COVID-19 PCR or rapid antigen test upon arrival at their own expense and self-isolation for up to 10 days.

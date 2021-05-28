@@ -1,5 +1,5 @@
-Published 27.05.2021
-1. Passengers and airline crew arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Curacao, Ecuador, French Guiana, Guyana, India, Pakistan, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela are not allowed to enter.
+Published 28.05.2021
+1. Passengers and airline crew arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, French Guiana, Guyana, India, Pakistan, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela are not allowed to enter.
 - This does not apply to residents of Saba, St. Eustatius, St. Maarten and St. Martin. 
 2. Passengers entering or transiting through St. Maarten must have a negative COVID-19 RT-PCR test, based on a nasal swab and, issued at most 72 hours before departure of the last direct flight to St. Maarten.
 - This does not apply to:
@@ -17,8 +17,8 @@ Published 27.05.2021
 6. Passengers entering or transiting through St. Maarten must:
 - present a pre-approved e-mail authorization at time of check-in and upon arrival; and
 - complete a health declaration form at least 12 hours before departure obtained at stmaartenehas.com
- - This does not apply to passengers transiting in the same calendar day to Saba, with an authorization obtained at <a href="http://www.sabatourism.com/travel-requirements">www.sabatourism.com/travel-requirements</a>
+- This does not apply to passengers transiting in the same calendar day to Saba, with an authorization obtained at <a href="http://www.sabatourism.com/travel-requirements">www.sabatourism.com/travel-requirements</a> 
 7. Passengers arriving from Aruba, Bonaire or Curacao, and:
-- who have uploaded the COVID-19 vaccination certificate at <a href="http://www.stmaartenentry.com">www.stmaartenentry.com</a> must have a negative COVID-19 antigen test issued at most 48 hours before departure and with a FDA-EUA approval; 
+- who have uploaded the COVID-19 vaccination certificate at <a href="http://www.stmaartenentry.com/">www.stmaartenentry.com</a> must have a negative COVID-19 antigen test issued at most 48 hours before departure and with a FDA-EUA approval; 
 - who do not have a vaccination certificate, must have a negative COVID-19 RT-PCR test result issued at most 48 hours before departure.
 
