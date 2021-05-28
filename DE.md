@@ -45,5 +45,5 @@ The test result must be in English, French or German.
 8. Passengers could be subject to quarantine for 10 or 14 days. Details can be found at
 <a href="http://www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-entering-germany.html">www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-entering-germany.html</a> 
 - This does not apply to passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. The certificate must state that they received the vaccine at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
-9. More COVID-19 related information can be found at <a href="http://www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html">www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html</a>
+9. More COVID-19 related information can be found at <a href="http://www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html">www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html</a> 
 
