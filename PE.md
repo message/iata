@@ -1,6 +1,6 @@
-Published 21.05.2021
-1. Until 30 May 2021, flights from Brazil, India and South Africa are suspended.
-2. Until 30 May 2021, passengers are not allowed to enter if in the past 14 days they have been to or transited through Brazil, India or South Africa.
+Published 28.05.2021
+1. Flights from Brazil, India and South Africa are suspended.
+2. Until 20 June 2021, passengers are not allowed to enter if in the past 14 days they have been to or transited through Brazil, India or South Africa.
 - This does not apply to nationals and residents of Peru.
 3. Passengers must have a negative COVID-19 antigen or RT-PCR test result issued at most 72 hours before departure from the first embarkation point; or
 - an epidemiological medical discharge certificate valid for a minimum of 6 months before arrival.
