@@ -1,4 +1,4 @@
-Published 17.05.2021
+Published 28.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Poland;
@@ -17,5 +17,6 @@ Published 17.05.2021
 - passengers with a Polish Card (Karta Polaka).
 2. Passengers could be subject to quarantine for 10 days. 
 - This does not apply to passengers with a COVID-19 vaccination certificate in English or Polish stating that they received the last dose of the vaccine.
-More quarantine exemptions can be found at <a href="https://www.gov.pl/web/coronavirus/temporary-limitations">https://www.gov.pl/web/coronavirus/temporary-limitations</a> .
+More quarantine exemptions can be found at <a href="https://www.gov.pl/web/coronavirus/temporary-limitations">https://www.gov.pl/web/coronavirus/temporary-limitations</a>
+3. A completed "Passenger Locator Form" (PLF) must be presented upon arrival.
 

@@ -15,7 +15,7 @@ Published 24.05.2021
 - passengers residing in Italy since before 13 February 2021;
 - parents of children younger than 18 years who are residing in Italy;
 - military personnel.
-3. Until 30 May 2021, passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.
+3. Passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.
 - This does not apply to nationals of Italy.
 4. passengers must complete a Digital Passenger Locator Form at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a> 
 6. Passengers arriving in Sardinia must register before departure at <a href="https://sus.regione.sardegna.it/sus/covid19/regimbarco/init;jsessionid=DBC60851683A8F71D64CBFA6632E9138.sus2?lang=en">https://sus.regione.sardegna.it/sus/covid19/regimbarco/init;jsessionid=DBC60851683A8F71D64CBFA6632E9138.sus2?lang=en</a> or via the app "SardegnaSicura".
@@ -36,7 +36,7 @@ Published 24.05.2021
 - more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> 
 10. Passengers who have been in or transited through Brazil in the past 14 days are subject to a COVID-19 antigen or molecular test upon arrival.
 - This does not apply to passengers younger than 2 years.
-11. Until 30 May 2021, passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test must be based on a swab. They are also subject to:
+11. Passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test must be based on a swab. They are also subject to:
 - a COVID-19 antigen or molecular test upon arrival; and
 - quarantine in a hotel for 10 days; and
 - another COVID-19 antigen or molecular test at the end of quarantine.
@@ -44,3 +44,4 @@ Published 24.05.2021
 12. Passengers could be subject to self-isolation for 10 days and to a COVID-19 antigen or molecular test at the end of self-isolation. More details can be found at <a href="https://infocovid.viaggiaresicuri.it/index_en.html">https://infocovid.viaggiaresicuri.it/index_en.html</a> 
 13. Residence permits issued by Italy which expired between 1 August 2020 and 30 April 2021 are considered valid until 31 July 2021.
 
+<p>
