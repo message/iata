@@ -5,5 +5,5 @@ Published 26.05.2021
 - must specify that it is based on nasopharyngeal and/or oropharyngeal swab.
 - This does not apply to passengers younger than 5 years who are accompanied by a legal guardian.
 4. Passengers could be subject to a COVID-19 PCR test upon arrival.
-5. Passengers could be subject to quarantine. More details can be found at <a href="https://www.visitbarbados.org/covid-19-travel-guidelines-2020">https://www.visitbarbados.org/covid-19-travel-guidelines-2020</a>
+5. Passengers could be subject to quarantine. More details can be found at <a href="https://www.visitbarbados.org/covid-19-travel-guidelines-2020">https://www.visitbarbados.org/covid-19-travel-guidelines-2020</a> 
 
