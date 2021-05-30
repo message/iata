@@ -1,6 +1,8 @@
-Published 12.05.2021
+Published 30.05.2021
 1.Passengers arriving from Venezuela must have an authorization obtained from immigration authorities before departure.
 2.Passengers must complete an "Electronic Ticket" at <a href="https://eticket.migracion.gob.do/">https://eticket.migracion.gob.do/</a> , this will generate a QR code which must be presented upon arrival.
-3.Passengers and airline crew could be subject to medical screening upon arrival. Details can be found at <a href="http://www.godominicanrepublic.com/newsroom/coronavirus">www.godominicanrepublic.com/newsroom/coronavirus</a> 
+3.Passengers and airline crew could be subject to medical screening upon arrival. Details can be found at <a href="http://www.godominicanrepublic.com/newsroom/coronavirus">www.godominicanrepublic.com/newsroom/coronavirus</a>
+4. Effective 31 May 2021, passengers arriving from Brazil, South Africa or United Kingdom must have a negative COVID-19 antigen or PCR test taken at most 72 hours before arrival.
 
 
+<p>
