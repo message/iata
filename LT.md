@@ -18,6 +18,6 @@ This does not apply to:
 - passengers with a positive COVID-19 antigen or PCR test result issued at least 180 days before arrival and a recovery certificate;
 - passengers with a COVID-19 vaccination certificate stating that they received the last dose of the vaccine.
 4. A completed health questionnaire must be presented at check-in. The e-questionnaire can be obtained at <a href="https://keleiviams.nvsc.lt/lt/form">https://keleiviams.nvsc.lt/lt/form</a> 
-5. Passengers could be subject to self-isolation for 10 days. More details can be found at <a href="https://tinyurl.com/pc3vtypp">https://tinyurl.com/pc3vtypp</a>
-6. Airline crew could be subject to self-isolation until their next flight or for a maximum of 10 days. More details can be found at <a href="https://tinyurl.com/pc3vtypp">https://tinyurl.com/pc3vtypp</a>
+5. Passengers could be subject to self-isolation for 10 days. More details can be found at <a href="https://tinyurl.com/pc3vtypp">https://tinyurl.com/pc3vtypp</a> 
+6. Airline crew could be subject to self-isolation until their next flight or for a maximum of 10 days. More details can be found at <a href="https://tinyurl.com/pc3vtypp">https://tinyurl.com/pc3vtypp</a> 
 

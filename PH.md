@@ -7,7 +7,7 @@ Published 26.05.2021
 - passengers with a visa issued by the Philippines (excluding 9(A) and SRRV visas);
 - passengers with a 9(A) or SRRV visa. They must have an endorsement document issued by the Department of Foreign Affairs (DFA) or until 31 May 2021 by the National Task Force (NTF);
 - passengers with an Identification Certificate (IC) or a Certificate of Re-acquisition/Retention of Philippine Citizenship (CRPC) issued by the Philippines.
-2. Until 31 May 2021, passengers who in the past 14 days have been in Bangladesh, India, Nepal, Oman, Pakistan, Sri Lanka or United Arab Emirates are not allowed to enter.
+2. Passengers who in the past 14 days have been in Bangladesh, India, Nepal, Oman, Pakistan, Sri Lanka or United Arab Emirates are not allowed to enter.
 - This does not apply to nationals of the Philippines traveling under the government's repatriation program.
 3. Passengers are not allowed to transit.
 4. Suspension of all visa on arrival facilities.

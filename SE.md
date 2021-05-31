@@ -19,7 +19,7 @@ Published 31.05.2021
 3. Passengers must have a negative COVID-19 antigen, LAMP, PCR or TMA test result. The test must have been taken at most 48 hours before arrival.
 - This does not apply to:
 - nationals and residents of Sweden;
-- passengers arriving from Denmark, Finland, Iceland or Norway;
+- passengers who arrive from or have transited through Denmark, Finland, Iceland or Norway;
 - passengers younger than 18 years;
 - merchant seamen.
 
