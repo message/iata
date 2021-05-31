@@ -1,6 +1,6 @@
-Published 12.05.2021
+Published 31.05.2021
 1. Flights to Nepal are suspended.
-- This does not apply to flights from India.
+- This does not apply to flights from China (People's Rep.), India, Qatar or Turkey.
 2. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Nepal;
