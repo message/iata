@@ -1,7 +1,7 @@
-Published 21.05.2021
+Published 31.05.2021
 1. Until 31 May 2021, passengers are not allowed to enter.
 Effective 1 June 2021: 
-1. Passengers are not allowed to enter if they arrive from or if in the past 14 days they have been in India.
+1. Passengers are not allowed to enter if they arrive from or if in the past 14 days they have been in India or Viet Nam.
 2. Passengers must have an approval from the Foreign Ministry of Sri Lanka by sending an email to: <a href="mailto:entry.permission@mfa.gov.lk">entry.permission@mfa.gov.lk</a> 
 - This does not apply to:
 - nationals and dual nationals of Sri Lanka staying in a designated quarantine hotel;
