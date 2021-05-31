@@ -1,8 +1,8 @@
-Published 26.05.2021
+Published 31.05.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Oman;
-- passengers with a visa issued by Oman;
+- passengers with a visa issued by Oman if in the past 14 days they have been in a country other than Bangladesh, Brazil, Egypt, Ethiopia, Ghana, Guinea, India, Lebanon, Nigeria, Pakistan, Philippines, Sierra Leone, South Africa, Sudan, Tanzania or United Kingdom;
 - passengers with a diplomatic passport traveling on duty.
 2. Passengers must have a negative COVID-19 PCR test in Arabic or English. Test of passengers arriving:
  - on flights that take 8 hours or longer, including transit; must be taken at most 96 hours before arrival;

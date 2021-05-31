@@ -1,4 +1,4 @@
-Published 23.05.2021
+Published 31.05.2021
 1. Visa on arrival facility restarted.
 2. Flights from Addis Ababa (ABB) and Baku (BAK) are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
@@ -17,4 +17,7 @@ Published 23.05.2021
 - a COVID-19 recovery certificate.
 6. Border crossing on the causeway is suspended.
 7. Passengers could be subject to quarantine for 10 days.
+Effective 1 June 2021:
+Passengers arriving from Viet Nam are not allowed to enter.
+- This does not apply to nationals and residents of Bahrain.
 

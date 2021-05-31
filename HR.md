@@ -1,4 +1,4 @@
-Published 28.05.2021
+Published 31.05.2021
 1. Until 15 June 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See) and their family members;
@@ -28,6 +28,5 @@ This does not apply to:
 6. A completed "Enter Croatia Form" must be presented upon arrival. The form can be submitted online before departure at <a href="https://entercroatia.mup.hr/">https://entercroatia.mup.hr/</a> 
 - This does not apply to nationals and residents of Croatia.
 7. A completed "Passenger Locator Form" must be presented upon arrival. The form can be found at <a href="https://tinyurl.com/8bv6cuc">https://tinyurl.com/8bv6cuc</a> 
-- This does not apply to nationals and residents of Croatia.
 8. More information can be found at <a href="https://mup.gov.hr/uzg-covid/english/286212">https://mup.gov.hr/uzg-covid/english/286212</a> 
 
