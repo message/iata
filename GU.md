@@ -1,4 +1,4 @@
-Published 25.05.2021
+Published 01.06.2021
 1. Passengers must have a negative COVID-19 antigen, NAAT, RT-LAMP, RT-PCR or TMA test taken at most 3 days before departure from the first embarkation point. Passengers details (e.g., name and date of birth) on the result must match those stated in the passport or other travel document. The test result must specify "negative" or "not detected". If marked "invalid" it is not accepted.
 This does not apply to:
 - passengers arriving from the USA;
@@ -11,7 +11,6 @@ This does not apply to:
 - the second vaccine dose of Moderna at least 14 days before arrival; or
 - the single vaccine dose of Janssen at least 14 days before arrival.
 3. Airline crew are subject to quarantine until their next flight.
-4. Until 31 December 2021, nationals of the U.S.A. are allowed to enter with an expired passport if:
- - it was originally valid for 10 years; or
- - it was originally valid for 5 years and the passenger was 15 years of age or younger when the passport was issued.
+4. Nationals of the U.S.A. are allowed to enter with an expired passport.
+ - This does not apply to emergency passports which must be valid on arrival.
 

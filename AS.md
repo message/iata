@@ -1,4 +1,4 @@
-Published 25.05.2021
+Published 01.06.2021
 1. Flights to Samoa (American) are suspended.
 - This does not apply to medevac flights and repatriation flights. 
 2. Passengers must have a medical certificate with a negative Coronavirus (COVID-19) test result issued at most 72 hours before arrival. 
@@ -13,7 +13,6 @@ Published 25.05.2021
 - obtain a health clearance from Ministry of Health (MOH) 3 days prior to arrival; and
 - present a completed “DOT Travel Declaration Form" upon arrival; and
 - provide itinerary upon arrival.
-7. Until 31 December 2021, nationals of the U.S.A. are allowed to enter with an expired passport if:
- - it was originally valid for 10 years; or
- - it was originally valid for 5 years and the passenger was 15 years of age or younger when the passport was issued.
+7. Nationals of the U.S.A. are allowed to enter with an expired passport.
+ - This does not apply to emergency passports which must be valid on arrival.
 
