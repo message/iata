@@ -4,22 +4,23 @@ Published 01.06.2021
 - This does not apply to nationals of Jordan and their spouses and children.
 3. Passengers are not allowed to transit through Jordan for more than 10 hours.
 4. Passengers must have health insurance valid for the whole period of intended stay.
-- This does not apply to:
+This does not apply to:
 - nationals of Jordan;
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and a diplomatic QR code and their family members.
-5. Passengers entering Jordan must have a negative COVID-19 PCR test taken at most 120 hours before arrival. The test result for passengers arriving from Egypt, Iraq, Palestinian Territory or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a> 
-- This does not apply to:
+5. Passengers entering Jordan must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result for passengers arriving from Egypt, Iraq, Palestinian Territory or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a> 
+This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and their family members.
 6. Passengers transiting through Jordan must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result for passengers arriving from Egypt, Iraq, Palestinian Territory or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a> 
-- This does not apply to:
+This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and their family members.
 7. Passengers are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://registration.questlabjo.com/">https://registration.questlabjo.com/</a> if traveling to Amman (AMM), or at <a href="https://COVID19.biolab.jo">https://COVID19.biolab.jo</a> if traveling to Aqaba (AQJ). Passengers must have an electronic receipt with a QR code confirming the payment.
-- This does not apply to:
+This does not apply to:
 - passengers younger than 5 years;
-- passengers with a diplomatic or special passport and a diplomatic QR code and their family members.
+- passengers with a diplomatic or special passport and a diplomatic QR code and their family members;
+- passengers arriving from Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, China (People’s Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Japan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Morocco, Netherlands, New Zealand, Norway, Oman, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tunisia, Turkey, United Arab Emirates, United Kingdom or USA with a COVID-19 vaccination certificate stating that they received the last vaccine dose.
 8. Military personnel and their family members must have a "Military QR Code" obtained before departure at <a href="https://www.gateway2jordan.gov.jo">https://www.gateway2jordan.gov.jo</a> .
 9. A completed "Passenger Health Declaration Form" and a "Locator Form" must be presented before departure.
 10. Nationals of Jordan and their spouses and children who in the past 14 days have been in or transited through India must present a completed indemnity form. They are subject to quarantine at a hotel for 14 days at their own expense.

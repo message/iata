@@ -1,4 +1,4 @@
-Published 31.05.2021
+Published 01.06.2021
 1. Until 30 July 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -17,7 +17,7 @@ Published 31.05.2021
 - military personnel.
 3. Until 21 June 2021, passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
- - nationals of Italy residing in Italy since before 29 April 2021;
+- nationals of Italy residing in Italy since before 29 April 2021;
 - nationals of Italy registered with the A.I.R.E.
 4. passengers must complete a Digital Passenger Locator Form at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a> 
 5. Passengers arriving in Sardinia must register before departure at <a href="https://sus.regione.sardegna.it/sus/covid19/regimbarco/init;jsessionid=DBC60851683A8F71D64CBFA6632E9138.sus2?lang=en">https://sus.regione.sardegna.it/sus/covid19/regimbarco/init;jsessionid=DBC60851683A8F71D64CBFA6632E9138.sus2?lang=en</a> or via the app "SardegnaSicura".
@@ -44,6 +44,5 @@ Published 31.05.2021
 - another COVID-19 antigen or molecular test at the end of quarantine.
 - This does not apply to passengers younger than 2 years.
 11. Passengers could be subject to self-isolation for 10 days and to a COVID-19 antigen or molecular test at the end of self-isolation. More details can be found at <a href="https://infocovid.viaggiaresicuri.it/index_en.html">https://infocovid.viaggiaresicuri.it/index_en.html</a> 
-12. Residence permits issued by Italy which expired between 1 August 2020 and 30 April 2021 are considered valid until 31 July 2021.
+12. Residence permits issued by Italy which expired after 31 January 2020 are considered valid until 31 July 2021.
 
-<p>

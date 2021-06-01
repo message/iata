@@ -6,6 +6,7 @@ This does not apply to:
 - passengers arriving on humanitarian, medevac or repatriation flights;
 - merchant seamen.
 2. Passengers without a negative COVID-19 PCR test result issued at most 72 hours before arrival, are subject to an antigen test and quarantine upon arrival.
+This does not apply to:
 - passengers younger than 5 years;
 - passengers with a COVID-19 vaccination certificate issued by Malta.
 3. Passengers and airline crew could be subject to self-quarantine for 14 days.
