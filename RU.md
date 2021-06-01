@@ -1,4 +1,4 @@
-Published 29.05.2021
+Published 01.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Russian Fed. and their family members;
@@ -13,7 +13,8 @@ Published 29.05.2021
 - nationals of the Russian Fed.;
 - nationals of Armenia, Belarus, Kazakhstan and Kyrgyzstan arriving on a direct flight from Armenia, Belarus or Kyrgyzstan.
 4. Nationals of Armenia, Belarus, Kazakhstan and Kyrgyzstan arriving on a direct flight from Armenia, Belarus or Kyrgyzstan must have a negative COVID-19 PCR test result issued at most 3 days before arrival. The test result must have a green QR code obtained in the app 'Traveling without COVID-19'.
-5. Until 1 June 2021, flights from Tanzania and United Kingdom to the Russian Fed. are suspended.
-6. Passengers arriving from the United Kingdom are subject to self-isolation for 14 days.
-7. A completed “Application Form" must be presented upon arrival. The form can be obtained at <a href="https://www.rospotrebnadzor.ru/upload/%D0%B0%D0%B2%D0%B8%D0%B0%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0%20RUS.docx">https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docx</a> 
+5. Until 1 June 2021, flights from the United Kingdom to the Russian Fed. are suspended.
+6. Until 21 June 2021, flights from Tanzania to the Russian Fed. are suspended. 
+7. Passengers arriving from the United Kingdom are subject to self-isolation for 14 days.
+8. A completed “Application Form" must be presented upon arrival. The form can be obtained at <a href="https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docx">https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docx</a>
 

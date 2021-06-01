@@ -1,11 +1,11 @@
-Published 27.05.2021
-1. Passengers are not allowed to enter.
+Published 01.06.2021
+1. Until 14 June 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
 - residents of Portugal;
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland, and their family members;
 - passengers with a long term visa issued by Portugal;
-- passengers arriving from Australia, Austria, Belgium, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Netherlands, New Zealand, Norway, Poland, Romania, Rwanda, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand or United Kingdom;
+- passengers arriving from Australia, Austria, Belgium, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Netherlands, New Zealand, Norway, Poland, Romania, Rwanda, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand or United Kingdom;
 - passengers with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden, returning via Portugal to their country of residence;
 - passengers with a long term visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden, returning via Portugal to their country of residence.
 2. A completed electronic "Passenger Locator Card (PLCe)" must be presented upon boarding. The form can be found at <a href="https://portugalcleanandsafe.pt/en/passenger-locator-card">https://portugalcleanandsafe.pt/en/passenger-locator-card</a> .

@@ -1,6 +1,6 @@
-Published 17.05.2021
-1. Flights from India are suspended.
-2. Passengers who in the past 45 days have been in India are not allowed to enter.
+Published 01.06.2021
+1. Until 15 June 2021, flights from India are suspended.
+2. Until 15 June 2021, passengers who in the past 45 days have been in India are not allowed to enter.
 - This does not apply to nationals of Jordan and their spouses and children.
 3. Passengers are not allowed to transit through Jordan for more than 10 hours.
 4. Passengers must have health insurance valid for the whole period of intended stay.
@@ -30,4 +30,3 @@ Published 17.05.2021
 14. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
 15. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a> 
 
-</p>
