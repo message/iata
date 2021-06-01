@@ -13,5 +13,5 @@ Published 01.06.2021
 - This does not apply to nationals and residents of Israel.
 6. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://tinyurl.com/ypvvex9p">https://tinyurl.com/ypvvex9p</a> 
 7. Airline crew are subject to self-isolation until their next flight.
-8. More COVID-19 related information can be found at <a href="https://www.gov.il/en/departments/air-travel-covid19-israel">https://www.gov.il/en/departments/air-travel-covid19-israel</a>
+8. More COVID-19 related information can be found at <a href="https://www.gov.il/en/departments/air-travel-covid19-israel">https://www.gov.il/en/departments/air-travel-covid19-israel</a> 
 
