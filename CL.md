@@ -1,4 +1,4 @@
-Published 30.05.2021
+Published 01.06.2021
 1. Until 15 June 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Chile;
@@ -13,7 +13,9 @@ Published 30.05.2021
 - the second test taken at most 72 hours before departure.
 3. An Affidavit for Travellers to Prevent Coronavirus Diseases (COVID-19) (Declaracion Jurada) must be completed at <a href="http://www.c19.cl">www.c19.cl</a> at most 48 hours before arrival.
 4. Passengers must have travel insurance to cover COVID-19 expenses, with a minimum coverage of USD 30,000.
-- This does not apply to nationals and residents of Chile.
+This does not apply to:
+- nationals and residents of Chile;
+- nationals of Spain with an E-CHL/09 and E-CH/11 form. 
 5. Passengers must undergo "Passenger Tracking" for 14 days or until they leave Chile.
 6. Passengers could be subject to a COVID-19 PCR test upon arrival.
 7. Passengers are subject to quarantine for 5 days at their own expense in a hotel booked at <a href="https://www.c19.cl/">https://www.c19.cl/</a> .
