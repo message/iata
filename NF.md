@@ -7,7 +7,7 @@ Published 28.05.2021
 - passengers who have been in Australia, New Zealand or both for the full 14 days before their flight to Australia; 
 - passengers who have a visa and have been granted an exemption before departure; details can be found at <a href="https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form">https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form</a> 
 2. Passengers are not allowed to transit through Australia to New Zealand.
-3. Passengers could be subject to presenting a "Travel Declaration" form and present it at time of check-in. The form can be found at <a href="https://covid19.homeaffairs.gov.au/australia-travel-declaration">https://covid19.homeaffairs.gov.au/australia-travel-declaration</a>
+3. Passengers could be subject to presenting a "Travel Declaration" form and present it at time of check-in. The form can be found at <a href="https://covid19.homeaffairs.gov.au/australia-travel-declaration">https://covid19.homeaffairs.gov.au/australia-travel-declaration</a> 
 4. Passengers could be subject to quarantine for 14 days at the first point of entry. Details can be found at <a href="https://covid19.homeaffairs.gov.au/new-zealand-safe-travel-zone">https://covid19.homeaffairs.gov.au/new-zealand-safe-travel-zone</a> 
 5. Airline crew are subject to self-isolation until their next flight.
 6. Passengers transiting through Australia for 8 to 72 hours are subject to quarantine until their next flight.
