@@ -1,6 +1,6 @@
-Published 20.05.2021
-1. Until 2 June 2021, flights from Argentina, Brazil, Chile, Colombia, India, Paraguay, Peru and Trinidad and Tobago are suspended.
-2. Until 3 June 2021, passengers are not allowed to enter if in the past 14 days they have been in Argentina, Brazil, Chile, Colombia, India, Paraguay, Peru or Trinidad and Tobago.
+Published 02.06.2021
+1. Until 30 June 2021, flights from Argentina, Brazil, Chile, Colombia, India, Paraguay, Peru and Trinidad and Tobago are suspended.
+2. Until 30 June 2021, passengers are not allowed to enter if in the past 14 days they have been in Argentina, Brazil, Chile, Colombia, India, Paraguay, Peru or Trinidad and Tobago.
 - This does not apply to nationals of Jamaica.
 3. Passengers residing in Jamaica for a minimum of 6 continuous months in a calendar year must complete a travel authorization before departure at <a href="https://jamcovid19.moh.gov.jm/immigration.html">https://jamcovid19.moh.gov.jm/immigration.html</a> .
 4. Passengers not residing in Jamaica must present a travel authorization before departure obtained at <a href="https://www.visitjamaica.com/">https://www.visitjamaica.com/</a> .
