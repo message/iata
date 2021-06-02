@@ -5,6 +5,5 @@ This does not apply to:
 - medevac and repatriation flights.
 2. Passengers must have a printed negative COVID-19 RT-PCR test result issued at most 36 hours before departure. The test result must be in Arabic, English or French.
 - This does not apply to passengers younger than 12 years.
-3. Passengers must have an exceptional entry permit (EEP) issued by the Ministry of Foreign Affairs in Algeria or by an Algerian embassy.
-4. Passengers could be subject to quarantine at their own expense.
+3. Passengers arriving from France, Spain, Tunisia or Turkey must have a quarantine package for 5 days obtained from the transporting carrier before departure.
 
