@@ -1,4 +1,4 @@
-Published 21.05.2021
+Published 02.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -44,4 +44,8 @@ All documents must be in Chinese or English.
 - an approval letter from the Marine Department, and
 - a letter of certification to Department of Health from Hong Kong.
 15. Airline crew and merchant seamen are subject to a COVID-19 nucleic acid test upon arrival.
+16. Effective 4 June 2021, passengers who have been in or transited through Cambodia, Thailand or Viet Nam in the past 21 days must have:
+- a negative COVID-19 nucleic acid test result. The test must have been taken at most 72 hours before departure of the last direct flight to Hong Kong, SAR China. The name in the test result must match the name on the travel document, or a written confirmation issued by the laboratory with the name of the passenger must be presented; and
+- a document proving that the laboratory is ISO 15189 accredited or approved by the local government.
+All documents must be in Chinese or English.
 
