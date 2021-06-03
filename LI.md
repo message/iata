@@ -1,4 +1,4 @@
-Published 31.05.2021
+Published 03.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
@@ -22,7 +22,7 @@ Published 31.05.2021
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point. They are subject to a COVID-19 rapid antigen or PCR test upon arrival at their own expense.
 - This does not apply to:
-- passengers younger than 12 years;
+- passengers younger than 16 or 12 years, depending on their country of departure. Details can be found at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> ;
 - passengers with a positive COVID-19 test result of a test taken in the past 6 months. They must also have a recovery certificate;
 - passengers with a COVID-19 vaccination certificate stating they received the last vaccine dose before arrival. More details can be found at <a href="https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412">https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412</a> ;
 - nationals and residents of Switzerland with no possibility of getting tested in the departure country. They must complete a self-declaration form obtained at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> . They are subject to a COVID-19 test upon arrival;

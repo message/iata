@@ -17,7 +17,7 @@ Published 01.06.2021
 6. Passengers entering or transiting through St. Maarten must:
 - present a pre-approved e-mail authorization at time of check-in and upon arrival; and
 - complete a health declaration form at least 12 hours before departure obtained at stmaartenehas.com
-- This does not apply to passengers transiting in the same calendar day to Saba, with an authorization obtained at <a href="http://www.sabatourism.com/travel-requirements">www.sabatourism.com/travel-requirements</a>
+- This does not apply to passengers transiting in the same calendar day to Saba, with an authorization obtained at <a href="http://www.sabatourism.com/travel-requirements">www.sabatourism.com/travel-requirements</a> 
 7. Passengers arriving from Aruba, Bonaire or Curacao, and:
 - who have uploaded the COVID-19 vaccination certificate at <a href="http://www.stmaartenentry.com">www.stmaartenentry.com</a> must have a negative COVID-19 antigen test taken at most 48 hours before departure and with a FDA-EUA approval;
 - who do not have a vaccination certificate, must have a negative COVID-19 RT-PCR test based on a nasopharyngeal swab and taken at most 48 hours before departure.

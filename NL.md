@@ -1,4 +1,4 @@
-Published 01.06.2021
+Published 03.06.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of the Netherlands;
@@ -28,14 +28,10 @@ This does not apply to:
 - passengers with a visa issued on or after 19 March 2020 by the country of final destination;
 - merchant seamen;
 - military personnel.
-3. Passengers entering the Netherlands must have:
-- a negative COVID-19 test taken at most 24 hours before boarding the flight of the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
-- a negative COVID-19 rapid antigen test taken at most 24 hours before boarding the flight of the first embarkation point, and 
-- a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA. 
+3. Passengers must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA.
 This does not apply to:
 - passengers younger than 13 years;
 - passengers with a diplomatic passport;
-- passengers arriving from Aruba, Australia, China (People's Rep.), Curacao, Finland, Greece (the regions of Ionian Islands, North Aegean and South Aegean), Hong Kong (SAR China), Iceland, Ireland (Rep.), Israel, Korea (Rep.), Macao (SAR China), Malta, New Zealand, Norway (excluding Oslo and the Agder county), Portugal, Rwanda, Singapore, Spain (the Balearic and Canary Islands), St. Eustatius and Saba, St. Maarten or Thailand;
 - merchant seamen;
 - passengers with a NATO Travel Order or a NATO-2 visa;
 - passengers with:
@@ -46,13 +42,17 @@ This does not apply to:
 - a positive COVID-19 NAAT test result taken at least 2 weeks and at most 8 weeks before arrival; and
 - a positive COVID-19 NAAT test result taken at most 72 hours before arrival; and
 - a medical certificate specifying that the passenger is not COVID-19 contagious issued at most 72 hours before departure.
-4. Passengers transiting through the Netherlands must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA.
+- passengers arriving from Aruba, Australia, Bonaire, St. Eustatius and Saba, China (People's Rep.), Curacao, Finland, Greece (the regions of Ionian Islands and North Aegean), Hong Kong (SAR China), Iceland, Ireland (Rep.), Israel, Korea (Rep.), Macao (SAR China), Malta, New Zealand, Norway (excluding Oslo and the Agder county), Portugal, Romania, Rwanda, Singapore, Spain (the Balearic and Canary Islands), St. Maarten or Thailand;
+- passengers arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela.
+4. Passengers arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela must have:
+- a negative COVID-19 test taken at most 24 hours before boarding the flight of the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
+- a negative COVID-19 rapid antigen test taken at most 24 hours before boarding the flight of the first embarkation point, and
+- a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA.
 This does not apply to:
 - passengers younger than 13 years;
 - passengers with a diplomatic passport;
-- passengers arriving from Aruba, Australia, China (People's Rep.), Curacao, Finland, Greece (the regions of Ionian Islands, North Aegean and South Aegean), Hong Kong (SAR China), Iceland, Ireland (Rep.), Israel, Korea (Rep.), Macao (SAR China), Malta, New Zealand, Norway (excluding Oslo and the Agder county), Portugal, Rwanda, Singapore, Spain (the Balearic and Canary Islands), St. Eustatius and Saba, St. Maarten or Thailand;
-- passengers with a NATO Travel Order or a NATO-2 visa;
 - merchant seamen;
+- passengers with a NATO Travel Order or a NATO-2 visa;
 - passengers with:
 - a positive COVID-19 NAAT test result taken at least 2 weeks and at most 8 weeks before arrival; and
 - a positive COVID-19 NAAT test result taken at most 72 hours before arrival; and
