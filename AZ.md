@@ -8,5 +8,4 @@ Published 03.06.2021
 - passengers with a document proving purchase of a ticket for the European Football Championship 2021 matches in Baku. They must be nationals of the countries represented by the football teams participating in the matches held in Baku;
 - stateless persons with a document proving purchase of a ticket for the European Football Championship 2021 matches in Baku. They must be permanent residents of the countries represented by the football teams participating in the matches held in Baku. 
 2. Passengers must have a printed negative COVID-19 PCR test result issued at most 48 hours before departure of the last direct flight to Azerbaijan.
-3. A completed "Self-Isolation Form" must be presented upon arrival.
 
