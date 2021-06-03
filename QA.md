@@ -1,4 +1,4 @@
-Published 31.05.2021
+Published 03.06.2021
 1. Passengers are not allowed to enter Qatar. 
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates;
@@ -28,7 +28,10 @@ Published 31.05.2021
 - passengers with a Diplomatic ID or an Admin card issued by the MOFA of Qatar;
 - US or NATO military personnel with Military ID card;
 - nationals and residents of Qatar with a positive COVID-19 test result issued in Qatar at most 9 months before arrival.
-6. Passengers are subject to home quarantine or quarantine in a hotel for 7 days; details can be found at <a href="https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx">https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx</a> .
+6. Passengers are subject to home quarantine or quarantine in a hotel for 7 days; details can be found at <a href="https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx">https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx</a> 
+This does not apply to:
+- nationals and residents of Qatar with a COVID-19 vaccination certificate stating they received the last vaccine dose at least 14 days before arrival;
+- passengers with a visa obtained before departure and a COVID-19 vaccination certificate stating they received the last vaccine dose at least 14 days before arrival.
 7. Passengers could be subject to a COVID-19 PCR test upon arrival.
 8. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates are not allowed to enter with a national ID card.
 9. Passengers must install the Ehteraz app.
