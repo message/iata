@@ -1,4 +1,4 @@
-Published 03.06.2021
+Published 04.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -31,7 +31,7 @@ Published 03.06.2021
 7. Residents of United Arab Emirates with a permanent residence card or a residency visa returning to Dubai (DXB) must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitServiceForm.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitServiceForm.aspx</a> .
 8. Residents of United Arab Emirates must have an ICA approval obtained at <a href="https://uaeentry.ica.gov.ae">https://uaeentry.ica.gov.ae</a> before departure.
 - This does not apply to passengers returning to Dubai (DXB).
-9. Passengers entering or transiting through United Arab Emirates who in the past 14 days have been in Bangladesh, India, Nepal, Pakistan or Sri Lanka must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code (until 31 May 2021, the QR code requirement does not apply to Abu Dhabi (AUH)).
+9. Passengers entering or transiting through United Arab Emirates who in the past 14 days have been in Bangladesh, India, Nepal, Pakistan or Sri Lanka must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with disabilities.
@@ -68,7 +68,7 @@ Published 03.06.2021
 - passengers younger than 12 years;
 - passengers with disabilities;
 - passengers arriving from Bangladesh, India, Nepal, Pakistan or Sri Lanka.
-16. Passengers entering or transiting through Abu Dhabi (AUH) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. Effective 1 June 2021, passengers arriving from Egypt, Ethiopia, Lebanon or Sudan must have a QR code in the test result.
+16. Passengers entering or transiting through Abu Dhabi (AUH) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. Passengers arriving from Egypt, Ethiopia, Lebanon or Sudan must have a QR code in the test result.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with disabilities;
@@ -86,4 +86,13 @@ Published 03.06.2021
 26. Flights from India and Yemen are suspended.
 27. Until 18 June 2021, flights from Nigeria and South Africa are suspended .
 28. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
+29. Effective 6 June 2021, flights from Viet Nam are suspended.
+30. Effective 6 June 2021, passengers who in the past 14 days have been in Viet Nam are not allowed to enter and transit.
+- This does not apply to:
+- nationals of United Arab Emirates;
+- passengers with a diplomatic or an official passport traveling on duty.
+31. Effective 6 June 2021, passengers entering or transiting through United Arab Emirates who in the past 14 days have been in Viet Nam must have a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+- This does not apply to:
+- passengers younger than 12 years;
+- passengers with disabilities.
 

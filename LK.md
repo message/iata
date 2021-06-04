@@ -1,5 +1,5 @@
-Published 01.06.2021
-1. Passengers are not allowed to enter if they arrive from or if in the past 14 days they have been in India or Viet Nam.
+Published 04.06.2021
+1. Passengers are not allowed to enter if they arrive from or if in the past 14 days they have been in Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, French Guiana, Guyana, India, Paraguay, Peru, South Africa, Suriname, Uruguay, Venezuela or Viet Nam.
 2. Passengers must have an approval from the Foreign Ministry of Sri Lanka by sending an email to: <a href="mailto:entry.permission@mfa.gov.lk">entry.permission@mfa.gov.lk</a> 
 - This does not apply to:
 - nationals and dual nationals of Sri Lanka staying in a designated quarantine hotel;

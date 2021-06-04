@@ -1,7 +1,7 @@
 Published 04.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
- - passengers with a COVID-19 vaccination certificate stating that they received the last vaccine dose at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
+- passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. Details can be found at <a target="_blank" href="https://www.stkittstourism.kn/travel-requirements">https://www.stkittstourism.kn/travel-requirements</a> ;
  - passengers who are younger than 18 if they travel with their parent who have been fully vaccinated.
 2. Flights from Brazil, South Africa and United Kingdom are suspended.
 3. Passengers must complete a "Customs, Border and Health Entry Form" before departure at <a href="https://www.knatravelform.kn">https://www.knatravelform.kn</a> 
