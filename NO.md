@@ -22,4 +22,3 @@ Published 02.06.2021
 - a COVID-19 antigen test or PCR test upon arrival.
 5. Passengers could be subject to home or hotel quarantine. More details can be found at <a href="https://tinyurl.com/yoqc3omu">https://tinyurl.com/yoqc3omu</a> .
 
-</p>

@@ -9,5 +9,5 @@ This does not apply to:
 3. Passengers could be subject to quarantine; more details can be found at <a href="https://governor.gov.mp/covid-19/travel/">https://governor.gov.mp/covid-19/travel/</a> 
 4. Passengers could be subject to a COVID-19 test upon arrival; more details can be found at <a href="https://governor.gov.mp/covid-19/travel/">https://governor.gov.mp/covid-19/travel/</a> 
 5. Nationals of the U.S.A. are allowed to enter with an expired passport.
- - This does not apply to emergency passports which must be valid on arrival.
+- This does not apply to emergency passports which must be valid on arrival.
 
