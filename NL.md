@@ -1,4 +1,4 @@
-Published 03.06.2021
+Published 04.06.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of the Netherlands;
@@ -61,11 +61,7 @@ This does not apply to:
 - a positive COVID-19 NAAT test result taken at least 2 weeks and at most 8 weeks before arrival; and
 - a positive COVID-19 NAAT test result taken at most 72 hours before arrival; and
 - a medical certificate specifying that the passenger is not COVID-19 contagious issued at most 72 hours before departure.
-5. Airline crew and merchant seamen entering the Netherlands must have:
-- a negative COVID-19 rapid antigen test taken at most 24 hours before boarding the flight of the first embarkation point; or
-- an authorization issued by the Ministry of Health, Welfare and Sport.
-- This does not apply to airline crew who are not leaving the aircraft.
-6. A completed "Health Declaration Form" must be presented prior to boarding. The form can be found at <a href="https://tinyurl.com/ybtmdgja">https://tinyurl.com/ybtmdgja</a> 
+5. A completed "Health Declaration Form" must be presented prior to boarding. The form can be found at <a href="https://tinyurl.com/ybtmdgja">https://tinyurl.com/ybtmdgja</a> 
  - This does not apply to passengers younger than 13 years.
-7. Passengers could be subject to self-quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/3zvzaz3b">https://tinyurl.com/3zvzaz3b</a> 
+6. Passengers could be subject to self-quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/3zvzaz3b">https://tinyurl.com/3zvzaz3b</a> 
 
