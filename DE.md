@@ -1,13 +1,13 @@
-Published 03.06.2021
+Published 04.06.2021
 1. Passengers are not allowed to enter.
  1.1. This does not apply to:
 - nationals and residents of Germany;
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
  1.2. This does not apply to the following passengers if arriving from a country other than Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Zambia or Zimbabwe:
-- nationals of EEA Member States and Switzerland;
+- nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and EEA Member States;
 - immediate family members of nationals of EEA Member States and Switzerland. They must present proof of their family relationship;
 - immediate family members of residents of Germany. They must present proof of their family relationship;
-- passengers with a residence permit issued by an EEA Member State or Switzerland;
+- passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;
 - British nationals with a residence permit issued by Germany before 31 December 2020;
 - passengers with a long term "D" visa issued by an EEA Member State or Switzerland;
 - residents of Australia, Israel, Korea (Rep.), New Zealand, Singapore and Thailand. They must have been living in the residence country for at least 6 months;
