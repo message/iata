@@ -1,4 +1,4 @@
-Published 03.06.2021
+Published 04.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
@@ -17,7 +17,8 @@ Published 03.06.2021
 - passengers arriving directly from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Israel, Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;
 - passengers with a D visa issued by a Schengen Member State they are traveling to;
-- passengers with a Schengen C visa issued by Switzerland after 16 March 2020.
+- passengers with a Schengen C visa issued by Switzerland after 16 March 2020;
+- effective 7 June 2021, passengers with a COVID-19 vaccination certificate stating they received the last vaccine dose.
 3. Passengers must have:
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point. They are subject to a COVID-19 rapid antigen or PCR test upon arrival at their own expense.
