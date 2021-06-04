@@ -1,5 +1,5 @@
-Published 29.05.2021
-1. Until 31 July 2021, passengers arriving from Angola, Bangladesh, Botswana, Brazil, Burundi, Cameroon, Cape Verde, Comoros, Congo (Dem. Rep.), Djibouti, Equatorial Guinea, Eswatini (Swaziland), Ghana, India, Kenya, Lesotho, Libya, Malawi, Mauritania, Mauritius, Mayotte, Mozambique, Namibia, Reunion, Rwanda, Sao Tome and Principe, Seychelles, South Africa, St. Helena, Sudan, Tanzania, Uganda, Zambia or Zimbabwe, are not allowed to enter.
+Published 04.06.2021
+1. Until 31 July 2021, passengers arriving from Angola, Bangladesh, Botswana, Brazil, Burundi, Bhutan, Cameroon, Cape Verde, Comoros, Congo (Dem. Rep.), Djibouti, Equatorial Guinea, Eswatini (Swaziland), Ghana, India, Kenya, Lesotho, Libya, Malawi, Maldives, Mauritania, Mauritius, Mayotte, Mozambique, Myanmar, Namibia, Nepal, Pakistan, Reunion, Rwanda, Sao Tome and Principe, Seychelles, South Africa, Sri Lanka, St. Helena, Sudan, Tanzania, Uganda, Zambia or Zimbabwe, are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Bulgaria, and their family members;
 - passengers with:
