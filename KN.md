@@ -1,6 +1,7 @@
-Published 04.06.2021
+Published 07.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
+- nationals and residents of St. Kitts and Nevis;
 - passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. Details can be found at <a target="_blank" href="https://www.stkittstourism.kn/travel-requirements">https://www.stkittstourism.kn/travel-requirements</a> ;
  - passengers who are younger than 18 if they travel with their parent who have been fully vaccinated.
 2. Flights from Brazil, South Africa and United Kingdom are suspended.

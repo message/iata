@@ -1,4 +1,4 @@
-Published 04.06.2021
+Published 07.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
@@ -18,14 +18,15 @@ Published 04.06.2021
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;
 - passengers with a D visa issued by a Schengen Member State they are traveling to;
 - passengers with a Schengen C visa issued by Switzerland after 16 March 2020;
-- effective 7 June 2021, passengers with a COVID-19 vaccination certificate stating they received the last vaccine dose.
+- passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated;
+- passengers younger than 18 years if they travel with their parent who have been fully vaccinated.
 3. Passengers must have:
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point. They are subject to a COVID-19 rapid antigen or PCR test upon arrival at their own expense.
 - This does not apply to:
 - passengers younger than 16 or 12 years, depending on their country of departure. Details can be found at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> ;
 - passengers with a positive COVID-19 test result of a test taken in the past 6 months. They must also have a recovery certificate;
-- passengers with a COVID-19 vaccination certificate stating they received the last vaccine dose before arrival. More details can be found at <a href="https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412">https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412</a> ;
+- passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated before arrival. More details can be found at <a href="https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412">https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412</a> ;
 - nationals and residents of Switzerland with no possibility of getting tested in the departure country. They must complete a self-declaration form obtained at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> . They are subject to a COVID-19 test upon arrival;
 - more exemptions can be found at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> 
 4. Passengers must:
@@ -33,6 +34,6 @@ Published 04.06.2021
 - complete the "Contact Tracing Card" form. The form is available at <a href="https://static.vueling.com/corporative7/media/1647/swiss_authority_arriving_passenger_contact_tracing_card-pd.pdf">https://static.vueling.com/corporative7/media/1647/swiss_authority_arriving_passenger_contact_tracing_card-pd.pdf</a> or on board.
 This does not apply to:
 - passengers with a positive COVID-19 test result of a test taken in the past 6 months. They must also have a recovery certificate;
-- passengers with a COVID-19 vaccination certificate stating they received the last vaccine dose before arrival. More details can be found at <a href="https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412">https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412</a> 
+- passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated before arrival. More details can be found at <a href="https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412">https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412</a> 
 5. Passengers could be subject to quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html">https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html</a> 
 
