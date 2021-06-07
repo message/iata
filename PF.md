@@ -1,9 +1,9 @@
-Published 26.05.2021
+Published 07.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a travel authorization obtained before departure at <a href="https://tinyurl.com/t5e3vtf9">https://tinyurl.com/t5e3vtf9</a> ; 
 - passengers arriving from the USA with a travel authorization obtained before departure at <a href="https://tinyurl.com/4hmyz9mh">https://tinyurl.com/4hmyz9mh</a> . 
-2. Passengers must complete an "ETIS Application" at <a href="https://www.etis.pf/en/">https://www.etis.pf/en/</a> at least 6 days and at most 30 days before departure. A QR code must be presented upon arrival. 
+2. Passengers must complete an "ETIS Application" at <a href="https://www.etis.pf/en/">https://www.etis.pf/en/</a> at least 6 days and at most 30 days before departure. 
 3. Passengers must have a negative COVID-19 RT-PCR test taken at most 3 days before departure from the first embarkation point. 
 - This does not apply to passengers younger than 11 years. 
 4. Passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/ytuat2th">https://tinyurl.com/ytuat2th</a> . 

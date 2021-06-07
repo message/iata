@@ -1,4 +1,4 @@
-Published 06.06.2021
+Published 07.06.2021
 1. Passengers are not allowed to enter.
  1.1. This does not apply to:
 - nationals and residents of Germany;
@@ -10,7 +10,7 @@ Published 06.06.2021
 - passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;
 - British nationals with a residence permit issued by Germany before 31 December 2020;
 - passengers with a long term "D" visa issued by an EEA Member State or Switzerland;
-- residents of Australia, Israel, Korea (Rep.), New Zealand, Singapore and Thailand. They must have been living in the residence country for at least 6 months;
+- residents of Australia, Israel, Japan, Korea (Rep.), New Zealand, Singapore and Thailand. They must have been living in the residence country in the past 6 months;
 - military personnel;
 - merchant seamen;
 - students;
