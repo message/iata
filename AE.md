@@ -1,4 +1,4 @@
-Published 06.06.2021
+Published 07.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -13,29 +13,31 @@ Published 06.06.2021
 - passengers traveling to Abu Dhabi (AUH) with a tourist visa issued by Abu Dhabi;
 - passengers who are traveling to Abu Dhabi (AUH) and arriving from Australia, Bhutan, Brunei Darussalam, China (People's Rep.), Chinese Taipei, Cuba, Germany, Greenland, Hong Kong (SAR China), Iceland, Israel, Japan, Korea (Rep.), Kenya, Kyrgyzstan, Mauritius, Moldova (Rep.), Morocco, New Zealand, Portugal, Russian Fed., Saudi Arabia, Singapore, Spain, Switzerland, Tajikistan, USA, United Kingdom or Uzbekistan with a pre-arranged visa issued by any emirate;
 - nationals of Indonesia traveling under the Safe Travel Corridor program. They must have an entry permit and a return ticket.
-2. Passengers who in the past 14 days have been in Bangladesh, India, Nepal, Pakistan, Sri Lanka or Viet Nam are not allowed to enter and transit.
+2. Passengers who in the past 14 days have been in Bangladesh, India, Nepal, Pakistan or Sri Lanka are not allowed to enter and transit.
 - This does not apply to:
 - nationals of United Arab Emirates;
 - passengers with a diplomatic or an official passport traveling on duty;
 - passengers with a golden visa issued by United Arab Emirates.
-3. Passengers who in the past 14 days have been in or transited through Nigeria are not allowed to enter and transit.
+3. Passengers who in the past 14 days have been in Viet Nam are not allowed to enter and transit.
+- This does not apply to:
+- nationals of United Arab Emirates and their first degree family members;
+- passengers with a diplomatic or an official passport traveling on duty;
+- passengers with a golden visa or a silver visa issued by United Arab Emirates;
+- passengers with a vaccination certificate stating that they were fully vaccinated at least 28 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac.
+4. Passengers who in the past 14 days have been in or transited through Nigeria are not allowed to enter and transit.
 - This does not apply to:
 - nationals of United Arab Emirates;
 - passengers with a diplomatic passport.
-4. Passengers who in the past 14 days have been in or transited through South Africa are not allowed to enter and transit.
+5. Passengers who in the past 14 days have been in or transited through South Africa are not allowed to enter and transit.
 - This does not apply to nationals of United Arab Emirates.
-5. Passengers arriving at Dubai (DXB):
+6. Passengers arriving at Dubai (DXB):
 - are subject to medical screening, and
 - must download and register the COVID-19 DXB Smart App.
-6. Passengers traveling as tourists arriving at Dubai (DXB) or Sharjah (SHJ) must have health insurance.
-7. Residents of United Arab Emirates with a permanent residence card or a residency visa returning to Dubai (DXB) must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitServiceForm.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitServiceForm.aspx</a> .
-8. Residents of United Arab Emirates must have an ICA approval obtained at <a href="https://uaeentry.ica.gov.ae">https://uaeentry.ica.gov.ae</a> before departure.
+7. Passengers traveling as tourists arriving at Dubai (DXB) or Sharjah (SHJ) must have health insurance.
+8. Residents of United Arab Emirates with a Golden Residence Card or a residency visa returning to Dubai (DXB) must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitServiceForm.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitServiceForm.aspx</a> .
+9. Residents of United Arab Emirates must have an ICA approval obtained at <a href="https://uaeentry.ica.gov.ae">https://uaeentry.ica.gov.ae</a> before departure.
 - This does not apply to passengers returning to Dubai (DXB).
-9. Passengers entering or transiting through United Arab Emirates who in the past 14 days have been in Bangladesh, India, Nepal, Pakistan or Sri Lanka must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
-- This does not apply to:
-- passengers younger than 12 years;
-- passengers with disabilities.
-10. Passengers entering or transiting through United Arab Emirates who in the past 14 days have been in Viet Nam must have a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+10. Passengers entering or transiting through United Arab Emirates who in the past 14 days have been in Bangladesh, India, Nepal, Pakistan or Sri Lanka or Viet Nam must have a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with disabilities.
