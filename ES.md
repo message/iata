@@ -1,4 +1,4 @@
-Published 04.06.2021
+Published 07.06.2021
 1. Until 30 June 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
@@ -10,7 +10,8 @@ This does not apply to:
 - military personnel;
 - immediate family members of a national of an EU Member State traveling together or traveling to join the national of an EU Member State;
 - passengers who are unmarried partners of nationals of Spain. They must have a confirmation of their relationship issued by a consulate of Spain;
-- effective 7 June 2021, passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival. They must be arriving from a country other than Brazil;
+- passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival. They must be arriving from a country other than Brazil or South Africa;
+- minors traveling with their parents who have been fully vaccinated;
 - participants of the Mobile World Congress (MWC21) or "Asociacion de Programas Norteamericanos en Espana" (APUNE) with an invitation letter;
 - students with proof of being enrolled in a course in Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland. They must:
 - have a medical insurance; and
@@ -19,15 +20,16 @@ This does not apply to:
 This does not apply to:
 - nationals and residents of Andorra and Spain;
 - passengers transiting through Spain to a non-Schengen Member State.
-3. Passengers must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: PCR, RT-LAMP, RT-PCR and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation.
+3. Passengers must have:
+- a negative COVID-19 NAAT or antigen test result issued at most 48 hours before arrival. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
+- a COVID-19 vaccination certificate stating that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival; or
+- a COVID-19 recovery certificate issued at least 11 days after the positive COVID-19 NAAT test result. The sample for the certificate must have been taken at most 180 days before arrival.
 This does not apply to:
 - passengers younger than 6 years;
 - passengers arriving from Australia, China (People's Rep.), Hong Kong (SAR China), Japan, Israel, Korea (Rep.), Macao (SAR China), New Zealand, Rwanda, Singapore, Thailand or United Kingdom;
 - passengers arriving from Nordland in Norway;
 - passengers arriving from Aland or Lansi-Suomi in Finland;
-- deadheading crew;
-- until 6 June 2021, passengers arriving from Pohjois-ja Ita-Suomi in Finland and passengers arriving from Troms og Finnmark or Trondelag in Norway;
-- effective 7 June 2021, passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival. They must be arriving from a country other than Brazil.
+- deadheading crew.
 4. Passengers must complete an "FCS Health Control Form" at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> This will generate a QR code which must be presented upon arrival.
 - This does not apply to deadheading crew.
 5. Passengers could be subject to quarantine for up to 10 days; details can be found at <a href="https://tinyurl.com/ucevbmtc">https://tinyurl.com/ucevbmtc</a> 

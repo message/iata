@@ -1,4 +1,4 @@
-Published 03.06.2021
+Published 07.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals or residents of Denmark;
@@ -9,12 +9,12 @@ Published 03.06.2021
 - spouses, partners, children or stepchildren of a person with a diplomatic passport;
 - merchant seamen;
 - more exemptions can be found at <a href="https://tinyurl.com/rwd9tb">https://tinyurl.com/rwd9tb</a> .
-2. Passengers entering or transiting through Denmark must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point or before departure of the last direct flight to Denmark. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish. Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> .
+2. Passengers entering or transiting through Denmark must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point or before departure of the last direct flight to Denmark. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish. Details can be found at <a target="_blank" href="https://tinyurl.com/4uu3pjwh">https://tinyurl.com/4uu3pjwh</a> .
 - This does not apply to:
 - passengers younger than 15 years;
-- passengers traveling to Faroe Islands (FAE);
+- passengers traveling to Faroe Islands (FAE) or Greenland;
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 8 months before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish; 
-- passengers with a COVID-19 vaccination certificate issued in Andorra, Faroe Isl., Greenland, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State. The certificate must state that they received the vaccine at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> ;
+- passengers with a COVID-19 vaccination certificate issued in Andorra, Faroe Isl., Greenland, Monaco, San Marino, Vatican City (Holy See), an EEA Member State or an OECD Member country. The certificate must state that they received the vaccine at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at <a target="_blank" href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> ;
 - nationals of Denmark with a COVID-19 vaccination certificate stating that they received the vaccine at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> ;
 - passengers arriving from yellow countries and regions listed at <a href="https://tinyurl.com/znkvcws">https://tinyurl.com/znkvcws</a> . 
 3. Passengers are subject to a COVID-19 test upon arrival.
