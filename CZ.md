@@ -1,5 +1,5 @@
 Published 07.06.2021
-1. Passengers arriving from a country other than Botswana, Brazil, Colombia, Eswatini, India, Kenya, Lesotho, Malawi, Mozambique, Peru, South Africa, Tanzania, Zambia or Zimbabwe are not allowed to enter. 
+1. Passengers arriving from a country other than Botswana, Brazil, Colombia, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, Peru, South Africa, Tanzania, Zambia or Zimbabwe are not allowed to enter. 
 - This does not apply to:
 - nationals of Czechia; 
 - nationals of Andorra, Australia, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand and Vatican City (Holy See);
@@ -14,7 +14,7 @@ Published 07.06.2021
 - passengers who are unmarried partners of nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and an EEA Member State residing in Czechia. They must have a confirmation of their relationship issued by the Ministry of Foreign Affairs of Czechia; 
 - passengers with a D visa issued by Czechia;
 - passengers with a C visa issued by Czechia after 11 May 2020. 
-2. Passengers arriving from Botswana, Brazil, Colombia, Eswatini, India, Kenya, Lesotho, Malawi, Mozambique, Peru, South Africa, Tanzania, Zambia or Zimbabwe are not allowed to enter. 
+2. Passengers arriving from Botswana, Brazil, Colombia, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, Peru, South Africa, Tanzania, Zambia or Zimbabwe are not allowed to enter. 
 - This does not apply to:
 - nationals of Czechia;
 - nationals of Andorra, Australia, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand and Vatican City (Holy See) with a temporary residence permit issued by Czechia;
@@ -29,8 +29,8 @@ Published 07.06.2021
 - passengers with a residence permit issued by Czechia and a COVID-19 recovery certificate issued at least 14 days and at most 180 days before arrival. The certificate must be issued in Switzerland or an EEA Member State, in Czech or English;
 - passengers with a “D" visa issued by Czechia and a COVID-19 recovery certificate issued at least 14 days and at most 180 days before arrival. The certificate must be issued in Switzerland or an EEA Member State, in Czech or English; 
 - passengers with a COVID-19 recovery certificate issued by a consulate or embassy of Czechia;
-- passengers arriving from Australia, Iceland, Israel, Japan, Korea (Rep.), Malta, New Zealand, Singapore, Thailand or Vatican City (Holy See). 
-4. Passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden or Switzerland must have:
+- passengers arriving from Australia, Iceland, Israel, Japan, Korea (Rep.), Malta, New Zealand, San Marino, Singapore, Thailand or Vatican City (Holy See). 
+4. Passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland must have:
 - a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point; or 
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
@@ -42,7 +42,7 @@ Published 07.06.2021
 - passengers with a "D" visa issued by Czechia and a COVID-19 recovery certificate issued at least 14 days and at most 180 days before arrival. The certificate must be issued in Switzerland or an EEA Member State, in Czech or English; 
 - passengers with a COVID-19 recovery certificate issued by a consulate or embassy of Czechia;
 - passengers with a COVID-19 vaccination certificate issued in Austria, Croatia, Czechia, Germany, Hungary, Poland, Slovakia or Slovenia if they received the vaccine at least 22 days before arrival.
-5. Passengers arriving from a country other than Andorra, Australia, Austria, Belgium, Botswana, Brazil, Bulgaria, Colombia, Croatia, Cyprus, Denmark, Estonia, Eswatini, France, Finland, Germany, Greece, Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Japan, Kenya, Korea (Rep.), Latvia, Lesotho, Liechtenstein, Lithuania, Luxembourg, Malawi, Monaco, Mozambique, Netherlands, New Zealand, Norway, Peru, Poland, Portugal, Romania, Singapore, San Marino, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Tanzania, Thailand, Vatican City (Holy See), Zambia or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
+5. Passengers arriving from a country other than Andorra, Australia, Austria, Belgium, Botswana, Brazil, Bulgaria, Colombia, Croatia, Cyprus, Denmark, Estonia, Eswatini, Finland, France, Germany, Greece, Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Lesotho, Liechtenstein, Lithuania, Luxembourg, Malawi, Monaco, Mozambique, Nepal, Netherlands, New Zealand, Norway, Peru, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Tanzania, Thailand, Vatican City (Holy See), Zambia or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 5 years;
 - nationals of Czechia with a service passport traveling on duty for a maximum stay of 72 hours;
@@ -56,7 +56,7 @@ Published 07.06.2021
 - passengers with a COVID-19 recovery certificate issued by a consulate or embassy of Czechia;
 - passengers younger than 21 years who are children of nationals of Czechia. They must have a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point;
 - spouses of nationals of Czechia and their children younger than 21 years. They must have a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point.
-6. Passengers arriving from Botswana, Brazil, Colombia, Eswatini, India, Kenya, Lesotho, Malawi, Mozambique, Peru, South Africa, Tanzania, Zambia or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. 
+6. Passengers arriving from Botswana, Brazil, Colombia, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, Peru, South Africa, Tanzania, Zambia or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. 
 This does not apply to:
 - passengers younger than 5 years.
 - nationals of Czechia. They must have a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point. 
