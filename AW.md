@@ -4,7 +4,7 @@ Published 08.06.2021
 - This does not apply to:
 - passengers younger than 15 years;
 - passengers departing on the same calendar day;
-- residents of Aruba, Bonaire, St. Eustatius and Saba or Curacao with a COVID-19 vaccination certificate issued by the country of residence at least 15 days before arrival;
+- residents of Aruba, Bonaire or Curacao with a COVID-19 vaccination certificate issued by the country of residence at least 15 days before arrival;
 - passengers with:
 - a negative COVID-19 molecular test. The test must be based on a nasal swab and must have been taken at most 72 hours before departure. Tests accepted are: HDA, NAAT, NEAR, RT-LAMP, RT-PCR and TMA; or
 - a positive COVID-19 molecular test result issued at least 2 weeks before arrival. The passenger must have tested positive at least 2 weeks and at most 12 weeks before departure. Tests accepted are: HDA, NAAT, NEAR, RT-LAMP, RT-PCR and TMA.
