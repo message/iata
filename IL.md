@@ -1,10 +1,10 @@
-Published 01.06.2021
+Published 08.06.2021
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals of Israel;
 - residents of Israel;
 - passengers with an authorization letter issued by the Population and Immigration Authority;
-- passengers with an A1, A2, A3, A4 or A5 visa arriving from Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Russian Fed., Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom or USA. They must not have been in or transited through Brazil, Ethiopia, India, Mexico, South Africa or Turkey in the past 14 days.
+- passengers with an A1, A2, A3, A4, A5, B1 or B4 visa arriving from Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom or USA. They must not have been in or transited through Argentina, Brazil, Ethiopia, India, Mexico, Russian Fed., South Africa, Turkey or Ukraine in the past 14 days.
 2. Passengers must complete an "Entry Statement" at most 24 hours before departure of the last direct flight to Israel at <a href="https://www.gov.il/en/service/request-entry-to-israel-covid19">https://www.gov.il/en/service/request-entry-to-israel-covid19</a> . They will receive an electronic approval from the Ministry of Health.
 3. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense. Payment of ILS 100,- can be made upon arrival. Or ILS 80,- in advance at <a href="https://www.gov.il/en/service/request-entry-to-israel-covid19">https://www.gov.il/en/service/request-entry-to-israel-covid19</a> 
 4. Passengers and airline crew who have been outside Israel for more than 72 hours entering or transiting through Israel must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.

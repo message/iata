@@ -34,5 +34,6 @@ More details can be found at <a href="https://quarantinehotelbookings.ctmportal.
 - Wales at: <a href="https://gov.wales/how-self-isolate-when-you-travel-wales-coronavirus-covid-19">https://gov.wales/how-self-isolate-when-you-travel-wales-coronavirus-covid-19</a> ;
 - Northern Ireland at: <a href="https://www.nidirect.gov.uk/articles/coronavirus-covid-19-international-travel-advice">https://www.nidirect.gov.uk/articles/coronavirus-covid-19-international-travel-advice</a> .
 10. Flights from Ethiopia, Oman, Qatar and United Arab Emirates are suspended.
+- This does not apply to flights arriving at the South Arrival and Immigration Hall of Birmingham (BHX) or the Terminal 3 of Heathrow (LHR).
 11. Airline crew not residing in the United Kingdom are subject to self-isolation in a hotel until their next flight.
 
