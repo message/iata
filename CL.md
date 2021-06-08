@@ -1,4 +1,4 @@
-Published 01.06.2021
+Published 08.06.2021
 1. Until 15 June 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Chile;
@@ -18,6 +18,6 @@ This does not apply to:
 - nationals of Spain with an E-CHL/09 and E-CH/11 form. 
 5. Passengers must undergo "Passenger Tracking" for 14 days or until they leave Chile.
 6. Passengers could be subject to a COVID-19 PCR test upon arrival.
-7. Passengers are subject to quarantine for 5 days at their own expense in a hotel booked at <a href="https://www.c19.cl/">https://www.c19.cl/</a> .
+7. Passengers are subject to quarantine for 10 days. First 5 days at their own expense in a hotel booked at <a href="https://www.c19.cl/">https://www.c19.cl/</a> , remaining 5 days home quarantine.
 8. Passengers younger than 18 years traveling unaccompanied are subject to quarantine at home.
 
