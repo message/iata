@@ -1,5 +1,5 @@
-Published 06.06.2021
-1. Passengers who have been in or transited through Angola, Argentina, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Ecuador, Eswatini, Ethiopia, French Guiana, Guyana, India, Kenya, Lesotho, Malawi, Maldives, Mozambique, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Qatar, Rwanda, Seychelles, Somalia, South Africa, Suriname, Tanzania, Turkey, United Arab Emirates, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days are not allowed to enter.
+Published 08.06.2021
+1. Passengers who have been in or transited through Afghanistan, Angola, Argentina, Bahrain, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Ecuador, Egypt, Eswatini, Ethiopia, French Guiana, Guyana, India, Kenya, Lesotho, Malawi, Maldives, Mozambique, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Qatar, Rwanda, Seychelles, Somalia, South Africa, Sri Lanka, Sudan, Suriname, Tanzania, Trinidad and Tobago, Turkey, United Arab Emirates, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days are not allowed to enter.
 This does not apply to:
 - British nationals;
 - nationals of Ireland (Rep.);
@@ -19,7 +19,7 @@ This does not apply to:
 - merchant seamen;
 - military personnel with an exemption letter from the Ministry of Defense;
 - more exemptions can be found at <a href="https://tinyurl.com/yytxv2cp">https://tinyurl.com/yytxv2cp</a> .
-7. Passengers arriving in England who have been in or transited through Angola, Argentina, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Ecuador, Eswatini, Ethiopia, French Guiana, Guyana, India, Kenya, Lesotho, Malawi, Maldives, Mozambique, Namibia, Nepal, Oman, Panama, Pakistan, Paraguay, Peru, Philippines, Qatar, Rwanda, Seychelles, Somalia, South Africa, Suriname, Tanzania, Turkey, United Arab Emirates, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days must:
+7. Passengers arriving in England who have been in or transited through Afghanistan, Angola, Argentina, Bahrain, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Ecuador, Egypt, Eswatini, Ethiopia, French Guiana, Guyana, India, Kenya, Lesotho, Malawi, Maldives, Mozambique, Namibia, Nepal, Oman, Panama, Pakistan, Paraguay, Peru, Philippines, Qatar, Rwanda, Seychelles, Somalia, South Africa, Sri Lanka, Sudan, Suriname, Tanzania, Trinidad and Tobago, Turkey, United Arab Emirates, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days must:
 - have a quarantine package for 11 nights; and
 - arrive at Birmingham (BHX), Farnborough (FAB), Gatwick (LGW), Heathrow (LHR) or London City (LCY).
 More details can be found at <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a> .
@@ -35,14 +35,4 @@ More details can be found at <a href="https://quarantinehotelbookings.ctmportal.
 - Northern Ireland at: <a href="https://www.nidirect.gov.uk/articles/coronavirus-covid-19-international-travel-advice">https://www.nidirect.gov.uk/articles/coronavirus-covid-19-international-travel-advice</a> .
 10. Flights from Ethiopia, Oman, Qatar and United Arab Emirates are suspended.
 11. Airline crew not residing in the United Kingdom are subject to self-isolation in a hotel until their next flight.
-12. Effective 04:00 local time, 8 June 2021, passengers who have been in or transited through Afghanistan, Bahrain, Costa Rica, Egypt, Sri Lanka, Sudan or Trinidad and Tobago in the past 10 days are not allowed to enter.
-This does not apply to:
-- British nationals;
-- nationals of Ireland (Rep.);
-- residents of the United Kingdom.
-13. Effective 04:00 local time, 8 June 2021, passengers arriving in England who have been in or transited through Afghanistan, Bahrain, Costa Rica, Egypt, Sri Lanka, Sudan or Trinidad and Tobago in the past 10 days must:
-- have a quarantine package for 11 nights; and
-- arrive at Birmingham (BHX), Farnborough (FAB), Gatwick (LGW), Heathrow (LHR) or London City (LCY).
-More details can be found at <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a> .
-- This does not apply to military personnel with an exemption letter from the Ministry of Defence.
 
