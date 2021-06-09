@@ -1,4 +1,4 @@
-Published 25.05.2021
+Published 09.06.2021
 1. Passengers are not allowed to enter and transit Latvia.
 - This does not apply to the following passengers who must complete a "COVIDpass" before departure at <a href="https://covidpass.lv/">https://covidpass.lv/</a> . This will generate a QR code which must be presented before departure and upon arrival:
 - residents of Latvia;
@@ -7,7 +7,7 @@ Published 25.05.2021
 - military personnel. 
 2. Passengers could be subject to self-isolation for 10 days. A list of self-isolation exemptions can be found at <a href="http://www.spkc.gov.lv/lv/if-returning-toentering-latvia">www.spkc.gov.lv/lv/if-returning-toentering-latvia</a> 
 3. Flights from Montenegro, North Macedonia (Rep.) and Serbia are suspended.
-4. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
+4. Passengers entering or transiting through Latvia must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 11 years;
 - passengers with a recovery certificate specifying that the passenger is not contagious;
