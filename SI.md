@@ -1,11 +1,18 @@
-Published 04.05.2021
-Passengers without a negative COVID-19 PCR test taken at most 48 hours before arrival could be subject to quarantine for 10 days; details can be found at <a href="https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/">https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/</a> 
+Published 09.06.2021
+- Passengers could be subject to quarantine for 10 days. Details can be found at <a href="https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/">https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/</a>
 - This does not apply to:
-- passengers with a positive COVID-19 RAT or PCR test result issued at least 11 days and at most 6 months before arrival;
-- passengers with a COVID-19 recovery certificate. The passenger must have tested positive at most 6 months before arrival;
-- passengers with a COVID-19 vaccination certificate stating that they received:
-- the first vaccine dose of AstraZeneca (Vaxzevria) or Covishield at least 21 days before arrival; or
-- the Janssen vaccine at least 14 days before arrival; or
-- the second vaccine dose of Pfizer-BioNTech at least 7 days before arrival; or
-- the second vaccine dose of Moderna, Sputnik V, Sinovac or Sinopharm at least 14 days before arrival.
+ - passengers with a negative COVID-19 PCR test taken at most 48 hours before arrival. The test must be taken in an international transit area of an airport; or
+ - in Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, New Zealand, Netherlands, Norway, Poland, Portugal, Romania, Russian Fed., Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom or USA. 
+ - passengers with a negative COVID-19 rapid antigen test taken at most 48 hours before arrival. The test must be taken in an international transit area of an airport; or
+ - in Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, New Zealand, Netherlands, Norway, Poland, Portugal, Romania, Russian Fed., Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom or USA. 
+Tests accepted can be found at <a href="https://ec.europa.eu/health/sites/default/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf">https://ec.europa.eu/health/sites/default/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf</a> 
+- passengers with a positive COVID-19 PCR test result issued at least 11 days and at most 6 months before arrival. The test must be taken in an international transit area of an airport; or in Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, New Zealand, Netherlands, Norway, Poland, Portugal, Romania, Russian Fed., Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom or USA; and
+ - a COVID-19 vaccination certificate stating that they received the first vaccine dose at most 8 months after testing positive. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen,Moderna, Pfizer-BioNTech, Sinopharm, Sinovac, Sputnik V.
+ - passengers who tested positive at most 6 months before arrival, with a COVID-19 recovery certificate issued in Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, New Zealand, Netherlands, Norway, Poland, Portugal, Romania, Russian Fed., Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom or USA; and
+ -a COVID-19 vaccination certificate stating that they received the first vaccine dose at most 8 months after testing positive. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen,Moderna, Pfizer-BioNTech, Sinopharm, Sinovac, Sputnik V.
+ - passengers with a COVID-19 vaccination certificate stating that they received:
+ - the first vaccine dose of AstraZeneca (Vaxzevria) or Covishield at least 21 days before arrival; or
+ - the Janssen vaccine at least 14 days before arrival; or
+ - the second vaccine dose of Pfizer-BioNTech at least 7 days before arrival; or
+ - the second vaccine dose of Moderna, Sputnik V, Sinovac or Sinopharm at least 14 days before arrival.
 
