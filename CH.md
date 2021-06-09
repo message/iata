@@ -1,4 +1,4 @@
-Published 07.06.2021
+Published 09.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
@@ -19,7 +19,7 @@ Published 07.06.2021
 - passengers with a D visa issued by a Schengen Member State they are traveling to;
 - passengers with a Schengen C visa issued by Switzerland after 16 March 2020;
 - passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated;
-- passengers younger than 18 years if they travel with their parent who have been fully vaccinated.
+- unvaccinated passengers younger than 18 years if they are traveling with their fully-vaccinated guardians.
 3. Passengers must have:
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point. They are subject to a COVID-19 rapid antigen or PCR test upon arrival at their own expense.

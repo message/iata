@@ -15,4 +15,5 @@ Published 05.06.2021
 6. A completed "Health Declaration Form" must be presented upon arrival. The form can be obtained at <a href="https://www.caa.lk/en/special-notices-for-covid-19">https://www.caa.lk/en/special-notices-for-covid-19</a> or upon arrival.
 7. Passengers are subject to a COVID-19 PCR test upon arrival.
 - This does not apply to passengers younger than 2 years.
-8. Passengers are subject to quarantine for 14 days. More details can be found at <a href="https://www.epid.gov.lk/web/">https://www.epid.gov.lk/web/</a> or <a href="https://www.hpb.health.gov.lk/en">https://www.hpb.health.gov.lk/en</a> 
+8. Passengers are subject to quarantine for 14 days. More details can be found at <a href="https://www.epid.gov.lk/web/">https://www.epid.gov.lk/web/</a> or <a href="https://www.hpb.health.gov.lk/en">https://www.hpb.health.gov.lk/en</a></p><p> 
+</p>

@@ -25,7 +25,7 @@ This does not apply to:
 - a COVID-19 vaccination certificate stating that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival; or
 - a COVID-19 recovery certificate issued at least 11 days after the positive COVID-19 NAAT test result. The sample for the certificate must have been taken at most 180 days before arrival.
 This does not apply to:
-- passengers younger than 6 years;
+- passengers younger than 12 years;
 - passengers arriving from Australia, China (People's Rep.), Hong Kong (SAR China), Japan, Israel, Korea (Rep.), Macao (SAR China), New Zealand, Rwanda, Singapore, Thailand or United Kingdom;
 - passengers arriving from Nordland in Norway;
 - passengers arriving from Aland or Lansi-Suomi in Finland;

@@ -19,5 +19,5 @@ This does not apply to:
 - passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated.
 4. Passengers must complete a health questionnaire and present it at check-in. The e-questionnaire can be obtained at <a href="https://keleiviams.nvsc.lt/lt/form">https://keleiviams.nvsc.lt/lt/form</a> 
 5. Passengers could be subject to self-isolation for 10 days. More details can be found at <a href="https://tinyurl.com/226c325v">https://tinyurl.com/226c325v</a> 
-6. Airline crew could be subject to self-isolation until their next flight or for a maximum of 10 days. More details can be found at <a href="https://tinyurl.com/226c325v">https://tinyurl.com/226c325v</a>
+6. Airline crew could be subject to self-isolation until their next flight or for a maximum of 10 days. More details can be found at <a href="https://tinyurl.com/226c325v">https://tinyurl.com/226c325v</a> 
 

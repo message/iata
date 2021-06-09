@@ -33,7 +33,7 @@ Published 04.06.2021
 8. Passengers who have been in or transited through Argentina, Bangladesh, Belgium, Brazil, Cambodia, Canada, Chinese Taipei, Ecuador, Egypt, Ethiopia, France, Germany, India, Indonesia, Ireland (Rep.), Italy, Japan, Kazakhstan, Kenya, Malaysia, Nepal, Netherlands, Pakistan, Philippines, Romania, Russian Fed., Singapore, South Africa, Switzerland, Thailand, Turkey, Ukraine, United Arab Emirates, United Kingdom, USA or Viet Nam in the past 21 days must have:
 - a negative COVID-19 nucleic acid test result. The test must have been taken at most 72 hours before departure of the last direct flight to Hong Kong, SAR China. The name in the test result must match the name on the travel document, or a written confirmation issued by the laboratory with the name of the passenger must be presented; and
 - a document proving that the laboratory is:
- - ISO 15189 accredited; or
+- ISO 15189 accredited; or
 - approved by the local government.
 All documents must be in Chinese or English.
 9. Passengers and airline crew must present a completed Health Declaration Form to the Department of Health.
