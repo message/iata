@@ -1,4 +1,4 @@
-Published 01.06.2021 
+Published 10.06.2021 
 1. Passengers who in the past 14 days have been in India are not allowed to enter.
 2. Passengers must have a negative COVID-19 PCR test result issued at most 96 hours before arrival.
 - This does not apply to:
@@ -9,15 +9,19 @@ Published 01.06.2021
 3. Passengers and airline crew are subject to a COVID-19 PCR test upon arrival.
 - This does not apply to:
 - passengers younger than 12 years;
-- airline crew staying for a maximum of 24 hours.
+- airline crew staying for a maximum of 24 hours;
+- passengers returning to Lebanon within 1 week.
 4. Passengers and airline crew could be subject to quarantine for 72 hours.
 5. Passengers must complete a "Airport Tracking Registration Form" before departure at <a href="https://covid.pcm.gov.lb/">https://covid.pcm.gov.lb/</a> . This will generate an approval e-mail or SMS which must be presented upon arrival.
 - This does not apply to passengers younger than 12 years.
 6. Passengers must install the "covidlebtrack" mobile app.
 7. Passengers arriving from Brazil or United Kingdom must have a reservation confirmation at a designated hotel for 4 nights.
-- This does not apply to:
-- passengers with a COVID-19 vaccination certificate stating that they received the second vaccine dose at least 2 weeks before departure;
-- passengers with a COVID-19 recovery certificate issued at least 90 days before departure. 
+This does not apply to:
+- passengers with a COVID-19 vaccination certificate stating that they received at least one vaccine dose at least 2 weeks before departure;
+- passengers with a COVID-19 recovery certificate issued at least 90 days before departure;
+- passengers transiting through Beirut to Syria;
+- passengers younger than 18 years;
+- passengers returning to Lebanon within 1 week.
 8. Passengers transiting through Beirut (BEY) to Syria must have a negative COVID-19 PCR test result issued at most 96 hours before departure.
 - This does not apply to passengers younger than 12 years.
 9. Passengers transiting through Beirut (BEY) to Syria must have a pre-approval from the Syrian Authorities.

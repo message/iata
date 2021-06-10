@@ -1,7 +1,7 @@
 Published 10.06.2021 
 1. Until 1 August 2021, passengers are not allowed to enter.
 - This does not apply to:
- - nationals and residents of Azerbaijan;
+- nationals and residents of Azerbaijan;
 - nationals of Russian Fed. and Turkey;
 - Until 15 June 2021, this does not apply to passengers and stateless persons with an accreditation card issued by the Formula One Management Limited company, the International Automobile Federation or the Baku City Circuit Operating company. They must travel in connection with the organization of the 2021 Formula 1 Azerbaijan Grand-Prix. 
 - Until 5 July 2021, this does not apply to:
