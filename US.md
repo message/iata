@@ -25,5 +25,5 @@ This does not apply to:
 5. Passengers are subject to COVID-19 measures set by the state/territory of their final destination. More information can be found at <a href="http://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html">www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html</a> .
 6. DV visas issued in September 2020 that expired are accepted for entry.
 7. Nationals of the U.S.A. are allowed to enter with an expired passport.
- -This does not apply to emergency passports which must be valid on arrival.
+- This does not apply to emergency passports which must be valid on arrival.
 
