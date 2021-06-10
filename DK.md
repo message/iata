@@ -1,4 +1,4 @@
-Published 09.06.2021
+Published 10.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals or residents of Denmark;
@@ -17,8 +17,8 @@ Published 09.06.2021
 - passengers with a COVID-19 vaccination certificate issued in Andorra, Faroe Isl., Greenland, Monaco, San Marino, Vatican City (Holy See), an EEA Member State or an OECD Member country. The certificate must state that they received the vaccine at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at <a target="_blank" href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> ;
 - nationals of Denmark with a COVID-19 vaccination certificate stating that they received the vaccine at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> ;
 - passengers arriving from yellow countries and regions listed at <a href="https://tinyurl.com/znkvcws">https://tinyurl.com/znkvcws</a> ;
-- effective 10 June 2021, passengers arriving from the United Kingdom.
-3. Effective 10 June 2021, passengers arriving from the United Kingdom and entering or transiting through Denmark must have a negative COVID-19 PCR test taken at most 48 hours before departure from the first embarkation point or before departure of the last direct flight to Denmark. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish. Details can be found at <a target="_blank" href="https://tinyurl.com/4uu3pjwh">https://tinyurl.com/4uu3pjwh</a> . 
+- passengers arriving from the United Kingdom.
+3. Passengers arriving from the United Kingdom and entering or transiting through Denmark must have a negative COVID-19 PCR test taken at most 48 hours before departure from the first embarkation point or before departure of the last direct flight to Denmark. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish. Details can be found at <a target="_blank" href="https://tinyurl.com/4uu3pjwh">https://tinyurl.com/4uu3pjwh</a> . 
 - This does not apply to:
 - passengers younger than 15 years;
 - passengers traveling to Faroe Islands (FAE) or Greenland;
