@@ -3,7 +3,7 @@ Published 03.06.2021
 2. Until 15 June 2021, passengers who in the past 45 days have been in India are not allowed to enter.
 - This does not apply to nationals of Jordan and their spouses and children.
 3. Passengers are not allowed to transit through Jordan for more than 10 hours.
-4. Passengers must have health insurance valid for the whole period of intended stay.
+4. Passengers must have health insurance valid for the period of intended stay.
 This does not apply to:
 - nationals of Jordan;
 - passengers younger than 5 years;
@@ -17,14 +17,14 @@ This does not apply to:
 This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and a diplomatic QR code and their family members;
-- passengers arriving from Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, China (People’s Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Japan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Morocco, Netherlands, New Zealand, Norway, Oman, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tunisia, Turkey, United Arab Emirates, United Kingdom or USA with a COVID-19 vaccination certificate stating that they received the last vaccine dose. The vaccination certificate must be in Arabic or English.
+- passengers arriving from Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, China (People’s Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Japan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Morocco, Netherlands, New Zealand, Norway, Oman, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tunisia, Turkey, United Arab Emirates, United Kingdom or USA with a COVID-19 vaccination certificate stating that they were fully vaccinated. The vaccination certificate must be in Arabic or English. 
 7. Military personnel and their family members must have a "Military QR Code" obtained before departure at <a href="https://www.gateway2jordan.gov.jo">https://www.gateway2jordan.gov.jo</a> .
-8. A completed "Passenger Health Declaration Form" and a "Locator Form" must be presented before departure.
+8. Passengers must complete a "Passenger Health Declaration Form" and a "Locator Form" and present it before departure.
 9. Nationals of Jordan and their spouses and children who in the past 14 days have been in or transited through India must present a completed indemnity form. They are subject to quarantine at a hotel for 14 days at their own expense.
 10. Nationals of Jordan and their spouses and children who have been outside India between 14 and 45 days before arrival are subject to self-quarantine for 14 days.
 11. Airline crew must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point.
 - This does not apply to airline crew with a round trip flight.
 12. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.
 13. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
-14. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a> 
+14. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a>
 
