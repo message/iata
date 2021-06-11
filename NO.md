@@ -1,4 +1,4 @@
-Published 02.06.2021
+Published 11.06.2021
 1. Until 01 July 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Norway;
@@ -20,5 +20,7 @@ Published 02.06.2021
 4. Passengers are subject to: 
 - a COVID-19 antigen test and a PCR test upon arrival; or
 - a COVID-19 antigen test or PCR test upon arrival.
-5. Passengers could be subject to home or hotel quarantine. More details can be found at <a href="https://tinyurl.com/yoqc3omu">https://tinyurl.com/yoqc3omu</a> .
+5. Passengers could be subject to home or hotel quarantine. 
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. The vaccination certificate must have a QR code. 
+- more exemptions can be found at <a href="https://tinyurl.com/yoqc3omu">https://tinyurl.com/yoqc3omu</a> . 
 

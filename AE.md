@@ -90,4 +90,14 @@ Published 11.06.2021
 26. Flights from India, Viet Nam and Yemen are suspended.
 27. Until 18 June 2021, flights from Nigeria and South Africa are suspended .
 28. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
+29. Effective 12 June 2021, flights from Congo (Dem. Rep.), Uganda and Zambia are suspended. 
+30. Effective 12 June 2021, passengers who in the past 14 days have been in Congo (Dem. Rep.), Uganda or Zambia are not allowed to enter and transit.
+- This does not apply to:
+- nationals of United Arab Emirates and their first degree family members;
+- passengers with a diplomatic or an official passport traveling on duty;
+- passengers with a golden visa or a silver visa issued by United Arab Emirates.
+31. Effective 12 June 2021, Passengers entering or transiting through United Arab Emirates who in the past 14 days have been in Congo (Dem. Rep.), Uganda or Zambia must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+- This does not apply to:
+- passengers younger than 12 years;
+- passengers with disabilities.
 
