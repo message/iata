@@ -1,4 +1,4 @@
-Published 09.06.2021
+Published 11.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of France and their spouses and children;
@@ -45,7 +45,7 @@ Published 09.06.2021
 - This does not apply to deadheading crew. 
 7. Passengers could be subject to a COVID-19 test upon arrival. More details can be found at <a href="https://tinyurl.com/4wtws28x">https://tinyurl.com/4wtws28x</a> .
 8. Passengers could be subject to self-isolation or quarantine for up to 10 days.
-- This does not apply to passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. They must not arrive from Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, India, Nepal, Pakistan, South Africa, Sri Lanka, Suriname, Turkey or Uruguay, and the certificate must state they received:
+- This does not apply to passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. They must not arrive from Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, French Guiana, India, Nepal, Pakistan, South Africa, Sri Lanka, Suriname, Turkey or Uruguay, and the certificate must state they received:
 - the first vaccine dose of Janssen at least 4 weeks before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 2 weeks before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 2 weeks before arrival and a proof of previous infection with COVID-19.
