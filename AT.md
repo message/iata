@@ -46,5 +46,5 @@ Published 10.06.2021
 - must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
 - take a test within 24 hours after arrival.
 - The COVID-19 test requirement does not apply to passengers younger than 10 years if accompanied by an adult.
-7. Passengers could be subject to self-quarantine for 10 days. Details can be found at <a href="https://tinyurl.com/EntryReqAT201017">https://tinyurl.com/EntryReqAT201017</a>
+7. Passengers could be subject to self-quarantine for 10 days. Details can be found at <a href="https://tinyurl.com/8w8kyybv">https://tinyurl.com/8w8kyybv</a>
 

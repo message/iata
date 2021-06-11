@@ -1,4 +1,4 @@
-Published 10.06.2021
+Published 11.06.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of the Netherlands;
@@ -6,7 +6,7 @@ This does not apply to:
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lithuania, Liechtenstein, Luxembourg, Malta, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland;
 - passengers with a long-term residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden;
 - family members of a national of an EEA Member State or Switzerland; more details can be found at <a href="https://tinyurl.com/j5ycrntc">https://tinyurl.com/j5ycrntc</a>; 
-- residents of Australia, Israel, Korea (Rep.), New Zealand, Rwanda, Singapore, Thailand and Uruguay;
+- residents of Australia, Israel, Japan, Korea (Rep.), New Zealand, Rwanda, San Marino, Singapore, Thailand, Uruguay and Vatican City (Holy See);
 - passengers with a consular, diplomatic, official, service or special passports traveling on duty;
 - passengers with a Schengen visa issued after 19 March 2020 traveling through the Netherlands to another Schengen Member State;
 - merchant seamen;
@@ -23,7 +23,7 @@ This does not apply to:
 - nationals of Albania, Andorra, Antigua and Barbuda, Argentina, Australia, Bahamas, Barbados, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Canada, Chile, Colombia, Costa Rica, Dominica, El Salvador, Grenada, Guatemala, Honduras, Japan, Kiribati, Korea (Rep.), Malaysia, Marshall Isl., Mauritius, Mexico, Micronesia (Federated States), Montenegro, New Zealand, Nicaragua, North Macedonia (Rep.), Palau, Panama, Paraguay, Peru, Samoa, San Marino, Seychelles, Singapore, Solomon Isl., St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Timor-Leste, Tonga, Trinidad and Tobago, Tuvalu, USA, United Arab Emirates, Uruguay, Vanuatu and Venezuela with a note verbale that the country of destination is allowing them to enter;
 - family members of a national of an EEA Member State or Switzerland; more details can be found at <a href="https://tinyurl.com/j5ycrntc">https://tinyurl.com/j5ycrntc</a>;
 - passengers with a long-term "D" visa issued by Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland;
-- residents of Australia, Israel, Korea (Rep.), New Zealand, Rwanda, Singapore, Thailand and Uruguay;
+- residents of Australia, Israel, Japan, Korea (Rep.), New Zealand, Rwanda, San Marino, Singapore, Thailand, Uruguay and Vatican City (Holy See);
 - passengers with a consular, diplomatic, official, service or special passports traveling on duty;
 - passengers with a visa issued on or after 19 March 2020 by the country of final destination;
 - merchant seamen;
