@@ -25,8 +25,8 @@ Published 25.05.2021
 - This does not apply to:
 - nationals of Korea (Rep.);
 - passengers who are 5 years or younger.
-17. Nationals of Korea (Rep.) without a printed negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point:
+17. Nationals of Korea (Rep.) without a printed negative COVID-19 LAMP, PCR, SDA or TMA test result issued at most 72 hours before departure from the first embarkation point:
 - must have an "Agreement to Facility Quarantine" form. The form can be obtained at check-in or at <a href="https://nqs.cdc.go.kr/nqs/quaStation/incheonAirport.do?gubun=notice">https://nqs.cdc.go.kr/nqs/quaStation/incheonAirport.do?gubun=notice</a>; and
-- are subject to quarantine for 14 days at their own expense. Tests accepted are: LAMP, PCR, SDA and TMA tests.
+- are subject to quarantine for 14 days at their own expense.
 - This does not apply to passengers who are 5 years or younger. 
 
