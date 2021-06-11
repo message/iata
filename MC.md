@@ -13,9 +13,15 @@ Published 11.06.2021
 - passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. They must not arrive from Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, India, Nepal, Pakistan, South Africa, Sri Lanka, Suriname, Turkey or Uruguay, and the certificate must state they received:
 - the first vaccine dose of Janssen at least 4 weeks before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 2 weeks before arrival; or
-- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 2 weeks before arrival and a proof of previous infection with COVID-19.
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 2 weeks before arrival and a proof of previous infection with COVID-19;
+- More exemptions can be found at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a> .
 2. Passengers entering or transiting through France must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a>. 
-- This does not apply to passengers arriving from Andorra, Australia, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New-Zealand, Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See). They must have not been outside these countries in the past 14 days;
+- This does not apply to:
+- passengers arriving from Andorra, Australia, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New-Zealand, Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See). They must have not been outside these countries in the past 14 days;
+- passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. They must not arrive from Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, India, Nepal, Pakistan, South Africa, Sri Lanka, Suriname, Turkey or Uruguay, and the certificate must state they received:
+- the first vaccine dose of Janssen at least 4 weeks before arrival; or
+- the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 2 weeks before arrival; or
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 2 weeks before arrival and a proof of previous infection with COVID-19.
 3. Passengers must have:
 - a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point; or
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. 

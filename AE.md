@@ -1,4 +1,4 @@
-Published 09.06.2021
+Published 11.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -15,9 +15,9 @@ Published 09.06.2021
 - nationals of Indonesia traveling under the Safe Travel Corridor program. They must have an entry permit and a return ticket.
 2. Passengers who in the past 14 days have been in Bangladesh, India, Nepal, Pakistan or Sri Lanka are not allowed to enter and transit.
 - This does not apply to:
-- nationals of United Arab Emirates;
+- nationals of United Arab Emirates and their first degree family members;
 - passengers with a diplomatic or an official passport traveling on duty;
-- passengers with a golden visa issued by United Arab Emirates.
+- passengers with a golden visa or a silver visa issued by United Arab Emirates.
 3. Passengers who in the past 14 days have been in Viet Nam are not allowed to enter and transit.
 - This does not apply to:
 - nationals of United Arab Emirates and their first degree family members;
@@ -35,7 +35,7 @@ Published 09.06.2021
 7. Residents of United Arab Emirates with a Golden Residence Card or a residency visa returning to Dubai (DXB) must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitServiceForm.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitServiceForm.aspx</a> .
 8. Residents of United Arab Emirates must have an ICA approval obtained at <a href="https://uaeentry.ica.gov.ae">https://uaeentry.ica.gov.ae</a> before departure.
 - This does not apply to passengers returning to Dubai (DXB).
-9. Passengers entering or transiting through United Arab Emirates who in the past 14 days have been in Bangladesh, India, Nepal, Pakistan or Sri Lanka or Viet Nam must have a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+9. Passengers entering or transiting through United Arab Emirates who in the past 14 days have been in Bangladesh, India, Nepal, Pakistan or Sri Lanka or Viet Nam must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with disabilities.
