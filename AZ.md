@@ -3,9 +3,6 @@ Published 11.06.2021
 - This does not apply to:
 - nationals and residents of Azerbaijan;
 - nationals of Russian Fed. and Turkey;
-- passengers who are 1 year or older and younger than 18 years;
-- passengers older than 17 years with a COVID-19 vaccination certificate showing that they were fully vaccinated;
-- passengers with a COVID-19 recovery certificate;
 - Until 15 June 2021, this does not apply to passengers and stateless persons with an accreditation card issued by the Formula One Management Limited company, the International Automobile Federation or the Baku City Circuit Operating company. They must travel in connection with the organization of the 2021 Formula 1 Azerbaijan Grand-Prix. 
 - Until 5 July 2021, this does not apply to:
 - passengers with an official invitation letter issued by the Organizing Committee of the European Football Championship matches in Baku or by the Association of Football Federations of Azerbaijan (AFFA). They must travel in connection with the organization of the European Football Championship 2021 in Baku;
