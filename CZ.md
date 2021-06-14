@@ -1,4 +1,4 @@
-Published 07.06.2021
+Published 14.06.2021
 1. Passengers arriving from a country other than Botswana, Brazil, Colombia, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, Peru, South Africa, Tanzania, Zambia or Zimbabwe are not allowed to enter. 
 - This does not apply to:
 - nationals of Czechia; 
@@ -29,8 +29,8 @@ Published 07.06.2021
 - passengers with a residence permit issued by Czechia and a COVID-19 recovery certificate issued at least 14 days and at most 180 days before arrival. The certificate must be issued in Switzerland or an EEA Member State, in Czech or English;
 - passengers with a “D" visa issued by Czechia and a COVID-19 recovery certificate issued at least 14 days and at most 180 days before arrival. The certificate must be issued in Switzerland or an EEA Member State, in Czech or English; 
 - passengers with a COVID-19 recovery certificate issued by a consulate or embassy of Czechia;
-- passengers arriving from Australia, Iceland, Israel, Japan, Korea (Rep.), Malta, New Zealand, San Marino, Singapore, Thailand or Vatican City (Holy See). 
-4. Passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland must have:
+- passengers arriving from Australia, Iceland, Israel, Japan, Korea (Rep.), Malta, Monaco, New Zealand, Poland, Romania, San Marino, Singapore, Thailand or Vatican City (Holy See). 
+4. Passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Netherlands, Norway, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland must have:
 - a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point; or 
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:

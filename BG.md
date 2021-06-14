@@ -43,6 +43,6 @@ Published 11.06.2021
 - passengers with a British passport with nationality “British Citizen", “British Overseas Territories Citizen" issued by Gibraltar or British Passports with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom
 - nationals of Australia, Belarus, Bosnia and Herzegovina, Canada, China (People's Rep.), Israel, Japan, Korea (Rep.), Kosovo (Rep.), Kuwait, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Russian Fed., Rwanda, Serbia, Thailand, Tunisia, Turkey, United Arab Emirates, USA and Uruguay.
 9. Passengers could be subject to quarantine for 10 days.
-10. More details can be found at <a href="https://www.mh.government.bg/media/filer_public/2021/06/09/order_01-416_final_en.pdf">https://www.mh.government.bg/media/filer_public/2021/06/09/order_01-416_final_en.pdf</a>
+10. More details can be found at <a href="https://www.mh.government.bg/media/filer_public/2021/06/09/order_01-416_final_en.pdf">https://www.mh.government.bg/media/filer_public/2021/06/09/order_01-416_final_en.pdf</a> 
 
 
