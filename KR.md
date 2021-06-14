@@ -1,4 +1,4 @@
-Published 25.05.2021
+Published 14.06.2021
 1. Short-term visas (type C-1 and C-3) issued on or before 5 April 2020 are no longer valid.
 2. Suspension of visa exemptions for nationals of Antigua and Barbuda, Argentina, Australia, Austria, Bahamas, Bahrain, Belgium, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Dominican Rep., Ecuador, El Salvador, Estonia, Eswatini (Swaziland), Fiji, Finland, France, Germany, Greece, Grenada, Guatemala, Haiti, Honduras, Hungary, Iceland, Israel, Italy, Jamaica, Kazakhstan, Kiribati, Kuwait, Latvia, Lesotho, Liechtenstein, Lithuania, Luxembourg, Malaysia, Marshall Isl., Mauritius, Micronesia (Federated States), Montenegro, Morocco, Nauru, Netherlands, New Zealand, Norway, Oman, Panama, Paraguay, Peru, Poland, Portugal, Qatar, Romania, Russian Fed., Samoa, Saudi Arabia, Serbia, Seychelles, Singapore, Slovakia, Solomon Isl., South Africa, Spain, St. Lucia, Suriname, Sweden, Switzerland, Thailand, Tonga, Trinidad and Tobago, Tunisia, Turkey, Tuvalu, United Arab Emirates or Uruguay with a normal passport.
 - This does not apply to airline crew.
@@ -9,7 +9,7 @@ Published 25.05.2021
 5. Suspension of visa exemptions for passengers with a Hong Kong (SAR China) passport.
 6. Suspension of visa exemptions for passengers with a Macao (SAR China) passport.
 7. Passengers are subject to quarantine for 14 days.
-- This does not apply to passengers arriving from a country other than Botswana, Brazil, Malawi, Mozambique, Namibia, Paraguay, South Africa, Suriname or Tanzania with a COVID-19 vaccination certificate stating that they received the vaccine in Korea (Rep.) at least 2 weeks before departure.
+- This does not apply to passengers arriving from a country other than Bangladesh, Botswana, Brazil, Chile, Equatorial Guinea, Eswatini, Malawi, Mozambique, Paraguay, South Africa, Suriname, Tanzania or Zimbabwe with a COVID-19 vaccination certificate stating that they received the vaccine in Korea (Rep.) at least 2 weeks before departure.
 8. Passengers are subject to a PCR test for COVID-19 within 3 days after arrival.
 9. Passengers must complete a "Health Declaration Form" and a "Travel Record Declaration" and present it upon arrival. The forms can be obtained upon arrival.
 10. All flights must arrive at Incheon International Airport (ICN) between 05:00 and 20:00.
