@@ -10,7 +10,7 @@ Published 11.06.2021
 - This does not apply to:
 - nationals of Georgia;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. The vaccination certificate must be in English and passengers must not have been in India in the past 14 days.
-3. Passengers must submit a pre-registration form at <a href="https://tinyurl.com/krzcafmu">https://tinyurl.com/krzcafmu</a>
+3. Passengers must submit a pre-registration form at <a href="https://tinyurl.com/krzcafmu">https://tinyurl.com/krzcafmu</a> 
 - This does not apply to:
 - nationals of Georgia residing in Georgia;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated.

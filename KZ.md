@@ -1,4 +1,4 @@
-Published 28.05.2021
+Published 14.06.2021
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals of Kazakhstan;
@@ -14,7 +14,7 @@ Published 28.05.2021
 - This does not apply to:
 - flights from Belarus, Egypt, Germany, Korea (Rep.), Kyrgyzstan, Netherlands, Russian Fed., Turkey, Ukraine, United Arab Emirates and Uzbekistan;
 - repatriation flights.
-4. Passengers must have a negative COVID-19 PCR test result issued at most 3 days before arrival. 
+4. Passengers must have a negative COVID-19 PCR test result issued at most 72 hours before arrival. The test result must be in English, Kazakh or Russian. 
 This does not apply to:
 - nationals and residents of Kazakhstan with a COVID-19 vaccination certificate issued in Kazakhstan;
 - passengers younger than 5 years if accompanied by a person with a negative COVID-19 PCR test result.
