@@ -1,4 +1,4 @@
-Published 05.06.2021
+Published 14.06.2021
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
@@ -37,7 +37,7 @@ Published 05.06.2021
 4. Passengers are not allowed to transit Singapore.
 - This does not apply when traveling on airlines with transfer routes approved by the Civil Aviation Authority of Singapore (CAAS). Passengers must check with airlines if the airlines have the Civil Aviation Authority of Singapore (CAAS)'s approval, before purchasing tickets. 
 - Passengers with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore are not allowed to transit.
-5. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Please refer to <a href="https://safetravel.ica.gov.sg">https://safetravel.ica.gov.sg</a> 
+5. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine. Please refer to <a href="https://safetravel.ica.gov.sg">https://safetravel.ica.gov.sg</a> 
 6. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense. Passengers should register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for Singapore at <a href="https://safetravel.changiairport.com">https://safetravel.changiairport.com</a> 
 - This does not apply to:
 - passengers who are 6 years or younger;

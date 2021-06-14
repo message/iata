@@ -1,4 +1,4 @@
-Published 13.06.2021
+Published 14.06.2021
 1. Passengers are not allowed to enter.
  1.1. This does not apply to:
 - nationals and residents of Germany;
@@ -30,9 +30,10 @@ The test result must be in English, French, German, Italian or Spanish.
 The test result must be in English, French, German, Italian or Spanish.
 - This does not apply to:
 - passengers younger than 6 years;
+- passengers transiting through Germany to a non-Schengen Member State;
 - passengers with a positive COVID-19 PCR, RT-LAMP or TMA test result issued at least 28 days and at most 6 months before arrival. They must in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe;
 - passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they were fully vaccinated at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;
-- passengers transiting through Germany to a non-Schengen Member State.
+- passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they received the first vaccine dose of AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before departure, and must be in in English, French, German, Italian or Spanish. They must also have a COVID-19 recovery certificate issued at least 6 months before the first vaccine dose.
 5. Airline crew entering Germany from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe must have:
 - a negative COVID-19 antigen test taken at most 24 hours before arrival; or
 - a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.
@@ -41,7 +42,11 @@ The test result must be in English, French, German, Italian or Spanish.
 - a negative COVID-19 antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.
 The test result must be in English, French, German, Italian or Spanish.
-- This does not apply to airline crew who are staying in Germany for less than 72 hours.
+- This does not apply to:
+- airline crew who are staying in Germany for less than 72 hours;
+- airline crew with a positive COVID-19 PCR, RT-LAMP or TMA test result issued at least 28 days and at most 6 months before arrival. They must in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe;
+- airline crew with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they were fully vaccinated at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;
+- airline crew with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they received the first vaccine dose of AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before departure, and must be in in English, French, German, Italian or Spanish. They must also have a COVID-19 recovery certificate issued at least 6 months before the first vaccine dose.
 7. Passengers arriving from a risk area must register before departure at <a href="https://www.einreiseanmeldung.de">https://www.einreiseanmeldung.de</a> 
 8. Airline crew arriving from a high-incidence area or an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de">https://www.einreiseanmeldung.de</a> 
 9. Passengers could be subject to quarantine for 10 or 14 days. Details can be found at
