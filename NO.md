@@ -1,10 +1,9 @@
-Published 11.06.2021
+Published 14.06.2021
 1. Until 01 July 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Norway;
 - spouses, registered partners, minor children or stepchildren, parents or stepparents of minor children or stepchildren of residents of Norway. They must present a proof confirming the relationship;
 - merchant seamen;
-- residents of the following hospital districts of Finland: Central Finland, Etalä-Savo, Itä-Savo, Kainuu, Länsi-Pohja, Lappi, North Karelia, North Ostrobothnia, Pohjois-Savo, South-Karelia, South Ostrobothnia and Vaasa; 
 - more COVID-19 related information can be found at <a href="https://www.udi.no/en/about-the-corona-situation/entry-to-norway-for-all-citizens/">https://www.udi.no/en/about-the-corona-situation/entry-to-norway-for-all-citizens/</a> .
 2. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="http://www.entrynorway.no">www.entrynorway.no</a> .
 - This does not apply to airline crew who are not leaving the aircraft.
@@ -21,6 +20,6 @@ Published 11.06.2021
 - a COVID-19 antigen test and a PCR test upon arrival; or
 - a COVID-19 antigen test or PCR test upon arrival.
 5. Passengers could be subject to home or hotel quarantine. 
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. The vaccination certificate must have a QR code. 
-- more exemptions can be found at <a href="https://tinyurl.com/yoqc3omu">https://tinyurl.com/yoqc3omu</a> . 
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. The vaccination certificate must be issued in Norway and have a QR code. 
+- more exemptions can be found at <a href="https://tinyurl.com/yoqc3omu">https://tinyurl.com/yoqc3omu</a> .
 

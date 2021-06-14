@@ -1,5 +1,5 @@
-Published 01.06.2021
-1. Until 14 June 2021, passengers are not allowed to enter.
+Published 14.06.2021
+1. Until 27 June 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
 - residents of Portugal;
@@ -9,7 +9,9 @@ This does not apply to:
 - passengers with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden, returning via Portugal to their country of residence;
 - passengers with a long term visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden, returning via Portugal to their country of residence.
 2. A completed electronic "Passenger Locator Card (PLCe)" must be presented upon boarding. The form can be found at <a href="https://portugalcleanandsafe.pt/en/passenger-locator-card">https://portugalcleanandsafe.pt/en/passenger-locator-card</a> .
-3. Passengers entering or transiting through Portugal must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point.
+3. Passengers entering or transiting through Portugal must have:
+- a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point; or
+- a negative COVID-19 NAAT test taken at most 72 hours before departure from the first embarkation point.
 This does not apply to:
 - passengers younger than 2 years;
 - passengers traveling on a direct flight to Azores or Madeira.
@@ -24,8 +26,9 @@ This does not apply to:
 - complete a "Health Form upon arrival at the Azores" and a "Draft statement for inter-island travel" upon arrival; or
 - submit a "Questionnaire for Risk Assessment and Early Detection" before departure at <a href="https://mysafeazores.com/">https://mysafeazores.com/</a> .
 7. Passengers traveling to Madeira must complete an epidemiological survey before departure at <a href="https://madeirasafe.com">https://madeirasafe.com</a> . This will generate a QR code which must be presented upon arrival.
-8. Passengers arriving from Brazil, Croatia, Cyprus, France, India, Lithuania, Netherlands, South Africa or Sweden must register at <a href="https://travel.sef.pt">https://travel.sef.pt</a> before departure.
+8. Passengers arriving from Brazil, India, Nepal or South Africa must register at <a href="https://travel.sef.pt">https://travel.sef.pt</a> before departure.
 9. Passengers are subject to medical screening.
 10. Passengers could be subject to quarantine for 14 days.
 11. National ID cards issued to nationals of Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
+12. Residence permits issued by Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
 

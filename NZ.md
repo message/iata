@@ -1,4 +1,4 @@
-Published 25.05.2021
+Published 14.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -34,7 +34,7 @@ Published 25.05.2021
 - passengers arriving from Albania, Belize, Dominica, Kenya, Lao People's Dem. Rep., Montenegro, Myanmar, Slovenia, St. Kitts and Nevis, St. Vincent and the Grenadines, Tajikistan or Turkmenistan. They must have a medical certificate issued at most 72 hours before departure from the first embarkation point and it must confirm that they have no COVID-19 symptoms.
 9. Passengers must have a voucher confirming their allocation to a place in managed isolation.
 - This does not apply to:
-- passengers arriving from Australia if they in the past 14 days have only been in Australia or New Zealand;
+- passengers arriving from Australia if they in the past 14 days have only been in Australia or New Zealand. Details can be found at <a href="https://covid19.govt.nz/travel/quarantine-free-travel/australia/">https://covid19.govt.nz/travel/quarantine-free-travel/australia/</a> ;
 - passengers arriving from Cook Isl. if they in the past 14 days have only been in Cook Isl. or New Zealand;
 - passengers arriving from Niue if they in the past 14 days have only been in New Zealand or Niue.
 10. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz">https://border.covid19.govt.nz</a> 
