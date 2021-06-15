@@ -1,4 +1,4 @@
-Published 29.05.2021
+Published 15.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Saudi Arabia;
@@ -12,7 +12,8 @@ Published 29.05.2021
 - This does not apply to:
 - nationals of Saudi Arabia;
 - passengers younger than 8 years.
-3.Passengers with a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival must complete "The registration immunization information form found at <a href="https://muqeem.sa/#?vaccine-registration/home">https://muqeem.sa/#?vaccine-registration/home</a> 
+3.Passengers with a COVID-19 vaccination certificate showing that they received the vaccine at least 14 days before arrival must complete "The registration immunization information form found at <a href="https://muqeem.sa/#?vaccine-registration/home">https://muqeem.sa/#?vaccine-registration/home</a> ; and
+- must download the Tawakkalna App and submit their personal details.
 - This does not apply to:
 - nationals of Saudi Arabia;
 - first degree family members of nationals of Saudi Arabia. They must be traveling together;

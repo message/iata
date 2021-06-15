@@ -1,6 +1,6 @@
-Published 14.06.2021
-1. Until 15 June 2021, flights from India are suspended.
-2. Until 15 June 2021, passengers who in the past 45 days have been in India are not allowed to enter.
+Published 15.06.2021
+1. Until 30 June 2021, flights from India are suspended.
+2. Until 30 June 2021, passengers who in the past 45 days have been in India are not allowed to enter.
 - This does not apply to nationals of Jordan and their spouses and children.
 3. Passengers are not allowed to transit through Jordan for more than 10 hours.
 4. Passengers must complete a "Declaration Form" before departure at <a href="https://www.gateway2jordan.gov.jo">https://www.gateway2jordan.gov.jo</a> . This will generate a QR code which must be presented upon arrival.

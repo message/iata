@@ -14,5 +14,5 @@ Published 01.06.2021
 - present a completed “DOT Travel Declaration Form" upon arrival; and
 - provide itinerary upon arrival.
 7. Nationals of the U.S.A. are allowed to enter with an expired passport.
-- This does not apply to emergency passports which must be valid on arrival.
+- This does not apply to emergency passports which must be valid on arrival. 
 
