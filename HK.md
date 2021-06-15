@@ -1,4 +1,4 @@
-Published 04.06.2021
+Published 15.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -22,14 +22,14 @@ Published 04.06.2021
 - have their baggage checked through until the final destination.
 4. Passengers are not allowed to transit through Hong Kong SAR, China to the Mainland of China.
 - This does not apply to passengers with a diplomatic passport.
-5. Passengers without a vaccination certificate stating that they received the vaccine at least 15 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> 
+5. Passengers without a vaccination certificate showing that they were fully vaccinated at least 15 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> 
 - This does not apply to passengers who in the past 21 days have only been in Australia, Mainland of China, Macao SAR, China or New Zealand.
-6. Passengers with a vaccination certificate stating that they received the vaccine at least 15 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> 
+6. Passengers with a vaccination certificate showing that they were fully vaccinated at least 15 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> 
 - This does not apply to:
 - passengers who in the past 21 days have only been in Australia, Mainland of China, Macao SAR, China or New Zealand;
 - passengers arriving from Brazil, India, Ireland (Rep.), Nepal, Pakistan, Philippines or South Africa.
 7. Passengers who in the past 21 days have only been in Australia or New Zealand must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> .
-- This does not apply to passengers with a vaccination certificate stating that they received the vaccine at least 15 days before arrival. They must have a hotel reservation confirmation for a minimum of 7 nights.
+- This does not apply to passengers with a vaccination certificate showing that they were fully vaccinated at least 15 days before arrival. They must have a hotel reservation confirmation for a minimum of 7 nights.
 8. Passengers who have been in or transited through Argentina, Bangladesh, Belgium, Brazil, Cambodia, Canada, Chinese Taipei, Ecuador, Egypt, Ethiopia, France, Germany, India, Indonesia, Ireland (Rep.), Italy, Japan, Kazakhstan, Kenya, Malaysia, Nepal, Netherlands, Pakistan, Philippines, Romania, Russian Fed., Singapore, South Africa, Switzerland, Thailand, Turkey, Ukraine, United Arab Emirates, United Kingdom, USA or Viet Nam in the past 21 days must have:
 - a negative COVID-19 nucleic acid test result. The test must have been taken at most 72 hours before departure of the last direct flight to Hong Kong, SAR China. The name in the test result must match the name on the travel document, or a written confirmation issued by the laboratory with the name of the passenger must be presented; and
 - a document proving that the laboratory is:
