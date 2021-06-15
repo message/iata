@@ -1,4 +1,4 @@
-Published 29.05.2021
+Published 15.06.2021
 1. Until 30 June 2021, flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.
@@ -23,4 +23,5 @@ This does not apply to:
 12. Airline crew who are arriving from or have transited through the United Kingdom:
 - must have a medical certificate with a negative Coronavirus (COVID-19) RT-PCR test result. The test must have been taken at most 72 hours before departure from the first embarkation point; and
 - are subject to a Coronavirus (COVID-19) RT-PCR test upon arrival.
+13. Persons of Indian Origin (PIO) cards which have expired are considered valid until 31 December 2021.
 

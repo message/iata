@@ -3,7 +3,7 @@ Published 14.04.2021
 - This does not apply to humanitarian flights.
 2. Passengers must have a printed negative COVID-19 RT-PCR test result issued at most 72 hours before arrival.
 - This does not apply to passengers arriving from Poland;
-- This does not apply to passengers arriving on Air Canada (AC), Air Transat (TS) or West Jet (WS).
+- This does not apply to passengers arriving on Air Canada (AC), Air Transat (TS), Sunwing Airlines (WG) or West Jet (WS).
 3. Passengers arriving from Poland must have a printed negative COVID-19 RT-PCR test result issued at most 5 days before arrival.
 4. Passengers are subject a COVID-19 PCR test upon arrival; and
 - subject to medical screening; and
