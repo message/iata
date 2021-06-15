@@ -24,7 +24,8 @@ Published 10.06.2021
 This does not apply to:
 - passengers younger than 2 years;
 - US military personnel;
-- passengers with a medical certificate with a positive COVID-19 test result issued at most 90 days before departure from the first embarkation point; and a letter issued by a health authority stating that the passenger has been cleared for travel. The test result must specify "positive" or "detected", if marked "invalid" it is not accepted.
+- passengers with a medical certificate with a positive COVID-19 test result. The test must be taken at most three months before departure from the first embarkation point; and 
+- a letter issued by a health authority stating that the passenger has been cleared for travel. The test result must specify "positive" or "detected", if marked "invalid" it is not accepted.
 3. Passengers must complete a disclosure and attestation form before departure. The form can be obtained at <a href="https://www.cdc.gov/quarantine/pdf/attachment-a-global-passenger-disclosure-attestation-2021-p.pdf">https://www.cdc.gov/quarantine/pdf/attachment-a-global-passenger-disclosure-attestation-2021-p.pdf</a> or <a href="https://www.cdc.gov/quarantine/pdf/Fillable-Attestation-English-p.pdf">https://www.cdc.gov/quarantine/pdf/Fillable-Attestation-English-p.pdf</a> .
 4. Passengers arriving in New York State must complete the "Traveler Health Form" at <a href="https://forms.ny.gov/s3/Welcome-to-New-York-State-Traveler-Health-Form">https://forms.ny.gov/s3/Welcome-to-New-York-State-Traveler-Health-Form</a> .
 5. Passengers are subject to COVID-19 measures set by the state/territory of their final destination. More information can be found at <a href="http://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html">www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html</a> .

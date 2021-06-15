@@ -1,4 +1,4 @@
-Published 14.06.2021
+Published 15.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Iceland;
@@ -27,6 +27,11 @@ More exemptions can be found at: <a href="https://www.logreglan.is/english/regar
 - presence of antibodies against COVID-19 measured by ELISA serologic assay.
 Details can be found at <a href="https://tinyurl.com/ya2tsh9p">https://tinyurl.com/ya2tsh9p</a> .
 5. Nationals and residents of Iceland without a negative COVID-19 PCR test taken at most 72 hours before departure are subject to a fine upon arrival.
-6. Passengers are subject to a COVID-19 test upon arrival. Details can be found at <a href="https://www.government.is/news/article/2021/04/20/COVID-19-Temporary-introduction-of-stricter-border-measures-/">https://www.government.is/news/article/2021/04/20/COVID-19-Temporary-introduction-of-stricter-border-measures-/</a> .
+6. Passengers are subject to a COVID-19 test upon arrival.
+- Effective 1 July 2021, this does not apply to:
+- passengers with a COVID-19 vaccination certificate. Details can be found at <a href="https://tinyurl.com/y4el6uru">https://tinyurl.com/y4el6uru</a> ;
+- passengers with a certificate of previous COVID-19 infection. The certificate must be in Danish, English, Icelandic, Norwegian or Swedish. Tests accepted are:
+- positive COVID-19 PCR test result issued at least 14 days before arrival; or
+- presence of antibodies against COVID-19 measured by ELISA serologic assay.
 7. Passengers could be subject to quarantine. Details can be found at <a href="https://www.covid.is/sub-categories/visiting-iceland">https://www.covid.is/sub-categories/visiting-iceland</a> .
 
