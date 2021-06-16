@@ -6,13 +6,13 @@ Published 10.06.2021
 - passengers with a diplomatic passport.
 2. Passengers must have:
 - a negative COVID-19 antigen rapid test or a PCR test issued at most 72 hours before arrival; or
-- a COVID-19 vaccination certificate stating that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
+- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
 - This does not apply to:
 - nationals and permanent residents of Ukraine;
 - passengers younger than 12 years.
 3. Nationals and permanent residents of Ukraine arriving without:
 - a negative COVID-19 antigen rapid test or a PCR test issued at most 72 hours before arrival; or
-- a COVID-19 vaccination certificate stating that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac are subject to self-isolation and must install the "VDOMA" mobile app.
+- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac are subject to self-isolation and must install the "VDOMA" mobile app.
 4. Passengers must have insurance to cover medical expenses in Ukraine.
 - This does not apply to:
 - nationals of Ukraine;

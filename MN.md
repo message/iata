@@ -14,5 +14,5 @@ Published 21.05.2021
 - passengers younger than the minimum age required for a COVID-19 test in the departure country;
 - deadheading crew.
 3. Passengers are subject to quarantine for 7 days. Details can be found at <a href="https://tabinfo.mn/en/tab/">https://tabinfo.mn/en/tab/</a> 
-- This does not apply to passengers with a COVID-19 vaccination certificate stating that they received the vaccine at least 14 days before arrival.
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
 
