@@ -12,7 +12,7 @@ Published 10.06.2021
 - passengers traveling on business;
 - passengers visiting their life partner;
 - students;
-- more COVID-19 related information can be found at <a href="https://tinyurl.com/EntryReqAT201017">https://tinyurl.com/EntryReqAT201017</a> 
+- more exemptions can be found at <a href="https://tinyurl.com/8w8kyybv">https://tinyurl.com/8w8kyybv</a>
 3. Passengers must complete a "Pre-Travel-Clearance" and present it upon arrival. The form can be found at <a href="https://entry.ptc.gv.at">https://entry.ptc.gv.at</a> 
 - This does not apply to passengers arriving from Andorra, Australia, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) with:
 - a negative COVID-19 antigen test result issued at most 48 hours before arrival; or

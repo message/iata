@@ -1,4 +1,4 @@
-Published 14.06.2021
+Published 16.06.2021
 1. Passengers are not allowed to enter.
 1.1. This does not apply to:
 - nationals and residents of Germany;
@@ -30,7 +30,7 @@ The test result must be in English, French, German, Italian or Spanish.
 The test result must be in English, French, German, Italian or Spanish.
 - This does not apply to:
 - passengers younger than 6 years;
-- passengers transiting through Germany to a non-Schengen Member State;
+- passengers transiting through Germany from a non-Schengen Member State to a non-Schengen Member State;
 - passengers with a positive COVID-19 PCR, RT-LAMP or TMA test result issued at least 28 days and at most 6 months before arrival. They must in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe;
 - passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they were fully vaccinated at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;
 - passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they received the first vaccine dose of AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before departure, and must be in in English, French, German, Italian or Spanish. They must also have a COVID-19 recovery certificate issued at least 6 months before the first vaccine dose.
