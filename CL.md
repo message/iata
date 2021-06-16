@@ -1,8 +1,9 @@
-Published 08.06.2021
-1. Passengers are not allowed to enter.
-- This does not apply to:
+Published 16.06.2021
+1. Until 30 June 2021, passengers are not allowed to enter.
+This does not apply to:
 - nationals and residents of Chile;
-- children of nationals and residents of Chile. They must have proof of their relationship;
+- children and parents of nationals and residents of Chile. They must have proof of their relationship;
+- spouses and partners with registered partnership of nationals and residents of Chile who were married or registered as partners in Chile. They must have proof of their relationship;
 - passengers with a diplomatic or official visa issued by the Ministry of Foreign Affairs of Chile;
 - passengers with a diplomatic or official passport.
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Chile.
