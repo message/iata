@@ -1,9 +1,9 @@
 Published 14.06.2021
 1. Passengers are not allowed to enter.
- 1.1. This does not apply to:
+1.1. This does not apply to:
 - nationals and residents of Germany;
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
- 1.2. This does not apply to the following passengers if arriving from a country other than Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe:
+1.2. This does not apply to the following passengers if arriving from a country other than Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe:
 - nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and EEA Member States;
 - immediate family members of nationals of EEA Member States and Switzerland. They must present proof of their family relationship;
 - immediate family members of residents of Germany. They must present proof of their family relationship;

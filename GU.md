@@ -12,5 +12,5 @@ This does not apply to:
 - the single vaccine dose of Janssen at least 14 days before arrival.
 3. Airline crew are subject to quarantine until their next flight.
 4. Nationals of the U.S.A. are allowed to enter with an expired passport.
- - This does not apply to emergency passports which must be valid on arrival.
+- This does not apply to emergency passports which must be valid on arrival.
 
