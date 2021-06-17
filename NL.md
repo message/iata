@@ -1,4 +1,4 @@
-Published 16.06.2021
+Published 17.06.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of the Netherlands;
@@ -42,7 +42,7 @@ This does not apply to:
 - a positive COVID-19 NAAT test result taken at least 2 weeks and at most 8 weeks before arrival; and
 - a positive COVID-19 NAAT test result taken at most 72 hours before arrival; and
 - a medical certificate specifying that the passenger is not COVID-19 contagious issued at most 72 hours before departure.
-- passengers arriving from Aruba, Australia, Austria, Bonaire, St. Eustatius and Saba, Bulgaria, China (People's Rep.), Curacao, Czechia, Finland, France (Corsica Island), Germany, Greece (the regions of Ionian Islands and North Aegean), Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Luxembourg, Korea (Rep.), Macao (SAR China), Malta, New Zealand, Norway, Poland, Portugal, Romania, Rwanda, San Marino, Singapore, Slovakia, Spain (the Balearic and Canary Islands), St. Maarten, Switzerland, Thailand or Vatican City (Holy See);
+- passengers arriving from Aruba, Australia, Austria, Bonaire, St. Eustatius and Saba, Bulgaria, China (People's Rep.), Croatia (excluding the Sjeverna Hrvatska region and Zagreb), Curacao, Cyprus, Czechia, Finland, France (Corsica Island), Germany, Greece (the regions of Ionian Islands, North Aegean and South Aegean), Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Liechtenstein, Luxembourg, Korea (Rep.), Macao (SAR China), Malta, New Zealand, Norway, Poland, Portugal, Romania, Rwanda, San Marino, Singapore, Slovakia, Spain (the Balearic and Canary Islands), St. Maarten, Switzerland, Thailand or Vatican City (Holy See);
 - passengers arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela.
 4. Passengers arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela must have:
 - a negative COVID-19 test taken at most 24 hours before boarding the flight of the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or

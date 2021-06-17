@@ -12,13 +12,13 @@ Published 10.06.2021
 - passengers traveling on business;
 - passengers visiting their life partner;
 - students;
-- more exemptions can be found at <a href="https://tinyurl.com/8w8kyybv">https://tinyurl.com/8w8kyybv</a>
+- more exemptions can be found at <a href="https://tinyurl.com/8w8kyybv">https://tinyurl.com/8w8kyybv</a> 
 3. Passengers must complete a "Pre-Travel-Clearance" and present it upon arrival. The form can be found at <a href="https://entry.ptc.gv.at">https://entry.ptc.gv.at</a> 
 - This does not apply to passengers arriving from Andorra, Australia, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) with:
 - a negative COVID-19 antigen test result issued at most 48 hours before arrival; or
 - a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
 - a COVID-19 recovery certificate; or
-- a COVID-19 vaccination certificate stating that they received:
+- a COVID-19 vaccination certificate showing that they received:
 - the first vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech, Sinopharm or Sinovac at least 22 days and at most 3 months before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech, Sinopharm or Sinovac at most 9 months ago and they also received the second dose; or
 - the Janssen vaccine at least 22 days and at most 9 months before arrival; or
@@ -28,7 +28,7 @@ Published 10.06.2021
 - have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
 - take a test within 24 hours after arrival; or
 - have a COVID-19 recovery certificate; or
-- have a COVID-19 vaccination certificate stating that they received:
+- have a COVID-19 vaccination certificate showing that they received:
 - the first vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech, Sinopharm or Sinovac at least 22 days and at most 3 months before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech, Sinopharm or Sinovac at most 9 months ago and they also received the second dose; or
 - the Janssen vaccine at least 22 days and at most 9 months before arrival; or

@@ -16,7 +16,7 @@ Published 28.05.2021
 - passengers traveling as students;
 - passengers with a Polish Card (Karta Polaka).
 2. Passengers could be subject to quarantine for 10 days. 
-- This does not apply to passengers with a COVID-19 vaccination certificate in English or Polish stating that they received the last vaccine dose.
+- This does not apply to passengers with a COVID-19 vaccination certificate in English or Polish showing that they were fully vaccinated.
 More quarantine exemptions can be found at <a href="https://www.gov.pl/web/coronavirus/temporary-limitations">https://www.gov.pl/web/coronavirus/temporary-limitations</a> 
 3. A completed "Passenger Locator Form" (PLF) must be presented upon arrival.
 

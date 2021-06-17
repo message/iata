@@ -17,7 +17,7 @@ Published 10.06.2021
 6. Passengers must install the "covidlebtrack" mobile app.
 7. Passengers arriving from Brazil or United Kingdom must have a reservation confirmation at a designated hotel for 4 nights.
 This does not apply to:
-- passengers with a COVID-19 vaccination certificate stating that they received at least one vaccine dose at least 2 weeks before departure;
+- passengers with a COVID-19 vaccination certificate showing that they received at least one vaccine dose at least 2 weeks before departure;
 - passengers with a COVID-19 recovery certificate issued at least 90 days before departure;
 - passengers transiting through Beirut to Syria;
 - passengers younger than 18 years;

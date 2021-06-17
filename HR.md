@@ -18,7 +18,7 @@ This does not apply to:
 - a rapid antigen test taken at most 48 hours before arrival. The rapid antigen test must be listed on <a href="https://tinyurl.com/b57mretv">https://tinyurl.com/b57mretv</a> ; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sputnik V; or
 - a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival; or
-- a COVID-19 recovery certificate issued at most 180 days before arrival and a COVID-19 vaccination certificate stating that the passenger received the first dose of the vaccine at most 180 days of arrival; or
+- a COVID-19 recovery certificate issued at most 180 days before arrival and a COVID-19 vaccination certificate showing that the passenger received the first dose of the vaccine at most 180 days of arrival; or
 - a positive COVID-19 PCR or rapid antigen test result issued at least 11 days and at most 180 days before arrival; or
 - are subject to a COVID-19 PCR or rapid antigen test upon arrival and self-isolation for up to 10 days.
 - This does not apply to:
@@ -27,7 +27,7 @@ This does not apply to:
  - a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are: AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech, Sinopharm or Sputnik V; or
  - a COVID-19 vaccination certificate showing that they have received the single dose of Janssen vaccine at least 14 days before arrival;
 - minors younger than 12 years accompanied by their parents or legal guardians. The parents or guardians must have a negative COVID-19 PCR or rapid antigen test result, a vaccination certificate or a recovery certificate;
-- more exemptions can be found at <a href="https://mup.gov.hr/uzg-covid/english/286212">https://mup.gov.hr/uzg-covid/english/286212</a>
+- more exemptions can be found at <a href="https://mup.gov.hr/uzg-covid/english/286212">https://mup.gov.hr/uzg-covid/english/286212</a> 
 5. Passengers could be subject to self-isolation; details can be found at <a href="https://mup.gov.hr/uzg-covid/english/286212">https://mup.gov.hr/uzg-covid/english/286212</a> 
 6. Passengers must complete an "Enter Croatia Form" and present it upon arrival. The form can be completed upon arrival or submitted online before departure at <a href="https://entercroatia.mup.hr/">https://entercroatia.mup.hr/</a> 
 - This does not apply to nationals and residents of Croatia.

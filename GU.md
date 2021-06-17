@@ -6,7 +6,7 @@ This does not apply to:
 - US military personnel;
 - passengers with a positive COVID-19 test result issued at most 90 days before departure from the first embarkation point; and a letter issued by a health authority stating that the passenger has been cleared for travel. The test result must specify "positive" or "detected", if marked "invalid" it is not accepted.
 2. Passengers are subject to medical screening and quarantine.
-- This does not apply to passengers with a COVID-19 vaccination certificate stating that they received:
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they received:
 - the second vaccine dose of Pfizer-BioNTech at least 14 days before arrival; or
 - the second vaccine dose of Moderna at least 14 days before arrival; or
 - the single vaccine dose of Janssen at least 14 days before arrival.
