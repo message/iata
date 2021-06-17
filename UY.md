@@ -14,7 +14,7 @@ Published 25.05.2021
 6. Passengers are subject to quarantine.
 This does not apply to:
 - passengers with a positive COVID-19 antigen or RT-PCR test taken at least 20 days and at most 90 days before departure;
-- passengers with a COVID-19 vaccination certificate stating that they received the last dose of the vaccine at most 6 months before departure.
+- passengers with a COVID-19 vaccination certificate showing that they received the last dose of the vaccine at most 6 months before departure.
 7. Passengers and airline crew must have a health insurance.
 - This does not apply to nationals and residents of Uruguay.
 8. Passengers and airline crew are subject to medical screening.

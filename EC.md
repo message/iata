@@ -1,14 +1,14 @@
-Published 14.04.2021
+Published 17.04.2021
 1. Passengers must have:
-- a negative COVID-19 antigen or RT-PCR test taken at most 3 days before arrival; or
-- a COVID-19 vaccination certificate; or
+- a negative COVID-19 antigen or RT-PCR test taken at most 72 days before departure; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
 - a COVID-19 recovery certificate.
 - This does not apply to:
 - passengers younger than 2 years;
 - passengers arriving from or who have transited through Brazil.
 2. Passengers arriving from or who have transited through Brazil must have:
-- a negative COVID-19 antigen or RT-PCR test taken at most 3 days before arrival; or
-- a COVID-19 vaccination certificate.
+- a negative COVID-19 antigen or RT-PCR test taken at most 72 days before departure; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
 - This does not apply to passengers younger than 2 years.
 3. Passengers could be subject to a COVID-19 antigen test upon arrival.
 - This does not apply to passengers younger than 14 years.
