@@ -1,4 +1,4 @@
-Published 07.06.2021
+Published 17.06.2021
 1. Passengers are not allowed to enter if in the past 10 days they have been in Afghanistan, Angola, Argentina, Bahrain, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Ecuador, Egypt, Eswatini, Ethiopia, French Guiana, Guyana, India, Kenya, Lesotho, Malawi, Maldives, Mozambique, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Qatar, Rwanda, Seychelles, Somalia, South Africa, Sri Lanka, Sudan, Suriname, Tanzania, Trinidad and Tobago, Turkey, United Arab Emirates, Uruguay, Venezuela, Zambia or Zimbabwe. 
 - This does not apply to:
 - passengers with a British passport with nationality "British Overseas Territories Citizen" issued by Gibraltar;
@@ -8,10 +8,14 @@ Published 07.06.2021
 - merchant seamen;
 - nationals and residents of Spain returning via Gibraltar to Spain;
 - military personnel with a travel order issued by NATO or the United Kingdom. 
-2. Passengers must complete a passenger locator form at <a href="https://www.passengers.egov.gi/">https://www.passengers.egov.gi/</a>. This will generate a barcode which must be presented upon arrival. 
-3. Passengers are subject to a COVID-19 test upon arrival. The test must be booked before arrival. Details can be found at <a href="http://www.visitgibraltar.gi/covid-19">www.visitgibraltar.gi/covid-19</a> . 
-4. Passengers could be subject to self-isolation for up to 10 days. 
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they received: 
-- the first vaccine dose of Janssen at least 14 days before arrival; or
-- the second vaccine dose of AstraZeneca (Vaxzevria), CureVac, GlaxoSmithKline, Moderna, Novavax, Pfizer-BioNTech, Sanofi Pasteur or Valneva at least 14 days before arrival. More exemptions can be found at <a href="http://www.visitgibraltar.gi/covid-19">www.visitgibraltar.gi/covid-19</a> .
+2. Passengers must have a negative COVID-19 antigen, LAMP or PCR test taken at most 48 hours before arrival. The test result must be in English, French or Spanish. Passengers details (name, date of birth or age) on the test result must match those stated in the passport or other travel document. The test result must also include the contact details of the issuing laboratory.
+- This does not apply to:
+- passengers younger than 12 years, if arriving from a country other than Afghanistan, Angola, Argentina, Bahrain, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Ecuador, Egypt, Eswatini, Ethiopia, French Guiana, Guyana, India, Kenya, Lesotho, Malawi, Maldives, Mozambique, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Qatar, Rwanda, Seychelles, Somalia, South Africa, Sri Lanka, Sudan, Suriname, Tanzania, Trinidad and Tobago, Turkey, United Arab Emirates, Uruguay, Venezuela, Zambia or Zimbabwe;
+- passengers younger than 8 years, if arriving from Afghanistan, Angola, Argentina, Bahrain, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Ecuador, Egypt, Eswatini, Ethiopia, French Guiana, Guyana, India, Kenya, Lesotho, Malawi, Maldives, Mozambique, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Qatar, Rwanda, Seychelles, Somalia, South Africa, Sri Lanka, Sudan, Suriname, Tanzania, Trinidad and Tobago, Turkey, United Arab Emirates, Uruguay, Venezuela, Zambia or Zimbabwe;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with Janssen at least 2 weeks before departure, or fully vaccinated with AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech. They must be arriving from a country other than Afghanistan, Angola, Argentina, Bahrain, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Ecuador, Egypt, Eswatini, Ethiopia, French Guiana, Guyana, India, Kenya, Lesotho, Malawi, Maldives, Mozambique, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Qatar, Rwanda, Seychelles, Somalia, South Africa, Sri Lanka, Sudan, Suriname, Tanzania, Trinidad and Tobago, Turkey, United Arab Emirates, Uruguay, Venezuela, Zambia or Zimbabwe. They must also update the vaccination certificate on the passenger locator form.
+3. Passengers must complete a passenger locator form at <a href="https://www.passengers.egov.gi/">https://www.passengers.egov.gi/</a>. This will generate a barcode which must be presented upon arrival. 
+4. Passengers could be subject to a COVID-19 test upon arrival. The test must be booked before arrival. Details can be found at <a href="http://www.visitgibraltar.gi/covid-19">www.visitgibraltar.gi/covid-19</a> . 
+5. Passengers could be subject to self-isolation for up to 10 days. 
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with Janssen at least 2 weeks before departure, or fully vaccinated with AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech. They must update the vaccination certificate on the passenger locator form;
+- More exemptions can be found at <a href="http://www.visitgibraltar.gi/covid-19">www.visitgibraltar.gi/covid-19</a> .
 
