@@ -1,5 +1,5 @@
-Published 15.06.2021
-1. Passengers who have transited or have been in Austria, Belgium, Brazil, China (People's Rep.), Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Iran, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland or in the United Kingdom (excluding overseas territories outside of Europe), in the past 14 days are not allowed to enter and transit.
+Published 18.06.2021
+1. Passengers who have transited or have been in Austria, Belgium, Brazil, China (People's Rep.), Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Iran, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, United Kingdom (excluding overseas territories outside of Europe) or Vatican City (Holy See), in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
 - nationals and permanent residents of the USA;
 - spouses of nationals and of permanent residents of the USA. They must have a marriage certificate;

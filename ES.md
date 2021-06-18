@@ -1,4 +1,4 @@
-Published 11.06.2021
+Published 18.06.2021
 1. Until 30 June 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
@@ -16,7 +16,7 @@ This does not apply to:
 - students with proof of being enrolled in a course in Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland. They must:
 - have a medical insurance; and
 - be traveling to the country where they study, at most 15 days before the start of the course.
-2. Until 22 June 2021, flights from Brazil and South Africa to Spain are suspended.
+2. Until 6 July 2021, flights from Brazil and South Africa to Spain are suspended.
 This does not apply to:
 - nationals and residents of Andorra and Spain;
 - passengers transiting through Spain to a non-Schengen Member State.
@@ -30,6 +30,7 @@ This does not apply to:
 - passengers arriving from Nordland in Norway;
 - passengers arriving from Aland or Lansi-Suomi in Finland;
 - deadheading crew.
+- effective 21 June 2021, passengers arriving from Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, RheinlandPfalz, Sachsen, Sachsen-Anhalt, Schleswig-Holstein or Tharingen in Germany, from Panonska Hrvatska in Croatia, from Syddanmark in Denmark, from Corsica, Martinique or Mayotte in France, from Anatoliki Makedonia Thraki, Ipeiros, Peloponnisos or Voreio Aigaio in Greece, from Abruzzo, Emilia-Romagna, Friuli-Venezia Giulia, Lazio, Liguria, Lombardia, Marche, Molise, Piemonte, Provincia Autonoma di Bolzano/Bozen, Provincia Autonoma di Trento, Puglia, Serdegna, Toscana, Umbria or Veneto in Italy, from Innlandet, More og Romsdal, Nordland, Rogaland, Trondelag, Vestland or Viken in Norway, from Lodzkie, Slaskie, Swietokrzyskie, Dolnoslaskie, Kujawsko-Pomorskie, Lubelskie, Lubuskie Malopolskie, Mazowiecki regionalny, Opolskie, Podkarpackie, Podlaskie, Pomorskie, Warminsko-Mazurskie, Wielkopolskie or Zachodniopomorskie in Poland, and from Madeira in Portugal. 
 4. Passengers entering or transiting through Spain must complete an "FCS Health Control Form" before departure at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> or via the Spain Travel Health-SpTH App. This will generate a QR code which must be presented upon arrival.
 - This does not apply to deadheading crew.
 5. Passengers could be subject to quarantine for up to 10 days; details can be found at <a href="https://tinyurl.com/ucevbmtc">https://tinyurl.com/ucevbmtc</a> 

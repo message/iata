@@ -1,4 +1,4 @@
-Published 16.06.2021
+Published 18.06.2021
 1. Passengers are not allowed to enter.
 1.1. This does not apply to:
 - nationals and residents of Germany;
@@ -14,7 +14,8 @@ Published 16.06.2021
 - military personnel;
 - merchant seamen;
 - students;
-- unmarried partners of residents of Germany. They must have a written invitation and a copy of the identity document of the resident in Germany. They must also have a declaration and be able to present proof of their relationship.
+- unmarried partners of residents of Germany. They must have a written invitation and a copy of the identity document of the resident in Germany. They must also have a declaration and be able to present proof of their relationship;
+- effective 20 June 2021, residents of Albania, Chinese Taipei, Hong Kong (SAR China), Lebanon, Macao (SAR China), North Macedonia (Rep.), Serbia and USA. They must have been living in the residence country in the past 6 months.
 2. Passengers arriving from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe are not allowed to transit through Germany to Austria, Belgium, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovenia, Spain, Sweden or Switzerland.
 - This does not apply to nationals and residents of Germany.
 3. Nationals and residents of Germany entering or transiting through Germany from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe must have:
@@ -53,4 +54,8 @@ The test result must be in English, French, German, Italian or Spanish.
 <a href="http://www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-entering-germany.html">www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-entering-germany.html</a> 
 - This does not apply to passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they were fully vaccinated at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
 10. More COVID-19 related information can be found at <a href="http://www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html">www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html</a> .
+11. Effective 20 June 2021, passengers arriving from Namibia are not allowed to enter.
+This does not apply to nationals and residents of Germany.
+12. Effective 20 June 2021, passengers arriving from Namibia are not allowed to transit through Germany to Austria, Belgium, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovenia, Spain, Sweden or Switzerland.
+- This does not apply to nationals and residents of Germany.
 
