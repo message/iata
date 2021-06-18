@@ -1,5 +1,5 @@
 Published 19.05.2021
-1. Until 18 June 2021, flights to Venezuela are suspended.
+1. Flights to Venezuela are suspended.
 - This does not apply to:
 - flights from Bolivia, Dominican Rep., Mexico, Panama, Russian Fed. or Turkey;
 - humanitarian, medevac and repatriation flights.

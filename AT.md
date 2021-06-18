@@ -1,5 +1,5 @@
 Published 10.06.2021
-1. Until 20 June 2021, flights from Brazil, India, South Africa and United Kingdom are suspended.
+1. Flights from Brazil, India, South Africa and United Kingdom are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Until 30 June 2021, passengers are not allowed to enter.
 - This does not apply to:

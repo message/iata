@@ -88,6 +88,6 @@ Published 16.06.2021
 - This does not apply to passengers with a resident visa.
 25. Passengers arriving at Sharjah (SHJ) must download the ALHOSN App.
 26. Flights from Congo (Dem. Rep.), India, Uganda, Viet Nam, Yemen and Zambia are suspended.
-27. Until 18 June 2021, flights from Nigeria and South Africa are suspended .
+27. Flights from Nigeria and South Africa are suspended .
 28. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
 
