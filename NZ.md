@@ -1,4 +1,4 @@
-Published 14.06.2021
+Published 18.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -26,20 +26,21 @@ Published 14.06.2021
 7. Passengers transiting through New Zealand to Australia must have a confirmed onward ticket on a red zone flight within 14 days.
 8. Passengers must have a negative COVID-19 test result. Tests accepted are: antigen, LAMP, NAAT, PCR, RT-PCR and TMA tests. The test must have been taken at most 72 hours before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/39tsn56h">https://tinyurl.com/39tsn56h</a> 
 - This does not apply to:
-- passengers arriving from Antarctica, Australia, Cook Isl., Fiji, Kiribati, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Niue, Palau, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;
+- passengers arriving from Antarctica, Australia (excluding the state of Victoria), Cook Isl., Fiji, Kiribati, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Niue, Palau, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;
 - passengers younger than 2 years;
 - passengers with a medical certificate specifying that the passenger cannot take a test due to medical reasons and does not have COVID-19 symptoms. The certificate must be issued at most 72 hours before departure from the first embarkation point;
 - passengers with a diplomatic or consular visa;
 - passengers who are members of the New Zealand Defence Force;
 - passengers arriving from Albania, Belize, Dominica, Kenya, Lao People's Dem. Rep., Montenegro, Myanmar, Slovenia, St. Kitts and Nevis, St. Vincent and the Grenadines, Tajikistan or Turkmenistan. They must have a medical certificate issued at most 72 hours before departure from the first embarkation point and it must confirm that they have no COVID-19 symptoms.
-9. Passengers must have a voucher confirming their allocation to a place in managed isolation.
+9. Passengers arriving from the state of Victoria in Australia must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point.
+10. Passengers must have a voucher confirming their allocation to a place in managed isolation.
 - This does not apply to:
 - passengers arriving from Australia if they in the past 14 days have only been in Australia or New Zealand. Details can be found at <a href="https://covid19.govt.nz/travel/quarantine-free-travel/australia/">https://covid19.govt.nz/travel/quarantine-free-travel/australia/</a> ;
 - passengers arriving from Cook Isl. if they in the past 14 days have only been in Cook Isl. or New Zealand;
 - passengers arriving from Niue if they in the past 14 days have only been in New Zealand or Niue.
-10. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz">https://border.covid19.govt.nz</a> 
-11. Passengers could be subject to medical screening and quarantine for 14 days.
-12. Airline crew not residing in Australia or New Zealand must have:
+11. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz">https://border.covid19.govt.nz</a> 
+12. Passengers could be subject to medical screening and quarantine for 14 days.
+13. Airline crew not residing in Australia or New Zealand must have:
 - a negative COVID-19 test result. Tests accepted are: antigen, LAMP, NAAT, PCR, RT-PCR and TMA tests. The test must have been taken at most 7 days before arrival; or
 - a medical certificate issued at most 7 days before arrival. The certificate must confirm that they have no COVID-19 symptoms and they cannot take a COVID-19 test due to particular needs; or
 - a medical certificate specifying that they do not have COVID-19 symptoms and are not contagious, if they were tested positive at most 7 days before arrival.

@@ -9,7 +9,7 @@ Published 14.06.2021
 - until 2 July 2021:
 - passengers traveling with an UEFA 2021 FAN ID card issued on paper or electronically;
 - passengers with a "Local Organization Structure UEFA Euro 2021 (LOS)" confirmation letter.
-2. Passengers entering or transiting the Russian Fed. must have a printed negative COVID-19 PCR test result issued at most 3 days before arrival. The test result must be in English or Russian. A notarized translation to Russian is accepted.
+2. Passengers entering or transiting the Russian Fed. must have a negative COVID-19 PCR test result issued at most 3 days before arrival. The test result must be in English or Russian. A notarized translation to Russian is accepted.
 - This does not apply to:
 - nationals of the Russian Fed.;
 - nationals of Armenia, Belarus, Kazakhstan and Kyrgyzstan arriving on a direct flight from Armenia, Belarus or Kyrgyzstan.
