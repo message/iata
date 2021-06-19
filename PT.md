@@ -1,4 +1,4 @@
-Published 15.06.2021
+Published 19.06.2021
 1. Until 27 June 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
@@ -10,10 +10,10 @@ This does not apply to:
 - passengers with a long term visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden, returning via Portugal to their country of residence.
 2. A completed electronic "Passenger Locator Card (PLCe)" must be presented upon boarding. The form can be found at <a href="https://portugalcleanandsafe.pt/en/passenger-locator-card">https://portugalcleanandsafe.pt/en/passenger-locator-card</a> .
 3. Passengers entering or transiting through Portugal must have:
-- a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point; or
+- a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point; or
 - a negative COVID-19 NAAT test taken at most 72 hours before departure from the first embarkation point.
 This does not apply to:
-- passengers younger than 2 years;
+- passengers younger than 12 years;
 - passengers traveling on a direct flight to Azores or Madeira.
 4. Passengers traveling on a direct flight to Azores without a negative COVID-19 RT-PCR test based on nasopharyngeal or oropharyngeal swab and taken at most 72 hours before departure, are subject to a test upon arrival.
 - This does not apply to passengers younger than 12 years.
