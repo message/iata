@@ -18,7 +18,7 @@ Published 18.06.2021
 - airline crew;
 - passengers with a COVID-19 recovery certificate. The passenger must have tested positive at least 14 days and at most 6 months before arrival;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated; or
-- a COVID-19 vaccination certificate stating that they received the first vaccine dose of AstraZeneca (Vaxzevria). 
+- a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria). 
 3. Passengers arriving from the USA without:
 - a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival; or
 - a negative COVID-19 Antigen FIA Rapid test result issued at most 48 hours before arrival are subject to quarantine for 10 days.
