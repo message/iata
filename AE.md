@@ -1,4 +1,4 @@
-Published 16.06.2021
+Published 21.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -88,6 +88,15 @@ Published 16.06.2021
 - This does not apply to passengers with a resident visa.
 25. Passengers arriving at Sharjah (SHJ) must download the ALHOSN App.
 26. Flights from Congo (Dem. Rep.), India, Uganda, Viet Nam, Yemen and Zambia are suspended.
-27. Flights from Nigeria and South Africa are suspended .
+27. Until 2 July 2021, flights from Nigeria and South Africa are suspended.
 28. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
+29. Effective 22 June 2021, passengers who in the past 14 days have been in Liberia, Namibia or Sierra Leone are not allowed to enter and transit.
+- This does not apply to:
+- nationals of United Arab Emirates and their first degree family members;
+- passengers with a diplomatic or an official passport traveling on duty;
+- passengers with a golden visa or a silver visa issued by United Arab Emirates.
+30. Effective 22 June 2021, passengers entering or transiting through United Arab Emirates who in the past 14 days have been in Liberia, Namibia or Sierra Leone must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+- This does not apply to:
+- passengers younger than 12 years;
+- passengers with disabilities.
 

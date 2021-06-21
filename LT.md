@@ -1,4 +1,4 @@
-Published 17.06.2021
+Published 21.06.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Lithuania;
@@ -23,6 +23,6 @@ This does not apply to:
 - This does not apply to passengers arriving from a country other than Brazil, India and South Africa with:
  - a positive COVID-19 antigen or PCR test taken at most 180 days before arrival and a recovery certificate; or
  - a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech.
-More details can be found at <a href="https://tinyurl.com/a2ytwp57">https://tinyurl.com/a2ytwp57</a> 
-6. Airline crew could be subject to self-isolation until their next flight or for a maximum of 10 days. More details can be found at <a href="https://tinyurl.com/a2ytwp57">https://tinyurl.com/a2ytwp57</a> 
+More details can be found at <a href="https://tinyurl.com/5fkt9aj9">https://tinyurl.com/5fkt9aj9</a>
+6. Airline crew could be subject to self-isolation until their next flight or for a maximum of 10 days. More details can be found at <a href="https://tinyurl.com/5fkt9aj9">https://tinyurl.com/5fkt9aj9</a>
 

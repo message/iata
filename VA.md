@@ -15,7 +15,7 @@ Published 16.06.2021
 - passengers residing in Italy since before 13 February 2021;
 - parents of children younger than 18 years who are residing in Italy;
 - military personnel.
-3. Until 21 June 2021, passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.
+3. Passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
 - nationals of Italy residing in Italy since before 29 April 2021;
 - nationals of Italy registered with the A.I.R.E.
