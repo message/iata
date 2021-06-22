@@ -1,8 +1,11 @@
-Published 14.06.2021
+Published 22.06.2021
 1. Until 01 July 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Norway;
 - spouses, registered partners, minor children or stepchildren, parents or stepparents of minor children or stepchildren of residents of Norway. They must present a proof confirming the relationship;
+- passengers arriving from Finland (except Helsinki/Usimaa and Paijat-Hame hospital districts), Greenland, Iceland, Malta, Poland or Romania;
+- passengers arriving from Denmark or Sweden with a COVID-19 vaccination certificate showing that they were fully vaccinated; or
+- a COVID-19 recovery certificate issued at most 6 months before arrival.
 - merchant seamen;
 - more COVID-19 related information can be found at <a href="https://www.udi.no/en/about-the-corona-situation/entry-to-norway-for-all-citizens/">https://www.udi.no/en/about-the-corona-situation/entry-to-norway-for-all-citizens/</a> .
 2. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="http://www.entrynorway.no">www.entrynorway.no</a> .
@@ -10,7 +13,8 @@ Published 14.06.2021
 3. Passengers must have a negative COVID-19 test taken at most 24 hours before departure from the first embarkation point. Tests accepted are: PCR, rapid antigen and RT-PCR. The test result must be in Danish, English, French, German, Norwegian or Swedish.
 - This does not apply to:
 - passengers younger than 12 years;
-- passengers arriving from Denmark (Greenland), certain hospital districts in Finland or Iceland. More details can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> ;
+- passengers arriving from Finland (except Helsinki/Usimaa and Paijat-Hame hospital districts), Greenland, Iceland, Malta, Poland or Romania. More details can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> ;
+- passengers arriving from Denmark or Sweden with a COVID-19 vaccination certificate showing that they were fully vaccinated;
 - passengers with a diplomatic or service passport;
 - passengers with a COVID-19 recovery certificate issued at least 14 days and at most 6 months before arrival. They must not be traveling to Longyearbyen (LYR);
 - merchant seamen;
