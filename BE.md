@@ -1,8 +1,8 @@
-Published 10.06.2021
+Published 22.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
-- residents of Australia, Israel, Japan, Korea (Rep.), New Zealand, Rwanda, Singapore and Thailand;
+- residents of Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New-Zealand, North Macedonia (Rep.), Rwanda, Serbia, Singapore, Thailand, USA, arriving from Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New-Zealand, North Macedonia (Rep.), Rwanda, Serbia, Singapore, Thailand or USA; 
 - passengers with a "C" visa issued by Belgium;
 - merchant seamen;
 - passengers with a diplomatic passport traveling on duty;
@@ -21,11 +21,11 @@ Published 10.06.2021
 - residents of Australia, Israel, Japan, Korea (Rep.), New Zealand, Rwanda, Singapore and Thailand;
 - merchant seamen;
 - passengers with a diplomatic passport traveling on duty;
-- passengers with an Essential Journey Certificate issued by a Belgian embassy or consulate.
-4. Passengers must have an Essential Journey Certificate issued by a Belgian embassy or consulate.
+- passengers with an Essential Journey Certificate issued by a Belgian consulate or embassy or a "note verbale" stating that the country of destination is allowing them to enter.
+4. Passengers must have an Essential Journey Certificate issued by a Belgian consulate or embassy or a "note verbal" stating that the country of destination is allowing them to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
-- residents of Australia, Israel, Japan, Korea (Rep.), New Zealand, Rwanda, Singapore and Thailand;
+- residents of Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New-Zealand, North Macedonia (Rep.), Rwanda, Serbia, Singapore, Thailand, USA, arriving from Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New-Zealand, North Macedonia (Rep.), Rwanda, Serbia, Singapore, Thailand or USA.
 - passengers with a "C" visa issued by Belgium after 18 March 2020;
 - merchant seamen;
 - passengers with a diplomatic passport traveling on duty;
@@ -34,10 +34,10 @@ Published 10.06.2021
 - This does not apply to:
 - passengers residing in Belgium;
 - passengers younger than 6 years;
-- passengers arriving from Australia, Bulgaria, Hungary, Iceland, Ireland (Rep.), Israel, Korea (Rep.), Malta, Monaco, New Zealand, Portugal, Romania, Rwanda, San Marino, Singapore or Vatican City (Holy See);
+- passengers arriving from Albania, Australia, Bulgaria, Chinese Taipei, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Malta, Monaco, New Zealand, North Macedonia (Rep.), Portugal, Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See); 
 - passengers arriving from specific regions of Austria, Czechia, Denmark, Finland, France, Greece, Italy, Norway, Poland, Spain or Switzerland. Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a> 
 6. A completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a> or <a href="https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM_PassengerLocatorForm_ENG.pdf">https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM_PassengerLocatorForm_ENG.pdf</a> 
 7. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a> 
 8. Passengers are subject to medical screening.
-9. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium.
+9. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium. 
 
