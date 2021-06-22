@@ -1,4 +1,4 @@
-Published 02.06.2021
+Published 22.06.2021
 1. Passengers are not allowed to enter if in the past 14 days they have been in Afghanistan, Albania, Algeria, Andorra, Antigua and Barbuda, Argentina, Armenia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Bulgaria, Cambodia, Cameroon, Canada, Cape Verde, Central African Rep., Chile, Comoros, Congo, Congo (Dem. Rep.), Colombia, Costa Rica, Cote d'Ivoire, Croatia, Cuba, Cyprus, Czechia, Denmark, Djibouti, Dominica, Dominican Rep., Ecuador, Egypt, El Salvador, Equatorial Guinea, Estonia, Eswatini (Swaziland), Ethiopia, Finland, France, Gabon, Gambia, Georgia, Germany, Ghana, Greece, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland (Rep.), Israel, Italy, Jamaica, Jordan, Kazakhstan, Kenya, Kosovo (Rep.), Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Malaysia, Maldives, Malta, Mauritania, Mauritius, Mexico, Moldova (Rep.), Monaco, Mongolia, Montenegro, Morocco, Myanmar, Namibia, Nepal, Netherlands, Nicaragua, Nigeria, North Macedonia (Rep.), Norway, Oman, Pakistan, Palestinian Territory, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Romania, Russian Fed., Rwanda, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Tajikistan, Thailand, Timor-Leste, Trinidad and Tobago, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, Uruguay, USA, Uzbekistan, Vatican City (Holy See), Venezuela, Zambia or Zimbabwe.
 - This does not apply to:
 - nationals of Japan;
@@ -23,6 +23,7 @@ Published 02.06.2021
 - be in English.
 Details can be found at <a href="https://www.mhlw.go.jp/content/000769032.pdf">https://www.mhlw.go.jp/content/000769032.pdf</a> and <a href="https://www.mofa.go.jp/ca/fna/page25e_000334.html">https://www.mofa.go.jp/ca/fna/page25e_000334.html</a> .
 - This does not apply to:
+- passengers younger than 6 years;
 - passengers with a diplomatic or an official visa issued by Japan;
 - US military personnel;
 - civilian personnel of the US armed forces in Japan and their dependents;

@@ -11,7 +11,7 @@ Published 22.06.2021
 - passengers younger than 6 years;
 - passengers with a letter issued by a consulate of Uruguay stating that the passenger is exempt from the Coronavirus (COVID-19) PCR test requirement before departure. The passenger is subject to a PCR test upon arrival.
 5. Airline crew without a negative COVID-19 PCR test result issued at most 72 hours before departure are subject to self-isolation.
-6. Passengers could be subject to quarantine. More details can be found at <a href="https://tinyurl.com/5fhdm4sw">https://tinyurl.com/5fhdm4sw</a>
+6. Passengers could be subject to quarantine. More details can be found at <a href="https://tinyurl.com/5fhdm4sw">https://tinyurl.com/5fhdm4sw</a> 
 This does not apply to:
 - passengers with a positive COVID-19 antigen or RT-PCR test taken at least 20 days and at most 90 days before departure;
 - passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated at least 14 days and at most 6 months before arrival.
