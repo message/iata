@@ -21,7 +21,7 @@ Published 22.06.2021
 - nationals of Italy registered with the A.I.R.E.
 4. Passengers must complete a Digital Passenger Locator Form at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a> .
 5. Passengers arriving in Puglia must present a completed health declaration form upon arrival. The form can be obtained at <a href="https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus">https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus</a> .
-6. Until 30 July 2021, passengers must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival.
+6. Until 30 July 2021, passengers must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish.
 - This does not apply to:
 - passengers arriving from Andorra, Austria, Bangladesh, Belgium, Brazil, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies, Germany, Gibraltar, Greece, Hungary, Iceland, India, Ireland, Israel, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, San Marino, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Kingdom or Vatican City (Holy See);
 - military personnel;
@@ -31,16 +31,17 @@ Published 22.06.2021
 - a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival; or
 - a COVID-19 recovery certificate; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
+All documents must be in English, French, Italian or Spanish.
 - This does not apply to:
 - military personnel;
 - passengers younger than 6 years;
 - more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> .
-8. Passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. They are also subject to:
+8. Passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to:
 - a COVID-19 antigen or molecular test upon arrival; and
 - quarantine in a hotel for 10 days; and
 - another COVID-19 antigen or molecular test at the end of quarantine.
 - This does not apply to passengers younger than 6 years.
-9. Passengers who have been in or transited through Gibraltar or United Kingdom in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival. They are also subject to self-isolation for 5 days and a COVID-19 antigen or molecular test at the end of the self-isolation.
+9. Passengers who have been in or transited through Gibraltar or United Kingdom in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to self-isolation for 5 days and a COVID-19 antigen or molecular test at the end of the self-isolation.
 - This does not apply to passengers younger than 6 years.
 10. Passengers who have been in or transited through Brazil in the past 14 days are subject to a COVID-19 antigen or molecular test upon arrival.
 - This does not apply to passengers younger than 6 years.

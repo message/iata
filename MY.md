@@ -1,4 +1,4 @@
-Published 25.05.2021
+Published 22.06.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals of Malaysia;
@@ -14,7 +14,7 @@ This does not apply to:
 3. Passengers must install 'MySejahtera app' in their phone and complete the health declaration at least one day before departure.
 4. Passengers must have a negative COVID-19 RT-PCR test taken at most 3 days before departure from the first embarkation point.
 5. Passengers are subject to a COVID-19 RT-PCR test upon arrival at their own expense.
-6. Passengers are subject to medical screening and quarantine for 14 days or 21 days at their own expense.
+6. Passengers are subject to medical screening and quarantine for 14 days or 21 days at the first point of entry at their own expense.
 7. Airline crew must have their names listed on the General Declaration.
 8. Airline crew are subject to quarantine until their next flight and must install 'MySejahtera app' in their phone.
 9. Transfer from an international flight to a domestic flight is not allowed.
