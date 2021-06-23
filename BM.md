@@ -1,5 +1,5 @@
 Published 23.06.2021
-1. Passengers and airline crew must have an approved travel authorization obtained at most 3 days before departure. The authorization must be obtained at <a href="https://www.gov.bm/applying-bermuda-travel-authorisations">https://www.gov.bm/applying-bermuda-travel-authorisations</a> and presented at time of departure.
+1. Passengers and airline crew must have an approved travel authorization obtained at most 3 days before departure. The authorization must be obtained at <a href="https://www.gov.bm/applying-bermuda-travel-authorisation">https://www.gov.bm/applying-bermuda-travel-authorisation</a> and presented at time of departure.
 - This does not apply to:
  - passengers younger than 2 years;
  - airline crew who stay for less than 24 hours.
