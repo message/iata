@@ -1,6 +1,6 @@
-Published 04.06.2021
-1. Flights from India and Pakistan are suspended.
-2. Passengers are not allowed to enter.
+Published 23.06.2021
+1. Until 21 July 2021, flights from India are suspended.
+2. Until 21 July 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Canada;
 - dual nationals of Canada with a Special Authorization approval email;
@@ -19,7 +19,7 @@ Published 04.06.2021
 - more exemptions can be found at <a href="https://tinyurl.com/s4tbrc8">https://tinyurl.com/s4tbrc8</a> .
 3.Passengers and airline crew must submit their information electronically, at most 72 hours before arrival, through the ArriveCAN app or the website <a href="https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html">https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html</a> 
 4. Passengers must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. 
-- Test results issued in India or Pakistan are not accepted.
+- Test results issued in India are not accepted.
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers with a positive COVID-19 test taken at least 15 days and at most 90 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS.
