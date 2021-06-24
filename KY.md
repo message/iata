@@ -5,10 +5,11 @@ This does not apply to:
 - brothers, sisters, parents, grandparents or fiances of residents of Cayman Isl.;
 - students.
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival.
-3. Passengers must obtain a "Travel to Cayman" approval at <a href="https://www.exploregov.ky/traveltime">https://www.exploregov.ky/traveltime</a>
+- This does not apply to passengers younger than 10 years.
+3. Passengers must obtain a "Travel to Cayman" approval at <a href="https://www.exploregov.ky/traveltime">https://www.exploregov.ky/traveltime</a> 
 4. Passengers are subject to a COVID-19 PCR test upon arrival.
 This does not apply to:
 - passengers younger than 10 years;
 - passengers with a COVID-19 vaccination certificate issued by the Cayman Islands HSA showing that they were fully vaccinated at least 2 weeks before departure.
-5. Passengers are subject to medical screening and quarantine for up to 10 days. More details can be found at <a href="https://www.exploregov.ky/government-covid19-policies">https://www.exploregov.ky/government-covid19-policies</a>
+5. Passengers are subject to medical screening and quarantine for up to 10 days. More details can be found at <a href="https://www.exploregov.ky/government-covid19-policies">https://www.exploregov.ky/government-covid19-policies</a> 
 

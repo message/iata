@@ -1,4 +1,4 @@
-Published 15.06.2021
+Published 24.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Saudi Arabia;
@@ -26,11 +26,9 @@ Published 15.06.2021
 5. Passengers must have medical insurance to cover COVID-19 expenses. 
 - This does not apply to nationals and residents of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates.
 6. Passengers could be subject to quarantine. Quarantine packages must be obtained from the transporting carrier.
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they received:
-- the second vaccine dose of AstraZeneca (Vaxzevria) at least 14 days before arrival; or
-- the single vaccine dose of the Janssen at least 14 days before arrival; or
-- the second vaccine dose of Moderna at least 14 days before arrival; or
-- the second vaccine dose of Pfizer-BioNTech at least 14 days before arrival.
+- This does not apply to:
+- nationals and residents of Saudi Arabia with a COVID-19 vaccination certificate showing that they received the first vaccine dose at least 14 days before arrival, or a COVID-19 recovery certificate issued at most 6 months before arrival;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
 7. Airline crew are subject to quarantine until their next flight.
 8. Suspension of visa on arrival facilities.
 9. Suspension of e-visa issuance.
