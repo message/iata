@@ -1,4 +1,4 @@
-Published 16.06.2021
+Published 24.06.2021
 1. Flights from Algeria, Angola, Benin, Botswana, Brazil, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Rep., Chad, Chile, Comoros, Congo, Congo (Dem. Rep.), Cote d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea Bissau, India, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Turkey, Uganda, United Kingdom, Zambia and Zimbabwe are suspended.
 2. Until 25 June 2021, passengers are not allowed to enter.
 - This does not apply to:
@@ -20,5 +20,5 @@ Published 16.06.2021
 - issued before 17 March 2020, must also have a National ID Card issued to residents of Argentina or a certificate issued by an Argentina consulate;
 - issued after 17 March 2020 are allowed to enter.
 This does not apply to passengers with diplomatic, official or courtesy visas.
-9. National ID cards issued to nationals and residents of Argentina which expired on 17 March 2020 or later, are considered valid until 22 June 2021.
+9. National ID cards issued to nationals and residents of Argentina which expired on 17 March 2020 or later, are considered valid until 8 July 2021.
 

@@ -20,7 +20,7 @@ Published 24.06.2021
 - This does not apply to merchant seamen with a 9(C) visa issued by the Philippines.
 8. Nationals of the Philippines arriving from Bangladesh, India, Nepal, Oman, Pakistan, Sri Lanka or United Arab Emirates on a non-government's repatriation flight must have a negative COVID-19 RT-PCR test result issued at most 48 hours before departure; and
 - a prior approval obtained by their agency from Bureau of Quarantine (BOQ).
-9. Passengers must have a reservation confirmation of a hotel approved by Tourism and Health Agencies for at least 10 days. The hotel must be listed at <a href="https://www.philippineairlines.com/en/ph/home/covid-19/ArrivingInThePH/ManilaQuarantineHotels">https://www.philippineairlines.com/en/ph/home/covid-19/ArrivingInThePH/ManilaQuarantineHotels</a>
+9. Passengers must have a reservation confirmation of a hotel approved by Tourism and Health Agencies for at least 10 days. The hotel must be listed at <a href="https://www.philippineairlines.com/en/ph/home/covid-19/ArrivingInThePH/ManilaQuarantineHotels">https://www.philippineairlines.com/en/ph/home/covid-19/ArrivingInThePH/ManilaQuarantineHotels</a> 
 - This does not apply to:
 - nationals of the Philippines who are Overseas Filipino Workers (OFW);
 - passengers with a diplomatic passport and a 9(E) visa.

@@ -1,5 +1,5 @@
-Published 14.06.2021
-1. Until 30 June 2021, passengers are not allowed to enter.
+Published 24.06.2021
+1. Until 31 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Sweden and their family members. More details on family members can be found at: <a href="https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/">https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/</a> ;
 - passengers with a residence permit issued by Sweden;
@@ -16,7 +16,7 @@ Published 14.06.2021
 - passengers younger than 18 years traveling to meet a parent residing in Sweden, and accompanying persons;
 - parents traveling to meet their children younger than 18 years residing in Sweden. 
 2. Expired passports issued by Sweden are accepted if accompanied by a valid national ID card or another valid form of identification document.
-3. Passengers entering or transiting through Sweden must have a negative COVID-19 antigen, LAMP, PCR or TMA test result. The test must have been taken at most 48 hours before arrival.
+3. Passengers entering or transiting through Sweden must have a negative COVID-19 test taken at most 48 hours before arrival. Tests accepted are: antigen, LAMP, PCR and TMA.
 - This does not apply to:
 - nationals and residents of Sweden;
 - passengers who arrive from or have transited through Denmark, Finland, Iceland or Norway;
