@@ -2,8 +2,10 @@ Published 23.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Czechia and their family members;
-- nationals of Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New Zealand, North Macedonia (Rep.), Serbia, Singapore, Thailand and USA;
-- nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, and Vatican City (Holy See);
+- nationals of Albania, Andorra, Australia, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, San Marino, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, USA or Vatican City (Holy See);
+- passengers with a Hong Kong (SAR China) passport;
+- passengers with a Macao (SAR China) passport;
+- passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport;
 - British nationals with a certificate of application for the status of UK-EU Withdrawal Agreement Beneficiary issued by Austria, Belgium, Denmark, Finland, France, Hungary, Latvia, Luxemburg, Malta, Netherlands, Romania, Slovenia and Sweden; and their family members;
 - passengers with a residence permit issued by Czechia;
 - passengers with a residence permit issued by Albania, Andorra, Australia, Austria, Belgium, Bulgaria, Chinese Taipei, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Monaco, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Serbia, Sweden, Switzerland, Thailand, USA and Vatican City (Holy See) if arriving from these countries;
