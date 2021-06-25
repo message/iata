@@ -12,7 +12,7 @@ Published 24.06.2021
 - residents of Schengen Member States returning directly via Switzerland to their country of residence.
 - passengers with a Schengen C visa issued by Switzerland after 16 March 2020;
 - unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship;
-- from 26 June 2021, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech;
+- from 26 June 2021, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech. More details can be found at <a href="https://tinyurl.com/c5z3z3sn">https://tinyurl.com/c5z3z3sn</a> ;
 - from 26 June 2021, unvaccinated passengers younger than 18 years if they are traveling with their fully-vaccinated guardians.
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.
 - This does not apply to:
