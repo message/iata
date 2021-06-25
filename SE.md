@@ -1,9 +1,9 @@
-Published 24.06.2021
+Published 25.06.2021
 1. Until 31 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Sweden and their family members. More details on family members can be found at: <a href="https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/">https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/</a> ;
 - passengers with a residence permit issued by Sweden;
-- British nationals and their family members with proof of having submitted an application for residence status in Sweden; 
+- British nationals and their family members with proof of having submitted an application for residence status in Sweden;
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Switzerland and Vatican City (Holy See) and their family members. More details on family members can be found at: <a href="https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/">https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/</a> ;
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Switzerland;
 - family members of passengers with a residence permit issued by Sweden. The residence permit must be issued with a validity of more than 3 months;
@@ -14,7 +14,8 @@ Published 24.06.2021
 - military personnel;
 - students;
 - passengers younger than 18 years traveling to meet a parent residing in Sweden, and accompanying persons;
-- parents traveling to meet their children younger than 18 years residing in Sweden. 
+- parents traveling to meet their children younger than 18 years residing in Sweden.
+- effective 30 June 2021, residents of Albania, Chinese Taipei, Hong Kong (SAR China), Lebanon, Macao (SAR China), North Macedonia (Rep.), Serbia and USA.
 2. Expired passports issued by Sweden are accepted if accompanied by a valid national ID card or another valid form of identification document.
 3. Passengers entering or transiting through Sweden must have a negative COVID-19 test taken at most 48 hours before arrival. Tests accepted are: antigen, LAMP, PCR and TMA.
 - This does not apply to:
