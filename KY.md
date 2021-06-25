@@ -11,5 +11,5 @@ This does not apply to:
 This does not apply to:
 - passengers younger than 10 years;
 - passengers with a COVID-19 vaccination certificate issued by the Cayman Islands HSA showing that they were fully vaccinated at least 2 weeks before departure.
-5. Passengers are subject to medical screening and quarantine for up to 14 days. More details can be found at <a href="https://www.exploregov.ky/faqs/covid-19-quarantine-info">https://www.exploregov.ky/faqs/covid-19-quarantine-info</a>
+5. Passengers are subject to medical screening and quarantine for up to 14 days. More details can be found at <a href="https://www.exploregov.ky/faqs/covid-19-quarantine-info">https://www.exploregov.ky/faqs/covid-19-quarantine-info</a> 
 
