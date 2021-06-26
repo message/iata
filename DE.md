@@ -1,4 +1,4 @@
-Published 25.06.2021
+Published 26.06.2021
 1. Passengers are not allowed to enter.
 1.1. This does not apply to:
 - nationals and residents of Germany;
@@ -57,4 +57,13 @@ The test result must be in English, French, German, Italian or Spanish.
 <a href="http://www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-entering-germany.html">www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-entering-germany.html</a> 
 - This does not apply to passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Namibia, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they were fully vaccinated at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
 10. More COVID-19 related information can be found at <a href="http://www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html">www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html</a> .
+11. Effective 29 June 2021, passengers arriving from Portugal or Russian Fed. are not allowed to enter.
+This does not apply to nationals and residents of Germany.
+12. Effective 29 June 2021, nationals and residents of Germany entering or transiting through Germany from Portugal or Russian Fed. must have:
+- a negative COVID-19 antigen test taken at most 24 hours before arrival; or
+- a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.
+The test result must be in English, French, German, Italian or Spanish.
+- This does not apply to:
+- passengers younger than 6 years;
+- passengers transiting through Germany to a non-Schengen Member State.
 

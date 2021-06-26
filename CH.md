@@ -1,29 +1,25 @@
-Published 24.06.2021
+Published 26.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
 - passengers with a D visa issued by Switzerland;
 - nationals of EEA Member States;
 - passengers arriving from Schengen Member States;
-- until 25 June 2021, passengers arriving from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Israel, Japan, Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
-- from 26 June 2021, passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport.
+- passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States. They must present proof of their relationship;
 - passengers with proof of being spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of residents of Switzerland who are passengers with "British Citizens" passports , "British Overseas Territories Citizens" passports issued by Gibraltar and "British Subjects" passports with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom;
 - residents of Schengen Member States returning directly via Switzerland to their country of residence.
 - passengers with a Schengen C visa issued by Switzerland after 16 March 2020;
 - unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship;
-- from 26 June 2021, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech. More details can be found at <a href="https://tinyurl.com/c5z3z3sn">https://tinyurl.com/c5z3z3sn</a> ;
-- from 26 June 2021, unvaccinated passengers younger than 18 years if they are traveling with their fully-vaccinated guardians.
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated before arrival. More details can be found at <a href="https://tinyurl.com/c5z3z3sn">https://tinyurl.com/c5z3z3sn</a> ;
+- unvaccinated passengers younger than 18 years if they are traveling with their fully-vaccinated guardians.
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.
 - This does not apply to:
 - nationals and residents of EEA Member States and Switzerland;
-- until 25 June 2021, passengers arriving directly from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Israel, Japan, Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
-- from 26 June 2021, passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
+- passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;
 - passengers with a D visa issued by a Schengen Member State they are traveling to;
-- passengers with a Schengen C visa issued by Switzerland after 16 March 2020;
-- until 25 June 2021, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated;
-- until 25 June 2021, unvaccinated passengers younger than 18 years if they are traveling with their fully-vaccinated guardians.
+- passengers with a Schengen C visa issued by Switzerland after 16 March 2020.
 3. Passengers must have:
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point. They are subject to a COVID-19 rapid antigen or PCR test upon arrival at their own expense.
