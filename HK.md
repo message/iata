@@ -1,4 +1,4 @@
-Published 25.06.2021
+Published 28.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -29,15 +29,15 @@ Published 25.06.2021
 - approved by the local government.
 All documents must be in Chinese or English.
 6. Passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Nepal, Pakistan, Philippines or South Africa for two hours or less must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> .
-7. Passengers who in the past 21 days have been in or transited through Ireland (Rep.) must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> .
+7. Passengers who in the past 21 days have been in or transited through Ireland (Rep.) or United Kingdom must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> .
 8. Passengers without a vaccination certificate showing that they were fully vaccinated at least 15 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> 
 - This does not apply to:
 - passengers who in the past 21 days have only been in Australia, Mainland of China, Macao SAR, China or New Zealand;
-- passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines or South Africa.
+- passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, South Africa or United Kingdom.
 9. Passengers with a vaccination certificate showing that they were fully vaccinated at least 15 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> 
 - This does not apply to:
 - passengers who in the past 21 days have only been in Australia, Mainland of China, Macao SAR, China or New Zealand;
-- passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines or South Africa.
+- passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, South Africa or United Kingdom.
 10. Passengers who in the past 21 days have only been in Australia or New Zealand must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> .
 - This does not apply to passengers with a vaccination certificate showing that they were fully vaccinated at least 15 days before arrival. They must have a hotel reservation confirmation for a minimum of 7 nights.
 11. Passengers and airline crew must complete a Health Declaration Form at <a href="https://www.chp.gov.hk/hdf/">https://www.chp.gov.hk/hdf/</a>. This will generate a QR code which must be presented upon arrival.
