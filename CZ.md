@@ -1,4 +1,4 @@
-Published 23.06.2021
+Published 28.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Czechia and their family members;
@@ -27,8 +27,8 @@ This does not apply to:
 - passengers younger than 6 years; 
 - nationals of Czechia with a service passport traveling on duty for a maximum stay of 72 hours;
 - passengers with a diplomatic passport traveling on duty for a maximum stay of 72 hours;
-- passengers arriving from Albania, Australia, Austria, Balearic Isl., Bulgaria, Chinese Taipei, Finland, Germany, Hong Kong (SAR China), Hungary, Iceland, Israel, Italy, Japan, Korea (Rep.), Lebanon, Liechtenstein, Macao (SAR China), Madeira, Malta, New Zealand, North Macedonia (Rep.), Norway, Poland, Romania, San Marino, Serbia, Singapore, Slovakia, Thailand, USA or Vatican City (Holy See). 
-4. Passengers arriving from Andorra, Belgium, Croatia, Cyprus, Denmark, Estonia, France, Greece, Ireland (Rep.), Latvia, Lithuania, Luxembourg, Monaco, Monaco, Portugal (including Azores Isl.), Slovenia, Sweden or Switzerland must have:
+- passengers arriving from Albania, Australia, Austria, Balearic Isl., Bulgaria, Chinese Taipei, Estonia, Finland, France, Germany, Hong Kong (SAR China), Hungary, Iceland, Israel, Italy, Japan, Korea (Rep.), Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Madeira, Malta, New Zealand, North Macedonia (Rep.), Norway, Poland, Romania, San Marino, Serbia, Singapore, Slovakia, Thailand, USA or Vatican City (Holy See).
+4. Passengers arriving from Andorra, Belgium, Croatia, Cyprus, Denmark, Estonia, France, Greece, Ireland (Rep.), Latvia, Lithuania, Luxembourg, Netherlands, Monaco, Portugal, Slovenia, Spain, Sweden or Switzerland must have:
 - a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point; or 
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
