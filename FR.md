@@ -4,7 +4,7 @@ Published 25.06.2021
 - nationals of France, their spouses and children;
 - nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and an EEA Member State and their spouses and children;
 - British nationals who are beneficiaries of the Agreement on withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, and their family members. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, India, Maldives, Namibia, Nepal, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname or Uruguay;
-- passengers arriving from Albania, Andorra, Australia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Netherlands, New-Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Vanuatu or Vatican City (Holy See);
+- passengers arriving from Albania, Andorra, Australia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Netherlands, New-Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Vanuatu or Vatican City (Holy See). They must have not been outside these countries in the past 14 days;
 - passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;
 - merchant seamen;
 - students. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, India, Maldives, Namibia, Nepal, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname or Uruguay;
@@ -14,7 +14,7 @@ Published 25.06.2021
 - the first vaccine dose of Janssen at least 28 days before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19;
-- More exemptions can be found at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a>
+- More exemptions can be found at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a> 
 2. Passengers arriving from red list countries: Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, India, Maldives, Namibia, Nepal, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname or Uruguay must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 11 years;
@@ -39,19 +39,19 @@ Published 25.06.2021
 - the first vaccine dose of Janssen at least 28 days before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19.
-5. All passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a>
+5. All passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a> 
 - This does not apply to deadheading crew.
-6. Passengers entering or transiting through France from amber and red list countries must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a>
+6. Passengers entering or transiting through France from amber and red list countries must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a> 
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, India, Maldives, Namibia, Nepal, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname or Uruguay, and the certificate must state they received:
 - the first vaccine dose of Janssen at least 28 days before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19.
-7. Passengers could be subject to a COVID-19 test upon arrival. More details can be found at <a href="https://tinyurl.com/4wtws28x">https://tinyurl.com/4wtws28x</a>
+7. Passengers could be subject to a COVID-19 test upon arrival. More details can be found at <a href="https://tinyurl.com/4wtws28x">https://tinyurl.com/4wtws28x</a> 
 8. Passengers could be subject to self-isolation or quarantine for up to 10 days.
 - This does not apply to passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, India, Maldives, Namibia, Nepal, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname or Uruguay, and the certificate must state they received:
 - the first vaccine dose of Janssen at least 28 days before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19.
-More exemptions can be found at <a href="https://tinyurl.com/4wtws28x">https://tinyurl.com/4wtws28x</a>
+More exemptions can be found at <a href="https://tinyurl.com/4wtws28x">https://tinyurl.com/4wtws28x</a> 
 
