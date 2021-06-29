@@ -17,5 +17,5 @@ Published 28.06.2021
 4. Passengers could be subject to a COVID-19 test upon arrival. The test must be booked before arrival. Details can be found at <a href="http://www.visitgibraltar.gi/covid-19">www.visitgibraltar.gi/covid-19</a> .
 5. Passengers could be subject to self-isolation for up to 10 days.
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with Janssen at least 2 weeks before departure, or fully vaccinated with AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech. They must update the vaccination certificate on the passenger locator form;
-- More exemptions can be found at <a href="http://www.visitgibraltar.gi/covid-19">www.visitgibraltar.gi/covid-19</a>
+- More exemptions can be found at <a href="http://www.visitgibraltar.gi/covid-19">www.visitgibraltar.gi/covid-19</a> 
 
