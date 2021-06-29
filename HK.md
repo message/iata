@@ -1,4 +1,4 @@
-Published 28.06.2021
+Published 29.06.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -50,4 +50,6 @@ All documents must be in Chinese or English.
 - a negative COVID-19 nucleic acid test result issued at most 48 hours before departure, and
 - an approval letter from the Marine Department, and
 - a letter of certification to Department of Health from Hong Kong.
+18. Effective 1 July 2021, passengers who in the past 21 days have been in or transited through United Kingdom for more than 2 hours are not allowed to enter.
+- This does not apply to merchant seamen.
 
