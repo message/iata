@@ -1,4 +1,4 @@
-Published 29.06.2021
+Published 30.06.2021
 1. Until 3 July 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
@@ -21,16 +21,17 @@ More details can be found at <a href="https://travel.gov.gr/">https://travel.gov
 All documents must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> 
 - This does not apply to:
 - passengers younger than 12 years;
-- nationals and residents of Montenegro;
-- effective 30 June 2021, nationals and residents of Russian Fed.
+- nationals of Montenegro and Russian Fed.;
+- residents of Montenegro and Russian Fed.
 4. Nationals and residents of Montenegro must have:
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival. The test result must be in English, French, German, Greek, Italian, Spanish or Russian. The passenger's name in the test result must match the name in the passport; and
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be in English, French, German, Greek, Italian, Spanish or Russian. Details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> 
 - This does not apply to passengers younger than 12 years.
-5. Effective 30 June 2021, nationals and residents of Russian Fed. must have:
+5. Nationals and residents of Russian Fed. must have:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival.
 They are also subject to an antigen or PCR test upon arrival.
+The test result must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> .
 - This does not apply to passengers younger than 12 years.
 6. Passengers could be subject to a COVID-19 rapid test upon arrival.
 7. Passengers could be subject to self-isolation for up to 10 days. Details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> 

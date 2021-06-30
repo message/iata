@@ -1,4 +1,4 @@
-Published 24.06.2021 
+Published 30.06.2021 
 1. Until 1 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Azerbaijan;
@@ -10,7 +10,7 @@ Published 24.06.2021
 - stateless persons with a document proving purchase of a ticket for the European Football Championship 2021 matches in Baku. They must be permanent residents of the countries represented by the football teams participating in the matches held in Baku. 
 2. Passengers must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Azerbaijan.
 - This does not apply to passengers younger than 1 year.
-3. British nationals and nationals of Bahrain, Israel, Qatar, Russian Fed., Turkey, USA and United Arab Emirates must have a COVID-19 vaccination certificate showing that they were fully vaccinated; or
+3. British nationals and nationals of Bahrain, Hungary, Israel, Qatar, Russian Fed., Turkey, USA and United Arab Emirates must have a COVID-19 vaccination certificate showing that they were fully vaccinated; or
 - a COVID-19 recovery certificate.
-This does not apply to passengers younger than 18 years.
+- This does not apply to passengers younger than 18 years.
 
