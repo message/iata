@@ -14,7 +14,7 @@ This does not apply to:
 - passengers with a COVID-19 recovery certificate issued at most 6 months before arrival;
 - merchant seamen.
 5. Passengers arriving from a country other than Egypt, Iran, Singapore or the United Kingdom, could be subject to a PCR test at their final destination in Turkey.
-6. Until 14 September 2021, a completed "Traveler Entry Form" must be presented at check-in and upon arrival. The form can be obtained at <a href="https://register.health.gov.tr">https://register.health.gov.tr</a>
+6. Until 14 September 2021, a completed "Traveler Entry Form" must be presented at check-in and upon arrival. The form can be obtained at <a href="https://register.health.gov.tr">https://register.health.gov.tr</a> 
 - This does not apply to passengers younger than 6 years.
 7. Passengers could be subject to quarantine for up to 14 days at their own expense; details can be found at <a href="https://www.hssgm.gov.tr/Covid19Tedbirleri">https://www.hssgm.gov.tr/Covid19Tedbirleri</a> .
 8. Diplomatic and official passports issued to nationals of North Macedonia (Rep.) which expired on 31 July 2020 or later are considered valid until 31 December 2021.

@@ -26,7 +26,7 @@ Published 27.06.2021
 - This does not apply to:
 - passengers younger than 16 or 12 years, depending on their country of departure. Details can be found at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> ;
 - passengers with a positive COVID-19 test result of a test taken in the past 6 months. They must also have a recovery certificate;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated before arrival. More details can be found at <a href="https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412">https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412</a> ;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. More details can be found at <a href="https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412">https://www.bazl.admin.ch/bazl/en/home/good-to-know/air-passenger-rights/coronavirus.html#accordion_16682954201622213736412</a> ;
 - nationals and residents of Switzerland with no possibility of getting tested in the departure country. They must complete a self-declaration form obtained at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> . They are subject to a COVID-19 test upon arrival;
 - more exemptions can be found at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> 
 4. Passengers must:
