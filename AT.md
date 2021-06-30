@@ -1,5 +1,5 @@
 Published 24.06.2021
-1. Until 30 June 2021, passengers are not allowed to enter.
+1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and persons living in the same household;
 - residents of Austria and persons living in the same household;
