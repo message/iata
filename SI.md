@@ -1,5 +1,5 @@
 Published 09.06.2021
-- Passengers could be subject to quarantine for 10 days. Details can be found at <a href="https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/">https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/</a> 
+Passengers could be subject to quarantine for 10 days. Details can be found at <a href="https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/">https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/</a> 
 - This does not apply to:
 - passengers with a negative COVID-19 PCR test taken at most 48 hours before arrival. The test must be taken in an international transit area of an airport; or
 - in Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, New Zealand, Netherlands, Norway, Poland, Portugal, Romania, Russian Fed., Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom or USA. 

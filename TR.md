@@ -1,5 +1,5 @@
-Published 29.06.2021
-1. Effective 30 June 2021, flights from Bangladesh, Brazil, India, Nepal, South Africa and Sri Lanka are suspended.
+Published 30.06.2021
+1. Flights from Bangladesh, Brazil, India, Nepal, South Africa and Sri Lanka are suspended.
 2. Until 31 July 2021, passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival, if in the past 14 days they have been in Afghanistan, Bangladesh, Brazil, India, Nepal, Pakistan, South Africa or Sri Lanka.
 - This does not apply to passengers younger than 6 years.
 3. Until 31 July 2021, passengers arriving from Egypt, Iran, Singapore or the United Kingdom must have a negative COVID-19 PCR test taken at most 72 hours before arrival.

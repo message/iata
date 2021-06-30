@@ -1,4 +1,4 @@
-Published 21.06.2021
+Published 30.06.2021
 1. Until 11 July 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Finland and their family members;
@@ -9,7 +9,8 @@ Published 21.06.2021
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival; or
 - a COVID-19 vaccination certificate showing that they received the first dose of the vaccine and a positive COVID-19 test result issued at most 6 months before arrival; or
 - a COVID-19 recovery certificate. The passenger must have tested positive at least 2 weeks and at most 6 months before arrival;
-- residents of Australia, Israel, Korea (Rep.), New Zealand, Rwanda and Singapore, when arriving on a direct flight from Australia, Israel, Korea (Rep.), New Zealand, Rwanda or Singapore;
+- until 30 June 2021, residents of Australia, Israel, Korea (Rep.), New Zealand, Rwanda and Singapore, when arriving on a direct flight from Australia, Israel, Korea (Rep.), New Zealand, Rwanda or Singapore;
+- from 1 July 2021, residents of Albania, Australia, Chinese Taipei, (Hong Kong SAR China), Israel, Korea (Rep.), Lebanon, Macao (SAR China), New Zealand, North Macedonia (Rep.) and Singapore, if arriving on a direct flight from Albania, Australia, Chinese Taipei, (Hong Kong SAR China), Israel, Korea (Rep.), Lebanon, Macao (SAR China), New Zealand, North Macedonia (Rep.) or Singapore;
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and their family members, returning to their country of residence via Finland;
 - British nationals and their family members residing in Finland;
 - passengers studying in Finland, if arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden or Switzerland;
