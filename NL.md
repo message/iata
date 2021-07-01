@@ -1,4 +1,4 @@
-Published 30.06.2021
+Published 01.07.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of the Netherlands;
@@ -13,7 +13,7 @@ This does not apply to:
 - military personnel;
 - students with a proof of admission to a course of study;
 - partners with a completed "Declaration of relationship for COVID-19 entry ban exemption" form, a return onward ticket and proof that they have been in a relationship for at least 3 months with a resident of the Netherlands who is a national of an EEA Member State or Switzerland. As well as accompanying children of the partner who are younger than 18 years. More details can be found at <a href="https://tinyurl.com/25s9p98h">https://tinyurl.com/25s9p98h</a> ;
-- effective 1 July 2021, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. They must be arriving from a country other than Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, French Guiana, Guyana, India, Maldives, Myanmar, Nepal, Pakistan, Panama, Paraguay, Peru, Seychelles, South Africa, Suriname, United Kingdom, Uruguay or Venezuela.
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. They must be arriving from a country other than Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, French Guiana, Guyana, India, Maldives, Myanmar, Nepal, Pakistan, Panama, Paraguay, Peru, Seychelles, South Africa, Suriname, United Kingdom, Uruguay or Venezuela.
 2. Passengers are not allowed to transit through the Netherlands to Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) as final destination.
 This does not apply to:
 - nationals and residents of the Netherlands;
@@ -29,7 +29,7 @@ This does not apply to:
 - passengers with a visa issued on or after 19 March 2020 by the country of final destination;
 - merchant seamen;
 - military personnel;
-- effective 1 July 2021, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. They must be arriving from a country other than Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, French Guiana, Guyana, India, Maldives, Myanmar, Nepal, Pakistan, Panama, Paraguay, Peru, Seychelles, South Africa, Suriname, United Kingdom, Uruguay or Venezuela.
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. They must be arriving from a country other than Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, French Guiana, Guyana, India, Maldives, Myanmar, Nepal, Pakistan, Panama, Paraguay, Peru, Seychelles, South Africa, Suriname, United Kingdom, Uruguay or Venezuela.
 3. Passengers must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA.
 This does not apply to:
 - passengers younger than 13 years;
@@ -44,7 +44,7 @@ This does not apply to:
 - a positive COVID-19 NAAT test result taken at least 2 weeks and at most 8 weeks before arrival; and
 - a positive COVID-19 NAAT test result taken at most 72 hours before arrival; and
 - a medical certificate specifying that the passenger is not COVID-19 contagious issued at most 72 hours before departure;
-- passengers arriving from Albania, Aruba, Australia, Austria, Belgium (excluding Brussels-Capital region), Bonaire, St. Eustatius and Saba, Bulgaria, China (People's Rep.), Chinese Taipei, Croatia, Curacao, Cyprus, Czechia, Estonia, Finland, France, Germany, Greece (excluding Athens), Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Lebanon, Liechtenstein, Lithuania, Luxembourg, Korea (Rep.), Macao (SAR China), Malta, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, Rwanda, San Marino, Serbia, Singapore, Slovakia, Slovenia, Spain (the Balearic and Canary Islands), St. Maarten, Switzerland, Thailand, USA or Vatican City (Holy See);
+- passengers arriving from Albania, Aruba, Australia, Austria, Belgium, Bonaire, St. Eustatius and Saba, Bulgaria, China (People's Rep.), Chinese Taipei, Croatia, Curacao, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Korea (Rep.), Macao (SAR China), Malta, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal (excluding Area Metropolitana de Lisboa), Romania, Rwanda, San Marino, Serbia, Singapore, Slovakia, Slovenia, Spain (the Balearic and Canary Islands), St. Maarten, Sweden, Switzerland, Thailand, USA or Vatican City (Holy See);
 - passengers arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela.
 4. Passengers arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela must have:
 - a negative COVID-19 test taken at most 24 hours before boarding the flight of the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
