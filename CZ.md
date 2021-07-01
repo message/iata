@@ -20,7 +20,7 @@ This does not apply to:
 - passengers with a permanent residence permit issued by Czechia;
 - passengers with a residence permit issued by Czechia and who are spouses or children younger than 21 years of nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, and Vatican City (Holy See) with a temporary residence permit issued by Czechia; 
 - passengers with a diplomatic passport traveling on duty for a maximum stay of 72 hours.
-3. Passengers must complete a "Passenger Locator Form" before boarding. The form can be found at <a href="http://www.prijezdovyformular.cz/">http://www.prijezdovyformular.cz/</a>
+3. Passengers must complete a "Passenger Locator Form" before boarding. The form can be found at <a href="http://www.prijezdovyformular.cz/">http://www.prijezdovyformular.cz/</a> 
 - This does not apply to:
 - passengers younger than 6 years; 
 - nationals of Czechia with a service passport traveling on duty for a maximum stay of 72 hours;
