@@ -1,4 +1,4 @@
-Published 21.06.2021
+Published 01.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Chinese Taipei travel document;
@@ -19,8 +19,8 @@ Tests accepted are: LAMP, NAAT, PCR, RNA, RT-LAMP and RT-PCR. Details can be fou
 - are subject to an RT-PCR test upon arrival at their own expense. 
 Tests accepted are: LAMP, NAAT, PCR, RNA, RT-LAMP and RT-PCR. Details can be found at <a href="https://www.cdc.gov.tw/Category/MPage/XQ9r73gXAgEfJZV9zm6gaA">https://www.cdc.gov.tw/Category/MPage/XQ9r73gXAgEfJZV9zm6gaA</a> .
 6. A completed "Quarantine System for Entry Form" must be submitted before departure at <a href="https://hdhq.mohw.gov.tw/">https://hdhq.mohw.gov.tw/</a> 
-7. Passengers must:
-- have a confirmed booking of quarantine facility or hotel; or
-- present a completed affidavit obtained before departure at <a href="https://hdhq.mohw.gov.tw/">https://hdhq.mohw.gov.tw/</a> or upon arrival, if they quarantine at home.
-8. Passengers are subject to quarantine for 14 days.
+7. Passengers arriving from a country other than Bangladesh, Brazil, India, Indonesia, Israel, Peru or United Kingdom must have a confirmed booking of quarantine facility or hotel.
+8. Passengers arriving from Bangladesh, Brazil, India, Indonesia, Israel, Peru or United Kingdom are subject to a COVID-19 PCR test upon arrival and another test at the end of quarantine.
+9. Passengers are subject to quarantine for 14 days and a COVID-19 PCR test at the end of quarantine.
+10. Airline crew arriving from Bangladesh, Brazil, India, Indonesia, Israel, Peru or United Kingdom are subject to quarantine for 14 days and a COVID-19 PCR test at the end of quarantine.
 
