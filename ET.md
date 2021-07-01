@@ -1,4 +1,4 @@
-Published 30.06.2020
+Published 30.06.2021
 1. Passengers must have a medical certificate with a negative Coronavirus (COVID-19) RT-PCR test result. The test must have been taken at most 120 hours before arrival.
 - This does not apply to:
 - passengers younger than 10 years;

@@ -1,4 +1,4 @@
-Published 20.05.2021
+Published 01.07.2021
 1. Passengers arriving from Brazil, India or South Africa are not allowed to enter.
 - This does not apply to nationals of Kosovo (Rep.).
 2. Passengers arriving from Argentina, Canada, Costa Rica, Croatia, Cyprus, France, French Guiana, Germany, Lithuania, Mongolia, Netherlands, Sweden, Turkey or Uruguay must have a negative COVID-19 RT-PCR test taken at most 72 hours before arrival.
@@ -6,6 +6,7 @@ Published 20.05.2021
 - nationals of Kosovo (Rep.);
 - passengers with a COVID-19 vaccination certificate;
 - passengers traveling through Kosovo (Rep.) to a third country. They must leave Kosovo (Rep.) within 3 hours.
-3. Passengers could be subject to quarantine for 7 or 14 days.
-4. Passengers are subject to medical screening.
+3. Nationals of Kosovo (Rep.) arriving from Brazil, India or South Africa must have a negative COVID-19 RT-PCR test taken at most 72 hours before arrival.
+4. Passengers could be subject to quarantine for 7 or 14 days.
+5. Passengers are subject to medical screening.
 

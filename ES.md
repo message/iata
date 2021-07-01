@@ -12,7 +12,6 @@ This does not apply to:
 - passengers who are unmarried partners of nationals of Spain. They must have a confirmation of their relationship issued by a consulate of Spain;
 - passengers older than 11 years with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival. They must be arriving from a country other than Brazil or South Africa;
 - passengers younger than 12 years traveling with their parents who have been fully vaccinated;
-- participants of the Mobile World Congress (MWC21) or "Asociacion de Programas Norteamericanos en Espana" (APUNE) with an invitation letter;
 - students with proof of being enrolled in a course in Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland. They must:
 - have a medical insurance; and
 - be traveling to the country where they study, at most 15 days before the start of the course;

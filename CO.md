@@ -1,5 +1,5 @@
 Published 07.06.2021
-1. Until 30 June 2021, passengers who have been in or transited through India in the past 14 days are not allowed to enter.
+1. Passengers who have been in or transited through India in the past 14 days are not allowed to enter.
 This does not apply to:
 - nationals and residents of Colombia;
 - passengers with a diplomatic passport and their family members;

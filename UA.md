@@ -1,4 +1,4 @@
-Published 18.06.2021
+Published 01.07.2021
 1. Passengers must have:
 - a negative COVID-19 antigen rapid test or a PCR test issued at most 72 hours before arrival; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
@@ -14,4 +14,5 @@ This does not apply to:
 - passengers with a diplomatic passport;
 - merchant seamen;
 - NATO military personnel.
+3. Effective 2 July 2021, passengers arriving from or who have stayed at least seven days in the past 14 days in India, Portugal, Russian Fed. or United Kingdom could be subject to self-isolation.
 
