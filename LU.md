@@ -1,4 +1,4 @@
-Published 01.07.2021
+Published 02.07.2021
 1. Until 30 September 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -26,5 +26,6 @@ The test result must be in English, French, German, Italian, Luxembourgish, Port
 - passengers with a COVID-19 recovery certificate issued by Switzerland or an EEA Member State. The passenger must have tested positive at most 6 months before arrival;
 - passengers with a COVID-19 vaccination certificate issued in Switzerland or an EEA Member State showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech;
 - passengers with a COVID-19 vaccination certificate issued in Switzerland or an EEA Member State showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before departure and at most 180 days after they were tested positive.
-3. Until 15 July 2021, passengers could be subject to quarantine for up to 14 days.
+3. Until 15 July 2021, passenger who in the past 14 days have been in India or United Kingdom are subject to a COVID-19 LAMP, PCR or TMA test upon arrival.
+4. Until 15 July 2021, passengers could be subject to quarantine for up to 14 days; details can be found at <a href="https://covid19.public.lu/en/travellers/visiting-luxembourg.html">https://covid19.public.lu/en/travellers/visiting-luxembourg.html</a> .
 

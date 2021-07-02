@@ -4,7 +4,7 @@ Published 02.07.2021
 - passengers younger than 12 years;
 - passengers with a COVID-19 vaccination certificate showing they were fully vaccinated. The vaccination certificate must have a QR code or be issued by a Ministry of Health;
 - passengers with a COVID-19 recovery certificate. The passenger must have tested positive at least 6 weeks before arrival. 
-2. Passengers entering or transiting through Tunisia must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must have a QR code and must be in Arabic, English or French.
+2. Passengers entering or transiting through Tunisia must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must have a QR code or be issued by a Ministry of Health and must be in Arabic, English or French.
 - This does not apply to:
 - passengers younger than 12 years;
 - until 2 July 2021, passengers with a COVID-19 vaccination certificate showing they were fully vaccinated. The vaccination certificate must have a QR code or be issued by a Ministry of Health;
