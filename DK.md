@@ -1,4 +1,4 @@
-Published 01.07.2021
+Published 02.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals or residents of Denmark;
@@ -27,6 +27,5 @@ Published 01.07.2021
 - must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must be in English or German. Details can be found at <a href="https://visitgreenland.com/corona-faq/">https://visitgreenland.com/corona-faq/</a> ; and
 - must have a Personal Location Form (SUMUT) obtained before departure at <a href="https://sumut2020.gl/Instructions/EditInstructions">https://sumut2020.gl/Instructions/EditInstructions</a> ; and
 - could be subject to a COVID-19 test upon arrival and quarantine. Details can be found at <a href="https://visitgreenland.com/corona-faq/">https://visitgreenland.com/corona-faq/</a> .
-6. Flights from Iceland to Greenland are suspended.
-7. For more information, please refer to the website <a href="https://coronasmitte.dk/en/entry-into-denmark">https://coronasmitte.dk/en/entry-into-denmark</a> and <a href="https://en.coronasmitte.dk/covidtravelrules/">https://en.coronasmitte.dk/covidtravelrules/</a> .
+6. For more information, please refer to the website <a href="https://coronasmitte.dk/en/entry-into-denmark">https://coronasmitte.dk/en/entry-into-denmark</a> and <a href="https://en.coronasmitte.dk/covidtravelrules/">https://en.coronasmitte.dk/covidtravelrules/</a> .
 

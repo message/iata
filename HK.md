@@ -1,4 +1,4 @@
-Published 01.07.2021
+Published 02.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -30,23 +30,26 @@ Published 01.07.2021
 All documents must be in Chinese or English.
 6. Passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Nepal, Pakistan, Philippines, South Africa or United Kingdom for two hours or less must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> .
 7. Passengers who in the past 21 days have been in or transited through Ireland (Rep.) must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> .
-8. Passengers without a vaccination certificate showing that they were fully vaccinated at least 15 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> 
+8. Passengers without a vaccination certificate showing that they were fully vaccinated at least 14 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> 
 - This does not apply to:
 - passengers who in the past 21 days have only been in Australia, Mainland of China, Macao SAR, China or New Zealand;
 - passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, South Africa or United Kingdom.
-9. Passengers with a vaccination certificate showing that they were fully vaccinated at least 15 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> 
+9. Passengers with a vaccination certificate showing that they were fully vaccinated at least 14 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> 
 - This does not apply to:
 - passengers who in the past 21 days have only been in Australia, Mainland of China, Macao SAR, China or New Zealand;
 - passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, South Africa or United Kingdom.
 10. Passengers who in the past 21 days have only been in Australia or New Zealand must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> .
-- This does not apply to passengers with a vaccination certificate showing that they were fully vaccinated at least 15 days before arrival. They must have a hotel reservation confirmation for a minimum of 7 nights.
-11. Passengers and airline crew must complete a Health Declaration Form at <a href="https://www.chp.gov.hk/hdf/">https://www.chp.gov.hk/hdf/</a>. This will generate a QR code which must be presented upon arrival.
-12. Passengers and airline crew are subject to a COVID-19 test upon arrival. Details can be found at <a href="https://www.coronavirus.gov.hk/eng/inbound-travel.html">https://www.coronavirus.gov.hk/eng/inbound-travel.html</a> .
-13. Passengers are subject to medical screening upon arrival and quarantine for up to 21 days. More details can be found at <a href="https://www.coronavirus.gov.hk/eng/inbound-travel.html">https://www.coronavirus.gov.hk/eng/inbound-travel.html</a> .
-14. Airline crew must have a negative COVID-19 nucleic acid test result issued at most 48 hours before departure.
-15. Airline crew are subject to medical screening upon arrival and self-isolation in a hotel.
-16. Airline crew who have been in or transited through Brazil, India, Indonesia, Nepal, Pakistan, Philippines, South Africa or United Kingdom in the past 21 days are subject to quarantine for 21 days.
-17. Merchant seamen must have:
+- This does not apply to passengers with a vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. They must have a hotel reservation confirmation for a minimum of 7 nights.
+11. Passengers who in the past 14 days have not been in or transited through Australia, Brazil, India, Indonesia, Ireland (Rep.), Nepal, New Zealand, Pakistan, Philippines, South Africa and United Kingdom must have a hotel reservation confirmation in Chinese or English for a minimum of 7 nights, if they have:
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; and
+- a positive COVID-19 serology antibody test taken in the past 3 months by a laboratory listed on <a href="https://www.coronavirus.gov.hk/pdf/List_of_local_antibodytesting.pdf">https://www.coronavirus.gov.hk/pdf/List_of_local_antibodytesting.pdf</a> .
+12. Passengers and airline crew must complete a Health Declaration Form at <a href="https://www.chp.gov.hk/hdf/">https://www.chp.gov.hk/hdf/</a>. This will generate a QR code which must be presented upon arrival.
+13. Passengers and airline crew are subject to a COVID-19 test upon arrival. Details can be found at <a href="https://www.coronavirus.gov.hk/eng/inbound-travel.html">https://www.coronavirus.gov.hk/eng/inbound-travel.html</a> .
+14. Passengers are subject to medical screening upon arrival and quarantine for up to 21 days. More details can be found at <a href="https://www.coronavirus.gov.hk/eng/inbound-travel.html">https://www.coronavirus.gov.hk/eng/inbound-travel.html</a> .
+15. Airline crew must have a negative COVID-19 nucleic acid test result issued at most 48 hours before departure.
+16. Airline crew are subject to medical screening upon arrival and self-isolation in a hotel.
+17. Airline crew who have been in or transited through Brazil, India, Indonesia, Nepal, Pakistan, Philippines, South Africa or United Kingdom in the past 21 days are subject to quarantine for 21 days.
+18. Merchant seamen must have:
 - a negative COVID-19 nucleic acid test result issued at most 48 hours before departure, and
 - an approval letter from the Marine Department, and
 - a letter of certification to Department of Health from Hong Kong.
