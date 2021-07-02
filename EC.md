@@ -3,14 +3,14 @@ Published 02.07.2021
 - a negative COVID-19 antigen or RT-PCR test taken at most 72 hours before departure; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure; or
 - a COVID-19 recovery certificate.
-Handwritten tests and certificates are not accepted.
+Handwritten tests and recovery certificates are not accepted.
 - This does not apply to:
 - passengers younger than 2 years;
 - passengers arriving from or who have transited through Brazil.
 2. Passengers arriving from or who have transited through Brazil must have:
 - a negative COVID-19 antigen or RT-PCR test taken at most 72 hours before departure; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure.
-Handwritten tests and certificates are not accepted.
+Handwritten tests and recovery certificates are not accepted.
 - This does not apply to passengers younger than 2 years.
 3. Passengers could be subject to a COVID-19 antigen test upon arrival.
 - This does not apply to passengers younger than 14 years.

@@ -1,4 +1,4 @@
-Published 28.06.2021
+Published 02.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
@@ -34,8 +34,8 @@ Published 28.06.2021
 - This does not apply to:
 - passengers residing in Belgium;
 - passengers younger than 6 years;
-- passengers arriving from Albania, Australia, Bulgaria, Chinese Taipei, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Malta, Monaco, New Zealand, North Macedonia (Rep.), Portugal, Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See); 
-- passengers arriving from specific regions of Austria, Czechia, Denmark, Finland, France, Greece, Italy, Norway, Poland, Spain or Switzerland. Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a> 
+- passengers arriving from Albania, Australia, Bulgaria, Chinese Taipei, Croatia, Czechia, Estonia, Finland, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Israel, Japan, Korea (Rep.), Lithuania, Luxembourg, Lebanon, Macao (SAR China), Malta, New Zealand, North Macedonia (Rep.), Poland, Romania, Rwanda, San Marino, Serbia, Singapore, Slovakia, Switzerland, Thailand, USA or Vatican City (Holy See);
+- passengers arriving from specific regions of Austria, Czechia, Denmark, France, Greece, Italy, Netherlands, Norway, Poland, Portugal, Spain, Sweden. Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a>
 6. A completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a> or <a href="https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM_PassengerLocatorForm_ENG.pdf">https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM_PassengerLocatorForm_ENG.pdf</a> 
 7. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a> 
 8. Passengers are subject to medical screening.
