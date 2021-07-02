@@ -1,4 +1,4 @@
-Published 28.06.2021
+Published 02.07.2021
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
@@ -8,7 +8,7 @@ Published 28.06.2021
 - This does not apply to passengers (except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with an approval letter from the Safe Travel Office (STO), Ministry of Foreign Affairs (MFA), Ministry of Education (MOE), Ministry of Health (MOH), or Ministry of Trade and Industry (MTI).
 - This does not apply to passengers (except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with a Business Travel Pass (BTP) or a Pre-Approved Business Pass (PBP).
 - This does not apply to passengers with an Air Travel Pass approval letter issued by Singapore if they:
-- have stayed in Australia (excluding New South Wales), Brunei Darussalam, China (People's Rep.) (excluding Guangdong province) or New Zealand in the last 21 days before departure; and
+- have stayed in Brunei Darussalam, China (People's Rep.) or New Zealand in the last 21 days before departure; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor).
 - This does not apply to residents of Brunei Darussalam if they:
 - have a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane; and
