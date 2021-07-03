@@ -1,4 +1,4 @@
-Published 21.06.2021
+Published 03.07.2021
 1. Nationals and residents of Montenegro without:
 - a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test result issued at most 48 hours before arrival; or
@@ -8,7 +8,7 @@ Published 21.06.2021
 This does not apply to:
 - passengers younger than 5 years;
 - passengers with a COVID-19 vaccination certificate issued in Hungary, and their accompanying minors younger than 18 years;
-- passengers who in the past 15 days have only been in Albania, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Kazakhstan, Kosovo (Rep.), Latvia, Lithuania, Luxembourg, Malta, Moldova (Rep.), Netherlands, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, Russian Fed., Serbia, Slovakia, Slovenia, Spain Sweden, Switzerland or Ukraine.
+- passengers who in the past 15 days have only been in Albania, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Kazakhstan, Kosovo (Rep.), Latvia, Lithuania, Luxembourg, Malta, Moldova (Rep.), Netherlands, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, Russian Fed., Serbia, Slovakia, Slovenia, Spain Sweden, Switzerland, USA or Ukraine.
 2. Passengers must have:
 - a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test result issued at most 48 hours before arrival; or
@@ -19,5 +19,5 @@ This does not apply to:
 - nationals and residents of Montenegro;
 - passengers younger than 5 years;
 - passengers with a COVID-19 vaccination certificate issued in Hungary, and their accompanying minors younger than 18 years;
-- passengers who in the past 15 days have only been in Albania, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Kazakhstan, Kosovo (Rep.), Latvia, Lithuania, Luxembourg, Malta, Moldova (Rep.), Netherlands, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, Russian Fed., Serbia, Slovakia, Slovenia, Spain Sweden, Switzerland or Ukraine.
+- passengers who in the past 15 days have only been in Albania, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Kazakhstan, Kosovo (Rep.), Latvia, Lithuania, Luxembourg, Malta, Moldova (Rep.), Netherlands, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, Russian Fed., Serbia, Slovakia, Slovenia, Spain Sweden, Switzerland, USA or Ukraine.
 
