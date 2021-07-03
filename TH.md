@@ -29,15 +29,15 @@ Published 01.07.2021
 9. Passengers are subject to medical screening.
 10. Passengers are subject to quarantine for a minimum of 14 days at their own expense. They must have a confirmed hotel reservation.
 - This does not apply to:
- - nationals of Thailand.;
- - passengers traveling to Phuket (HKT) with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covidshield, Janssen, Moderna , Pfizer-BioNTech, Sinopharm and Sinovac.
+- nationals of Thailand.;
+- passengers traveling to Phuket (HKT) with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covidshield, Janssen, Moderna , Pfizer-BioNTech, Sinopharm and Sinovac.
 11. Nationals of Thailand are subject to quarantine for a minimum of 14 days.
- - This does not apply when traveling to Phuket (HKT) with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covidshield, Janssen, Moderna , Pfizer-BioNTech, Sinopharm and Sinovac. 
+- This does not apply when traveling to Phuket (HKT) with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covidshield, Janssen, Moderna , Pfizer-BioNTech, Sinopharm and Sinovac. 
 12. Airline crew are subject to self-isolation until their next flight.
 13. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-.
 14. Passengers traveling to Phuket (HKT) when arriving from Albania, Andorra, Antigua and Barbuda, Australia, Austria, Azerbaijan, Bahrain, Barbados, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Dominic, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Luxembourg, Macao (SAR China), Malta, Mauritius, Monaco, Morocco, Myanmar, Netherlands New Zealand, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, USA, United Arab Emirates, United Kingdom or Vietnam: - are subject to a COVID-19 RT-PCR test upon arrival; and
 - must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covidshield, Janssen, Moderna , Pfizer-BioNTech, Sinopharm and Sinovac.
 - This does not apply to:
- - passengers younger than 6 years; 
- - passengers younger than 18 years traveling with their fully vaccinated parents.
+- passengers younger than 6 years; 
+- passengers younger than 18 years traveling with their fully vaccinated parents.
 

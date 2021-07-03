@@ -1,20 +1,16 @@
-Published 02.07.2021
-1. Passengers must complete a Health Declaration form before departure at <a href="https://app.e7mi.tn">https://app.e7mi.tn</a> . This will generate 2 documents which must be signed, printed and presented prior to boarding and to immigration upon arrival. 
+Published 03.07.2021
+1. Passengers must complete a Health Declaration form before departure at <a href="https://app.e7mi.tn">https://app.e7mi.tn</a> . This will generate 2 documents which must be signed, printed and presented prior to boarding and to immigration upon arrival.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with a COVID-19 vaccination certificate showing they were fully vaccinated. The vaccination certificate must have a QR code or be issued by a Ministry of Health;
-- passengers with a COVID-19 recovery certificate. The passenger must have tested positive at least 6 weeks before arrival. 
+- passengers with a COVID-19 recovery certificate. The passenger must have tested positive at least 6 weeks before arrival.
 2. Passengers entering or transiting through Tunisia must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must have a QR code or be issued by a Ministry of Health and must be in Arabic, English or French.
-- This does not apply to:
-- passengers younger than 12 years;
-- until 2 July 2021, passengers with a COVID-19 vaccination certificate showing they were fully vaccinated. The vaccination certificate must have a QR code or be issued by a Ministry of Health;
-- until 2 July 2021, passengers with a COVID-19 recovery certificate. The passenger must have tested positive at least 6 weeks before arrival;
-- until 2 July 2021, passengers traveling as part of an organized all inclusive tour.
+- This does not apply to passengers younger than 12 years.
 3. Passengers could be subject to a COVID-19 rapid test upon arrival.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with a COVID-19 vaccination certificate showing they were fully vaccinated. The vaccination certificate must have a QR code or be issued by a Ministry of Health;
-- passengers with a COVID-19 recovery certificate. The passenger must have tested positive at least 6 weeks before arrival. 
+- passengers with a COVID-19 recovery certificate. The passenger must have tested positive at least 6 weeks before arrival.
 4. Passengers could be subject to self-isolation for 7 days.
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing they were fully vaccinated. The vaccination certificate must have a QR code or be issued by a Ministry of Health;
