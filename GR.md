@@ -21,18 +21,14 @@ More details can be found at <a href="https://travel.gov.gr/">https://travel.gov
 All documents must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> 
 - This does not apply to:
 - passengers younger than 12 years;
-- nationals of Montenegro and Russian Fed.;
-- residents of Montenegro and Russian Fed.
-4. Nationals and residents of Montenegro must have:
-- a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival. The test result must be in English, French, German, Greek, Italian, Spanish or Russian. The passenger's name in the test result must match the name in the passport; and
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be in English, French, German, Greek, Italian, Spanish or Russian. Details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> 
-- This does not apply to passengers younger than 12 years.
-5. Nationals and residents of Russian Fed. must have:
+- nationals of Russian Fed.;
+- residents of Russian Fed.
+4. Nationals and residents of Russian Fed. must have:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival.
 They are also subject to an antigen or PCR test upon arrival.
 The test result must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> .
 - This does not apply to passengers younger than 12 years.
-6. Passengers could be subject to a COVID-19 rapid test upon arrival.
-7. Passengers could be subject to self-isolation for up to 10 days. Details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> 
+5. Passengers could be subject to a COVID-19 rapid test upon arrival.
+6. Passengers could be subject to self-isolation for up to 10 days. Details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> 
 
