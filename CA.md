@@ -1,4 +1,4 @@
-Published 25.06.2021
+Published 05.07.2021
 1. Until 21 July 2021, flights from India are suspended.
 2. Until 21 July 2021, passengers are not allowed to enter.
 - This does not apply to:
@@ -17,7 +17,7 @@ Published 25.06.2021
 - members of the Canadian forces traveling on duty, and their immediate family members;
 - nationals of France who live in Saint-Pierre and Miquelon and who only been in Canada, the US or Saint-Pierre and Miquelon in the past 14 days;
 - more exemptions can be found at <a href="https://tinyurl.com/s4tbrc8">https://tinyurl.com/s4tbrc8</a> .
-3.Passengers and airline crew must submit their information electronically, at most 72 hours before arrival, through the ArriveCAN app or the website <a href="https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html">https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html</a> 
+3. Passengers and airline crew must submit their information electronically, at most 72 hours before arrival, through the ArriveCAN app or the website <a href="https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html">https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html</a> 
 4. Passengers must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. 
 - Test results issued in India are not accepted.
 - This does not apply to:
@@ -26,7 +26,7 @@ Published 25.06.2021
 5. Passengers must arrive at Calgary (YYC), Montreal (YUL), Toronto (YYZ) or Vancouver (YVR).
 - This does not apply to passengers arriving on direct flights from St. Pierre and Miquelon.
 6. Passengers could be subject to quarantine for 14 days; details can be found at <a href="https://www.canada.ca/en/public-health/services/publications/diseases-conditions/covid-19-information-essential-service-workers.html">https://www.canada.ca/en/public-health/services/publications/diseases-conditions/covid-19-information-essential-service-workers.html</a> 
-- From 5 July 2021 at 11:59:59 PM EDT, this does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Covishield), Janssen, Moderna or Pfizer-BioNTech. More details can be found at <a href="https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada">https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada</a> 
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Covishield), Janssen, Moderna or Pfizer-BioNTech. More details can be found at <a href="https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada">https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada</a>
 7. Passengers are subject to a COVID-19 molecular test on day 1 and day 8 after arrival.
 - This does not apply to:
 - passengers with a positive COVID-19 test taken at least 15 days and at most 90 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS;
