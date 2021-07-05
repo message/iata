@@ -1,9 +1,9 @@
-Published 01.07.2021
+Published 05.07.2021
 1. Until 15 July 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See) and their family members;
 - passengers with a long term residence permit or a long term "D" visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
-- residents of Australia, Israel, Japan, Korea (Rep.), New Zealand, Rwanda, Singapore and Thailand;
+- residents of Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Israel, Japan, Korea (Rep.), Kosovo (Rep.), Lebanon, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Qatar, Rwanda, Saudi Arabia, Serbia, Singapore, Thailand and USA, if arriving from their country of residence;
 - passengers traveling through Croatia to a third country for a maximum stay of 12 hours. They must prove that they can enter the destination country;
 - passengers traveling as tourists with proof of paid accommodation;
 - passengers traveling on business with an invitation letter from a company in Croatia;
@@ -22,7 +22,6 @@ This does not apply to:
 - a positive COVID-19 PCR or rapid antigen test result issued at least 11 days and at most 180 days before arrival; or
 - are subject to a COVID-19 PCR or rapid antigen test upon arrival and self-isolation for up to 10 days.
 - This does not apply to:
-- residents of Albania, Australia, Israel, Japan, Korea (Rep.), Lebanon, New Zealand, North Macedonia (Rep.), Rwanda, Serbia, Singapore, Thailand and USA, arriving from their country of residence;
 - passengers arriving directly from Switzerland or an EEA Member State with:
  - a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are: AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech, Sinopharm or Sputnik V; or
  - a COVID-19 vaccination certificate showing that they have received the single dose of Janssen vaccine at least 14 days before arrival;
