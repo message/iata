@@ -1,7 +1,7 @@
-Published 09.06.2021
-1. Passengers traveling as tourists arriving from Afghanistan, Bangladesh, Bhutan, India, Nepal, Pakistan or Sri Lanka are not allowed to enter.
+Published 05.07.2021
+1. Passengers traveling as tourists are not allowed to enter if in the past 14 days they have been in Afghanistan, Bangladesh, Bhutan, India, Nepal, Pakistan or Sri Lanka.
 2. Passengers and airline crew must complete a "Traveller Health Declaration" at most 24 hours before departure at <a href="https://imuga.immigration.gov.mv/">https://imuga.immigration.gov.mv/</a> .
-3. Passengers must have a negative COVID-19 PCR test result taken at most 96 hours before departure from the first embarkation point. Passengers who have transited for more than 24 hours must repeat the test. The test result must have the name of the passenger as in the passport and name and address of the testing laboratory.
+3. Passengers must have a negative COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point. Passengers who have transited for more than 24 hours must repeat the test. The test result must have the name of the passenger as in the passport and name and address of the testing laboratory.
 - This does not apply to passengers younger than 1 year.
 4. Passengers traveling as tourists must have a hotel reservation confirmation for the entire stay in a registered tourist facility.
 5. Passengers could be subject to medical screening.
