@@ -1,9 +1,10 @@
-Published 04.07.2021
+Published 06.07.2021
 1. Passengers are not allowed to enter.
 1.1. This does not apply to:
 - nationals and residents of Germany;
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
-1.2. This does not apply to the following passengers if arriving from a country other than Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe:
+- effective 7 July 2021, passengers arriving from Portugal;
+1.2. This does not apply to the following passengers if arriving from a country other than Botswana, Brazil, Eswatini, India (until 6 July 2021), Lesotho, Malawi, Mozambique, Namibia, Nepal (until 6 July 2021), Portugal (until 6 July 2021), Russian Fed. (until 6 July 2021), South Africa, United Kingdom (until 6 July 2021), Uruguay, Zambia or Zimbabwe:
 - nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and EEA Member States;
 - immediate family members of nationals of EEA Member States and Switzerland. They must present proof of their family relationship;
 - immediate family members of residents of Germany. They must present proof of their family relationship;
@@ -19,16 +20,16 @@ Published 04.07.2021
 - passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before departure, and a COVID-19 recovery certificate issued at least 6 months before the first vaccine dose. The certificates must be in in English, French, German, Italian or Spanish. They must not be arriving from China (People's Rep.);
 - passengers younger than 12 years accompanied by a parent with a COVID-19 vaccination certificate showing that the parent was fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before departure. The certificate must be in in English, French, German, Italian or Spanish. They must not be arriving from China (People's Rep.);
 - passengers younger than 12 years accompanied by a parent with a COVID-19 vaccination certificate showing that the parent received the first vaccine dose of AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before departure. The parent must also have a COVID-19 recovery certificate issued at least 6 months before the first vaccine dose. The certificates must be in in English, French, German, Italian or Spanish. They must not be arriving from China (People's Rep.).
-2. Passengers arriving from Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe are not allowed to transit through Germany to Austria, Belgium, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Slovenia, Spain, Sweden or Switzerland.
+2. Passengers arriving from Botswana, Brazil, Eswatini, India (until 6 July 2021), Lesotho, Malawi, Mozambique, Namibia, Nepal (until 6 July 2021), Portugal (until 6 July 2021), Russian Fed. (until 6 July 2021), South Africa, United Kingdom (until 6 July 2021), Uruguay, Zambia or Zimbabwe are not allowed to transit through Germany to Austria, Belgium, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Slovenia, Spain, Sweden or Switzerland.
 - This does not apply to nationals and residents of Germany.
-3. Nationals and residents of Germany entering or transiting through Germany from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe must have:
+3. Nationals and residents of Germany entering or transiting through Germany from Botswana, Brazil, Eswatini, India (until 6 July 2021), Lesotho, Malawi, Mozambique, Namibia, Nepal (until 6 July 2021), Portugal (until 6 July 2021), Russian Fed. (until 6 July 2021), South Africa, United Kingdom (until 6 July 2021), Uruguay, Zambia or Zimbabwe must have:
 - a negative COVID-19 antigen test taken at most 24 hours before arrival; or
 - a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.
 The test result must be in English, French, German, Italian or Spanish.
 - This does not apply to:
 - passengers younger than 6 years;
 - passengers transiting through Germany to a non-Schengen Member State.
-4. Passengers entering or transiting through Germany from a country other than Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe must have:
+4. Passengers entering or transiting through Germany from a country other than Botswana, Brazil, Eswatini, India (until 6 July 2021), Lesotho, Malawi, Mozambique, Namibia, Nepal (until 6 July 2021), Portugal (until 6 July 2021), Russian Fed. (until 6 July 2021), South Africa, United Kingdom (until 6 July 2021), Uruguay, Zambia or Zimbabwe must have:
 - a negative COVID-19 antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.
 The test result must be in English, French, German, Italian or Spanish.
@@ -38,7 +39,7 @@ The test result must be in English, French, German, Italian or Spanish.
 - passengers with a positive COVID-19 PCR, RT-LAMP or TMA test result issued at least 28 days and at most 6 months before arrival. They must in the past 10 days have not been in Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe;
 - passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they were fully vaccinated at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;
 - passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they received the first vaccine dose of AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before departure, and must be in in English, French, German, Italian or Spanish. They must also have a COVID-19 recovery certificate issued at least 6 months before the first vaccine dose.
-5. Airline crew entering Germany from Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe must have:
+5. Airline crew entering Germany from Botswana, Brazil, Eswatini, India (until 6 July 2021), Lesotho, Malawi, Mozambique, Namibia, Nepal (until 6 July 2021), Portugal (until 6 July 2021), Russian Fed. (until 6 July 2021), South Africa, United Kingdom (until 6 July 2021), Uruguay, Zambia or Zimbabwe must have:
 - a negative COVID-19 antigen test taken at most 24 hours before arrival; or
 - a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.
 The test result must be in English, French, German, Italian or Spanish.
