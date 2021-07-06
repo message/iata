@@ -1,4 +1,4 @@
-Published 18.05.2021
+Published 06.07.2021
 1. Passengers are not allowed to enter. 
 - This does not apply to:
 - passengers arriving from Wallis and Futuna Isl.;
@@ -8,6 +8,6 @@ Published 18.05.2021
 - This does not apply to passengers younger than 11 years.
 3. Passengers traveling to Noumea (NOU) must register before departure at <a href="https://tinyurl.com/4t5hl4zv">https://tinyurl.com/4t5hl4zv</a>. 
 4. Passengers traveling to Wallis Isl. (WLS) and Futuna Isl. (FUT) must register with the Authorities before departure at <a href="mailto:cov@wallis-et-futuna.pref.gouv.fr">cov@wallis-et-futuna.pref.gouv.fr</a>. 
-5. Passengers are subject to quarantine for up to 14 days. 
+5. Passengers are subject to quarantine for 7 or 14 days. 
 6. Airline crew are subject to medical screening.
 
