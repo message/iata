@@ -22,7 +22,7 @@ Published 04.07.2021
 - passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia (tourist visa are not accepted). They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;
 - domestic workers of nationals of Saudi Arabia. They must be accompanied by the sponsor;
 - domestic workers of nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must be accompanied by the sponsor or one of the first degree family members of the sponsor. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days.
-4. Passengers must register before departure at <a href="https://muqeem.sa/#?vaccine-registration/home">https://muqeem.sa/#?vaccine-registration/home</a>
+4. Passengers must register before departure at <a href="https://muqeem.sa/#?vaccine-registration/home">https://muqeem.sa/#?vaccine-registration/home</a> 
 - This does not apply to nationals of Saudi Arabia.
 5. Passengers must complete a 'Health Disclaimer Form' and present it upon arrival.
 6. Passengers must have medical insurance to cover COVID-19 expenses.

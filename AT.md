@@ -1,4 +1,4 @@
-Published 02.07.2021
+Published 06.07.2021
 1. Passengers who in the past 10 days have been in Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland;
@@ -35,6 +35,7 @@ Published 02.07.2021
 - The COVID-19 test requirement does not apply to passengers younger than 12 years if accompanied by an adult.
 5. Passengers could be subject to self-quarantine for 10 days.
 - This does not apply to:
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival, and their accompanying minors between 12 and 18 years old. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech, Sinopharm or Sinovac at least 14 days before arrival, and their accompanying minors between 12 and 18 years old;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with Janssen at least 21 days before arrival, and their accompanying minors between 12 and 18 years old;
 - more exemptions can be found at <a href="https://tinyurl.com/8w8kyybv">https://tinyurl.com/8w8kyybv</a> .
 

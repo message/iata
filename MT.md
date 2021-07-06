@@ -19,5 +19,5 @@ This does not apply to:
 - a NHS Covid Certificate issued by the United Kingdom showing that they were fully vaccinated.
 3. A completed "Public Health Travel Declaration Form" and "Passenger Locator Form" found at <a href="https://www.maltairport.com/declarationforms/">https://www.maltairport.com/declarationforms/</a> must be presented upon arrival.
 4. Merchant seamen must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure. The test result must be in English or accompanied by a certified English translation.
-5. Passengers could be subject to quarantine for 14 days. Details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a>
+5. Passengers could be subject to quarantine for 14 days. Details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a> 
 

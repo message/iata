@@ -1,4 +1,4 @@
-Published 30.06.2021
+Published 05.07.2021
 1. Until 31 July 2021, flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.

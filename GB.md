@@ -1,4 +1,4 @@
-Published 30.06.2021
+Published 06.07.2021
 1. Passengers who have been in or transited through Afghanistan, Angola, Argentina, Bahrain, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Dominican Rep., Ecuador, Egypt, Eritrea, Eswatini, Ethiopia, French Guiana, Guyana, Haiti, India, Kenya, Lesotho, Malawi, Maldives, Mongolia, Mozambique, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Qatar, Rwanda, Seychelles, Somalia, South Africa, Sri Lanka, Sudan, Suriname, Tanzania, Trinidad and Tobago, Tunisia, Turkey, Uganda, United Arab Emirates, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days are not allowed to enter.
 This does not apply to:
 - British nationals;
@@ -36,4 +36,5 @@ More details can be found at <a href="https://quarantinehotelbookings.ctmportal.
 10. Flights from Ethiopia, Oman, Qatar and United Arab Emirates are suspended.
 - This does not apply to flights arriving at the South Arrival and Immigration Hall of Birmingham (BHX) or the Terminal 3 of Heathrow (LHR).
 11. Airline crew not residing in the United Kingdom are subject to self-isolation in a hotel until their next flight.
+12. Passengers with an Overseas Domestic Worker visa issued by the UK must be accompanied by the sponsor or one of the first degree family members of the sponsor.
 
