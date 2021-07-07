@@ -11,7 +11,7 @@ Published 07.07.2021
  - the second vaccine dose of Moderna at least 14 days before arrival; or
  - the second vaccine dose of Pfizer-BioNTech at least 14 days before arrival; or
  - the single vaccine dose of Janssen at least 14 days before arrival.
-More details can be found at <a href="https://dphss.guam.gov/quarantine/">https://dphss.guam.gov/quarantine/</a>
+More details can be found at <a href="https://dphss.guam.gov/quarantine/">https://dphss.guam.gov/quarantine/</a> 
 3. Airline crew are subject to quarantine until their next flight.
 4. Nationals of the U.S.A. are allowed to enter with an expired passport.
 - This does not apply to emergency passports which must be valid on arrival.
