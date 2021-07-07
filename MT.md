@@ -1,4 +1,4 @@
-Published 06.07.2021
+Published 07.07.2021
 1. Until 1 August 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Malta;
@@ -17,7 +17,7 @@ This does not apply to:
 - a COVID-19 vaccination certificate issued in Malta; or
 - a COVID-19 vaccination certificate issued in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, or United Kingdom showing that they were fully vaccinated; or
 - a NHS Covid Certificate issued by the United Kingdom showing that they were fully vaccinated.
-3. A completed "Public Health Travel Declaration Form" and "Passenger Locator Form" found at <a href="https://www.maltairport.com/declarationforms/">https://www.maltairport.com/declarationforms/</a> must be presented upon arrival.
+3. A completed "Public Health Travel Declaration Form" and "Passenger Locator Form" found at <a href="https://www.maltairport.com/declarationforms/">https://www.maltairport.com/declarationforms/</a> or <a target="_blank" href="https://app.euplf.eu/#/">https://app.euplf.eu/#/</a> must be presented upon arrival.
 4. Merchant seamen must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure. The test result must be in English or accompanied by a certified English translation.
 5. Passengers could be subject to quarantine for 14 days. Details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a> 
 

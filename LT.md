@@ -1,4 +1,4 @@
-Published 29.06.2021
+Published 07.07.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Lithuania;
@@ -12,8 +12,9 @@ This does not apply to:
 - students;
 - NATO personnel and their family members;
 - merchant seamen.
-2. Passengers must arrive at Vilnius (VNO), Kaunas (KUN), Palanga (PLQ) or Siauliai (SQQ).
-3. Passengers must have a negative COVID-19 antigen or PCR test taken at most 72 hours before arrival.
+2. Passengers must have:
+- a negative COVID-19 PCR test taken at most 72 hours before arrival; or
+- a negative COVID-19 antigen test taken at most 48 hours before arrival.
 This does not apply to:
 - passengers younger than 16 years;
 - passengers arriving from Austria, Bulgaria, Croatia, Estonia, Finland, Germany, Hungary, Iceland, Luxembourg, Malta, Poland, Romania or Slovakia;
@@ -21,11 +22,12 @@ This does not apply to:
 - passengers arriving from Mallorca in Spain;
 - passengers with a positive COVID-19 antigen or PCR test result taken at most 180 days before arrival and a recovery certificate;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech.
-4. Passengers must complete a health questionnaire and present it at check-in. The e-questionnaire can be obtained at <a href="https://keleiviams.nvsc.lt/lt/form">https://keleiviams.nvsc.lt/lt/form</a> 
+3. Passengers must complete a health questionnaire and present it at check-in. The e-questionnaire can be obtained at <a href="https://keleiviams.nvsc.lt/lt/form">https://keleiviams.nvsc.lt/lt/form</a>
+4. Passengers must arrive at Vilnius (VNO), Kaunas (KUN), Palanga (PLQ) or Siauliai (SQQ).
 5. Passengers could be subject to self-isolation for 10 days. 
 - This does not apply to passengers arriving from a country other than Brazil, India and South Africa with:
- - a positive COVID-19 antigen or PCR test taken at most 180 days before arrival and a recovery certificate; or
- - a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech.
-More details can be found at <a href="https://tinyurl.com/5fkt9aj9">https://tinyurl.com/5fkt9aj9</a> 
-6. Airline crew could be subject to self-isolation until their next flight or for a maximum of 10 days. More details can be found at <a href="https://tinyurl.com/5fkt9aj9">https://tinyurl.com/5fkt9aj9</a> 
+- a positive COVID-19 antigen or PCR test taken at most 180 days before arrival and a recovery certificate; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech.
+More details can be found at <a href="https://tinyurl.com/5fkt9aj9">https://tinyurl.com/5fkt9aj9</a>
+6. Airline crew could be subject to self-isolation until their next flight or for a maximum of 10 days. More details can be found at <a href="https://tinyurl.com/5fkt9aj9">https://tinyurl.com/5fkt9aj9</a>
 
