@@ -1,4 +1,4 @@
-Published 07.07.2021
+Published 08.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
@@ -17,7 +17,7 @@ Published 07.07.2021
 - nationals of Indonesia;
 - passengers with a diplomatic or service visa;
 - passengers with a diplomatic or service stay permit.
-6. Passengers are subject to COVID-19 PCR test upon arrival and quarantine for 5 or 14 days.
+6. Passengers are subject to COVID-19 PCR test upon arrival and quarantine for 8 or 14 days.
 7. A completed "electronic health awareness card (e-HAC)" must be presented upon arrival. The card can be obtained before departure at <a href="https://inahac.kemkes.go.id/">https://inahac.kemkes.go.id/</a> 
 8. Airline crew with a crew ID card are visa exempt if they are listed in the General Declaration and wearing uniform.
 9. Deadhead crew will be given an entry stamp. They must:

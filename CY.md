@@ -1,4 +1,4 @@
-Published 02.07.2021
+Published 08.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland;
@@ -10,7 +10,7 @@ Published 02.07.2021
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden;
 - residents of Cyprus.
-3. Passengers must have a Cyprus Flight Pass obtained at most 24 hours before departure at <a href="https://www.cyprusflightpass.gov.cy">https://www.cyprusflightpass.gov.cy</a> .
+3. Passengers must have a Cyprus Flight Pass obtained at most 48 hours before departure at <a href="https://www.cyprusflightpass.gov.cy/">https://www.cyprusflightpass.gov.cy</a> .
 4. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure.
 - This does not apply to:
 - passengers younger than 12 years;
