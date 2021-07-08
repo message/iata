@@ -4,7 +4,7 @@ Published 28.06.2021
 - This does not apply to nationals of Jordan and their spouses and children.
 3. Until 15 July 2021, passengers are not allowed to enter if in the past 14 days they have been in Bangladesh, Bhutan, Nepal, Myanmar, Pakistan or Sri Lanka. 
 4. Passengers are not allowed to transit through Jordan for more than 10 hours.
-5. Passengers must complete a "Declaration Form" before departure at <a href="https://www.gateway2jordan.gov.jo">https://www.gateway2jordan.gov.jo</a> . This will generate a QR code which must be presented before boarding and upon arrival.
+5. Passengers must complete a "Declaration Form" before departure at <a href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo</a> . This will generate a QR code which must be presented before boarding and upon arrival.
 6. Passengers must have health insurance valid for the period of intended stay.
 This does not apply to:
 - nationals of Jordan;
@@ -13,7 +13,7 @@ This does not apply to:
 This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and their family members.
-8. Passengers are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://registration.questlabjo.com/">https://registration.questlabjo.com/</a> if traveling to Amman (AMM), or at <a href="https://COVID19.biolab.jo">https://COVID19.biolab.jo</a> if traveling to Aqaba (AQJ). Passengers must have an electronic receipt with a QR code confirming the payment.
+8. Passengers are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://registration.questlabjo.com/">https://registration.questlabjo.com/</a> if traveling to Amman (AMM), or at <a href="https://covid19.biolab.jo/">https://COVID19.biolab.jo</a> if traveling to Aqaba (AQJ). Passengers must have an electronic receipt with a QR code confirming the payment.
 This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and a diplomatic QR code and their family members;
@@ -26,5 +26,5 @@ This does not apply to:
 - This does not apply to airline crew with a round trip flight.
 14. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.
 15. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
-16. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a> 
+16. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a>
 

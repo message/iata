@@ -36,7 +36,7 @@ Published 06.07.2021
 - more exemptions can be found at <a href="https://tinyurl.com/y33jxz4f">https://tinyurl.com/y33jxz4f</a> 
 8. Passengers must have a confirmed hotel reservation for 3 nights. The booking can be made at <a href="http://tinyurl.com/rfcycslb">http://tinyurl.com/rfcycslb</a> 
 - This does not apply to:
- - passengers who are members of the Canadian Forces or a visiting force traveling on duty;
+- passengers who are members of the Canadian Forces or a visiting force traveling on duty;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Covishield), Janssen, Moderna or Pfizer-BioNTech. More details can be found at <a href="https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada">https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada</a> ;
 - more exemptions can be found at <a href="https://tinyurl.com/y33jxz4f">https://tinyurl.com/y33jxz4f</a> 
 9. All travel restrictions may be prolonged as necessary for public health reasons.

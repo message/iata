@@ -14,7 +14,7 @@ Published 29.06.2021
 - This does not apply to:
 - Umrah passengers arriving from Saudi Arabia.
 - passengers arriving from Bangladesh, India, Nepal, Pakistan, Philippines, Sri Lanka or Viet Nam.
-4. Passengers arriving from Bangladesh, India, Nepal, Pakistan, Philippines, Sri Lanka or Viet Nam must have a quarantine hotel reservation for 10 days made at <a href="https://tinyurl.com/yrsr62um">https://tinyurl.com/yrsr62um</a>
+4. Passengers arriving from Bangladesh, India, Nepal, Pakistan, Philippines, Sri Lanka or Viet Nam must have a quarantine hotel reservation for 10 days made at <a href="https://tinyurl.com/yrsr62um">https://tinyurl.com/yrsr62um</a> 
 5. Passengers must have a quarantine hotel reservation for 7 days made at <a href="https://tinyurl.com/yrsr62um">https://tinyurl.com/yrsr62um</a> 
 - This does not apply to:
 - passengers arriving from Australia, Bangladesh, Brunei Darussalam, China (People's Rep.), Cuba, Hong Kong (SAR China), Iceland, India, Ireland (Rep.), Japan, Korea (Rep.), Macao (SAR China), Malaysia, Mauritius, Mexico, Myanmar, Nepal, New Zealand, Oman, Pakistan, Philippines, Singapore, Sri Lanka, Thailand or Viet Nam;
