@@ -1,3 +1,3 @@
-Published 07.07.2020 
+Published 08.07.2021 
 Tarawa (TRW) is closed.
 

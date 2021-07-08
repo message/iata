@@ -1,4 +1,4 @@
-Published 25.05.2020 
+Published 25.05.2021 
 1. Passengers and airline crew who in the past 14 days have been in or transited through China (People's Rep.), Chinese Taipei, Hong Kong (SAR China) or Macao (SAR China) are not allowed to enter.
 - This does not apply to:
 - passengers and airline crew who in the past 14 days have stayed in a country with no confirmed cases of COVID-19 if they have a recovery certificate issued at most 3 days before arrival;

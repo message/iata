@@ -1,4 +1,4 @@
-Published 30.06.2021
+Published 08.07.2021
 1. Until 10 August 2021, flights from Argentina, Brazil, Chile, Colombia, India, Paraguay, Peru and Trinidad and Tobago are suspended.
 2. Until 10 August 2021, passengers are not allowed to enter if in the past 14 days they have been in Argentina, Brazil, Chile, Colombia, India, Paraguay, Peru or Trinidad and Tobago.
 - This does not apply to nationals of Jamaica.
@@ -7,7 +7,7 @@ Published 30.06.2021
 5. Passengers must have a negative COVID-19 test taken at most 3 days before departure from the first embarkation point. Tests accepted are: antigen, NAAT, PCR and RNA.
 - This does not apply to passengers younger than 12 years.
 6. Passengers and airline crew are subject to medical screening upon arrival.
-7. Passengers are subject to quarantine for up to 14 days.
+7. Passengers could be subject to quarantine for up to 14 days.
 8. Airline crew are subject to quarantine until their next flight.
 9. Passengers traveling on business are subject to a COVID-19 RT-PCR test upon arrival at their own expense.
 

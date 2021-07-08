@@ -1,15 +1,15 @@
-Published 02.07.2021
+Published 08.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
-- residents of Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New-Zealand, North Macedonia (Rep.), Rwanda, Serbia, Singapore, Thailand, USA, arriving from Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New-Zealand, North Macedonia (Rep.), Rwanda, Serbia, Singapore, Thailand or USA; 
-- passengers with a "C" visa issued by Belgium;
+- passengers with a "C" or a “D" visa issued by a Schengen Member State; 
+- residents of Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova(Rep.), Montenegro, New-Zealand, North Macedonia (Rep.), Qatar, Rwanda, Saudi Arabia, Serbia, Singapore, Thailand, USA, arriving from Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova(Rep.), Montenegro, New-Zealand, North Macedonia (Rep.), Qatar, Rwanda, Saudi Arabia, Serbia, Singapore, Thailand, USA;
 - merchant seamen;
 - passengers with a diplomatic passport traveling on duty;
 - students;
 - military personnel traveling on duty;
 - passengers entering Belgium to travel by land to a third country. They must prove that they can enter the destination country;
-- more exemptions can be found at <a href="https://www.info-coronavirus.be/en/travels/">https://www.info-coronavirus.be/en/travels/</a> 
+- more exemptions can be found at <a href="https://www.info-coronavirus.be/en/travels/">https://www.info-coronavirus.be/en/travels/</a>
 2. Passengers arriving from Argentina, Bahrain, Bangladesh, Bolivia, Botswana, Brazil, Chile, Colombia, Congo (Dem. Rep.), Eswatini, Georgia, India, Lesotho, Mozambique, Namibia, Nepal, Pakistan, Paraguay, Peru, South Africa, Suriname, Trinidad and Tobago, Tunisia, Uganda, United Kingdom, Uruguay or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Belgium;
@@ -22,10 +22,10 @@ Published 02.07.2021
 - merchant seamen;
 - passengers with a diplomatic passport traveling on duty;
 - passengers with an Essential Journey Certificate issued by a Belgian consulate or embassy or a "note verbale" stating that the country of destination is allowing them to enter.
-4. Passengers must have an Essential Journey Certificate issued by a Belgian consulate or embassy or a "note verbal" stating that the country of destination is allowing them to enter.
+4. Passengers must have an Essential Journey Certificate issued by a Belgian consulate or embassy or a "note verbal" stating that the country of destination is allowing them to enter. 
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
-- residents of Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New-Zealand, North Macedonia (Rep.), Rwanda, Serbia, Singapore, Thailand, USA, arriving from Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New-Zealand, North Macedonia (Rep.), Rwanda, Serbia, Singapore, Thailand or USA.
+- residents of Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova(Rep.), Montenegro, New-Zealand, North Macedonia (Rep.), Qatar, Rwanda, Saudi Arabia, Serbia, Singapore, Thailand, USA, arriving from Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova(Rep.), Montenegro, New-Zealand, North Macedonia (Rep.), Qatar, Rwanda, Saudi Arabia, Serbia, Singapore, Thailand, USA. 
 - passengers with a "C" visa issued by Belgium after 18 March 2020;
 - merchant seamen;
 - passengers with a diplomatic passport traveling on duty;
@@ -34,10 +34,11 @@ Published 02.07.2021
 - This does not apply to:
 - passengers residing in Belgium;
 - passengers younger than 6 years;
-- passengers arriving from Albania, Australia, Bulgaria, Chinese Taipei, Croatia, Czechia, Estonia, Finland, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Israel, Japan, Korea (Rep.), Lithuania, Luxembourg, Lebanon, Macao (SAR China), Malta, New Zealand, North Macedonia (Rep.), Poland, Romania, Rwanda, San Marino, Serbia, Singapore, Slovakia, Switzerland, Thailand, USA or Vatican City (Holy See);
-- passengers arriving from specific regions of Austria, Czechia, Denmark, France, Greece, Italy, Netherlands, Norway, Poland, Portugal, Spain, Sweden. Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a> 
-6. A completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a> or <a href="https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM_PassengerLocatorForm_ENG.pdf">https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM_PassengerLocatorForm_ENG.pdf</a> 
-7. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a> 
+- passengers arriving from Austria, Bulgaria, Croatia, Czechia, Estonia, Finland, Germany, Hungary, Iceland, Italy, Liechtenstein, Lithuania, Luxembourg, Malta, Poland, Romania, San Marino, Slovakia, Slovenia, Switzerland or Vatican City (Holy See); 
+- passengers arriving from specific regions of Denmark, France, Greece, Netherlands, Norway, Portugal, Spain, Sweden. Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a> 
+- passengers arriving from Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova(Rep.), Montenegro, New-Zealand, North Macedonia (Rep.), Qatar, Rwanda, Saudi Arabia, Serbia, Singapore, Thailand, USA;
+6. A completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a> or <a href="https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM_PassengerLocatorForm_ENG.pdf">https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM_PassengerLocatorForm_ENG.pdf</a>
+7. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a>
 8. Passengers are subject to medical screening.
 9. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium. 
 

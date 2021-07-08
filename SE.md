@@ -1,4 +1,4 @@
-Published 30.06.2021
+Published 08.07.2021
 1. Until 31 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Sweden and their family members. More details on family members can be found at: <a href="https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/">https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/</a> ;
@@ -14,7 +14,8 @@ Published 30.06.2021
 - military personnel;
 - students;
 - passengers younger than 18 years traveling to meet a parent residing in Sweden, and accompanying persons;
-- parents traveling to meet their children younger than 18 years residing in Sweden.
+- parents traveling to meet their children younger than 18 years residing in Sweden;
+- effective 12 July 2021, residents of Armenia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Jordan, Kosovo (Rep.), Moldova (Rep.), Montenegro, Qatar and Saudi Arabia.
 2. Passengers entering or transiting through Sweden must have a negative COVID-19 test taken at most 48 hours before arrival. Tests accepted are: antigen, LAMP, PCR and TMA.
 - This does not apply to:
 - nationals and residents of Sweden;
