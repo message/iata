@@ -1,4 +1,4 @@
-Published 05.07.2021
+Published 09.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of France, their spouses and children;
@@ -39,7 +39,7 @@ Published 05.07.2021
 - the first vaccine dose of Janssen at least 28 days before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19;
-- passengers with a positive COVID-19 antigen or PCR test issued at least 15 days and at most 6 months departure from the first embarkation point.
+- passengers with a positive COVID-19 PCR test issued at least 11 days and at most 6 months before departure from the first embarkation point.
 5. All passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a> 
 - This does not apply to deadheading crew.
 6. Passengers entering or transiting through France from amber and red list countries must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a> 
