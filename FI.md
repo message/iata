@@ -1,5 +1,5 @@
-Published 01.07.2021
-1. Until 11 July 2021, passengers are not allowed to enter.
+Published 09.07.2021
+1. Until 25 July 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Finland and their family members;
 - passengers with a residence permit issued by Finland;
