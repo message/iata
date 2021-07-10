@@ -32,7 +32,7 @@ Published 09.07.2021
 - passengers younger than 6 years;
 - passengers younger than 18 years traveling with their fully vaccinated parents/guardians.
 10.Passengers traveling to Phuket (HKT) must have proof of payment for a Safety and health Administration (SHA) accommodation. for at least 14 days.
- -This does not apply to passengers with a return/onward ticket for a flight departing from Phuket to another country within 14 days and COVID-19 RT-PCR test fees.
+- This does not apply to passengers with a return/onward ticket for a flight departing from Phuket to another country within 14 days and COVID-19 RT-PCR test fees.
 11.Passengers are subject to medical screening.
 12.Airline crew are subject to self-isolation until their next flight.
 13.Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-.
