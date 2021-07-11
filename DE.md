@@ -1,4 +1,4 @@
-Published 07.07.2021
+Published 11.07.2021
 1. Passengers are not allowed to enter.
 1.1. This does not apply to:
 - nationals and residents of Germany;
@@ -42,7 +42,7 @@ The test result must be in English, French, German, Italian or Spanish.
 - a negative COVID-19 antigen test taken at most 24 hours before arrival; or
 - a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.
 The test result must be in English, French, German, Italian or Spanish.
-6. Airline crew entering Germany from Argentina, Bahrain, Bolivia, Chile, Colombia, Costa Rica, Ecuador, Egypt, India, Iran, Kuwait, Malaysia, Maldives, Mongolia, Nepal, Portugal, Russian Fed., Oman, Paraguay, Peru, Seychelles, Sri Lanka, Sudan, Suriname, Syria, Tanzania, Trinidad and Tobago, Tunisia or United Kingdom must have:
+6. Airline crew entering Germany from Argentina, Bolivia, Chile, Colombia, Costa Rica, Cyprus, Ecuador, Egypt, Fiji, India, Iran, Kuwait, Malaysia, Maldives, Mongolia, Nepal, Portugal, Russian Fed., Oman, Paraguay, Peru, Seychelles, Sri Lanka, Sudan, Suriname, Syria, Tanzania, Tunisia or United Kingdom must have:
 - a negative COVID-19 antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.
 The test result must be in English, French, German, Italian or Spanish.
