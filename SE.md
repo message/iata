@@ -1,4 +1,4 @@
-Published 08.07.2021
+Published 12.07.2021
 1. Until 31 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Sweden and their family members. More details on family members can be found at: <a href="https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/">https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/</a> ;
@@ -9,13 +9,12 @@ Published 08.07.2021
 - family members of passengers with a residence permit issued by Sweden. The residence permit must be issued with a validity of more than 3 months;
 - passengers with a residence permit issued by Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Switzerland or Vatican City (Holy See) and their family members. The residence permit must be issued with a validity of more than 3 months;
 - passengers with a national visa issued by Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) and their family members. The visa must be issued with a validity of more than 3 months;
-- residents of Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New Zealand, North Macedonia (Rep.), Rwanda, Serbia, Singapore, Thailand and USA;
+- residents of Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Qatar, Rwanda, Saudi Arabia, Serbia, Singapore, Thailand and USA;
 - merchant seamen;
 - military personnel;
 - students;
 - passengers younger than 18 years traveling to meet a parent residing in Sweden, and accompanying persons;
-- parents traveling to meet their children younger than 18 years residing in Sweden;
-- effective 12 July 2021, residents of Armenia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Jordan, Kosovo (Rep.), Moldova (Rep.), Montenegro, Qatar and Saudi Arabia.
+- parents traveling to meet their children younger than 18 years residing in Sweden.
 2. Passengers entering or transiting through Sweden must have a negative COVID-19 test taken at most 48 hours before arrival. Tests accepted are: antigen, LAMP, PCR and TMA.
 - This does not apply to:
 - nationals and residents of Sweden;

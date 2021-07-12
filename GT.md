@@ -1,4 +1,4 @@
-Published 06.07.2021
+Published 12.07.2021
 1. Passengers are not allowed to enter if in the past 14 days they have been in Brazil, South Africa or United Kingdom.
 This does not apply to:
 - nationals of Guatemala;
@@ -9,6 +9,10 @@ This does not apply to:
 - a negative COVID-19 antigen or PCR test taken at most 3 days before departure from the first embarkation point; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before departure; or
 - a COVID-19 recovery certificate issued at least 10 days after the positive test result. The passenger must have tested positive at most 3 months before arrival.
-- This does not apply to passengers younger than 10 years.
+- This does not apply to:
+- nationals of Guatemala. They are subject to a COVID-19 antigen or PCR test upon arrival at their own expense;
+- permanent residents of Guatemala. They are subject to a COVID-19 antigen or PCR test upon arrival at their own expense;
+- passengers with a diplomatic passport traveling on duty. They are subject to a COVID-19 antigen or PCR test upon arrival at their own expense;
+- passengers younger than 10 years.
 3. Passengers and airline crew could be subject to quarantine for 10 days at their own expense.
 
