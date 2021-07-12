@@ -1,4 +1,4 @@
-Published 07.07.2021
+Published 12.07.2021
 1. Until 30 July 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -56,5 +56,6 @@ All documents must be in English, French, Italian or Spanish, and be issued by t
 11. Passengers who have been in or transited through Brazil in the past 14 days are subject to a COVID-19 antigen or molecular test upon arrival.
 - This does not apply to passengers younger than 6 years.
 12. Passengers could be subject to self-isolation for 10 days and to a COVID-19 antigen or molecular test at the end of self-isolation. More details can be found at <a href="https://infocovid.viaggiaresicuri.it/index_en.html">https://infocovid.viaggiaresicuri.it/index_en.html</a> .
-13. Residence permits issued by Italy which expired after 31 January 2020 are considered valid until 31 July 2021.
+13. Passengers arriving in Sicily who in the past 14 days have been in or transited through Portugal or Spain are subject to a COVID-19 test upon arrival.
+14. Residence permits issued by Italy which expired after 31 January 2020 are considered valid until 31 July 2021.
 
