@@ -1,5 +1,5 @@
-Published 06.07.2021
-1. Passengers are not allowed to enter.
+Published 12.07.2021
+1. Until 25 July 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
 - residents of Portugal;
