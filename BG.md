@@ -1,5 +1,5 @@
-Published 05.07.2021
-1. Until 31 July 2021, passengers arriving from Argentina, Bangladesh, Belize, Bhutan, Bolivia, Botswana, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Rep., El Salvador, Guatemala, India, Malaysia, Maldives, Mongolia, Myanmar, Namibia, Nepal, Oman, Paraguay, Peru, Seychelles, South Africa, Sri Lanka, Tanzania, Tunisia, Uruguay or Zambia are not allowed to enter.
+Published 12.07.2021
+1. Until 31 July 2021, passengers arriving from Argentina, Bangladesh, Belize, Bhutan, Bolivia, Botswana, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Rep., El Salvador, Guatemala, India, Kyrgyzstan, Malaysia, Maldives, Mongolia, Myanmar, Namibia, Nepal, Oman, Panama, Paraguay, Peru, Seychelles, South Africa, Sri Lanka, Suriname, Tajikistan, Tanzania, Tunisia, Turkmenistan, Uruguay or Zambia are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Bulgaria, and their family members;
 2. Passengers must enter Bulgaria via Burgas (BOJ), Plovdiv (PDV),Sofia (SOF) or Varna (VAR).
@@ -41,7 +41,7 @@ Published 05.07.2021
 - This does not apply to:
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) and their family members;
 - passengers with a "D" visa issued by Bulgaria;
-- passengers with a British passport with nationality “British Citizen", “British Overseas Territories Citizen" issued by Gibraltar or British Passports with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom
+- passengers with a British passport with nationality "British Citizen", "British Overseas Territories Citizen" issued by Gibraltar or British Passports with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom
 - nationals of Australia, Belarus, Bosnia and Herzegovina, Canada, China (People's Rep.), Israel, Japan, Korea (Rep.), Kosovo (Rep.), Kuwait, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Russian Fed., Rwanda, Serbia, Thailand, Tunisia, Turkey, United Arab Emirates, USA and Uruguay.
 9. Passengers could be subject to quarantine for 10 days.
 10. More details can be found at <a href="https://www.mh.government.bg/media/filer_public/2021/07/02/rd-01-547-en_final.pdf">https://www.mh.government.bg/media/filer_public/2021/07/02/rd-01-547-en_final.pdf</a> 

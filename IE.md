@@ -1,4 +1,4 @@
-Published 09.07.2021
+Published 12.07.2021
 1. Passengers entering or transiting through Ireland (Rep.) must have a negative COVID-19 RT-PCR test taken at most 72 hours before arrival.
 - This does not apply to:
 - passengers younger than 7 years;
@@ -10,10 +10,8 @@ Published 09.07.2021
 - the last vaccine dose of Pfizer-BioNTech at least 7 days before arrival;
 - the last vaccine dose of Moderna or Janssen at least 14 days before arrival;
 - the last vaccine dose of AstraZeneca (Vaxzevria) at least 15 days before arrival.
-4. Until 11 July 2021, passengers must complete a "Passenger Locator Form" at <a href="https://cvd19plf-prod1.powerappsportals.com/en-us/">https://cvd19plf-prod1.powerappsportals.com/en-us/</a> before arrival.
+4. Passengers must complete a "Passenger Locator Form" at <a href="https://cvd19plf-prod1.powerappsportals.com/en-us/">https://cvd19plf-prod1.powerappsportals.com/en-us/</a> before departure.
 - This does not apply to passengers younger than 16 years.
-5. Effective 12 July 2021, passengers must complete a "Passenger Locator Form" at <a href="https://cvd19plf-prod1.powerappsportals.com/en-us/">https://cvd19plf-prod1.powerappsportals.com/en-us/</a> before departure.
-- This does not apply to passengers younger than 16 years.
-6. Passengers arriving from the United Kingdom are subject to a COVID-19 RT-PCR test on or after day 5 after arrival. They must have a booking confirmation obtained at <a href="http://www.gov.ie/test">www.gov.ie/test</a> .
-7. Suspension of visa exemptions for passengers with a short stay visa issued by the United Kingdom.
+5. Passengers arriving from the United Kingdom are subject to a COVID-19 RT-PCR test on or after day 5 after arrival. They must have a booking confirmation obtained at <a href="http://www.gov.ie/test">www.gov.ie/test</a> .
+6. Suspension of visa exemptions for passengers with a short stay visa issued by the United Kingdom.
 
