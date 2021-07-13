@@ -6,5 +6,5 @@ This does not apply to:
 - passengers younger than 6 years.
 2. Passengers must have health insurance to cover COVID-19 expenses. 
 - This does not apply to nationals and residents of Belarus. 
-3. Passengers could be subject to self-isolation for 10 days; more details can be found at <a href="https://gpk.gov.by/covid-19/en/">https://gpk.gov.by/covid-19/en/</a>
+3. Passengers could be subject to self-isolation for 10 days; more details can be found at <a href="https://gpk.gov.by/covid-19/en/">https://gpk.gov.by/covid-19/en/</a> 
 
