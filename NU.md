@@ -1,5 +1,7 @@
-Published 08.09.2020
-1. Passengers who have been in Australia, Austria, Belgium, Bulgaria, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Indonesia, Iran, Italy, Japan, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Macao (SAR China), Netherlands, Norway, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, USA or United Kingdom in the past 14 days are not allowed to enter.
-- This does not apply to nationals and resident of Niue.
-2. Passengers must have a medical certificate with a negative Coronavirus (COVID-19) PCR test result issued at most 4 days before departure from New-Zealand.
+Published 13.07.2021
+1. Passengers are not allowed to enter.
+- This does not apply to passengers with an exemption issued by the Chief Immigration Officer. They must have been in New Zealand in the past 14 days.
+2. Passengers must have a negative COVID-19 PCR test result issued at most 4 days before departure from New-Zealand.
+3. Passengers must register by sending an email to <a href="mailto:Niue.SecGov@mail.gov.nu">Niue.SecGov@mail.gov.nu</a> .
+4. Passengers are subject to quarantine for 14 days.
 
