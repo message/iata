@@ -1,4 +1,4 @@
-Published 01.06.2021
+Published 13.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Viet Nam;
@@ -15,5 +15,5 @@ Published 01.06.2021
 10. Airline crew must make a medical declaration and are subject to quarantine until their next flight.
 11. Passengers traveling on business must have:
 - medical insurance or guarantee from the hosting company to cover COVID-19 expenses; and
-- a negative COVID-19 RT-PCR test result issued from 3 to 5 days before arrival. The test result must be in English.
+- a negative COVID-19 RT-PCR test taken at most 3 days before arrival. The test result must be in English.
 
