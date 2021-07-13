@@ -1,4 +1,4 @@
-Published 02.07.2021
+Published 13.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -38,10 +38,10 @@ Published 02.07.2021
 - passengers younger than 2 years.
 10. Passengers must have a voucher confirming their allocation to a place in managed isolation.
 - This does not apply to:
-- passengers arriving from Australia if they in the past 14 days have only been in Australia or New Zealand. Details can be found at <a href="https://covid19.govt.nz/travel/quarantine-free-travel/australia/">https://covid19.govt.nz/travel/quarantine-free-travel/australia/</a> ;
+- passengers arriving from Australia (excluding New South Wales) if they in the past 14 days have only been in Australia (New South Wales) or New Zealand. Details can be found at <a href="https://covid19.govt.nz/travel/quarantine-free-travel/australia/">https://covid19.govt.nz/travel/quarantine-free-travel/australia/</a> ;
 - passengers arriving from Cook Isl. if they in the past 14 days have only been in Cook Isl. or New Zealand;
 - passengers arriving from Niue if they in the past 14 days have only been in New Zealand or Niue.
-11. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz">https://border.covid19.govt.nz</a> 
+11. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz/">https://border.covid19.govt.nz</a> 
 12. Passengers could be subject to medical screening and quarantine for 14 days.
 13. Airline crew not residing in Australia or New Zealand must have:
 - a negative COVID-19 test result. Tests accepted are: antigen, LAMP, NAAT, PCR, RT-PCR and TMA tests. The test must have been taken at most 7 days before arrival; or

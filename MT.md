@@ -1,5 +1,5 @@
-Published 07.07.2021
-1. Until 1 August 2021, passengers are not allowed to enter.
+Published 13.07.2021
+ - 1. Until 13 July 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Malta;
 - passengers arriving from Andorra, Australia, Austria, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark (excluding Faroe Isl.), Estonia, Finland, France, Germany, Gibraltar, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Spain, Sweden, Switzerland, Turkey, United Arab Emirates, USA (only the states of Alaska, California, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Iowa, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Vermont, Virginia, Washington, West Virginia and Wisconsin) or Vatican City (Holy See). They must have been in one of these countries for at least 14 days before arrival;
@@ -20,4 +20,24 @@ This does not apply to:
 3. A completed "Public Health Travel Declaration Form" and "Passenger Locator Form" found at <a href="https://www.maltairport.com/declarationforms/">https://www.maltairport.com/declarationforms/</a> or <a target="_blank" href="https://app.euplf.eu/#/">https://app.euplf.eu/#/</a> must be presented upon arrival.
 4. Merchant seamen must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure. The test result must be in English or accompanied by a certified English translation.
 5. Passengers could be subject to quarantine for 14 days. Details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a> 
+ - Effective 14 July 2021 and until 31 August 2021:
+1. Passengers are not allowed to enter.
+- This does not apply to:
+ 1.1. Nationals and residents of Malta with:
+ - a COVID-19 vaccination certificate issued in Malta; or
+ - a COVID-19 vaccination certificate issued in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom showing that they were fully vaccinated; or
+ - a NHS Covid Certificate issued by the United Kingdom showing that they were fully vaccinated.
+1.2 Passengers arriving from Andorra, Australia, Austria, Belgium, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Gibraltar, Greece, Hong Kong (SAR China), Guam, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Marshall Isl., Micronesia (Federated States), Monaco, Netherlands, New Zealand, Northern Mariana Isl., Norway, Palau, Poland, Portugal, Puerto Rico, Romania, Samoa, (American), San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Arab Emirates, USA (only the states of Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin and Wyoming), Vatican City (Holy See) or Virgin Isl. (USA). They must have been in one of these countries for at least 14 days before arrival and must have:
+ - a COVID-19 vaccination certificate issued in Malta; or
+ - a COVID-19 vaccination certificate issued in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom showing that they were fully vaccinated; or
+ - a NHS Covid Certificate issued by the United Kingdom showing that they were fully vaccinated.
+1.3. Passengers with a special exemption issued by the Superintendent for Public Health.
+1.4. Passengers arriving on humanitarian, medevac or repatriation flights.
+1.5. Merchant seamen.
+2. Nationals and residents of Malta arriving without a vaccination certificate showing that they have been fully vaccinated must have a special authorization by sending an email to <a href="mailto:covid19.vetting@gov.mt">covid19.vetting@gov.mt</a> . They must have negative COVID-19 PCR test taken at most 72 hours before arrival and are subject to quarantine for 14 days.
+3. Passengers between the age of 5 and 11 years must have a negative COVID-19 PCR test taken at most 72 hours before arrival. They must travel with their fully vaccinated parents/guardians.
+- This does not apply to passengers with a special exemption issued by the Superintendent for Public Health.
+4. Passengers must complete a "Public Health Travel Declaration Form" and "Passenger Locator Form" found at <a href="https://www.maltairport.com/declarationforms/">https://www.maltairport.com/declarationforms/</a> or <a href="https://app.euplf.eu/#/">https://app.euplf.eu/#/</a> and present it upon arrival.
+5. Merchant seamen must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure. The test result must be in English or accompanied by a certified English translation.
+6. Passengers could be subject to quarantine for 14 days. Details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a> 
 
