@@ -13,7 +13,7 @@ Published 09.07.2021
  - issued before 1 January 2021;
 - residents of Schengen Member States returning directly via Switzerland to their country of residence;
 - unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a>
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> 
 - unvaccinated passengers younger than 18 years if they are traveling with their fully vaccinated parents/guardians.
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.
 - This does not apply to:
@@ -31,9 +31,9 @@ Published 09.07.2021
 - passengers with a "C" visa issued by Switzerland before 16 March 2020; 
 - passengers with a positive COVID-19 test result of a test taken in the past 6 months. They must also have a recovery certificate;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> 
-- passengers younger than 16 or 12 years, depending on their country of departure. Details can be found at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a>
+- passengers younger than 16 or 12 years, depending on their country of departure. Details can be found at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> 
 - nationals and residents of Switzerland with no possibility of getting tested in the departure country. They must complete a self-declaration form obtained at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> . They are subject to a COVID-19 test upon arrival;
-- more exemptions can be found at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a>
+- more exemptions can be found at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> 
 5. Passengers must:
 - provide the contact details electronically at <a href="https://swissplf.admin.ch/home">https://swissplf.admin.ch/home</a> ; or
 - complete the "Contact Tracing Card" form. The form is available at <a href="https://static.vueling.com/corporative7/media/1647/swiss_authority_arriving_passenger_contact_tracing_card-pd.pdf">https://static.vueling.com/corporative7/media/1647/swiss_authority_arriving_passenger_contact_tracing_card-pd.pdf</a> or on board.
