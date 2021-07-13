@@ -22,7 +22,7 @@ This does not apply to:
 - passengers transiting through Spain to a non-Schengen Member State.
 3. Passengers must have:
 - a negative COVID -19 antigen test taken at most 48 hours before arrival. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
-- a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: RT-LAMP, RT-PCR and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
+- a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: LAMP, PCR, RT-LAMP, RT-PCR and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival; or
 - a COVID-19 recovery certificate issued at least 11 days after the positive COVID-19 NAAT test result. The sample for the certificate must have been taken at most 180 days before arrival.
 This does not apply to:
@@ -31,7 +31,7 @@ This does not apply to:
 - passengers arriving from Belgium (excluding Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest); arriving from Czechia (excluding Praha, Stredni Cechy, Jihozapad, Severozapad, Severovychod, Jihovychod, Stredni Morava, Moravskoslezsko); arriving from Denmark (excluding Hovedstaden); arriving from Finland (excluding Helsinki-Uusimaa); arriving from Greece (excluding Attiki, Notio Aigaio, Kriti), arriving from Italy (excluding Friuli-Venezia Giulia); arriving from the Netherlands (excluding Groningen, Overijssel, Gelderland, Utrecht, Noord-Holland, Zuid-Holland, Zeeland, Noord-Brabant); arriving from Norway (excluding Rogaland, Agder, Trondelag, Troms og Finnmark); arriving from Portugal (only Madeira); or arriving from Sweden (excluding Norra Mellansverige, Ovre Norrland);
 - deadheading crew.
 4. Passengers arriving from the United Kingdom must have:
-- a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: RT-LAMP, RT-PCR and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or 
+- a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: LAMP, PCR, RT-LAMP, RT-PCR and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or 
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival.
 This does not apply to:
 - passengers younger than 12 years;
