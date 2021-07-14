@@ -1,4 +1,4 @@
-Published 12.07.2021
+Published 14.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Hungary and their family members;
@@ -14,7 +14,7 @@ Published 12.07.2021
  - have a negative COVID-19 PCR test result issued at most 72 hours before arrival. 
 More details can be found at <a href="http://www.police.hu/en/content/information-on-general-rules-of-border-crossing">http://www.police.hu/en/content/information-on-general-rules-of-border-crossing</a> 
 - passengers with a positive COVID-19 test taken at most 6 months before arrival. They must also have a recovery certificate;
-- passengers with an immunity COVID-19 certificate issued by Albania, Bahrain, Croatia, Cyprus, Czechia, Georgia, Hungary, Kazakhstan, Moldova (Rep.), Mongolia, Montenegro, Morocco, North Macedonia (Rep.), Romania, Serbia, Slovakia, Slovenia, Turkey or Ukraine, and minors under 18 years in their company.
+- passengers with an immunity COVID-19 certificate issued by Albania, Bahrain, Croatia, Cyprus, Czechia, Georgia, Hungary, Kazakhstan, Moldova (Rep.), Mongolia, Montenegro, Morocco, North Macedonia (Rep.), Romania, San Marino, Serbia, Slovakia, Slovenia, Turkey or Ukraine, and minors under 18 years in their company.
 2. Passengers could be subject to medical screening.
 3. Passengers could be subject to quarantine for 10 days. More details can be found at <a href="https://tinyurl.com/3w7padwk">https://tinyurl.com/3w7padwk</a> 
 4. Airline crew are subject to medical screening and quarantine until their next scheduled flight.

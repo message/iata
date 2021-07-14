@@ -1,26 +1,17 @@
-Published 22.06.2021
-1. Passengers must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA.
+Published 14.07.2021
+1. Passengers must have:
+- a negative COVID-19 test taken at most 24 hours before departure from the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
+- a negative COVID-19 LAMP, MPOCT, NAAT, PCR, RT-PCR or TMA test taken at most 72 hours before arrival, and a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point; or
+- a negative COVID-19 LAMP, MPOCT, NAAT, PCR, RT-PCR or TMA test taken at most 72 hours before arrival, and take a COVID-19 rapid antigen test upon arrival.
 - This does not apply to:
 - passengers younger than 13 years;
 - passengers arriving from Australia, Austria, Bulgaria, China (People's Rep.), Cyprus, Czechia, Finland, Germany, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Liechtenstein, Luxembourg, Macao (SAR China), Malta, New Zealand, Norway, Poland, Portugal, Romania, Rwanda, San Marino, Singapore, Slovakia, Switzerland, Thailand or Vatican City (Holy See);
 - passengers traveling to Bonaire (BON) from Croatia (excluding the Sjeverna Hrvatska region and Zagreb), France (Corsica Island), Greece (the regions of Ionian Islands, North Aegean and South Aegean), Saba (SAB), Spain (the Balearic and Canary Islands) or St. Eustatius (EUX);
-- passengers traveling to Bonaire (BON) from Aruba or Curacao. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated;
+- passengers traveling to Bonaire (BON) from Aruba or Curacao. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated in Aruba, Bonaire or Curacao;
 - passengers traveling to Saba (SAB) from Dominica, Grenada, Montserrat, St. Eustatius (EUX) or Virgin Isl. (British);
 - passengers traveling to St. Eustatius (EUX) from Dominica, Grenada, Montserrat, Saba (SAB) or Virgin Isl. (British);
 - passengers with a diplomatic passport;
 - merchant seamen;
-- passengers with a NATO Travel Order or a NATO-2 visa;
-- passengers arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela.
-2. Passengers arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela must have:
-- a negative COVID-19 test taken at most 24 hours before departure from the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
-- a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point, and a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
-- a negative COVID-19 LAMP, MPOCT, NAAT, PCR, RT-PCR or TMA test taken at most 72 hours before arrival, and take a COVID-19 rapid antigen test upon arrival.
-- This does not apply to:
-- passengers younger than 13 years;
-- passengers with a diplomatic passport;
-- merchant seamen;
 - passengers with a NATO Travel Order or a NATO-2 visa.
-3. A completed Health Declaration Form must be presented upon arrival. The form can be obtained at bonairepublichealth.org/en/form. 
-- This does not apply to passengers younger than 13 years. 
-4. Passengers traveling to Bonaire could be subject to quarantine at a designated location at their own expense. More details can be found at <a href="http://www.bonairecrisis.com/">www.bonairecrisis.com</a> .
+2. A completed Health Declaration Form must be presented upon arrival. The form can be obtained at <a href="https://bonairepublichealth.org/en/form">https://bonairepublichealth.org/en/form</a> .
 

@@ -1,4 +1,4 @@
-Published 13.07.2021 
+Published 14.07.2021 
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and permanent residents of Brunei Darussalam;
@@ -9,7 +9,7 @@ Published 13.07.2021
 - a medical certificate with a negative Coronavirus (COVID-19) RT-PCR test result issued at most 72 hours before departure; and
 - a mobile device with the BruHealth app downloaded. 
 More details can be found at <a href="http://www.pmo.gov.bn/travelportal/Home.aspx">http://www.pmo.gov.bn/travelportal/Home.aspx</a> and <a href="https://safetravel.ica.gov.sg/brunei/rgl/faq">https://safetravel.ica.gov.sg/brunei/rgl/faq</a> ;
-- until 15 July 2021, passengers with an Entry Travel Pass letter issued by The Government of Brunei Darussalam if arriving from a country other than Bangladesh, India, Nepal, Pakistan or Sri Lanka. They must have stayed in the country of departure for the last 14 days before departure.
+- until 31 July 2021, passengers with an Entry Travel Pass letter issued by The Government of Brunei Darussalam if arriving from a country other than Bangladesh, India, Nepal, Pakistan or Sri Lanka. They must have stayed in the country of departure for the last 14 days before departure.
 2. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure.
 - This does not apply to nationals and permanent residents of Brunei Darussalam.
 3. Passengers with an Entry Travel Pass letter issued by The Government of Brunei Darussalam must have a confirmed hotel reservation and download the BruHealth app in their mobile device.
