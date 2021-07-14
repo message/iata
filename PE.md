@@ -1,5 +1,5 @@
-Published 12.07.2021
-1. Until 15 July 2021, flights from Brazil, India and South Africa are suspended.
+Published 14.07.2021
+1. Until 31 July 2021, flights from Brazil, India and South Africa are suspended.
 2. Until 8 August 2021, passengers are not allowed to enter if in the past 14 days they have been to or transited through Brazil, India or South Africa.
 - This does not apply to nationals and residents of Peru.
 3. Passengers must have:

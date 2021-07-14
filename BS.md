@@ -1,5 +1,5 @@
-Published 24.06.2021
-1. Passengers arriving from or who have transited through Haiti are not allowed to enter.
+Published 14.07.2021
+1. Until 13 August 2021, passengers arriving from or who have transited through Haiti are not allowed to enter.
 2. Passengers must have a negative COVID-19 test taken at most 5 days before arrival. Tests accepted are: NAAT, PCR, RNA, RT-PCR and TMA. The test must be uploaded at <a href="http://www.travel.gov.bs/">www.travel.gov.bs</a> 
 - This does not apply:
 - to passengers younger than 12 years;

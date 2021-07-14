@@ -1,5 +1,5 @@
 Published 30.06.2021
-1. Until 14 July 2021, passengers are not allowed to enter.
+1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Chile;
 - children and parents of nationals and residents of Chile. They must have proof of their relationship;
@@ -12,7 +12,7 @@ This does not apply to:
 - nationals and residents of Chile with 2 medical certificates with positive Coronavirus (COVID-19) RT-PCR test results:
 - the first test taken at least 14 days and at most one month before departure, and
 - the second test taken at most 72 hours before departure.
-3. An Affidavit for Travellers to Prevent Coronavirus Diseases (COVID-19) (Declaracion Jurada) must be completed at <a href="http://www.c19.cl">www.c19.cl</a> at most 48 hours before arrival.
+3. An Affidavit for Travellers to Prevent Coronavirus Diseases (COVID-19) (Declaracion Jurada) must be completed at <a href="http://www.c19.cl/">www.c19.cl</a> at most 48 hours before arrival.
 4. Passengers must have travel insurance to cover COVID-19 expenses, with a minimum coverage of USD 30,000.
 This does not apply to:
 - nationals and residents of Chile;
