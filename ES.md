@@ -21,7 +21,7 @@ This does not apply to:
 - nationals and residents of Andorra and Spain;
 - passengers transiting through Spain to a non-Schengen Member State.
 3. Passengers must have:
-- a negative COVID -19 antigen test taken at most 48 hours before arrival. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
+- a negative COVID-19 antigen test taken at most 48 hours before arrival. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
 - a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: LAMP, PCR, RT-LAMP, RT-PCR and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival; or
 - a COVID-19 recovery certificate issued at least 11 days after the positive COVID-19 NAAT test result. The sample for the certificate must have been taken at most 180 days before arrival.
