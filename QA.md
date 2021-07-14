@@ -1,4 +1,4 @@
-Published 13.07.2021
+Published 14.07.2021
 1. Passengers are not allowed to enter Qatar. 
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates;
@@ -26,5 +26,5 @@ Published 13.07.2021
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and with a COVID-19 recovery certificate issued in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates, and their accompanying minors younger than 12 years.
 6. Passengers could be subject to a COVID-19 PCR test upon arrival.
 7. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates are not allowed to enter with a national ID card.
-8. Suspension of visa on arrival facilities.
+8. Visa on arrival facilities restarted.
 
