@@ -1,4 +1,4 @@
-Published 22.06.2021 
+Published 15.07.2021 
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Uruguay;
@@ -11,13 +11,10 @@ Published 22.06.2021
 - passengers younger than 6 years;
 - passengers with a letter issued by a consulate of Uruguay stating that the passenger is exempt from the Coronavirus (COVID-19) PCR test requirement before departure. The passenger is subject to a PCR test upon arrival.
 5. Airline crew without a negative COVID-19 PCR test result issued at most 72 hours before departure are subject to self-isolation.
-6. Passengers could be subject to quarantine. More details can be found at <a href="https://tinyurl.com/5fhdm4sw">https://tinyurl.com/5fhdm4sw</a> 
-This does not apply to:
-- passengers with a positive COVID-19 antigen or RT-PCR test taken at least 20 days and at most 90 days before departure;
-- passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated at least 14 days and at most 6 months before arrival.
+6. Passengers could be subject to quarantine for up to 14 days; more details can be found at <a href="https://www.impo.com.uy/bases/decretos-originales/200-2021">https://www.impo.com.uy/bases/decretos-originales/200-2021</a> 
 7. Passengers and airline crew must have health insurance.
 - This does not apply to nationals and residents of Uruguay.
 8. Passengers and airline crew are subject to medical screening.
-9. A completed "Declaracion de Salud" must be presented to upon arrival. The form can be submitted online before departure at <a href="https://declaracion-viajero.coronavirus.gub.uy/controlfronterizoFront/servlet/com.controlfronterizofrontend.home">https://declaracion-viajero.coronavirus.gub.uy/controlfronterizoFront/servlet/com.controlfronterizofrontend.home</a> or at the "Coronavirus UY" app.
+9. A completed "Declaracion de Salud" must be presented to upon arrival. The form can be found at <a href="https://tinyurl.com/4vkr57dp">https://tinyurl.com/4vkr57dp</a> or at the "Coronavirus UY" app.
 10. A completed "Formulario de Frontera" must be presented to upon arrival.
 
