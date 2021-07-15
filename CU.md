@@ -1,4 +1,4 @@
-Published 13.07.2021
+Published 15.07.2021
 1. Flights from Guyana, Haiti, Nicaragua, Suriname and Trinidad and Tobago are suspended.
 - This does not apply to humanitarian flights.
 2. Passengers must have a printed negative COVID-19 RT-PCR test result issued at most 72 hours before arrival.
@@ -13,6 +13,6 @@ Published 13.07.2021
 7. Nationals of Cuba residing in Cuba are allowed to enter with an expired passport that was issued after 1 January 2014.
 8. Normal passports issued after 1 January 2014 to nationals of Cuba residing in Cuba that have not been revalidated with a "Prorroga" sticker are accepted for entry.
 9. Passengers traveling to Cayo Coco (CCC) or Varadero (VRA) must have a reservation for a tourist arrangement that includes a period of self-isolation.
-- effective 15 July 2021, this does not apply to nationals of Cuba.
-10. Effective 15 July 2021, nationals of Cuba traveling to Cayo Coco (CCC) or Varadero (VRA) must have a reservation for a tourist arrangement that includes a period of self-isolation for 14 nights.
+- This does not apply to nationals of Cuba.
+10. Nationals of Cuba traveling to Cayo Coco (CCC) or Varadero (VRA) must have a reservation for a tourist arrangement that includes a period of self-isolation for 14 nights.
 
