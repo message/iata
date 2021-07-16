@@ -1,4 +1,4 @@
-Published 14.07.2021
+Published 16.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -8,7 +8,7 @@ Published 14.07.2021
 - passengers with a 9(A) visa. They must have an endorsement document issued by the Department of Foreign Affairs (DFA). Letters to the Bureau of Immigration (LBI) issued before 8 February 2021 without an expiration date are not accepted;
 - passengers with special retiree resident visa (SRRV);
 - passengers with an Identification Certificate (IC) or a Certificate of Re-acquisition/Retention of Philippine Citizenship (CRPC) issued by the Philippines.
-2. Until 31 July 2021, passengers who in the past 14 days have been in Bangladesh, India, Nepal, Oman, Pakistan, Sri Lanka or United Arab Emirates are not allowed to enter.
+2. Until 31 July 2021, passengers who in the past 14 days have been in Bangladesh, India, Indonesia, Nepal, Oman, Pakistan, Sri Lanka or United Arab Emirates are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines traveling on repatriation flights;
 - passengers with a diplomatic passport and a 9(E) visa.
@@ -27,8 +27,4 @@ Published 14.07.2021
 10. Passengers must complete a "Case Investigation Form" and present it upon arrival. The form can be obtained at <a href="https://c19.redcross.org.ph/arriving-passengers">https://c19.redcross.org.ph/arriving-passengers</a> 
 11. Passengers are subject to quarantine for up to 14 days.
 12. Passengers must install the app 'TRAZE' on their personal device before departure.
-13. Effective from 16 July 2021 until 31 July 2021, passengers who in the past 14 days have been in Indonesia are not allowed to enter.
-- This does not apply to:
-- nationals of the Philippines traveling on repatriation flights;
-- passengers with a diplomatic passport and a 9(E) visa.
 

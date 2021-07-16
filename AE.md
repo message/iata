@@ -1,4 +1,4 @@
-Published 15.07.2021
+Published 16.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -91,6 +91,6 @@ Published 15.07.2021
 - This does not apply to passengers with a resident visa.
 26. Passengers arriving at Sharjah (SHJ) must download the ALHOSN App.
 27. Flights from Congo (Dem. Rep.), India, Uganda, Viet Nam, Yemen and Zambia are suspended.
-28. Until 16 July 2021, flights from Nigeria and South Africa are suspended.
+28. Until 30 July 2021, flights from Nigeria and South Africa are suspended.
 29. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
 
