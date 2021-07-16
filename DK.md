@@ -2,7 +2,7 @@ Published 16.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals or residents of Denmark;
-- residents of Albania, Australia, Austria, Belgium, Bulgaria, Chinese Taipei, Croatia, Cyprus, Czechia, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, Rwanda, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand and USA;
+- residents of Albania, Armenia, Australia, Austria, Azerbaijan, Belgium, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Moldova (Rep.), Montenegro, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Qatar, Romania, Rwanda, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand and USA;
 - spouses, partners, parents, children, fiances, sisters, brothers or grandparents of a person residing in Denmark. They must present proof confirming their relationship;
 - boyfriends or girlfriends of a person residing in Denmark. They must present a printed 'Solemn declaration on relationship for use in connection with entry';
 - passengers with a diplomatic passport;
