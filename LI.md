@@ -14,7 +14,8 @@ Published 16.07.2021
 - residents of Schengen Member States returning directly via Switzerland to their country of residence;
 - unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> 
-- unvaccinated passengers younger than 18 years if they are traveling with their fully vaccinated parents/guardians.
+- unvaccinated passengers younger than 18 years if they are traveling with their fully vaccinated parents/guardians;
+- effective 19 July 2021, passengers arriving from Armenia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Jordan, Moldova (Rep.), Montenegro, Qatar or Saudi Arabia.
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.
 - This does not apply to:
 - nationals and residents of EEA Member States and Switzerland;
@@ -22,7 +23,8 @@ Published 16.07.2021
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;
 - passengers with a "D" visa issued by a Schengen Member State they are traveling to;
 - passengers with a "C" visa issued by Switzerland;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> 
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> ;
+- effective 19 July 2021, passengers arriving from Armenia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Jordan, Moldova (Rep.), Montenegro, Qatar or Saudi Arabia.
 3. Passengers with a Schengen "C" visa issued by Switzerland before 16 March 2020 must have a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> 
 4. Passengers must have:
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
