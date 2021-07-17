@@ -1,4 +1,4 @@
-Published 16.07.2021
+Published 17.07.2021
 1. Until 31 July 2021, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -34,9 +34,11 @@ Published 16.07.2021
 11. Passengers traveling to Na Thon (Ko Samui (USM)) must have:
  - proof of payment for Samui Extra+ and Safety and Health Administration (SHA+) accommodation for the period of intended stay; and
  - proof of payment for COVID-19 tests in Ko Samui.
-- 12.Passengers are subject to medical screening.
-13.Airline crew are subject to self-isolation until their next flight.
-14.Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-
-15. Suspension of visa on arrival facilities.
-16. Suspension of visa exemption for nationals of Cambodia and Myanmar with a normal passport.
+12. Passengers are subject to medical screening.
+13. Nationals of Thailand are subject to quarantine for a minimum of 14 days.
+- This does not apply when traveling to Phuket (HKT) or Na Thon (Ko Samui (USM)) with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covidshield, Janssen, Moderna , Pfizer-BioNTech, Sinopharm and Sinovac.
+14. Airline crew are subject to self-isolation until their next flight.
+15. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-
+16. Suspension of visa on arrival facilities.
+17. Suspension of visa exemption for nationals of Cambodia and Myanmar with a normal passport.
 
