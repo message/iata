@@ -1,4 +1,4 @@
-Published 16.07.2021
+Published 18.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -27,4 +27,5 @@ Published 16.07.2021
 10. Passengers must complete a "Case Investigation Form" and present it upon arrival. The form can be obtained at <a href="https://c19.redcross.org.ph/arriving-passengers">https://c19.redcross.org.ph/arriving-passengers</a> 
 11. Passengers are subject to quarantine for up to 14 days.
 12. Passengers must install the app 'TRAZE' on their personal device before departure.
+13. Passengers traveling to Cebu (CEB) must register at most 5 days before departure at <a href="https://mactancebuairport.com/covid-19-registration">https://mactancebuairport.com/covid-19-registration</a> 
 
