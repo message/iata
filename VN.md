@@ -1,4 +1,4 @@
-Published 13.07.2021
+Published 19.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Viet Nam;
@@ -11,7 +11,7 @@ Published 13.07.2021
 6. Certificates of Visa Exemption issued to residents of China (People's Rep.), Denmark, Finland, France, Germany, Iran, Italy, Korea (Rep.), Norway, Spain, Sweden and the United Kingdom are no longer valid.
 7. Suspension of visa on arrival facilities.
 8. A Health Declaration Form must be completed before arrival. The form can be found at <a href="https://tokhaiyte.vn/">https://tokhaiyte.vn/</a> 
-9. Passengers are subject to medical screening and quarantine for 21 days.
+9. Passengers are subject to medical screening and quarantine for 14 days.
 10. Airline crew must make a medical declaration and are subject to quarantine until their next flight.
 11. Passengers traveling on business must have:
 - medical insurance or guarantee from the hosting company to cover COVID-19 expenses; and
