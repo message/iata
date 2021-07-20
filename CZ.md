@@ -1,4 +1,4 @@
-Published 12.07.2021
+Published 20.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Czechia and their family members;
@@ -19,7 +19,7 @@ Published 12.07.2021
 This does not apply to:
 - nationals of Czechia;
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See) with a temporary residence permit issued by Czechia; 
-- passengers with a temporary or permanent residence permit issued by Czechia;
+- passengers with a long-term or permanent residence permit issued by Czechia;
 - passengers with a residence permit issued by Czechia and who are spouses or children younger than 21 years of nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, and Vatican City (Holy See) with a temporary residence permit issued by Czechia; 
 - passengers with a diplomatic passport traveling on duty for a maximum stay of 72 hours.
 3. Passengers must complete a "Passenger Locator Form" before boarding. The form can be found at <a href="http://www.prijezdovyformular.cz/">http://www.prijezdovyformular.cz/</a> 
@@ -27,8 +27,9 @@ This does not apply to:
 - passengers younger than 6 years; 
 - nationals of Czechia with a service passport traveling on duty for a maximum stay of 72 hours;
 - passengers with a diplomatic passport traveling on duty for a maximum stay of 72 hours.
-4. Passengers arriving from a country other than Albania, Andorra, Australia, Austria, Belgium, Bosnia and Herzegovina, Botswana, Brazil, Bulgaria, Canada, Chinese Taipei, Colombia, Croatia, Denmark, Estonia, Eswatini, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Lesotho, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Malawi, Monaco, Montenegro, Mozambique, Namibia, North Macedonia (Rep.), Nepal, Netherlands, New Zealand, Norway, Paraguay, Peru, Poland, Portugal (only Azores and Madeira), Romania, Russian Fed., San Marino, Serbia, Singapore, Slovakia, Slovenia, South Africa, Sweden, Switzerland, Tanzania (incl. Zanzibar and Pemba), Thailand, Tunisia, USA, Vatican City (Holy See), Zambia or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
+4. Passengers arriving from a country other than Albania, Australia, Austria, Belgium, Bosnia and Herzegovina, Botswana, Brazil, Bulgaria, Canada, Chinese Taipei, Colombia, Croatia, Denmark, Estonia, Eswatini, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Lesotho, Liechtenstein, Lithuania, Macao (SAR China), Malawi, Monaco, Montenegro, Mozambique, Namibia, North Macedonia (Rep.), Nepal, New Zealand, Norway, Paraguay, Peru, Poland, Romania, Russian Fed., San Marino, Serbia, Singapore, Slovakia, Slovenia, South Africa, Sweden, Switzerland, Tanzania (incl. Zanzibar and Pemba), Thailand, Tunisia, USA, Vatican City (Holy See), Zambia or Zimbabwe, must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
+- passengers arriving from Madeira (Portugal); 
 - passengers younger than 6 years;
 - nationals of Czechia with a service passport traveling on duty for a maximum stay of 72 hours;
 - passengers with a diplomatic passport traveling on duty for a maximum stay of 72 hours;
@@ -55,3 +56,4 @@ This does not apply to:
 - passengers with a COVID-19 recovery certificate issued by a consulate or embassy of Czechia.
 6. Passengers could be subject to a COVID-19 test upon arrival and quarantine.
 
+<p>
