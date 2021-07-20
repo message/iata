@@ -1,4 +1,4 @@
-Published 09.07.2021
+Published 20.07.2021
 1. Passengers are not allowed to enter Latvia.
 - This does not apply to the following passengers who must complete a "COVIDpass" before departure at <a href="https://covidpass.lv/">https://covidpass.lv/</a> . This will generate a QR code which must be presented before departure and upon arrival:
 - residents of Latvia;
@@ -14,7 +14,7 @@ Published 09.07.2021
 - merchant seamen.
 2. Passengers older than 11 years must have:
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
-- a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point; or
+- a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before arrival; or
 - a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival.
 - This does not apply to merchant seamen.

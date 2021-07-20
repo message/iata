@@ -1,4 +1,4 @@
-Published 14.07.2021
+Published 20.07.2021
 1. Until 31 July 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
@@ -16,7 +16,7 @@ This does not apply to:
 - have a medical insurance; and
 - be traveling to the country where they study, at most 15 days before the start of the course;
 - effective 23 July 2021, residents of Chinese Taipei.
-2. Until 20 July 2021, flights from Brazil and South Africa to Spain are suspended.
+2. Until 3 August 2021, flights from Brazil and South Africa to Spain are suspended.
 This does not apply to:
 - nationals and residents of Andorra and Spain;
 - passengers transiting through Spain to a non-Schengen Member State.
@@ -27,8 +27,8 @@ This does not apply to:
 - a COVID-19 recovery certificate issued at least 11 days after the positive COVID-19 NAAT test result. The sample for the certificate must have been taken at most 180 days before arrival.
 This does not apply to:
 - passengers younger than 12 years;
-- passengers arriving from Albania, Armenia, Australia, Austria, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Croatia, Estonia, France, Germany, Hong Kong (SAR China), Hungary, Iceland, Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Lithuania, Macao (SAR China), Malta, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Poland, Qatar, Romania, Rwanda, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Switzerland, Thailand, United Kingdom or USA;
-- passengers arriving from Belgium (excluding Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest); arriving from Czechia (excluding Praha, Stredni Cechy, Jihozapad, Severozapad, Severovychod, Jihovychod, Stredni Morava, Moravskoslezsko); arriving from Denmark (excluding Hovedstaden); arriving from Finland (excluding Helsinki-Uusimaa); arriving from Greece (excluding Attiki, Notio Aigaio, Kriti), arriving from Italy (excluding Friuli-Venezia Giulia); arriving from the Netherlands (excluding Groningen, Overijssel, Gelderland, Utrecht, Noord-Holland, Zuid-Holland, Zeeland, Noord-Brabant); arriving from Norway (excluding Rogaland, Agder, Trondelag, Troms og Finnmark); arriving from Portugal (only Madeira); or arriving from Sweden (excluding Norra Mellansverige, Ovre Norrland);
+- passengers arriving from Albania, Armenia, Australia, Austria, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Czechia, Estonia, Germany, Hong Kong (SAR China), Hungary, Iceland, Israel, Italy, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Lithuania, Macao (SAR China), Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Poland, Qatar, Romania, Rwanda, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Switzerland, Thailand, United Kingdom or USA;
+- passengers arriving from Denmark (excluding Hovedstaden, Midtjylland, Nordjylland and Sjælland); arriving from Finland (excluding Etela-Suomi and Helsinki-Uusimaa); arriving from France (excluding Ile de France, Occitanie and Provence-Alpes-Cote d’Azur); arriving from Greece (excluding Attiki, Kriti, Dytiki Ellada, Dytiki Makedonia, Ionia Nisia, Ipeiros, Notio Aigaio, Peloponnisos and Thessalia), arriving from the Netherlands (excluding Groningen, Drenthe, Flevoland, Friesland, Gelderland, Limburg, Noord-Brabant, Noord-Holland, Overijssel, Utrecht, Zeeland and Zuid-Holland); arriving from Norway (excluding Rogaland); or arriving from Sweden (excluding Ovre Norrland);
 - deadheading crew.
 4. Passengers arriving from the United Kingdom must have:
 - a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or 
