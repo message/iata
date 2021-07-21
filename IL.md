@@ -1,4 +1,4 @@
-Published 01.07.2021
+Published 21.07.2021
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Israel;
@@ -12,7 +12,7 @@ Published 01.07.2021
 - This does not apply to nationals and residents of Israel.
 6. Airline crew are subject to a COVID-19 PCR test upon arrival.
 - This does not apply to airline crew with a negative COVID-19 PCR test taken at most 7 days before arrival. 
-7. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://tinyurl.com/ypvvex9p">https://tinyurl.com/ypvvex9p</a> 
+7. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://tinyurl.com/265ndkth">https://tinyurl.com/265ndkth</a> and <a href="https://tinyurl.com/h8hxy4w7">https://tinyurl.com/h8hxy4w7</a> 
 8. Airline crew are subject to self-isolation until their next flight.
 9. More COVID-19 related information can be found at <a href="https://www.gov.il/en/departments/air-travel-covid19-israel">https://www.gov.il/en/departments/air-travel-covid19-israel</a> 
 
