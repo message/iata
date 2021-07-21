@@ -1,6 +1,6 @@
-Published 06.07.2021
-1. Until 21 July 2021, flights from India are suspended.
-2. Until 21 July 2021, passengers are not allowed to enter.
+Published 21.07.2021
+1. Until 21 August 2021, flights from India are suspended.
+2. Until 21 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Canada;
 - dual nationals of Canada with a Special Authorization approval email;
