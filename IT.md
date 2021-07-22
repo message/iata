@@ -19,15 +19,14 @@ Published 16.07.2021
 - This does not apply to:
 - nationals of Italy residing in Italy since before 29 April 2021;
 - nationals of Italy registered with the A.I.R.E.
-4. Passengers must complete a Digital Passenger Locator Form at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a> .
-5. Passengers arriving in Puglia must present a completed health declaration form upon arrival. The form can be obtained at <a href="https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus">https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus</a> .
-6. Until 30 July 2021, passengers must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish.
+4. Passengers must complete a Digital Passenger Locator Form at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a> 
+5. Until 30 July 2021, passengers must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish.
 - This does not apply to:
 - passengers arriving from Andorra, Austria, Bangladesh, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies, Germany, Gibraltar, Greece, Hungary, Iceland, India, Ireland, Israel, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, San Marino, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Kingdom or Vatican City (Holy See);
 - military personnel;
 - passengers younger than 6 years;
-- more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> .
-7. Until 30 July 2021, passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies, Germany, Greece, Hungary, Iceland, Ireland, Israel, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland must have:
+- more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> 
+6. Until 30 July 2021, passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies, Germany, Greece, Hungary, Iceland, Ireland, Israel, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland must have:
 - a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival; or
 - a COVID-19 recovery certificate; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
@@ -36,8 +35,8 @@ All documents for passengers arriving from Israel must be issued by Israel.
 - This does not apply to:
 - military personnel;
 - passengers younger than 6 years;
-- more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> .
-8. Until 30 July 2021, passengers arriving from Canada, Japan or USA must have:
+- more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> 
+7. Until 30 July 2021, passengers arriving from Canada, Japan or USA must have:
 - a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival; or
 - a COVID-19 recovery certificate; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
@@ -45,19 +44,19 @@ All documents must be in English, French, Italian or Spanish, and be issued by t
 - This does not apply to:
 - military personnel;
 - passengers younger than 6 years;
-- more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> .
-9. Passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to:
+- more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> 
+8. Passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to:
 - a COVID-19 antigen or molecular test upon arrival; and
 - quarantine in a hotel for 10 days; and
 - another COVID-19 antigen or molecular test at the end of quarantine.
 - This does not apply to passengers younger than 6 years.
-10. Passengers who have been in or transited through Gibraltar or United Kingdom in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to self-isolation for 5 days and a COVID-19 antigen or molecular test at the end of the self-isolation.
+9. Passengers who have been in or transited through Gibraltar or United Kingdom in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to self-isolation for 5 days and a COVID-19 antigen or molecular test at the end of the self-isolation.
 - This does not apply to passengers younger than 6 years.
-11. Passengers who have been in or transited through Brazil in the past 14 days are subject to a COVID-19 antigen or molecular test upon arrival.
+10. Passengers who have been in or transited through Brazil in the past 14 days are subject to a COVID-19 antigen or molecular test upon arrival.
 - This does not apply to passengers younger than 6 years.
-12. Passengers could be subject to self-isolation for 10 days and to a COVID-19 antigen or molecular test at the end of self-isolation. More details can be found at <a href="https://infocovid.viaggiaresicuri.it/index_en.html">https://infocovid.viaggiaresicuri.it/index_en.html</a> .
-13. Passengers arriving in Sicily who in the past 14 days have been in or transited through Malta, Portugal or Spain are subject to a COVID-19 test upon arrival.
-14. Passengers arriving in Pescara (PSR) from Malta, Spain or United Kingdom are subject to a COVID-19 test upon arrival and self-isolation until the test result is ready.
+11. Passengers traveling to Puglia must present a completed health declaration form upon arrival. The form can be obtained at <a href="https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus">https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus</a> 
+12. Passengers could be subject to self-isolation for 10 days and to a COVID-19 antigen or molecular test at the end of self-isolation. More details can be found at <a href="https://infocovid.viaggiaresicuri.it/index_en.html">https://infocovid.viaggiaresicuri.it/index_en.html</a> 
+13. Passengers traveling to Sicily who in the past 14 days have been in or transited through Malta, Portugal or Spain are subject to a COVID-19 test upon arrival.
+14. Passengers traveling to Pescara (PSR) from Malta, Spain or United Kingdom are subject to a COVID-19 test upon arrival and self-isolation until the test result is ready.
 15. Residence permits issued by Italy which expired after 31 January 2020 are considered valid until 31 July 2021.
 
-</p>

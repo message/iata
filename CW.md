@@ -1,12 +1,12 @@
 Published 15.07.2021
 1. Passengers must present a "Digital Immigration Card" and a "Public Health Passenger Locator Card (PLC)" obtained at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a> . The forms must be completed at most 48 hours before departure. 
-2. Passengers arriving from Colombia, French Guiana, India, Portugal, St. Kitts and Nevis, Suriname, United Kingdom, Uruguay or Venezuela must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test results must be uploaded at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a>
+2. Passengers arriving from Colombia, French Guiana, India, Portugal, St. Kitts and Nevis, Suriname, United Kingdom, Uruguay or Venezuela must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test results must be uploaded at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a> 
 - This does not apply to:
 - passengers younger than 16 years without COVID-19 symptoms;
 - passengers departing on the same calendar day.
 3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure; or
 - a negative COVID-19 antigen test taken at most 24 hours before departure.
-Test results must be uploaded at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a>
+Test results must be uploaded at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a> 
 - This does not apply to:
  - residents of Curacao with a COVID-19 vaccination certificate issued in Curacao, showing that they were fully vaccinated at least 14 days before arrival, when arriving from Aruba, Austria, Bahamas, Belgium, Bonaire, Canada, Cayman Isl., Denmark, Dominican Rep., Ecuador, France, French West Indies (Guadeloupe and Martinique), Germany, Greece, Italy, Luxembourg, Netherlands, Norway, St. Lucia, Spain, St. Vincent and Grenadines, Sweden, Switzerland, Turkey or USA;
  - passengers arriving from Colombia, French Guiana, India, Portugal, St. Kitts and Nevis, Suriname, United Kingdom, Uruguay or Venezuela;

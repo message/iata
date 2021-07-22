@@ -12,3 +12,4 @@ Published 17.05.2021
 5. Passengers must present a travel authorization obtained before departure at <a href="https://www.travel.gov.sl/">https://www.travel.gov.sl/</a> 
 - This does not apply to passengers younger than 5 years.
 
+</p>

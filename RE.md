@@ -1,11 +1,13 @@
-Published 10.02.2021
+Published 22.07.2021
 1. Passengers are not allowed to enter.
-- This does not apply to the following passengers who must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at <a href="https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Deplacements-entre-la-metropole-et-les-territoires-d-Outre-Mer">https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Deplacements-entre-la-metropole-et-les-territoires-d-Outre-Mer</a>:
-- residents of Reunion, and their spouses and children;
-- passengers arriving from Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;
-- merchant seamen.
-2. Passengers must have a medical certificate with a negative Coronavirus (COVID-19) molecular test result. The test must have been taken at most 72 hours before departure from the first embarkation point.
-- This does not apply to passengers younger than 11 years. 
+- This does not apply to:
+- passengers with a completed Travel Certificate obtained at <a target="_blank" href="https://tinyurl.com/3wnu8gvj">https://tinyurl.com/3wnu8gvj</a> ;
+- passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. The certificate must state that they received:
+- the first vaccine dose of Janssen at least 28 days before arrival; or
+- the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna or Pfizer-BioNTech at least 7 days before arrival; or
+- the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna or Pfizer-BioNTech at least 7 days before arrival and a proof of previous infection with COVID-19. 
+2. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. 
+- This does not apply to passengers younger than 12 years. 
 3. Passengers must have a completed sworn statement obtained at <a href="https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Deplacements-entre-la-metropole-et-les-territoires-d-Outre-Mer">https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Deplacements-entre-la-metropole-et-les-territoires-d-Outre-Mer</a> 
 4. Passengers are subject to quarantine for 7 days. 
 

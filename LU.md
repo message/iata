@@ -30,5 +30,6 @@ The test result must be in English, French, German, Italian, Luxembourgish, Port
 - This does not apply to passengers younger than 12 years.
 4. Until 14 September 2021, passengers who in the past 14 days have been in India are subject to a COVID-19 LAMP, PCR or TMA test upon arrival. 
 - This does not apply to passengers younger than 12 years. 
-5. Passengers could be subject to quarantine for up to 14 days; details can be found at <a href="https://covid19.public.lu/en/travellers/visiting-luxembourg.html">https://covid19.public.lu/en/travellers/visiting-luxembourg.html</a>
+5. Passengers could be subject to quarantine for up to 14 days; details can be found at <a href="https://covid19.public.lu/en/travellers/visiting-luxembourg.html">https://covid19.public.lu/en/travellers/visiting-luxembourg.html</a> 
 
+</p>
