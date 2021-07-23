@@ -1,4 +1,4 @@
-Published 18.07.2021
+Published 23.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -17,14 +17,25 @@ Published 18.07.2021
 6. Merchant seamen with a 9(C) visa issued by the Philippines must have a negative COVID-19 RT-PCR test result issued at most 72 hours before arrival.
 7. Passengers traveling to Davao (DVO) must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure.
 - This does not apply to merchant seamen with a 9(C) visa issued by the Philippines.
-8. Nationals of the Philippines arriving from Bangladesh, India, Nepal, Oman, Pakistan, Sri Lanka or United Arab Emirates on a non-government's repatriation flight must have a negative COVID-19 RT-PCR test result issued at most 48 hours before departure; and
+8. Nationals of the Philippines arriving from Bangladesh, India, Indonesia, Nepal, Oman, Pakistan, Sri Lanka or United Arab Emirates on a non-government's repatriation flight must have a negative COVID-19 RT-PCR test result issued at most 48 hours before departure; and
 - a prior approval obtained by their agency from Bureau of Quarantine (BOQ).
 9. Passengers must have a reservation confirmation of a hotel approved by Tourism and Health Agencies for at least 10 days. The hotel must be listed at <a href="https://quarantine.doh.gov.ph/quarantine-facilities/">https://quarantine.doh.gov.ph/quarantine-facilities/</a> 
 - This does not apply to:
 - nationals of the Philippines who are Overseas Filipino Workers (OFW);
-- passengers with a diplomatic passport and a 9(E) visa.
+- passengers with a diplomatic passport and a 9(E) visa;
+- effective 26 July 2021, passengers arriving from Albania, Anguilla, Antigua and Barbuda, Australia, Azerbaijan, Barbados, Benin, Bermuda, Brunei Darussalam, Burkina Faso, Cayman Isl., Chad, China (People's Rep.), Chinese Taipei, Comoros, Cote d'Ivoire, Curacao, Dominica, Eswatini, Falkland Isl. (Malvinas), French Polynesia, Gabon, Gambia, Ghana, Greenland, Grenada, Hong Kong (SAR China), Iceland, Israel, Korea (Rep.), Lao People's Dem. Rep., Liechtenstein, Mali, Malta, Marshall Isl., Mauritius, Micronesia (Federated States), Montserrat, New Caledonia, New Zealand, Niger, Nigeria, North Macedonia (Rep.), Northern Mariana Isl., Palau, Romania, Samoa (American), Singapore, St. Barthelemy, Togo, Turks and Caicos Isl., Viet Nam or Virgin Isl. (British) with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience Co Ltd. from Korea), Covishield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac at least 14 days before arrival.
 10. Passengers must complete a "Case Investigation Form" and present it upon arrival. The form can be obtained at <a href="https://c19.redcross.org.ph/arriving-passengers">https://c19.redcross.org.ph/arriving-passengers</a> 
 11. Passengers are subject to quarantine for up to 14 days.
 12. Passengers must install the app 'TRAZE' on their personal device before departure.
 13. Passengers traveling to Cebu (CEB) must register at most 5 days before departure at <a href="https://mactancebuairport.com/covid-19-registration">https://mactancebuairport.com/covid-19-registration</a> 
+14. Effective 25 July 2021, passengers who in the past 14 days have been in Malaysia or Thailand are not allowed to enter.
+- This does not apply to:
+- nationals of the Philippines traveling on repatriation flights;
+- passengers with a diplomatic passport and a 9(E) visa.
+15. Effective 25 July 2021, nationals of the Philippines arriving from Malaysia or Thailand on a non-government's repatriation flight must have a negative COVID-19 RT-PCR test result issued at most 48 hours before departure; and
+- a prior approval obtained by their agency from Bureau of Quarantine (BOQ).
+16. Effective 26 July 2021, passengers arriving from Albania, Anguilla, Antigua and Barbuda, Australia, Azerbaijan, Barbados, Benin, Bermuda, Brunei Darussalam, Burkina Faso, Cayman Isl., Chad, China (People's Rep.), Chinese Taipei, Comoros, Cote d'Ivoire, Curacao, Dominica, Eswatini, Falkland Isl. (Malvinas), French Polynesia, Gabon, Gambia, Ghana, Greenland, Grenada, Hong Kong (SAR China), Iceland, Israel, Korea (Rep.), Lao People's Dem. Rep., Liechtenstein, Mali, Malta, Marshall Isl., Mauritius, Micronesia (Federated States), Montserrat, New Caledonia, New Zealand, Niger, Nigeria, North Macedonia (Rep.), Northern Mariana Isl., Palau, Romania, Samoa (American), Singapore, St. Barthelemy, Togo, Turks and Caicos Isl., Viet Nam or Virgin Isl. (British) with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience Co Ltd. from Korea), Covishield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac at least 14 days before arrival must have a reservation confirmation of a hotel approved by Tourism and Health Agencies for at least 7 days. The hotel must be listed at <a href="https://quarantine.doh.gov.ph/quarantine-facilities/">https://quarantine.doh.gov.ph/quarantine-facilities/</a> 
+- This does not apply to:
+- nationals of the Philippines who are Overseas Filipino Workers (OFW);
+- passengers with a diplomatic passport and a 9(E) visa.
 
