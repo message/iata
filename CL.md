@@ -1,5 +1,5 @@
-Published 15.07.2021
-1. Until 25 July 2021, passengers are not allowed to enter.
+Published 23.07.2021
+1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Chile;
 - children and parents of nationals and residents of Chile. They must have proof of their relationship;
@@ -19,6 +19,8 @@ This does not apply to:
 - nationals of Spain with an E-CHL/09 and E-CH/11 form. 
 5. Passengers must undergo "Passenger Tracking" for 14 days or until they leave Chile.
 6. Passengers could be subject to a COVID-19 PCR test upon arrival.
-7. Passengers are subject to quarantine for 10 days. First 5 days at their own expense in a hotel booked at <a href="https://www.c19.cl/">https://www.c19.cl/</a> , remaining 5 days home quarantine.
-8. Passengers younger than 18 years traveling unaccompanied are subject to quarantine at home.
+7. Passengers are subject to quarantine for 10 days in a hotel booked at <a href="https://www.c19.cl/">https://www.c19.cl/</a> .
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
+8. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival are subject to home quarantine for 10 days. Details can be found at <a href="https://chile.gob.cl/chile/en/ingreso-a-chile-desde-el-exterior">https://chile.gob.cl/chile/en/ingreso-a-chile-desde-el-exterior</a> .
+9. Passengers younger than 18 years traveling unaccompanied are subject to quarantine at home.
 

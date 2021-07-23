@@ -1,5 +1,5 @@
-Published 06.07.2021 
-1. Until 1 August 2021, passengers are not allowed to enter.
+Published 23.07.2021 
+1. Until 1 September 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Azerbaijan, Bahrain, Hungary, Israel, Qatar, Russian Fed., Turkey, USA and United Arab Emirates;
 - British nationals;
