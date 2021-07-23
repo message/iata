@@ -1,8 +1,9 @@
-Published 08.09.2020
-1. Visa on arrival is suspended.
-2. Passengers with a visa, residence permit or immigration permits issued by Bhutan are not allowed to enter Bhutan if they arrive from or have visited or transited through a Coronavirus (COVID-19) affected country.
+Published 23.07.2021
+1. Passengers are not allowed to enter.
+- This does not apply to passengers with a National COVID-19 task force approval.
+2. Suspension of visa on arrival facilities.
 3. Passengers are subject to medical screening and quarantine for 21 days.
-4. Airline crew are subject to medical screening.
-5. Passengers must have a medical certificate with a negative Coronavirus (COVID-19) RT-PCR test result. The test must have been taken at most 72 hours before departure.
+4. Airline crew are subject to medical screening and quarantine.
+5. Passengers must have a negative COVID-19 RT-PCR test result. The test must have been taken at most 72 hours before departure.
 - This does not apply to nationals of Bhutan.
 
