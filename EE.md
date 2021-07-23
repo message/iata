@@ -22,5 +22,8 @@ This does not apply to:
 - passengers arriving from Albania, Armenia, Australia, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Qatar, Rwanda, Saudi Arabia, Serbia, Singapore, Thailand or USA;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
 4. Passengers could be subject to self-isolation for 10 days.
-- This does not apply to passengers with a COVID-19 vaccination certificate issued at most 6 months before arrival. More exemptions can be found at <a target="_blank" href="https://vm.ee/en/information-countries-and-self-isolation-requirements-passengers">https://vm.ee/en/information-countries-and-self-isolation-requirements-passengers</a> . 
+- This does not apply to:
+- passengers with a COVID-19 vaccination certificate issued at most 6 months before arrival;
+- passengers with a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival.
+More exemptions can be found at <a href="https://vm.ee/en/information-countries-and-self-isolation-requirements-passengers">https://vm.ee/en/information-countries-and-self-isolation-requirements-passengers</a>
 

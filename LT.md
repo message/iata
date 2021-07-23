@@ -1,4 +1,4 @@
-Published 22.07.2021
+Published 23.07.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Lithuania;
@@ -16,9 +16,9 @@ This does not apply to:
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a negative COVID-19 antigen test taken at most 48 hours before arrival.
 This does not apply to:
-- passengers younger than 12 years;
-- passengers with a positive COVID-19 antigen or PCR test result taken at most 180 days before arrival and a recovery certificate;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech;
+- passengers younger than 16 years;
+- passengers and airline crew with a positive COVID-19 antigen or PCR test result taken at most 180 days before arrival and a recovery certificate;
+- passengers and airline crew with a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech;
 - airline crew staying for a maximum of 24 hours.
 3. Passengers must complete a health questionnaire and present it at check-in. The e-questionnaire can be obtained at <a href="https://keleiviams.nvsc.lt/lt/form">https://keleiviams.nvsc.lt/lt/form</a> 
 4. Passengers must arrive at Vilnius (VNO), Kaunas (KUN), Palanga (PLQ) or Siauliai (SQQ).

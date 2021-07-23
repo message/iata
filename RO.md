@@ -1,5 +1,5 @@
-Published 16.07.2021
-1. Passengers arriving from Andorra, Argentina, Bolivia, Botswana, Brazil, Chile, Colombia, Costa Rica, Cuba, Cyprus, Faroe Isl., Fiji, Georgia, Gibraltar, Greece, India, Iran, Iraq, Kazakhstan, Kuwait, Kyrgyzstan, Libya, Luxembourg, Malaysia, Maldives, Mongolia, Namibia, Nepal, Netherlands, Oman, Panama, Paraguay, Portugal, Russian Fed., Seychelles, South Africa, Spain, St. Kitts and Nevis, Suriname, Trinidad and Tobago, Tunisia, United Arab Emirates, United Kingdom, Uruguay, Virgin Isl. (British) or Virgin Isl. (USA) must present a completed passenger locator form upon arrival. The form can be obtained at <a href="https://www.tarom.ro/sites/default/files/u1348/passenger_form_romania-_ro.pdf">https://www.tarom.ro/sites/default/files/u1348/passenger_form_romania-_ro.pdf</a> or <a href="https://chestionar.stsisp.ro/start">https://chestionar.stsisp.ro/start</a> 
+Published 23.07.2021
+1. Passengers must present a completed passenger locator form upon arrival. The form can be obtained at <a href="https://www.tarom.ro/sites/default/files/u1348/passenger_form_romania-_ro.pdf">https://www.tarom.ro/sites/default/files/u1348/passenger_form_romania-_ro.pdf</a> or <a href="https://chestionar.stsisp.ro/start">https://chestionar.stsisp.ro/start</a> 
 2. Passengers could be subject to quarantine for 14 days. Details can be found at <a href="https://www.cnscbt.ro/index.php/lex">https://www.cnscbt.ro/index.php/lex</a> 
-3. Residence permits issued by Romania which have expired are considered valid with an extension of 90 days after 12 July 2021.
+3. Residence permits issued by Romania which have expired are considered valid with an extension of 90 days after 11 August 2021.
 
