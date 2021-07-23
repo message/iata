@@ -6,10 +6,10 @@ Published 22.07.2021
 - children, spouses and their children, parents and guardians of nationals of Latvia and of permanent residents of Latvia;
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Liechtenstein, Lithuania, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom or Vatican City (Holy See);
 - passengers who are 12 years and older with:
- - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
- - a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point; or
- - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before arrival; or
- - a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival;
+- a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
+- a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before arrival; or
+- a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival;
 - passengers younger than 12 years if they are traveling with their guardians who have one of the COVID documents listed above;
 - military personnel;
 - merchant seamen.

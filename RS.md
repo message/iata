@@ -38,16 +38,16 @@ Published 22.07.2021
 - passengers arriving from Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Hungary, India, Kosovo (Rep.), Montenegro or North Macedonia (Rep.);
 - passengers younger than 12 years;
 - passengers between 12 years and 18 years. They must take an antigen or RT-PCR test within 48 hours after arrival;
-- airline crew;
-5. Passengers arriving from India are subject to a COVID-19 RT-PCR test upon arrival and quarantine for 7 days;
+- airline crew.
+5. Passengers arriving from India are subject to a COVID-19 RT-PCR test upon arrival and quarantine for 7 days.
 6. Nationals of Slovenia must have a negative COVID-19 antigen or RT-PCR test result issued at most 48 hours before arrival; or
 - a COVID-19 vaccination certificate; or
 - a COVID-19 recovery certificate issued at most 180 days before arrival; or
 - a COVID-19 recovery certificate and a vaccination certificate issued by Slovenia stating that they received the first vaccine dose at most 8 months after the positive test result.
 - This does not apply to:
-- passengers arriving from India.
-- passengers between 12 years and 18 years. They must take an antigen or RT-PCR test within 48 hours after arrival;
-- passengers younger than 16 years accompanied by an immediate family member;
-- airline crew;
-- military personnel traveling on duty.
+ - passengers arriving from India;
+ - passengers between 12 years and 18 years. They must take an antigen or RT-PCR test within 48 hours after arrival;
+ - passengers younger than 16 years accompanied by an immediate family member;
+ - airline crew;
+ - military personnel traveling on duty.
 
