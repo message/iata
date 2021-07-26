@@ -1,4 +1,4 @@
-Published 24.07.2021
+Published 26.07.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of the Netherlands;
@@ -32,7 +32,7 @@ This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. They must be arriving from a country other than Argentina, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, Fiji, French Guiana, Guyana, India, Kuwait, Maldives, Mongolia, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Rwanda, Seychelles, South Africa, Suriname, Thailand, Tunisia, United Kingdom, Uruguay, Venezuela or Virgin Isl. (British).
 3. Passengers must have:
 - a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
-- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival.
+- a negative COVID-19 rapid antigen test taken at most 24 hours before boarding the flight of the first embarkation point.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with a diplomatic passport;
@@ -67,7 +67,7 @@ This does not apply to:
 - a positive COVID-19 NAAT test result taken at least 2 weeks and at most 8 weeks before arrival; and
 - a positive COVID-19 NAAT test result taken at most 72 hours before arrival; and
 - a medical certificate specifying that the passenger is not COVID-19 contagious issued at most 72 hours before departure.
-5. A completed "Health Declaration Form" must be presented prior to boarding. The form can be found at <a href="https://tinyurl.com/ybtmdgja">https://tinyurl.com/ybtmdgja</a>
+5. A completed "Health Declaration Form" must be presented prior to boarding. The form can be found at <a href="https://tinyurl.com/ybtmdgja">https://tinyurl.com/ybtmdgja</a> 
 - This does not apply to passengers younger than 13 years.
-6. Passengers could be subject to self-quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/3zvzaz3b">https://tinyurl.com/3zvzaz3b</a>
+6. Passengers could be subject to self-quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/3zvzaz3b">https://tinyurl.com/3zvzaz3b</a> 
 
