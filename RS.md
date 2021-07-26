@@ -1,6 +1,6 @@
-Published 22.07.2021
+Published 26.07.2021
 1.Passengers arriving from the USA must have a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival; or
-- a negative COVID-19 rapid antigen test issued at most 48 hours before arrival.
+- a negative COVID-19 FIA rapid antigen test issued at most 48 hours before arrival.
 - This does not apply to:
 - nationals and residents of Serbia;
 - nationals of Slovenia;
