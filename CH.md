@@ -36,8 +36,5 @@ Published 26.07.2021
 5. Passengers must:
 - provide the contact details electronically at <a href="https://swissplf.admin.ch/home">https://swissplf.admin.ch/home</a> ; or
 - complete the "Contact Tracing Card" form. The form is available at <a href="https://static.vueling.com/corporative7/media/1647/swiss_authority_arriving_passenger_contact_tracing_card-pd.pdf">https://static.vueling.com/corporative7/media/1647/swiss_authority_arriving_passenger_contact_tracing_card-pd.pdf</a> or on board.
-This does not apply to:
-- passengers with a positive COVID-19 test result of a test taken in the past 6 months. They must also have a recovery certificate;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> 
 6. Passengers could be subject to quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html">https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html</a> 
 

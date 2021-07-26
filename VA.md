@@ -1,4 +1,4 @@
-Published 16.07.2021
+Published 26.07.2021
 1. Until 30 July 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -56,7 +56,7 @@ All documents must be in English, French, Italian or Spanish, and be issued by t
 - This does not apply to passengers younger than 6 years.
 11. Passengers traveling to Puglia must present a completed health declaration form upon arrival. The form can be obtained at <a href="https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus">https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus</a> 
 12. Passengers could be subject to self-isolation for 10 days and to a COVID-19 antigen or molecular test at the end of self-isolation. More details can be found at <a href="https://infocovid.viaggiaresicuri.it/index_en.html">https://infocovid.viaggiaresicuri.it/index_en.html</a> 
-13. Passengers traveling to Sicily who in the past 14 days have been in or transited through Malta, Portugal or Spain are subject to a COVID-19 test upon arrival.
+13. Passengers traveling to Sicily who in the past 14 days have been in or transited through France, Greece, Malta, Netherlands, Portugal or Spain are subject to a COVID-19 test upon arrival.
 14. Passengers traveling to Pescara (PSR) from Malta, Spain or United Kingdom are subject to a COVID-19 test upon arrival and self-isolation until the test result is ready.
 15. Residence permits issued by Italy which expired after 31 January 2020 are considered valid until 31 July 2021.
 

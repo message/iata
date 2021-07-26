@@ -4,11 +4,8 @@ Published 26.07.2021
 - nationals of Finland and their family members;
 - passengers with a residence permit issued by Finland;
 - partners of nationals or residents of Finland;
-- passengers arriving from Iceland, Malta or Vatican City (Holy See);
+- passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Coronavac, Covishield, Moderna, Pfizer-BioNTech or Sinopharm;
-- passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden or Switzerland with:
-- a COVID-19 vaccination certificate showing that they received the first dose of the vaccine and a positive COVID-19 test result issued at most 6 months before arrival; or
-- a COVID-19 recovery certificate. The passenger must have tested positive at least 2 weeks and at most 6 months before arrival;
 - residents of Albania, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Chinese Taipei, Hong Kong (SAR China), Japan, Korea (Rep.), Kosovo (Rep.), Macao (SAR China), Moldova (Rep.), New Zealand, North Macedonia (Rep.), Serbia and Singapore, if arriving on a direct flight from Albania, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Chinese Taipei, Hong Kong (SAR China), Japan, Korea (Rep.), Kosovo (Rep.), Macao (SAR China), Moldova (Rep.), New Zealand, North Macedonia (Rep.), Serbia and Singapore;
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and their family members, returning to their country of residence via Finland;
 - British nationals and their family members residing in Finland;
