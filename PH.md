@@ -12,7 +12,7 @@ Published 27.07.2021
 - This does not apply to:
 - nationals of the Philippines traveling on repatriation flights;
 - passengers with a diplomatic passport and a 9(E) visa.
-3. Passengers are not allowed to transit.
+3. Passengers are not allowed to transit to a domestic flight or to a third country.
 4. Suspension of all visa on arrival facilities.
 5. Suspension of all visa exemptions.
 6. Merchant seamen with a 9(C) visa issued by the Philippines must have a negative COVID-19 RT-PCR test result issued at most 72 hours before arrival.
@@ -30,7 +30,7 @@ Published 27.07.2021
 - nationals of the Philippines who are Overseas Filipino Workers (OFW);
 - passengers with a diplomatic passport and a 9(E) visa.
 11. Passengers must complete a "Case Investigation Form" and present it upon arrival. The form can be obtained at <a href="https://c19.redcross.org.ph/arriving-passengers">https://c19.redcross.org.ph/arriving-passengers</a> 
-12. Passengers are subject to quarantine for up to 14 days.
+12. Passengers are subject to quarantine for up to 14 days at the first point of entry.
 13. Passengers must install the app 'TRAZE' on their personal device before departure.
 14. Passengers traveling to Cebu (CEB) must register at most 5 days before departure at <a href="https://mactancebuairport.com/covid-19-registration">https://mactancebuairport.com/covid-19-registration</a> 
 15. Passengers traveling to Manila (MNL) must complete the "One Health Pass" form before arrival at <a href="https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/">https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/</a>. This will generate a QR code which must be presented upon arrival.
