@@ -1,4 +1,4 @@
-Published 21.07.2021
+Published 27.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Iceland;
@@ -26,7 +26,7 @@ More exemptions can be found at: <a href="https://www.logreglan.is/english/regar
 - positive COVID-19 PCR test result issued at least 14 days before arrival; or
 - presence of antibodies against COVID-19 measured by ELISA serologic assay.
 Details can be found at <a href="https://tinyurl.com/ya2tsh9p">https://tinyurl.com/ya2tsh9p</a> 
-5. Effective 27 July 2021, passengers with a COVID-19 vaccination or recovery certificate must have a negative COVID-19 antigen rapid test or a PCR test taken at most 72 hours before departure. The test result must be in Danish, English, Icelandic, Norwegian or Swedish.
+5. Passengers with a COVID-19 vaccination or recovery certificate must have a negative COVID-19 antigen rapid test or a PCR test taken at most 72 hours before departure. The test result must be in Danish, English, Icelandic, Norwegian or Swedish.
 - This does not apply to:
 - nationals and residents of Iceland;
 - passengers younger than 16 years.
