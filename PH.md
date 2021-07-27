@@ -1,4 +1,4 @@
-Published 26.07.2021
+Published 27.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -33,5 +33,5 @@ Published 26.07.2021
 12. Passengers are subject to quarantine for up to 14 days.
 13. Passengers must install the app 'TRAZE' on their personal device before departure.
 14. Passengers traveling to Cebu (CEB) must register at most 5 days before departure at <a href="https://mactancebuairport.com/covid-19-registration">https://mactancebuairport.com/covid-19-registration</a> 
-
+15. Passengers traveling to Manila (MNL) must complete the "One Health Pass" form before arrival at <a href="https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/">https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/</a>. This will generate a QR code which must be presented upon arrival.
 

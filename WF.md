@@ -1,8 +1,6 @@
-Published 26.07.2021
+Published 27.07.2021
 1. Passengers are not allowed to enter. 
-- This does not apply to:
-- residents of New Caledonia, their spouses and children, with a completed Travel Certificate obtained at <a href="https://tinyurl.com/3wnu8gvj">https://tinyurl.com/3wnu8gvj</a> ;
-- residents of Wallis and Futuna Isl. who are nationals of France, with a completed Travel Certificate obtained at <a href="https://tinyurl.com/3wnu8gvj">https://tinyurl.com/3wnu8gvj</a> .
+- This does not apply to passengers with a completed Travel Certificate obtained at <a href="https://tinyurl.com/3wnu8gvj">https://tinyurl.com/3wnu8gvj</a> .
 2. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. 
 - This does not apply to passengers younger than 11 years.
 3. Passengers traveling to Noumea (NOU) must register before departure at <a href="https://tinyurl.com/4t5hl4zv">https://tinyurl.com/4t5hl4zv</a> .
