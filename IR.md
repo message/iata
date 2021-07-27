@@ -1,4 +1,4 @@
-Published 30.06.2021
+Published 27.07.2021
 1. Suspension of visa on arrival facilities for passengers traveling as tourists.
 2. E-visas can be obtained before departure at <a href="http://e_visa.mfa.ir/en/">http://e_visa.mfa.ir/en/</a> . Passengers must have an e-visa confirmation.
 3. Passengers who in the past 14 days have been in or transited for more than 4 hours through Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Uruguay, Zambia or Zimbabwe are not allowed to enter.
@@ -9,8 +9,6 @@ Published 30.06.2021
 5. Passengers arriving from Argentina, Bolivia, Cape Verde, Chile, Colombia, Costa Rica, Ecuador, Egypt, Lithuania, Malaysia, Maldives, Mongolia, Namibia, Paraguay, Peru, Seychelles, Sri Lanka, Sudan, Syria, Tanzania, Trinidad and Tobago or Tunisia are subject to COVID-19 test upon arrival and quarantine at their own expense.
 - This does not apply to passengers arriving from or who have transited through Lithuania with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before arrival.
 6. Passengers who have transited for more than 4 hours through Argentina, Bolivia, Cape Verde, Chile, Colombia, Costa Rica, Ecuador, Egypt, Lithuania, Malaysia, Maldives, Mongolia, Namibia, Paraguay, Peru, Seychelles, Sri Lanka, Sudan, Syria, Tanzania, Trinidad and Tobago or Tunisia are subject to COVID-19 test upon arrival and quarantine at their own expense.
-7. Passengers must complete a "Self-Declaration Form" form before arrival available at <a href="https://www.cao.ir/">https://www.cao.ir/</a> ; and
-- must complete a "pledge form" before arrival.
-8. Passengers are subject to medical screening; and
+7. Passengers are subject to medical screening; and
 - could be subject to COVID-19 test and quarantine.
 
