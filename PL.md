@@ -1,4 +1,4 @@
-Published 17.07.2021
+Published 28.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Poland;
@@ -15,8 +15,7 @@ Published 17.07.2021
 - merchant seamen;
 - passengers traveling as students;
 - passengers with a Polish Card (Karta Polaka).
-2. Passengers must complete an electronic "Passenger Locator Form" (PLF) before boarding. The form can be found at <a href="https://aplikacje.gov.pl/app/klp/#/home">https://aplikacje.gov.pl/app/klp/#/home</a> 
-3. Passengers could be subject to quarantine for 10 days. 
+2. Passengers could be subject to quarantine for 10 days. 
 - This does not apply to passengers with a COVID-19 vaccination certificate in English or Polish showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
 More quarantine exemptions can be found at <a href="https://www.gov.pl/web/coronavirus/temporary-limitations">https://www.gov.pl/web/coronavirus/temporary-limitations</a> 
 
