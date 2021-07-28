@@ -1,49 +1,41 @@
-Published 12.07.2021
-1. Until 31 July 2021, passengers arriving from Argentina, Bangladesh, Belize, Bhutan, Bolivia, Botswana, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Rep., El Salvador, Guatemala, India, Kyrgyzstan, Malaysia, Maldives, Mongolia, Myanmar, Namibia, Nepal, Oman, Panama, Paraguay, Peru, Seychelles, South Africa, Sri Lanka, Suriname, Tajikistan, Tanzania, Tunisia, Turkmenistan, Uruguay or Zambia are not allowed to enter.
+Published 28.07.2021
+1. Passengers must enter Bulgaria via Burgas (BOJ), Plovdiv (PDV),Sofia (SOF) or Varna (VAR).
+ -This does not apply to: 
+ - passengers arriving from Romania; 
+ - merchant seamen;
+ - students arriving from Greece, North Macedonia (Rep.), Romania, Serbia, Turkey.
+2. Passengers arriving from Andorra, Argentina, Bangladesh, Belize, Bhutan, Bolivia, Botswana, Brazil, Chile, Colombia, Costa Rica, Cuba, Cyprus, Dominican Rep., El Salvador, Fiji, Georgia, Guatemala, India, Kuwait, Kyrgyzstan, Malaysia, Maldives, Malta, Mongolia, Myanmar, Namibia, Nepal, Netherlands, Oman, Panama, Paraguay, Peru, Seychelles, South Africa, Spain, Sri Lanka, Suriname, Tajikistan, Tanzania, Tunisia, Turkmenistan, United Kingdom, Uruguay or Zambia, are not allowed to enter.
+ - This does not apply to nationals and permanent residents of Bulgaria, and their family members.
+3. Passengers arriving from Andorra, Argentina, Bangladesh, Belize, Bhutan, Bolivia, Botswana, Brazil, Chile, Colombia, Costa Rica, Cuba, Cyprus, Dominican Rep., El Salvador, Fiji, Georgia, Guatemala, India, Kuwait, Kyrgyzstan, Malaysia, Maldives, Malta, Mongolia, Myanmar, Namibia, Nepal, Netherlands, Oman, Panama, Paraguay, Peru, Seychelles, South Africa, Spain, Sri Lanka, Suriname, Tajikistan, Tanzania, Tunisia, Turkmenistan, United Kingdom, Uruguay or Zambia, must have
+ - a negative COVID-19 PCR test taken at most 72 hours before arrival; or 
+ - a negative COVID-19 antigen test taken at most 48 hours before arrival. 
 - This does not apply to:
-- nationals and residents of Bulgaria, and their family members;
-2. Passengers must enter Bulgaria via Burgas (BOJ), Plovdiv (PDV),Sofia (SOF) or Varna (VAR).
-3. Nationals and residents of Bulgaria and their family members without a COVID-19 test or vaccination certificate are subject to quarantine. Tests and vaccines accepted are:
-- a negative COVID-19 PCR test taken at most 72 hours before arrival, written in Latin characters; or
-- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival, written in Latin characters; or
-- a positive COVID-19 PCR or rapid antigen test taken at least 15 days and at most 180 days before arrival; or
-- a COVID-19 vaccination certificate showing that they received the vaccine at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V.
-- This does not apply to passengers younger than 12 years.
-4. Passengers with a "D" visa issued by Bulgaria, must have:
-- a negative COVID-19 PCR test taken at most 72 hours before arrival, written in Latin characters; or
-- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival, written in Latin characters; or
-- a positive COVID-19 PCR or rapid antigen test taken at least 15 days and at most 180 days before arrival; or
-- a COVID-19 vaccination certificate showing that they received the vaccine at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V.
-- This does not apply to passengers younger than 12 years.
-5. Nationals and residents of Andorra, Austria, Belgium, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) and their family members, must have:
-- a negative COVID-19 PCR test taken at most 72 hours before arrival, written in Latin characters; or
-- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival, written in Latin characters; or
-- a positive COVID-19 PCR or rapid antigen test taken at least 15 days and at most 180 days before arrival; or
-- a COVID-19 vaccination certificate showing that they received the vaccine at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V.
+ - nationals and permanent residents of Bulgaria, and their family members;
+ - merchant seamen;
+ - students residing in and arriving from Greece, North Macedonia (Rep.), Romania, Serbia, Turkey.
+4. Passengers arriving from a country other than Andorra, Argentina, Austria, Bangladesh, Belize, Bhutan, Bolivia, Botswana, Brazil, Chile, Colombia, Costa Rica, Croatia, Cuba, Cyprus, Czechia, Denmark, Dominican Rep., El Salvador, Estonia, France, Fiji, Finland, Georgia, Germany, Guatemala, Hungary, Iceland, India, Italy, Kuwait, Kyrgyzstan, Lithuania, Malaysia, Maldives, Malta, Mongolia, Myanmar, Namibia, Nepal, Netherlands, Norway, Oman, Panama, Paraguay, Peru, Poland, Romania, San Marino,Seychelles, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, Suriname, Switzerland, Tajikistan, Tanzania, Tunisia, Turkmenistan, United Kingdom, Uruguay, Vatican City (Holy See) or Zambia, must have: 
+ - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and and Sputnik V; or
+ - a negative COVID-19 PCR test taken at most 72 hours before arrival; or 
+ - a negative COVID-19 antigen test taken at most 48 hours before arrival; or
+ - a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival. More details can be found at: <a href="http://www.mh.government.bg/media/filer_public/2021/07/19/rd-01-597_en_final.pdf">www.mh.government.bg/media/filer_public/2021/07/19/rd-01-597_en_final.pdf</a> 
+ -This does not apply to:
+ - nationals and permanent residents of Bulgaria, and their family members;
+ - merchant seamen;
+ - students arriving from Greece, North Macedonia (Rep.), Romania, Serbia, Turkey;
+ - minors younger than 13 years. 
+5. Passengers could be subject to quarantine for 10 days. 
 - This does not apply to:
-- nationals of Romania arriving from Romania;
-- nationals of Czechia arriving from Czechia; 
-- passengers younger than 12 years.
-6. Passengers with a British passport with nationality "British Citizen", "British Overseas Territories Citizen" issued by Gibraltar or British Passports with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom, must have:
-- a negative COVID-19 PCR test taken at most 72 hours before arrival, written in Latin characters; or
-- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival, written in Latin characters; or
-- a positive COVID-19 PCR or rapid antigen test taken at least 15 days and at most 180 days before arrival; or
-- a COVID-19 vaccination certificate showing that they received the vaccine at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V.
-- This does not apply to passengers younger than 12 years.
-7. Nationals of Australia, Belarus, Bosnia and Herzegovina, Canada, China (People's Rep.), Israel, Japan, Korea (Rep.), Kosovo (Rep.), Kuwait, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Russian Fed., Rwanda, Serbia, Thailand, Tunisia, Turkey, United Arab Emirates, USA and Uruguay must have:
-- a negative COVID-19 PCR test taken at most 72 hours before arrival, written in Latin characters; or
-- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival, written in Latin characters; or
-- a positive COVID-19 PCR or rapid antigen test taken at least 15 days and at most 180 days before arrival; or
-- a COVID-19 vaccination certificate showing that they received the vaccine at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V.
-- This does not apply to passengers younger than 12 years.
-8. Passengers must have a positive COVID-19 PCR or rapid antigen test taken at least 15 days and at most 180 days before arrival; or
-- a COVID-19 vaccination certificate showing that they received the vaccine at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V.
-- This does not apply to:
-- nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) and their family members;
-- passengers with a "D" visa issued by Bulgaria;
-- passengers with a British passport with nationality "British Citizen", "British Overseas Territories Citizen" issued by Gibraltar or British Passports with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom
-- nationals of Australia, Belarus, Bosnia and Herzegovina, Canada, China (People's Rep.), Israel, Japan, Korea (Rep.), Kosovo (Rep.), Kuwait, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Russian Fed., Rwanda, Serbia, Thailand, Tunisia, Turkey, United Arab Emirates, USA and Uruguay.
-9. Passengers could be subject to quarantine for 10 days.
-10. More details can be found at <a href="https://www.mh.government.bg/media/filer_public/2021/07/02/rd-01-547-en_final.pdf">https://www.mh.government.bg/media/filer_public/2021/07/02/rd-01-547-en_final.pdf</a> 
-
-
+ - passengers arriving from Austria, Croatia, Czechia, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Italy, Lithuania, Norway, Poland, San Marino, Slovakia, Slovenia, Switzerland, Vatican City (Holy See), with:
+ - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and and Sputnik V; or
+ - a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival. 
+ - a negative COVID-19 PCR test taken at most 72 hours before arrival; or 
+ - a negative COVID-19 antigen test taken at most 48 hours before arrival. More details can be found at: <a href="http://www.mh.government.bg/media/filer_public/2021/07/19/rd-01-597_en_final.pdf">www.mh.government.bg/media/filer_public/2021/07/19/rd-01-597_en_final.pdf</a> 
+- nationals and residents of Bulgaria, and their family members, arriving from Andorra, Argentina, Bangladesh, Belize, Bhutan, Bolivia, Botswana, Brazil, Chile, Colombia, Costa Rica, Cuba, Cyprus, Dominican Rep., El Salvador, Fiji, Georgia, Guatemala, India, Kuwait, Kyrgyzstan, Malaysia, Maldives, Malta, Mongolia, Myanmar, Namibia, Nepal, Netherlands, Oman, Panama, Paraguay, Peru, Seychelles, South Africa, Spain, Sri Lanka, Suriname, Tajikistan, Tanzania, Tunisia, Turkmenistan, United Kingdom, Uruguay or Zambia), with 
+ - a negative COVID-19 PCR test taken at most 72 hours before arrival; or 
+ - a negative COVID-19 antigen test taken at most 48 hours before arrival
+ - nationals and residents of Bulgaria, and their family members arriving from a country other than Andorra, Argentina, Austria, Bangladesh, Belize, Bhutan, Bolivia, Botswana, Brazil, Chile, Colombia, Costa Rica, Croatia, Cuba, Cyprus, Czechia, Denmark, Dominican Rep., El Salvador, Estonia, France, Fiji, Finland, Georgia, Germany, Guatemala, Hungary, Iceland, India, Italy, Kuwait, Kyrgyzstan, Lithuania, Malaysia, Maldives, Malta, Mongolia, Myanmar, Namibia, Nepal, Netherlands, Norway, Oman, Panama, Paraguay, Peru, Poland, San Marino, Seychelles, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, Suriname, Switzerland, Tajikistan, Tanzania, Tunisia, Turkmenistan, United Kingdom, Uruguay, Vatican City (Holy See) or Zambia, with: 
+ - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and and Sputnik V; or
+ - a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival. 
+ - a negative COVID-19 PCR test taken at most 72 hours before arrival; or 
+ - a negative COVID-19 antigen test taken at most 48 hours before arrival. 
+6. More details can be found at: <a href="http://www.mh.government.bg/media/filer_public/2021/07/26/rd-01-623_prevod.pdf">www.mh.government.bg/media/filer_public/2021/07/26/rd-01-623_prevod.pdf</a> 
