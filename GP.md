@@ -1,7 +1,7 @@
 Published 28.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
- - passengers with a completed Travel Certificate obtained at <a target="_blank" href="https://tinyurl.com/3wnu8gvj">https://tinyurl.com/3wnu8gvj</a> ;
+- passengers with a completed Travel Certificate obtained at <a target="_blank" href="https://tinyurl.com/3wnu8gvj">https://tinyurl.com/3wnu8gvj</a> ;
 - passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. The certificate must state that they received:
 - the first vaccine dose of Janssen at least 28 days before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna or Pfizer-BioNTech at least 7 days before arrival; or

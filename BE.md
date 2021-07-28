@@ -1,4 +1,4 @@
-Published 21.07.2021
+Published 28.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
@@ -12,7 +12,7 @@ Published 21.07.2021
 - military personnel traveling on duty;
 - passengers entering Belgium to travel by land to a third country. They must prove that they can enter the destination country;
 - more exemptions can be found at <a href="https://www.info-coronavirus.be/en/travels/">https://www.info-coronavirus.be/en/travels/</a> 
-2. Passengers arriving from Argentina, Bolivia, Botswana, Brazil, Chile, Colombia, Eswatini, Lesotho, Mexico, Mozambique, Namibia, Paraguay, Peru, South Africa, Surinam, Trinidad and Tobago, Uruguay, Zambia or Zimbabwe are not allowed to enter.
+2. Passengers arriving from Argentina, Bolivia, Botswana, Brazil, Chile, Colombia, Costa Rica, Eswatini, Lesotho, Mexico, Mozambique, Namibia, Paraguay, Peru, Philippines, South Africa, Suriname, Trinidad and Tobago, Uganda, Uruguay, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Belgium;
 - merchant seamen with an Essential Journey Certificate.
