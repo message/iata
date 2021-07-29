@@ -1,4 +1,4 @@
-Published 21.07.2021
+Published 29.07.2021
 1. Until 21 August 2021, flights from India are suspended.
 2. Until 21 August 2021, passengers are not allowed to enter.
 - This does not apply to:
@@ -12,7 +12,7 @@ Published 21.07.2021
 - passengers with an authorization from the Public Health Agency of Canada (PHAC);
 - passengers with a letter of authorization from the Deputy Minister of Canadian Heritage (PCH);
 - passengers arriving directly from the USA and traveling on an essential purpose listed on <a href="https://tinyurl.com/4absxrpa">https://tinyurl.com/4absxrpa</a> ;
-- passengers with a study permit or a post-graduation work permit, issued by Canada. They must be attending a designated learning institution (DLI) with a COVID-19 readiness plan approved by its province or territory;
+- passengers with a study permit or a post-graduation work permit, issued by Canada. They must be attending a designated learning institution (DLI) with a COVID-19 readiness plan approved by its province or territory. They must travel only to attend their study;
 - passengers with an application for permanent residence. They must have a written notice issued under the Immigration and Refugee Protection Act;
 - members of the Canadian forces traveling on duty, and their immediate family members;
 - nationals of France who live in Saint-Pierre and Miquelon and who only been in Canada, the US or Saint-Pierre and Miquelon in the past 14 days;
