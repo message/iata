@@ -1,5 +1,5 @@
 Published 28.07.2021
-1. Until 31 July 2021, passengers and airline crew are not allowed to enter and transit.
+1. Passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
 - passengers who are spouses, parents or children of a national of Thailand;
