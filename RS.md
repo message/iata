@@ -1,4 +1,4 @@
-Published 27.07.2021
+Published 29.07.2021
 1.Passengers arriving from the USA must have a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival; or
 - a negative COVID-19 FIA rapid antigen test issued at most 48 hours before arrival.
 - This does not apply to:
@@ -33,7 +33,7 @@ Published 27.07.2021
 - passengers with a COVID-19 vaccination certificate stating that they received the first vaccine dose of AstraZeneca (Vaxzevria), or
 - showing that they were fully vaccinated.
 - passengers with a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival;
-- passengers with a negative COVID-19 rapid antigen test issued at most 48 hours before arrival;
+- passengers arriving from the USA with a negative COVID-19 rapid antigen test issued at most 48 hours before arrival;
 - passengers with a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Croatia, Denmark, Germany, Greece, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. The passenger must have tested positive at least 14 days and at most 6 months before arrival;
 - passengers arriving from Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Hungary, India, Kosovo (Rep.), Montenegro or North Macedonia (Rep.);
 - passengers younger than 12 years;

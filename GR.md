@@ -1,5 +1,5 @@
-Published 22.07.2021
-1. Until 29 July 2021, passengers are not allowed to enter.
+Published 29.07.2021
+1. Until 5 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
 - British nationals and residents of the United Kingdom;
@@ -11,7 +11,7 @@ Published 22.07.2021
 - military personnel;
 - students.
 More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> 
-2. Passengers must complete a "Passenger Locator Form (PLF)" at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> not later than the day before arrival in Greece. A confirmation email or a QR code generated from the completed form must be presented upon arrival. Families can be accepted with one joint confirmation e-mail or a unique QR code.
+2. Passengers must complete a "Passenger Locator Form (PLF)" at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> before arrival in Greece. A confirmation email or a QR code generated from the completed form must be presented upon arrival. Families can be accepted with one joint confirmation e-mail or a unique QR code.
 3. Passengers must have:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival; or

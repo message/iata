@@ -1,4 +1,4 @@
-Published 26.07.2021
+Published 29.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
@@ -6,7 +6,7 @@ Published 26.07.2021
 - passengers with a "C" visa issued by Switzerland; 
 - nationals of EEA Member States;
 - passengers arriving from Schengen Member States;
-- passengers arriving from Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Jordan, Korea (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Monaco, Montenegro, New Zealand, North Macedonia (Rep.), Qatar, Romania, Rwanda, San Marino, Saudi Arabia, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
+- passengers arriving from Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Jordan, Korea (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Monaco, Montenegro, New Zealand, North Macedonia (Rep.), Qatar, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Ukraine, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States. They must present proof of their relationship;
 - passengers with proof of being spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of “British Citizens", "British Overseas Territories Citizens" from Gibraltar or British nationals with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom, who have a residence permit issued by Switzerland:
 - with reference to the CH-UK agreement form 25 February 2019; or
@@ -18,7 +18,7 @@ Published 26.07.2021
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.
 - This does not apply to:
 - nationals and residents of EEA Member States and Switzerland;
-- passengers arriving from Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Jordan, Korea (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Monaco, Montenegro, New Zealand, North Macedonia (Rep.), Qatar, Romania, Rwanda, San Marino, Saudi Arabia, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
+- passengers arriving from Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Jordan, Korea (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Monaco, Montenegro, New Zealand, North Macedonia (Rep.), Qatar, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Ukraine, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;
 - passengers with a "D" visa issued by a Schengen Member State they are traveling to;
 - passengers with a "C" visa issued by Switzerland;
