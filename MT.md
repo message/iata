@@ -1,7 +1,7 @@
 Published 23.07.2021
 1. Until 31 August 2021, passengers are not allowed to enter.
 - This does not apply to:
- 1.1. Nationals and residents of Malta with:
+1.1. Nationals and residents of Malta with:
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a COVID-19 vaccination certificate issued by Malta showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech; or
 - an EU Digital Covid Certificate (EU DCC) showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech; or
