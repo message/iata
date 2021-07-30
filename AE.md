@@ -11,7 +11,9 @@ Published 30.07.2021
 - nationals of India with a visa issued by the USA or with a residence permit issued by USA, United Kingdom or an EU Member State traveling to Abu Dhabi (AUH);
 - passengers traveling to Abu Dhabi (AUH) with a resident visa;
 - passengers traveling to Abu Dhabi (AUH) with a tourist visa issued by Abu Dhabi;
-- passengers traveling to Abu Dhabi (AUH) and arriving from Albania, Armenia, Australia, Austria, Azerbaijan, Belgium, Canada, China (People's Rep.), Chinese Taipei, Denmark, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Jordan, Korea (Rep.), Malta, Mauritius, Moldova (Rep.), Netherlands, New Zealand, Norway, Romania, Saudi Arabia, Serbia, Seychelles, Singapore, Sweden, Switzerland, Turkmenistan, USA or Vatican City (Holy See) with a pre-arranged visa issued by any emirate;
+- passengers traveling to Abu Dhabi (AUH) and arriving from Albania, Armenia, Australia, Austria, Belgium, Canada, China (People's Rep.), Chinese Taipei, Egypt, Germany, Hong Kong (SAR China), Hungary, Israel, Italy, Jordan, Kenya, Korea (Rep.), Lebanon, Mauritius, Moldova (Rep.), New Zealand, Romania, Saudi Arabia, Serbia, Seychelles, Singapore, Switzerland, Turkey or USA with a pre-arranged visa issued by any emirate;
+- until 14:00 local time, 31 July 2021, passengers traveling to Abu Dhabi (AUH) and arriving from Azerbaijan, Denmark, France, Greece, Iceland, Ireland (Rep.), Jordan, Malta, Netherlands, Norway, Sweden, Turkmenistan or Vatican City (Holy See) with a pre-arranged visa issued by any emirate;
+- effective 14:00 local time, 31 July 2021, passengers traveling to Abu Dhabi (AUH) and arriving from Bahrain, Brunei Darussalam, Bulgaria, Czechia, Maldives, Poland or Ukraine with a pre-arranged visa issued by any emirate;
 - nationals of Indonesia traveling under the Safe Travel Corridor program. They must have an entry permit and a return ticket.
 2. Passengers who in the past 14 days have been in Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Pakistan, Sierra Leone, Sri Lanka, Uganda, Viet Nam or Zambia are not allowed to enter and transit.
 - This does not apply to:
