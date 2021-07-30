@@ -1,5 +1,5 @@
-Published 13.07.2021
-1. Until 31 July 2021, flights to Myanmar are suspended.
+Published 30.07.2021
+1. Until 31 August 2021, flights to Myanmar are suspended.
 - This does not apply to medevac flights.
 2. Passengers must have an approval from Ministry of Foreign Affairs Myanmar.
 - This does not apply to nationals of Myanmar. 
