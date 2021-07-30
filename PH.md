@@ -1,4 +1,4 @@
-Published 27.07.2021
+Published 30.07.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -8,7 +8,7 @@ Published 27.07.2021
 - passengers with a 9(A) visa. They must have an endorsement document issued by the Department of Foreign Affairs (DFA). Letters to the Bureau of Immigration (LBI) issued before 8 February 2021 without an expiration date are not accepted;
 - passengers with an Identification Certificate (IC) or a Certificate of Re-acquisition/Retention of Philippine Citizenship (CRPC) issued by the Philippines;
 - effective 1 August 2021, spouses, parents and children of nationals of the Philippines not traveling together with a 9(A) visa. The visa must contain the notation “EED not required per IATF Resolution No. 128 (s.2021)".
-2. Until 31 July 2021, passengers who in the past 14 days have been in Bangladesh, India, Indonesia, Malaysia, Nepal, Oman, Pakistan, Sri Lanka, Thailand or United Arab Emirates are not allowed to enter.
+2. Until 15 August 2021, passengers who in the past 14 days have been in Bangladesh, India, Indonesia, Malaysia, Nepal, Oman, Pakistan, Sri Lanka, Thailand or United Arab Emirates are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines traveling on repatriation flights;
 - passengers with a diplomatic passport and a 9(E) visa.
