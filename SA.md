@@ -1,14 +1,14 @@
-Published 30.07.2021
+Published 01.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Saudi Arabia;
 - first degree family members of nationals of Saudi Arabia;
 - nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;
 - residents of Saudi Arabia. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;
-- passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia (tourist visa are not accepted). They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;
+- passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;
+- passengers with a tourist visa issued by Saudi Arabia. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days. They must also have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech (Comirnaty) at least 14 days before departure;
 - domestic workers of nationals of Saudi Arabia. They must be accompanied by the sponsor;
-- domestic workers of nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must be accompanied by the sponsor or one of the first degree family members of the sponsor. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;
-- effective 1 August 2021, passengers with a tourist visa issued by Saudi Arabia. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days. They must also have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech (Comirnaty) at least 14 days before departure.
+- domestic workers of nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must be accompanied by the sponsor or one of the first degree family members of the sponsor. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days.
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Saudi Arabia.
 - This does not apply to:
 - nationals of Saudi Arabia;
@@ -20,7 +20,7 @@ Published 30.07.2021
 - first degree family members of nationals of Saudi Arabia. They must be traveling together;
 - nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;
 - residents of Saudi Arabia. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;
-- passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia (tourist visa are not accepted). They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;
+- passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;
 - domestic workers of nationals of Saudi Arabia. They must be accompanied by the sponsor;
 - domestic workers of nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must be accompanied by the sponsor or one of the first degree family members of the sponsor. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days.
 4. Passengers must register before departure at <a href="https://muqeem.sa/#?vaccine-registration/home">https://muqeem.sa/#?vaccine-registration/home</a> 

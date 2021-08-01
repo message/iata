@@ -1,4 +1,4 @@
-Published 26.07.2021
+Published 01.08.2021
 1. Until 10 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Norway;
@@ -8,9 +8,9 @@ Published 26.07.2021
 - passengers arriving from specific green regions of Denmark, Finland and Sweden. Details can be found at <a href="https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from">https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from</a>;
 - passengers arriving from Austria, Bulgaria, Croatia, Czechia, Germany, Greenland, Hungary, Iceland, Italy, Latvia, Lithuania, Poland, Romania, San Marino, Slovakia, Slovenia, Switzerland and Vatican City (Holy See);
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated; or a COVID-19 recovery certificate issued at most 6 months before arrival. The certificate must be an EU Digital COVID Certificate with a QR code issued by Switzerland or an EEA Member State, or must be a certificate with a QR code issued by Denmark, Norway or Sweden;
- - merchant seamen;
-- more COVID-19 related information can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> ;
-- effective 1 August 2021, students studying in Norway. They must be enrolled at an approved educational institution or have a residence permit for students.
+- merchant seamen;
+- students studying in Norway. They must be enrolled at an approved educational institution or have a residence permit for students;
+- more COVID-19 related information can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> .
 2. Passengers must have a negative COVID-19 test taken at most 24 hours before departure from the first embarkation point. Tests accepted are: PCR, rapid antigen and RT-PCR. The test result must be in Danish, English, French, German, Norwegian or Swedish.
 - This does not apply to:
 - passengers younger than 12 years;

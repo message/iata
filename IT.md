@@ -1,12 +1,11 @@
-Published 30.07.2021
+Published 01.08.2021
 1. Until 30 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
 - passengers with a long-term residence permit or a long term "D" visa issued by Switzerland or an EEA Member State;
 - family members of nationals and residents of Switzerland or an EEA Member State;
 - passenger with proof of being unmarried partners of residents of Italy;
-- passengers who in the past 14 days have only been in or transited through Andorra, Austria, Australia, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France (including Guadeloupe, Martinique, Guyana, Reunion and Mayotte), Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Japan, Korea Rep., Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Rwanda, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, United Kingdom or USA;
-- effective 31 July 2021, passengers who in the past 14 days have only been in or transited through Albania, Armenia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Chinese Taipei, Hong Kong (SAR China), Jordan, Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Ukraine or United Arab Emirates;
+- passengers who in the past 14 days have only been in or transited through Albania, Andorra, Armenia, Austria, Australia, Azerbaijan, Belgium, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Hong Kong (SAR China), Finland, France (including Guadeloupe, Martinique, Guyana, Reunion and Mayotte), Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Japan, Jordan, Korea Rep., Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Moldova (Rep.), Monaco, Montenegro, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Qatar, Romania, Rwanda, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Ukraine, United Arab Emirates, United Kingdom or USA;
 - passengers traveling on business;
 - passengers returning via Italy to their country of residence;
 - students;
