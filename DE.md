@@ -45,7 +45,7 @@ The test result must be in English, French, German, Italian or Spanish.
 6. Passengers arriving from a high risk area or an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> .
 7. Airline crew arriving from an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> .
 8. Passengers could be subject to quarantine for 10 or 14 days. Details can be found at
-<a href="http://www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-entering-germany.html">www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-entering-germany.html</a> 
+<a href="https://www.bundesgesundheitsministerium.de/en/coronavirus/current-information-for-travellers.html">https://www.bundesgesundheitsministerium.de/en/coronavirus/current-information-for-travellers.html</a> .
 - This does not apply to passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Brazil, China (People's Rep.) or Uruguay. The certificate must show that they were fully vaccinated at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty).
 9. More COVID-19 related information can be found at <a href="http://www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html">www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html</a> 
 
