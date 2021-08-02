@@ -1,6 +1,6 @@
-Published 20.07.2021
+Published 02.08.2021
 1. Passengers are not allowed to enter if in the past 14 days they have been in Brazil or India.
-2. From 31 July 2021, passengers are not allowed to enter.
+2. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Grenada;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience Co Ltd. from Korea), Covishield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac.
