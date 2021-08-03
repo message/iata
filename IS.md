@@ -1,4 +1,4 @@
-Published 27.07.2021
+Published 03.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Iceland;
@@ -17,7 +17,7 @@ Published 27.07.2021
 More exemptions can be found at: <a href="https://www.logreglan.is/english/regarding-travel-restrictions-to-iceland-as-a-result-of-covid-19/">https://www.logreglan.is/english/regarding-travel-restrictions-to-iceland-as-a-result-of-covid-19/</a> 
 2. Passengers traveling through Iceland to another Schengen Member State must have a written confirmation of their permission to enter the other Schengen Member State.
 3. Passengers must complete the "Preregistration for visiting Iceland" at <a href="http://visit.covid.is/">http://visit.covid.is/</a> before arrival.
-4. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must be in Danish, English, Icelandic, Norwegian or Swedish. They are subject to a COVID-19 PCR test upon arrival.
+4. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Danish, English, Icelandic, Norwegian or Swedish. They are subject to a COVID-19 PCR test upon arrival.
 - This does not apply to:
 - nationals and residents of Iceland; 
 - passengers younger than 16 years;
@@ -26,11 +26,11 @@ More exemptions can be found at: <a href="https://www.logreglan.is/english/regar
 - positive COVID-19 PCR test result issued at least 14 days before arrival; or
 - presence of antibodies against COVID-19 measured by ELISA serologic assay.
 Details can be found at <a href="https://tinyurl.com/ya2tsh9p">https://tinyurl.com/ya2tsh9p</a> 
-5. Passengers with a COVID-19 vaccination or recovery certificate must have a negative COVID-19 antigen rapid test or a PCR test taken at most 72 hours before departure. The test result must be in Danish, English, Icelandic, Norwegian or Swedish.
+5. Passengers with a COVID-19 vaccination or recovery certificate must have a negative COVID-19 antigen rapid test or a PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Danish, English, Icelandic, Norwegian or Swedish.
 - This does not apply to:
 - nationals and residents of Iceland;
 - passengers younger than 16 years.
-6. Nationals and residents of Iceland without a negative COVID-19 PCR test taken at most 72 hours before departure are subject to a fine upon arrival.
+6. Nationals and residents of Iceland without a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point are subject to a fine upon arrival.
 7. Passengers are subject to a COVID-19 test upon arrival.
 - This does not apply to:
 - passengers younger than 16 years;
