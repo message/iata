@@ -1,9 +1,7 @@
-Published 02.08.2021
+Published 03.08.2021
 1. Passengers arriving from India are not allowed to enter Iraq via Baghdad (BGW), Basra (BSR) or Najaf (NJF).
 2. Passengers arriving from or who have transited through India are not allowed to enter Iraq via Erbil (EBL) or Sulaymaniyah (ISU).
-- This does not apply to:
-- nationals of Iraq;
-- passengers with a diplomatic passport.
+- This does not apply to nationals of Iraq.
 3. Nationals of India are not allowed to enter Iraq via Baghdad (BGW), Basra (BSR) or Najaf (NJF).
 4. Nationals of Indonesia are not allowed to enter Iraq via Basra (BSR) or Najaf (NJF).
 5. Passengers traveling to Baghdad (BGW) must have a printed negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in Arabic or English.
@@ -22,7 +20,7 @@ Published 02.08.2021
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated;
 - passengers younger than 12 years.
-13. Passengers traveling to Erbil (EBL) could be subject to quarantine in a hotel for 14 days.
+13. Passengers traveling to Erbil (EBL) could be subject to quarantine at a designated facility for 14 days.
 14. Airline crew traveling to Erbil (EBL) or Sulaymaniyah (ISU) are subject to self-isolation in a hotel until their next flight.
 15. Passengers are subject to medical screening and quarantine. 
 

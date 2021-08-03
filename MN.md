@@ -1,4 +1,4 @@
-Published 21.05.2021
+Published 03.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and permanent residents of Mongolia;
@@ -8,11 +8,14 @@ Published 21.05.2021
 - nationals of Albania, Armenia, Azerbaijan, Brunei Darussalam, Bulgaria, Cambodia, China (People's Rep.), Colombia, Croatia, Cyprus, Czechia, Estonia, France, Greece, Hungary, India, Indonesia, Italy, Korea (Dem. People's Rep.), Korea (Rep.), Kuwait, Latvia, Lithuania, Malta, Mexico, Myanmar, Nepal, Peru, Poland, Romania, Slovakia, Slovenia, Switzerland, Turkmenistan and Viet Nam with a diplomatic passport;
 - passengers with a British diplomatic passport;
 - nationals of Brunei Darussalam, Cambodia, Colombia, India, Korea (Dem. People's Rep.), Korea (Rep.), Mexico, Myanmar, Nepal, Slovenia and Viet Nam with an official passport;
-- nationals of Albania, Azerbaijan, Bulgaria, China (People's Rep.), Colombia, Croatia, Cyprus, Hungary, Indonesia, Latvia, Lithuania, Poland, Romania, Slovakia, Switzerland and Turkmenistan with a service passport.
+- nationals of Albania, Azerbaijan, Bulgaria, China (People's Rep.), Colombia, Croatia, Cyprus, Hungary, Indonesia, Latvia, Lithuania, Poland, Romania, Slovakia, Switzerland and Turkmenistan with a service passport;
+- passengers with a visa issued by Mongolia.
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. 
 - This does not apply to:
 - passengers younger than the minimum age required for a COVID-19 test in the departure country;
 - deadheading crew.
-3. Passengers are subject to quarantine for 7 days. Details can be found at <a href="https://tabinfo.mn/en/tab/">https://tabinfo.mn/en/tab/</a> 
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
+3. Passengers are subject to quarantine at designated facilities for 7 days, followed by self-isolation for 7 days. Details can be found at <a href="https://tabinfo.mn/en/tab/">https://tabinfo.mn/en/tab/</a> . 
+- This does not apply to:
+ - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. They are subject to a COVID-19 test upon arrival and self-isolation for 14 days;
+- passengers with a positive COVID-19 test and a recovery certificate issued at most 4 months before arrival. They are subject to a COVID-19 test upon arrival and self-isolation for 14 days. 
 
