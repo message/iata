@@ -16,6 +16,6 @@ Published 03.08.2021
 - deadheading crew.
 3. Passengers are subject to quarantine at designated facilities for 7 days, followed by self-isolation for 7 days. Details can be found at <a href="https://tabinfo.mn/en/tab/">https://tabinfo.mn/en/tab/</a> . 
 - This does not apply to:
- - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. They are subject to a COVID-19 test upon arrival and self-isolation for 14 days;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. They are subject to a COVID-19 test upon arrival and self-isolation for 14 days;
 - passengers with a positive COVID-19 test and a recovery certificate issued at most 4 months before arrival. They are subject to a COVID-19 test upon arrival and self-isolation for 14 days. 
 
