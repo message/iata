@@ -1,8 +1,8 @@
-Published 14.07.2021
-1. Until 31 July 2021, flights from India are suspended.
-2. Until 31 July 2021, passengers who in the past 45 days have been in India are not allowed to enter.
+Published 04.08.2021
+1. Flights from India are suspended.
+2. Passengers who in the past 45 days have been in India are not allowed to enter.
 - This does not apply to nationals of Jordan and their spouses and children.
-3. Until 31 July 2021, passengers are not allowed to enter if in the past 14 days they have been in Bangladesh, Bhutan, Nepal, Myanmar, Pakistan or Sri Lanka.
+3. Passengers are not allowed to enter if in the past 14 days they have been in Bangladesh, Bhutan, Nepal, Myanmar, Pakistan or Sri Lanka.
 4. Passengers are not allowed to transit through Jordan for more than 10 hours.
 5. Passengers must complete a "Declaration Form" before departure at <a href="https://www.gateway2jordan.gov.jo">https://www.gateway2jordan.gov.jo</a> . This will generate a QR code which must be presented before boarding and upon arrival.
 6. Passengers must have health insurance valid for the period of intended stay.
@@ -13,6 +13,7 @@ This does not apply to:
 This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and their family members;
+- nationals of Jordan residing in Jordan with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure, if they have been outside of Jordan for not more than 10 days;
 - passengers traveling to Aqaba (AQJ).
 8. Passengers traveling to Aqaba (AQJ) must have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated; or
@@ -35,3 +36,4 @@ This does not apply to:
 16. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
 17. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a> 
 
+</p>
