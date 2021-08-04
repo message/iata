@@ -41,7 +41,7 @@ Details can be found at <a href="https://www.mhlw.go.jp/content/000800272.pdf">h
 13. Passengers transiting through Tokyo (NRT) must transit on the same calendar day.
 14. Visas issued with "EX-B" or "EX-R" in the Remarks column by a diplomatic representation of Japan in Brunei Darussalam, Cambodia, China (People's Rep.), Chinese Taipei, Korea (Rep.), Lao People's Dem. Rep., Malaysia, Myanmar, Singapore, Thailand or Viet Nam are not accepted for entry.
 15. Passengers must install the "MySOS" mobile app.
-- This does not apply to military personnel and civilian components with SOFA status.
+- This does not apply to military personnel, their dependent family members and other persons with SOFA status.
 16. Passengers with an Olympic Identity and Accreditation Card (OIAC) or Paralympic Identity and Accreditation Card (PIAC) (including cards in Pre-Valid Card (PVC) format) must present a QR code from the app OCHA before departure and upon arrival.
 - This does not apply to:
 - passengers with a "Prior Consent Form" to the Minister of Foreign Affairs of Japan (MOFA) or the Minister of Education, Culture, Sports, Science and Technology of Japan (MEXT);

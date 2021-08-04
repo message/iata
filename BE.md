@@ -1,4 +1,4 @@
-Published 28.07.2021
+Published 04.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
@@ -41,9 +41,9 @@ Published 28.07.2021
 - This does not apply to:
 - passengers residing in Belgium;
 - passengers younger than 12 years;
-- passengers arriving from Austria, Bulgaria, Croatia, Czechia, Estonia, Germany, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Malta, Poland, Romania, San Marino, Slovakia, Slovenia, Switzerland or Vatican City (Holy See);
-- passengers arriving from specific regions of Denmark, Finland, France, Greece, Netherlands, Norway, Portugal, Spain and Sweden. Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a> 
-- passengers arriving from Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova(Rep.), Montenegro, New-Zealand, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Singapore, USA or Ukraine.
+- passengers arriving from Bulgaria, Germany, Hungary, Latvia, Liechtenstein, Lithuania, Poland, Romania, Slovakia or Slovenia;
+- passengers arriving from specific regions of Austria, Croatia, Czechia, Denmark, Finland, France, Greece, Italy, Netherlands, Norway, Portugal, Spain, Sweden and Switzerland. Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a>;
+- passengers arriving from Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro, New-Zealand, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Singapore, USA or Ukraine.
 8. A completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a> or <a href="https://tinyurl.com/yvujyb6h">https://tinyurl.com/yvujyb6h</a> .
 9. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a> 
 10. Passengers are subject to medical screening.
