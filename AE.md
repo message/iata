@@ -13,17 +13,19 @@ Published 04.08.2021
 - passengers traveling to Abu Dhabi (AUH) with a tourist visa issued by Abu Dhabi;
 - passengers traveling to Abu Dhabi (AUH) and arriving from Albania, Armenia, Australia, Austria, Bahrain, Belgium, Brunei Darussalam, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Czechia, Egypt, Germany, Hong Kong (SAR China), Hungary, Israel, Italy, Jordan, Kenya, Korea (Rep.), Lebanon, Maldives, Mauritius, Moldova (Rep.), New Zealand, Poland, Romania, Saudi Arabia, Serbia, Seychelles, Singapore, Switzerland, Turkey, Ukraine or USA with a pre-arranged visa issued by any emirate;
 - nationals of Indonesia traveling under the Safe Travel Corridor program. They must have an entry permit and a return ticket.
-2. Passengers who in the past 14 days have been in Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Pakistan, Sierra Leone, Sri Lanka, Uganda, Viet Nam or Zambia are not allowed to enter and transit.
+2. Passengers who in the past 14 days have been in Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Pakistan, Sierra Leone, Sri Lanka, Uganda, Viet Nam or Zambia are not allowed to enter and transit (effective 5 August 2021, transit will be allowed).
 - This does not apply to:
 - nationals of United Arab Emirates and their first degree family members;
 - passengers with a diplomatic or an official passport traveling on duty;
-- passengers with a golden visa or a silver visa issued by United Arab Emirates.
+- passengers with a golden visa or a silver visa issued by United Arab Emirates;
+- effective 5 August 2021, passengers arriving from India, Nepal, Nigeria, Pakistan, Sri Lanka or Uganda with a residence visa issued by United Arab Emirates and with a COVID-19 vaccination certificate issued in United Arab Emirates showing that they were fully vaccinated at least 14 days before departure. They must have an approval from <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx</a> ;
+- effective 5 August 2021, students studying in United Arab Emirates and arriving from India, Nepal, Nigeria, Pakistan, Sri Lanka or Uganda. They must have an approval from <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx</a> .
 3. Passengers who in the past 14 days have been in Afghanistan or Indonesia are not allowed to enter.
 - This does not apply to:
 - nationals of United Arab Emirates and their first degree family members;
 - passengers with a diplomatic or an official passport traveling on duty;
 - passengers with a golden visa or a silver visa issued by United Arab Emirates.
-4. Passengers who in the past 14 days have been in or transited through Nigeria or South Africa are not allowed to enter and transit.
+4. Passengers who in the past 14 days have been in or transited through Nigeria or South Africa are not allowed to enter and transit (effective 5 August 2021, transit will be allowed).
 - This does not apply to:
 - nationals of United Arab Emirates;
 - passengers with a diplomatic passport traveling on duty with an official letter from the MOFA of United Arab Emirates.
@@ -92,4 +94,8 @@ Published 04.08.2021
 26. Passengers arriving at Sharjah (SHJ) must download the ALHOSN App.
 27. Flights from Congo (Dem. Rep.), India, Nigeria, South Africa, Uganda, Viet Nam, Yemen and Zambia are suspended.
 28. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
+29. Effective 5 August 2021, passengers transiting through United Arab Emirates who in the past 14 days have been in Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Pakistan, Sierra Leone, Sri Lanka, Uganda, Viet Nam or Zambia must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+- This does not apply to:
+- passengers younger than 12 years;
+- passengers with disabilities.
 
