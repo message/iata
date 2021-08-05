@@ -1,8 +1,8 @@
-Published 04.08.2021
+Published 05.08.2021
 1. Until 10 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Norway;
-- spouses, registered partners, minor children or stepchildren, parents or stepparents of minor children or stepchildren of residents of Norway. They must present a proof confirming the relationship;
+- spouses, registered partners, unmarried partners, minor children or stepchildren, parents or stepparents of minor children or stepchildren of residents of Norway. They must present a proof confirming the relationship;
 - adult children or stepchildren, parents or stepparents of adult children or stepchildren, grandchildren or step-grandchildren, grandparents or step-grandparents of residents of Norway, if residing in Albania, Australia, Azerbaijan, Bosnia and Herzegovina, Canada, Chinese Taipei, Kosovo (Rep.), Moldova (Rep.), New Zealand, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Singapore, Switzerland, Ukraine, United Kingdom or an EEA Member State. They must present a proof confirming the relationship;
 - boyfriends or girlfriends of residents of Norway and their minor children, if residing in Albania, Australia, Azerbaijan, Bosnia and Herzegovina, Canada, Chinese Taipei, Kosovo (Rep.), Moldova (Rep.), New Zealand, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Singapore, Switzerland, Ukraine, United Kingdom or an EEA Member State. They must have a consent application issued by the Norway Directorate of Immigration (UDI);
 - passengers who are residing in and in the past 10 days have been in specific green regions of Denmark, Finland and Sweden. Details can be found at <a href="https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from">https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from</a>;
