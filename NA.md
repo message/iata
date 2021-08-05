@@ -1,5 +1,5 @@
-Published 03.08.2021 
-1. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
+Published 05.08.2021 
+1. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival.
 This does not apply to:
 - nationals and residents of Namibia;
 - passengers who are 5 years or younger.

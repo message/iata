@@ -1,4 +1,4 @@
-Published 03.08.2021
+Published 05.08.2021
 1. Until 31 August 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
@@ -16,11 +16,7 @@ This does not apply to:
 - have a medical insurance; and
 - be traveling to the country where they study, at most 15 days before the start of the course; and
 - be arriving from a country other than Argentina, Bolivia, Colombia, India or Namibia.
-2. Until 3 August 2021, flights from Brazil and South Africa to Spain are suspended.
-This does not apply to:
-- nationals and residents of Andorra and Spain;
-- passengers transiting through Spain to a non-Schengen Member State.
-3. Passengers must have:
+2. Passengers must have:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
 - a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival; or
@@ -30,14 +26,14 @@ This does not apply to:
 - passengers arriving from Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Estonia, Germany, Hong Kong (SAR China), Hungary, Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Macao (SAR China), Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Poland, Qatar, Romania, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, USA or Ukraine;
 - passengers arriving from Austria (excluding Salzburg and Wien); arriving from Croatia (excluding Jadranska Hrvatska); arriving from Czechia (excluding Prague), arriving from Finland (excluding Etela-Suomi, Helsinki-Uusimaa and Lansi-Suomi); arriving from France (excluding Corse, Martinique, Auvergne-Rhone-Alpes, Guadeloupe, Guyane, Ile-de-France, La Reunion, Nouvelle-Aquitaine, Occitanie, Provence-Alpes-Cote d'Azur, Bourgogne-Franche-Comte, Bretagne, Centre - Val de Loire, Grand Est, Hauts-de-France, Normandie and Pays de la Loire); arriving from Greece (excluding Kriti, Notio Aigaio, Attiki, Dytiki Ellada, Dytiki Makedonia, Ionia Nisia, Ipeiros, Kentriki Makedonia, Peloponnisos, Thessalia, Anatoliki Makedonia-Thraki, Sterea Ellada and Voreio Aigaio); arriving from Italy (excluding Sardegna, Sicilia, Calabria, Campania, Emilia-Romagna, Lazio, Liguria, Lombardia, Marche, Provincia Autonoma di Trento,Toscana, Umbria and Veneto); arriving from Norway (excluding Nordland, Troms og Finnmark and Vestland); or arriving from Sweden (excluding Stockholm);
 - deadheading crew.
-4. Passengers arriving from the United Kingdom must have:
+3. Passengers arriving from the United Kingdom must have:
 - a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or 
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival.
 This does not apply to:
 - passengers younger than 12 years;
 - deadheading crew.
-5. Passengers entering or transiting through Spain must complete an "FCS Health Control Form" before departure at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> or via the Spain Travel Health-SpTH App. This will generate a QR code which must be presented upon arrival.
+4. Passengers entering or transiting through Spain must complete an "FCS Health Control Form" before departure at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> or via the Spain Travel Health-SpTH App. This will generate a QR code which must be presented upon arrival.
 - This does not apply to deadheading crew.
-6. Passengers arriving from Argentina, Bolivia, Colombia, India or Namibia are subject to quarantine for 10 days.
-7. Passengers are subject to medical screening upon arrival.
+5. Passengers arriving from Argentina, Bolivia, Brazil, Colombia, Namibia or South Africa are subject to quarantine for 10 days.
+6. Passengers are subject to medical screening upon arrival.
 

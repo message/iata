@@ -1,4 +1,4 @@
-Published 23.07.2021
+Published 05.08.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - British nationals and nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -12,7 +12,7 @@ This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
 2. Passengers must present a completed “Travellers Questionnaire for the prevention of the spread of COVID-19" at check-in or upon arrival. The form can be found at <a href="https://iseteenindus.terviseamet.ee/">https://iseteenindus.terviseamet.ee/</a> .
 3. Passengers must have:
-- a negative COVID-19 PCR test taken at most 72 hours before arrival; or
+- a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival; or
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival.
 - This does not apply to:
 - passengers younger than 12 years;
