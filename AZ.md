@@ -1,21 +1,16 @@
-Published 04.08.2021 
+Published 05.08.2021 
 1. Until 1 September 2021, passengers are not allowed to enter.
 - This does not apply to:
-- nationals of Azerbaijan, Bahrain, Hungary, Israel, Qatar, Russian Fed., Turkey, USA and United Arab Emirates;
+- nationals of Austria, Azerbaijan, Bahrain, Belgium, Canada, Czechia, Denmark, Germany, Greece, Hungary, Ireland (Rep.), Israel, Luxembourg, Malta, Netherlands, Poland, Portugal, Qatar, Russian Fed., Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, USA and United Arab Emirates;
 - British nationals;
-- residents of Azerbaijan, Bahrain, Qatar and United Arab Emirates. Residence permits issued by Bahrain and Qatar must be valid for a minimum of 95 days on arrival and those issued by the United Arab Emirates must be valid for a minimum of 185 days on arrival;
-- From 5 August 2021, nationals of Austria, Belgium, Canada, Czechia, Denmark, Germany, Greece, Ireland (Rep.), Luxembourg, Malta, Netherlands, Poland, Portugal, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden and Switzerland. 
+- residents of Azerbaijan, Bahrain, Qatar and United Arab Emirates. Residence permits issued by Bahrain and Qatar must be valid for a minimum of 95 days on arrival and those issued by the United Arab Emirates must be valid for a minimum of 185 days on arrival.
 2. Passengers must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Azerbaijan.
 - This does not apply to passengers younger than 1 year.
-3. British nationals and nationals of Bahrain, Hungary, Israel, Qatar, Russian Fed., Turkey, USA and United Arab Emirates must have:
+3. British nationals and nationals of Austria, Bahrain, Belgium, Canada, Czechia, Denmark, Germany, Greece, Hungary, Ireland (Rep.), Israel, Luxembourg, Malta, Netherlands, Poland, Portugal, Qatar, Russian Fed., Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, USA and United Arab Emirates must have:
 - a COVID-19 vaccination certificate with a QR code showing that they were fully vaccinated; or
 - a COVID-19 recovery certificate with a QR code.
 - This does not apply to passengers younger than 18 years.
-4. From 5 August 2021, nationals of Austria, Belgium, Canada, Czechia, Denmark, Germany, Greece, Ireland (Rep.), Luxembourg, Malta, Netherlands, Poland, Portugal, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden and Switzerland must have:
-- a COVID-19 vaccination certificate with a QR code showing that they were fully vaccinated; or
-- a COVID-19 recovery certificate with a QR code.
-- This does not apply to passengers younger than 18 years. 
-5. Residents of Bahrain, Qatar and United Arab Emirates must have:
+4. Residents of Bahrain, Qatar and United Arab Emirates must have:
 - a COVID-19 vaccination certificate with a QR code showing that they were fully vaccinated; or
 - a COVID-19 recovery certificate with a QR code.
 - This does not apply to passengers younger than 18 years.
