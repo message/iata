@@ -1,62 +1,17 @@
-Published 01.08.2021
-1. Until 30 August 2021, passengers are not allowed to enter.
+Published 03.06.2020
+1. Passengers are not allowed to enter
 - This does not apply to:
-- nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
-- passengers with a long-term residence permit or a long term "D" visa issued by Switzerland or an EEA Member State;
-- family members of nationals and residents of Switzerland or an EEA Member State;
-- passenger with proof of being unmarried partners of residents of Italy;
-- passengers who in the past 14 days have only been in or transited through Albania, Andorra, Armenia, Austria, Australia, Azerbaijan, Belgium, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Hong Kong (SAR China), Finland, France, French Guiana, French West Indies (only Guadeloupe and Martinique), Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Japan, Jordan, Korea Rep., Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Mayotte, Moldova (Rep.), Monaco, Montenegro, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Qatar, Reunion, Romania, Rwanda, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Ukraine, United Arab Emirates, United Kingdom or USA;
+- nationals or residents of Italy;
 - passengers traveling on business;
+- passengers traveling for urgent health reasons;
+- healthcare personnel traveling on duty;
+- passengers traveling for emergency reasons;
 - passengers returning via Italy to their country of residence;
-- students;
-- military personnel.
-2. Until 30 August 2021, passengers who have been in or transited through Brazil in the past 14 days are not allowed to enter and transit.
-- This does not apply to:
-- passengers residing in Italy since before 13 February 2021;
-- parents of children younger than 18 years who are residing in Italy;
-- military personnel.
-3. Until 30 August 2021, passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.
-- This does not apply to:
-- nationals of Italy residing in Italy since before 29 April 2021;
-- nationals of Italy registered with the A.I.R.E.
-4. Passengers must complete a Digital Passenger Locator Form at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a> 
-5. Passengers must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish.
-- This does not apply to:
-- passengers arriving from Andorra, Austria, Bangladesh, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies (only Guadeloupe and Martinique), Germany, Gibraltar, Greece, Hungary, Iceland, India, Ireland, Israel, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, San Marino, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Kingdom or Vatican City (Holy See);
-- military personnel;
-- passengers younger than 6 years;
-- more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> 
-6. Passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies (only Guadeloupe and Martinique), Germany, Greece, Hungary, Iceland, Ireland, Israel, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland must have:
-- a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival; or
-- a COVID-19 recovery certificate; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
-All documents must be in English, French, Italian or Spanish.
-All documents for passengers arriving from Israel must be issued in Israel.
-- This does not apply to:
-- military personnel;
-- passengers younger than 6 years;
-- more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> 
-7. Passengers arriving from Canada, Japan or USA must have:
-- a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival; or
-- a COVID-19 recovery certificate; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
-All documents must be in English, French, Italian or Spanish, and be issued in the country they are arriving from.
-- This does not apply to:
-- military personnel;
-- passengers younger than 6 years;
-- more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> 
-8. Passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to:
-- a COVID-19 antigen or molecular test upon arrival; and
-- quarantine in a hotel for 10 days; and
-- another COVID-19 antigen or molecular test at the end of quarantine.
-- This does not apply to passengers younger than 6 years.
-9. Passengers who have been in or transited through Gibraltar or United Kingdom in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to self-isolation for 5 days and a COVID-19 antigen or molecular test at the end of the self-isolation.
-- This does not apply to passengers younger than 6 years.
-10. Passengers who have been in or transited through Brazil in the past 14 days are subject to a COVID-19 antigen or molecular test upon arrival.
-- This does not apply to passengers younger than 6 years.
-11. Passengers traveling to Puglia must present a completed health declaration form upon arrival. The form can be obtained at <a href="https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus">https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus</a> 
-12. Passengers could be subject to self-isolation for 5 or 10 days and to a COVID-19 antigen or molecular test at the end of self-isolation. More details can be found at <a href="https://infocovid.viaggiaresicuri.it/index_en.html">https://infocovid.viaggiaresicuri.it/index_en.html</a> 
-13. Passengers traveling to Sicily who in the past 14 days have been in or transited through France, Greece, Malta, Netherlands, Portugal or Spain are subject to a COVID-19 test upon arrival.
-14. Passengers traveling to Pescara (PSR) from Malta, Spain or United Kingdom are subject to a COVID-19 test upon arrival and self-isolation until the test result is ready.
-15. Residence permits issued by Italy which expired after 31 January 2020 are considered valid until 31 July 2021.
+- passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom.
+2. Residence permits issued by Italy which have expired between 31 January and 31 July 2020, are considered valid until 31 August 2020.
+3. Passengers must present a completed self-declaration form to the transporting carrier and must communicate their entry to the Department of Prevention at local health units (ASL) of the entrance district. 
+- This does not apply to passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom. 
+4. Passengers are subject to quarantine for 14 days. 
+- This does not apply to passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom. 
+- This does not apply to passengers traveling on business if their stay in Italy does not exceed 72 hours and if granted, the additional 48 hours of a justified extension for specific needs.
 
