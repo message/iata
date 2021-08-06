@@ -1,4 +1,4 @@
-Published 02.08.2021
+Published 06.08.2021
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
@@ -8,7 +8,7 @@ Published 02.08.2021
 - This does not apply to passengers (except those with travel history to Bangladesh, India, Myanmar, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with an approval letter from the Safe Travel Office (STO), Ministry of Foreign Affairs (MFA), Ministry of Education (MOE), Ministry of Health (MOH), or Ministry of Trade and Industry (MTI).
 - This does not apply to passengers (except those with travel history to Bangladesh, India, Myanmar, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with a Business Travel Pass (BTP) or a Pre-Approved Business Pass (PBP).
 - This does not apply to passengers with an Air Travel Pass approval letter issued by Singapore if they:
-- have stayed in Brunei Darussalam, China (People's Rep.) (excluding Jiangsu province) or New Zealand in the last 21 days before departure; and
+- have stayed in Brunei Darussalam, China (People's Rep.) (excluding Jiangsu province), Chinese Taipei (effective 8 August 2021) or New Zealand in the last 21 days before departure; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor).
 - This does not apply to residents of Brunei Darussalam if they:
 - have a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane; and
@@ -26,7 +26,8 @@ Published 02.08.2021
 2. Passengers entering and transiting Singapore must have a negative COVID-19 PCR test result taken at most 72 hours before departure. The test result must be in English and must include the date the test was taken, and a minimum of 2 personal identifiers as stated in the passport (i.e. name and either date of birth or passport number). More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements">https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements</a> .
 - This does not apply to:
 - passengers younger than 3 years;
-- passengers who in the past 21 days have only been to or transited through Brunei Darussalam, China (People’s Rep.), Hong Kong SAR, China, Indonesia, Macao SAR, China or New Zealand.
+- passengers who in the past 21 days have only been in or transited through Brunei Darussalam, China (People’s Rep.), Hong Kong SAR, China, Indonesia, Macao SAR, China or New Zealand;
+- effective 8 August 2021, passengers who in the past 21 days have only been in or transited through Chinese Taipei.
 3. Passengers who have been in Indonesia in the past 21 days must have a negative COVID-19 PCR test taken at most 48 hours before departure.
 - This does not apply to passengers younger than 3 years.
 4. Passengers with an Air Travel Pass approval letter issued by Singapore, passengers with a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane and Singapore-China Fast Lane, and passengers with an approval letter from the Ministry of Trade and Industry (MTI) with the reference numbers C01 or C21 must: 
