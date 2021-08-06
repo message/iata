@@ -17,6 +17,6 @@ This does not apply to:
 6. Passengers arriving from a country other than Egypt, Iran, Singapore or the United Kingdom, could be subject to a PCR test at their final destination in Turkey.
 7. Until 14 September 2021, a completed "Traveler Entry Form" must be presented at check-in and upon arrival. The form can be obtained at <a href="https://register.health.gov.tr/">https://register.health.gov.tr</a> 
 - This does not apply to passengers younger than 6 years.
-8. Passengers could be subject to quarantine for up to 14 days, at their own expense, in a government designated hotel. Details can be found at <a href="http://www.shgm.gov.tr/tr/covid-19-tedbirler/6599-izolasyon-otelleri">www.shgm.gov.tr/tr/covid-19-tedbirler/6599-izolasyon-otelleri</a>
+8. Passengers could be subject to quarantine for up to 14 days, at their own expense, in a government designated hotel listed at <a href="http://www.shgm.gov.tr/tr/covid-19-tedbirler/6599-izolasyon-otelleri">www.shgm.gov.tr/tr/covid-19-tedbirler/6599-izolasyon-otelleri</a> 
 9. Diplomatic and official passports issued to nationals of North Macedonia (Rep.) which expired on 31 July 2020 or later are considered valid until 31 December 2021.
 
