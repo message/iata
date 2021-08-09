@@ -1,4 +1,4 @@
-Published 29.07.2021
+Published 09.08.2021
 1. Until 21 August 2021, flights from India are suspended.
 2. Until 21 August 2021, passengers are not allowed to enter.
 - This does not apply to:
@@ -11,6 +11,7 @@ Published 29.07.2021
 - extended family members of nationals of Canada, of permanent residents of Canada and of persons registered under Canada’s Indian Act. They must stay for at least 15 days, have a quarantine plan, and have a written authorization issued by Immigration, Refugees and Citizenship Canada (IRCC);
 - passengers with an authorization from the Public Health Agency of Canada (PHAC);
 - passengers with a letter of authorization from the Deputy Minister of Canadian Heritage (PCH);
+- nationals and permanent residents of the USA arriving from the USA with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Covishield), Janssen, Moderna or Pfizer-BioNTech;
 - passengers arriving directly from the USA and traveling on an essential purpose listed on <a href="https://tinyurl.com/4absxrpa">https://tinyurl.com/4absxrpa</a> ;
 - passengers with a study permit or a post-graduation work permit, issued by Canada. They must be attending a designated learning institution (DLI) with a COVID-19 readiness plan approved by its province or territory. They must travel only to attend their study;
 - passengers with an application for permanent residence. They must have a written notice issued under the Immigration and Refugee Protection Act;
