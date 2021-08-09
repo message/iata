@@ -1,7 +1,8 @@
-Published 03.08.2021
-1. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure. 
-2. Passengers are subject to a PCR test upon arrival. 
-- This does not apply to passengers with a medical certificate with a negative Coronavirus (COVID-19) PCR test result with a test taken at most 72 hours before arrival.
+Published 09.08.2021
+1. Passengers must have a COVID-19 vaccination certificate showing that they have received at least one dose. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac and Sputnik V.
+- This does not apply to nationals of Guyana.
+2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure.
+- This does not apply to passengers with a negative COVID-19 PCR test taken at most 7 days before arrival who are subject to a COVID-19 PCR test upon arrival and quarantine until test results are ready.
 3. Passengers could be subject to quarantine.
 4. Passengers without a completed "Passenger Locator Form" obtained at least 24 hours before departure at <a href="https://guyanatravel.gy/passenger-locator-form/">https://guyanatravel.gy/passenger-locator-form/</a> must complete a Health Declaration Form before arrival.
 5. Passengers arriving from Trinidad and Tobago must have a COVID-19 vaccination certificate showing that they were fully vaccinated. 
