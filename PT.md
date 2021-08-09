@@ -1,4 +1,4 @@
-Published 26.07.2021
+Published 09.08.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
@@ -17,9 +17,11 @@ This does not apply to:
 This does not apply to:
 - passengers younger than 12 years;
 - passengers traveling on a direct flight to Azores or Madeira.
-4. Passengers traveling on a direct flight to Azores without a negative COVID-19 RT-PCR test based on nasopharyngeal or oropharyngeal swab and taken at most 72 hours before departure, are subject to a test upon arrival.
+4. Passengers traveling on a direct flight to Azores are subject to a COVID-19 test upon arrival.
 - This does not apply to:
-- passengers younger than 12 years; 
+- passengers who are 12 years or younger;
+- passengers with a negative COVID-19 RT-PCR test based on nasopharyngeal or oropharyngeal swab and taken at most 72 hours before departure;
+- passengers with a COVID-19 recovery certificate issued at most 180 days before arrival;
 - passengers with an EU Digital Covid Certificate (EU DCC).
 5. Passengers traveling on a direct flight to Madeira without a negative COVID-19 RT-PCR test result of a test taken at most 72 hours before departure are subject to an RT-PCR test upon arrival and quarantine.
 This does not apply to:
