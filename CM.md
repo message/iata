@@ -4,7 +4,6 @@ Published 09.08.2021
 - nationals and residents of Cameroon;
 - passengers with a visa.
 2. Passengers must have a negative COVID-19 PCR test taken at most 3 days before departure from the first embarkation point.
-- This does not apply to passengers younger than 10 years.
+- This does not apply to passengers younger than 5 years.
 3. Passengers are subject to a COVID-19 rapid antigen test upon arrival.
-- This does not apply to passengers younger than 10 years.
 
