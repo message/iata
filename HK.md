@@ -1,4 +1,4 @@
-Published 09.08.2021
+Published 10.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -9,11 +9,12 @@ Published 09.08.2021
 - residents of Hong Kong SAR, China with an Identity card with the code "U". They must have a prior approval from Hong Kong Immigration;
 - residents of Hong Kong SAR, China with an Identity card accompanied by a visa with "Permission to remain extended until". They must enter within the validity of the permitted stay;
 - passengers with a residence or study visa issued by Hong Kong SAR, China;
-- passengers who in the past 14 days have only been in Australia, the Mainland of China, Macao SAR, China or New Zealand;
+- passengers who in the past 14 days have only been in Australia, the Mainland of China, Chinese Taipei, Macao SAR, China or New Zealand;
 - passengers with a diplomatic, an official or a service passport traveling on duty;
 - spouses and minor children younger than 18 years of Hong Kong SAR, China residents. They must present proof of their relationship;
 - deadheading crew;
-- merchant seamen.
+- merchant seamen;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. They must not have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, Russian Fed., South Africa or United Kingdom in the past 21 days. The certificate must be in Chinese or English or accompanied by a written confirmation in Chinese or English issued by the health authority of the country of vaccination. Details on accepted vaccines can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> .
 2. Passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, Russian Fed., South Africa or United Kingdom for more than 2 hours are not allowed to enter.
 - This does not apply to:
 - merchant seamen;
