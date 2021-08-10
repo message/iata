@@ -1,4 +1,4 @@
-Published 18.05.2021 
+Published 10.08.2021 
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Angola;
@@ -9,5 +9,5 @@ Published 18.05.2021
 - are subject to a COVID-19 rapid test upon arrival; and
 - are subject to quarantine for 10 days.
 4. Airline crew are subject to self-isolation until their next flight.
-5. Residence permits, refugee cards and temporary stay visas issued by Angola which expired after 28 February 2020 are considered valid until 31 July 2021.
+5. Residence permits, refugee cards and temporary stay visas issued by Angola which expired after 28 February 2020 are considered valid.
 
