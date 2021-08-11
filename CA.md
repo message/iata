@@ -1,6 +1,6 @@
-Published 10.08.2021
-1. Until 21 August 2021, flights from India are suspended.
-2. Until 21 August 2021, passengers are not allowed to enter.
+Published 11.08.2021
+1. Until 21 September 2021, flights from India are suspended.
+2. Until 21 September 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Canada;
 - dual nationals of Canada with a Special Authorization approval email;
@@ -12,12 +12,11 @@ Published 10.08.2021
 - passengers with an authorization from the Public Health Agency of Canada (PHAC);
 - passengers with a letter of authorization from the Deputy Minister of Canadian Heritage (PCH);
 - nationals and permanent residents of the USA arriving from the USA with a COVID-19 vaccination certificate uploaded in ArriveCAN showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech;
-- nationals of France and residents of Saint-Pierre and Miquelon arriving from Saint-Pierre and Miquelon with a COVID-19 vaccination certificate uploaded in ArriveCAN showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech;
+- nationals of France and residents of St. Pierre and Miquelon arriving from St. Pierre and Miquelon with a COVID-19 vaccination certificate uploaded in ArriveCAN showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech;
 - passengers arriving directly from the USA and traveling on an essential purpose listed on <a href="https://tinyurl.com/4absxrpa">https://tinyurl.com/4absxrpa</a> ;
 - passengers with a study permit or a post-graduation work permit, issued by Canada. They must be attending a designated learning institution (DLI) with a COVID-19 readiness plan approved by its province or territory. They must travel only to attend their study;
 - passengers with an application for permanent residence. They must have a written notice issued under the Immigration and Refugee Protection Act;
 - members of the Canadian forces traveling on duty, and their immediate family members;
-- nationals of France who live in Saint-Pierre and Miquelon and who only been in Canada, the US or Saint-Pierre and Miquelon in the past 14 days;
 - more exemptions can be found at <a href="https://tinyurl.com/s4tbrc8">https://tinyurl.com/s4tbrc8</a> .
 3. Passengers and airline crew must submit their information electronically, at most 72 hours before arrival, through the ArriveCAN app or the website <a href="https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html">https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html</a> 
 4. Passengers must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. More details can be found at <a href="https://tinyurl.com/uuf5nntc">https://tinyurl.com/uuf5nntc</a> .
