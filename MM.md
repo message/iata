@@ -9,3 +9,4 @@ Published 30.07.2021
 5. Airline crew are subject to quarantine until their next flight.
 6. Suspension of all visa exemptions and visa on arrival facilities.
 
+Array
