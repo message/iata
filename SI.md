@@ -1,4 +1,4 @@
-Published 10.08.2021
+Published 12.08.2021
 1. Passengers could be subject to quarantine for 10 days. Details can be found at <a href="https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/">https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/</a> .
 - This does not apply to:
 - passengers with a negative COVID-19 PCR test taken at most 72 hours before arrival. The test must be taken in an international transit area of an airport; or
@@ -15,5 +15,6 @@ Published 10.08.2021
 - the second vaccine dose of Pfizer-BioNTech at least 7 days before arrival; or
 - the second vaccine dose of Moderna, Sputnik V, Sinovac or Sinopharm at least 14 days before arrival;
 - More exemptions can be found at <a href="https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/">https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/</a> .
-2. More COVID-19 related information can be found at <a href="https://www.policija.si/enterslovenia/en">https://www.policija.si/enterslovenia/en</a> .
+2. From 16 August 2021, passengers must complete a Digital Passenger Locator Form (DPLF) obtained at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a> .
+3. More COVID-19 related information can be found at <a href="https://www.policija.si/enterslovenia/en">https://www.policija.si/enterslovenia/en</a> .
 
