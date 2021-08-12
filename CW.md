@@ -1,4 +1,4 @@
-Published 11.08.28021
+Published 12.08.2021
 1. Passengers must present a "Digital Immigration Card" and a "Public Health Passenger Locator Card (PLC)" obtained at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a> . The forms must be completed at most 48 hours before departure.
 2. Passengers arriving from Aruba, Cuba, Guadeloupe, Martinique, Spain, United Kingdom, Venezuela or Virgin Isl. (British), must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test results must be uploaded at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a> 
 - This does not apply to:
@@ -22,7 +22,7 @@ a recovery certificate or at least the last two positive COVID-19 tests;
 - passengers who reside in Curacao;
 - passengers with a diplomatic passport;
 - passengers staying for less than 24 hours;
-- members from the Dutch Armed Forces and their family members.
+- members from the Dutch Armed Forces and their immediate family members.
 5. Passengers are subject to medical screening upon arrival.
 6. More information can be found at <a href="https://ccaa.cw/publications/covid-19/">https://ccaa.cw/publications/covid-19/</a> 
 
