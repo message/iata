@@ -1,4 +1,4 @@
-Published 30.07.2021
+Published 12.08.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals of Malaysia;
@@ -15,6 +15,7 @@ This does not apply to:
 4. Passengers entering or transiting through Malaysia must have a negative COVID-19 RT-PCR test taken at most 3 days before departure from the first embarkation point.
 5. Passengers are subject to a COVID-19 RT-PCR test upon arrival at their own expense.
 6. Passengers are subject to medical screening and quarantine for 14 days or 21 days at the first point of entry at their own expense.
+- This does not apply to nationals and residents of Malaysia with a COVID-19 vaccination certificate showing that they were fully vaccinated. They are subject to self-isolation at home for 14 days. They must send an email to <a href="mailto:hso@moh.gov.my">hso@moh.gov.my</a> at least 3 days before departure to apply for the home isolation.
 7. Airline crew must have their names listed on the General Declaration.
 8. Airline crew are subject to quarantine until their next flight and must install 'MySejahtera app' in their phone.
 9. The maximum transit time through Kuala Lumpur (KUL) changed from 48 hours to 24 hours.
