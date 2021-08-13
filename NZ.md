@@ -1,4 +1,4 @@
-Published 01.08.2021
+Published 13.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -7,7 +7,7 @@ Published 01.08.2021
 - nationals or permanent residents of Australia residing in New Zealand;
 - passengers who have a visa and have been granted an exemption before departure; details can be found at <a href="https://www.immigration.govt.nz/formshelp/request-for-travel-to-new-zealand">https://www.immigration.govt.nz/formshelp/request-for-travel-to-new-zealand</a> ;
 - passengers arriving from Cook Isl. or Niue if they in the past 14 days have only been in Cook Isl., New Zealand or Niue.
-2. Passengers who in the past 14 days have been in or transited through Brazil, India, Pakistan or Papua New Guinea are not allowed to enter.
+2. Passengers who in the past 14 days have been in or transited through Brazil, Fiji (effective 16 August 2021), India, Indonesia (effective 16 August 2021), Pakistan or Papua New Guinea are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
 - partner or dependent child of a national of New Zealand;
@@ -15,10 +15,10 @@ Published 01.08.2021
 3. Passengers are not allowed to transit.
 - This does not apply to:
 - nationals of New Zealand;
-- nationals of Australia if they have not been in Brazil, India, Pakistan and Papua New Guinea in the past 14 days;
-- residents of New Zealand if they have not been in Brazil, India, Pakistan and Papua New Guinea in the past 14 days;
-- passengers with a New Zealand Electronic Travel Authority (NZeTA) if they have not been in Brazil, India, Pakistan and Papua New Guinea in the past 14 days;
-- passengers with a visa issued by New Zealand if they have not been in Brazil, India, Pakistan and Papua New Guinea in the past 14 days.
+- nationals of Australia if they have not been in Brazil, India, Indonesia (effective 16 August 2021), Pakistan or Papua New Guinea in the past 14 days;
+- residents of New Zealand if they have not been in Brazil, India, Indonesia (effective 16 August 2021), Pakistan or Papua New Guinea in the past 14 days;
+- passengers with a New Zealand Electronic Travel Authority (NZeTA) if they have not been in Brazil, India, Indonesia (effective 16 August 2021), Pakistan or Papua New Guinea in the past 14 days;
+- passengers with a visa issued by New Zealand if they have not been in Brazil, India, Indonesia (effective 16 August 2021), Pakistan or Papua New Guinea in the past 14 days.
 4. Passengers are not allowed to transit through New Zealand to Australia, Cook Isl. or Niue if they are arriving from Australia, Cook Isl. or Niue.
 5. Passengers are not allowed to transit through New Zealand to China (People's Rep.).
 - This does not apply to nationals of China (People’s Rep.) arriving from Cook Isl., Fiji, Niue, Samoa, Tonga or Vanuatu.

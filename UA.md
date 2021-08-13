@@ -9,7 +9,7 @@ This does not apply to:
 - merchant seamen;
 - NATO military personnel.
 2. Passengers must have insurance to cover medical expenses in Ukraine.
- - This does not apply to:
+- This does not apply to:
 - nationals of Ukraine permanent residents of Ukraine;
 - passengers with a diplomatic passport;
 - merchant seamen;

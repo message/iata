@@ -1,4 +1,4 @@
-Published 12.08.2021
+Published 13.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -32,7 +32,7 @@ Published 12.08.2021
 - approved by the local government.
 All documents must be in Chinese or English.
 - This does not apply to passengers arriving from the Mainland of China or Macao SAR, China.
-6. Passengers arriving from the Mainland of China or Macao SAR, China must have a negative COVID-19 nucleic acid test taken at most 3 days before departure.
+6. Passengers arriving from the Mainland of China or Macao SAR, China must have a negative COVID-19 nucleic acid test taken at most 3 days before arrival.
 7. Passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, Russian Fed., South Africa or United Kingdom must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> .
 8. Passengers without a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The certificate must be in Chinese or English or accompanied by a written confirmation in Chinese or English issued by the health authority of the country of vaccination. The hotel must be listed on <a href="https://www.coronavirus.gov.hk/eng/designated-hotel-list.html">https://www.coronavirus.gov.hk/eng/designated-hotel-list.html</a> . Details can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> 
 - This does not apply to:
