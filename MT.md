@@ -1,4 +1,4 @@
-Published 09.08.2021
+Published 13.08.2021
 1. Until 31 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - Nationals and residents of Malta with:
@@ -11,7 +11,9 @@ Published 09.08.2021
 - a "Digital Green Certificate" issued in Serbia, with a QR code and showing that they were fully vaccinated at least 14 days before arrival; or
 - a COVID-19 vaccination certificate issued by Qatar Ministry of Public Health showing that they were fully vaccinated at least 14 days before arrival; or
 - a digital COVID-19 vaccination certificate "Certifikate Dixhitale Shqiptare" issued by Albania; or
-- a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. The vaccination certificate must be verified through the VeriFLY app.
+- a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be verified through the VeriFLY app;
+- a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App;
+- a medical certificate showing pregnancy or an antenatal record card.
 - Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;
 - passengers arriving from Albania, Andorra, Armenia, Australia, Austria, Azerbaijan, Belgium, Belize, Bhutan, Bosnia and Herzegovina, Bulgaria, Canada, China (People's Rep.), Croatia, Cuba Cyprus, Czechia, Denmark, Egypt, Estonia, Faroe Isl., Fiji, Finland, France, Georgia, Germany, Gibraltar, Greece, Hungary, Iceland, Iran, Ireland (Rep.), Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kosovo (Rep.), Korea (Rep.), Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Micronesia (Federated States), Moldova (Rep.), Monaco, Montenegro, Netherlands, New Zealand, Northern Macedonia (Rep.), Northern Mariana Isl., Norway, Palau, Panama, Poland, Portugal, Qatar, Romania, Samoa, (American), San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Arab Emirates, United Kingdom, USA (only the states of Alabama, Alaska, Arizona, Arkansas, California, Carolina,Colorado, Connecticut, Delaware, District of Colombia, Florida, Georgia, Guam, Hawaii, Idaho, Illinois,Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Mexico, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Puerto Rico, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin or Wyoming), Vatican City (Holy See) or Vietnam. They must have been in one of these countries for at least 14 days before arrival and must have:
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
@@ -23,7 +25,9 @@ Published 09.08.2021
 - a "Digital Green Certificate" issued in Serbia, with a QR code and showing that they were fully vaccinated at least 14 days before arrival; or
 - a COVID-19 vaccination certificate issued by Qatar Ministry of Public Health showing that they were fully vaccinated at least 14 days before arrival; or
 - a digital COVID-19 vaccination certificate "Certifikate Dixhitale Shqiptare" issued by Albania; or
-- a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be verified through the VeriFLY app.
+- a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be verified through the VeriFLY app;
+- a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App;
+- a medical certificate showing pregnancy or an antenatal record card.
 - Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;
 - passengers arriving on humanitarian, medevac or repatriation flights;
 - merchant Seamen.
@@ -42,7 +46,8 @@ Published 09.08.2021
 - passengers with a "Digital Green Certificate" issued in Serbia, with a QR code and showing that they were fully vaccinated at least 14 days before arrival; or
 - passengers with a COVID-19 vaccination certificate issued by Qatar Ministry of Public Health showing that they were fully vaccinated at least 14 days before arrival; or
 - passengers with a digital COVID-19 vaccination certificate "Certifikate Dixhitale Shqiptare" issued by Albania; or
-- passengers with a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be verified through the VeriFLY app.
+- passengers with a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be verified through the VeriFLY app;
+- passengers with a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App.
 - Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
 More details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a> 
 

@@ -21,7 +21,7 @@ Published 13.08.2021
 The test must be based on a nasopharyngeal swab.
 - This does not apply to passengers younger than 10 years.
 6. Passengers entering or transiting through St. Maarten must complete a health declaration form at least 12 hours before departure obtained at <a href="https://stmaartenentry.com/">https://stmaartenentry.com/</a> . This will generate a QR code which must be presented at time of check-in and upon arrival.
-- This does not apply to passengers transiting in the same calendar day to Saba, with an authorization obtained at <a href="http://www.sabatourism.com/travel-requirements">www.sabatourism.com/travel-requirements</a>
+- This does not apply to passengers transiting in the same calendar day to Saba, with an authorization obtained at <a href="http://www.sabatourism.com/travel-requirements">www.sabatourism.com/travel-requirements</a> 
 7. Airline crew entering or transiting through St. Maarten without a negative COVID-19 antigen or RT-PCR test, based on a nasopharyngeal swab and taken at most 48 hours before departure of the last direct flight to St. Maarten, are subject to quarantine until their next flight.
 8. Passengers are subject to medical screening and could be subject to COVID-19 test upon arrival and to self-isolation.
 

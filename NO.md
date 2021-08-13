@@ -1,13 +1,19 @@
-Published 05.08.2021
-1. Until 10 August 2021, passengers are not allowed to enter.
+Published 13.08.2021
+1. Until 1 September 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Norway;
-- spouses, registered partners, unmarried partners, minor children or stepchildren, parents or stepparents of minor children or stepchildren of residents of Norway. They must present a proof confirming the relationship;
-- adult children or stepchildren, parents or stepparents of adult children or stepchildren, grandchildren or step-grandchildren, grandparents or step-grandparents of residents of Norway, if residing in Albania, Australia, Azerbaijan, Bosnia and Herzegovina, Canada, Chinese Taipei, Kosovo (Rep.), Moldova (Rep.), New Zealand, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Singapore, Switzerland, Ukraine, United Kingdom or an EEA Member State. They must present a proof confirming the relationship;
-- boyfriends or girlfriends of residents of Norway and their minor children, if residing in Albania, Australia, Azerbaijan, Bosnia and Herzegovina, Canada, Chinese Taipei, Kosovo (Rep.), Moldova (Rep.), New Zealand, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Singapore, Switzerland, Ukraine, United Kingdom or an EEA Member State. They must have a consent application issued by the Norway Directorate of Immigration (UDI);
+- spouses, registered partners, unmarried partners, children, stepchildren, parents, stepparents of residents of Norway. They must present a proof confirming the relationship;
+- sons and daughters, parents or stepparents, grandchildren or step-grandchildren, grandparents or step-grandparents of residents of Norway, if residing in Albania, Australia, Bosnia and Herzegovina, Canada, Chinese Taipei, Kosovo (Rep.), Lebanon, Moldova (Rep.), New Zealand, North Macedonia (Rep.), Saudi Arabia, Singapore, Switzerland, Ukraine, United Kingdom or an EEA Member State. They must present a proof confirming the relationship;
+- boyfriends or girlfriends of residents of Norway and their minor children, if residing in Albania, Australia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova (Rep.), Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine or United Kingdom</substitute>. They must have a consent application issued by the Norway Directorate of Immigration (UDI);
 - passengers who are residing in and in the past 10 days have been in specific green regions of Denmark, Finland and Sweden. Details can be found at <a href="https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from">https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from</a>;
-- passengers who are residing in and in the past 10 days have been in Austria, Bulgaria, Croatia, Czechia, Germany, Greenland, Hungary, Iceland, Latvia, Liechtenstein, Lithuania, Poland, Romania, Slovakia, Slovenia, Switzerland and Vatican City (Holy See);
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated; or a COVID-19 recovery certificate issued at most 6 months before arrival. The certificate must be an EU Digital COVID Certificate with a QR code issued by Switzerland or an EEA Member State, or must be a certificate with a QR code issued by Denmark, Norway or Sweden;
+- passengers who are residing in and in the past 10 days have been in Austria, Bulgaria, Czechia, Germany, Hungary, Latvia, Liechtenstein, Poland, Romania, Slovakia, Slovenia or Switzerland;
+- passengers with:
+- a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or
+- a digital COVID-19 recovery certificate issued at most 6 months before arrival. 
+The certificate must be:
+- an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
+- a certificate with a QR code issued by Denmark, Norway or Sweden; or
+- an NHS Covid Pass issued by the United Kingdom;
 - merchant seamen;
 - students studying in Norway. They must be enrolled at an approved educational institution or have a residence permit for students;
 - more COVID-19 related information can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> .
@@ -16,7 +22,13 @@ Published 05.08.2021
 - passengers younger than 12 years;
 - passengers arriving from specific green regions of Denmark, Finland and Sweden. Details can be found at <a href="https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from">https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from</a> ;
 - passengers arriving from Austria, Bulgaria, Croatia, Czechia, Germany, Greenland, Hungary, Iceland, Latvia, Liechtenstein, Lithuania, Poland, Romania, Slovakia, Slovenia, Switzerland and Vatican City (Holy See);
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated; or a COVID-19 recovery certificate issued at most 6 months before arrival. The certificate must be an EU Digital COVID Certificate with a QR code issued by Switzerland or an EEA Member State, or must be a certificate with a QR code issued by Denmark, Norway or Sweden;
+- passengers with:
+- a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or
+- a digital COVID-19 recovery certificate issued at most 6 months before arrival. 
+The certificate must be:
+- an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
+- a certificate with a QR code issued by Denmark, Norway or Sweden; or
+- an NHS Covid Pass issued by the United Kingdom;
 - passengers with a diplomatic or service passport;
 - merchant seamen;
 - nationals and residents of Norway with no possibility of getting tested in the departure country;
@@ -25,12 +37,30 @@ Published 05.08.2021
 - This does not apply to:
 - airline crew who are not leaving the aircraft;
 - passengers younger than 17 years;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated; or a COVID-19 recovery certificate issued at most 6 months before arrival. The certificate must be an EU Digital COVID Certificate with a QR code issued by Switzerland or an EEA Member State, or must be a certificate with a QR code issued by Denmark, Norway or Sweden.
+- passengers with:
+- a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or
+- a digital COVID-19 recovery certificate issued at most 6 months before arrival. 
+The certificate must be:
+- an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
+- a certificate with a QR code issued by Denmark, Norway or Sweden; or
+- an NHS Covid Pass issued by the United Kingdom.
 4. Passengers are subject to: 
 - a COVID-19 antigen test and a PCR test upon arrival; or
 - a COVID-19 antigen test or PCR test upon arrival.
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated; or a COVID-19 recovery certificate issued at most 6 months before arrival. The certificate must be an EU Digital COVID Certificate with a QR code issued by Switzerland or an EEA Member State, or must be a certificate with a QR code issued by Denmark, Norway or Sweden.
+- This does not apply to passengers with:
+- a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or
+- a digital COVID-19 recovery certificate issued at most 6 months before arrival. 
+The certificate must be:
+- an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
+- a certificate with a QR code issued by Denmark, Norway or Sweden; or
+- an NHS Covid Pass issued by the United Kingdom.
 5. Passengers could be subject to home or hotel quarantine. 
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated; or a COVID-19 recovery certificate issued at most 6 months before arrival. The certificate must be an EU Digital COVID Certificate with a QR code issued by Switzerland or an EEA Member State, or must be a certificate with a QR code issued by Denmark, Norway or Sweden; 
+- This does not apply to passengers with:
+- a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or
+- a digital COVID-19 recovery certificate issued at most 6 months before arrival. 
+The certificate must be:
+- an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
+- a certificate with a QR code issued by Denmark, Norway or Sweden; or
+- an NHS Covid Pass issued by the United Kingdom;
 - more exemptions can be found at <a href="https://tinyurl.com/yoqc3omu">https://tinyurl.com/yoqc3omu</a> .
 
