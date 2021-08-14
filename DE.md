@@ -1,4 +1,4 @@
-Published 06.08.2021
+Published 14.08.2021
 1. Passengers are not allowed to enter.
 1.1. This does not apply to:
 - nationals and residents of Germany;
@@ -10,7 +10,7 @@ Published 06.08.2021
 - passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;
 - British nationals with a residence permit issued by Germany before 31 December 2020;
 - passengers with a long term "D" visa issued by an EEA Member State or Switzerland;
-- residents of Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Singapore, Ukraine and USA. They must have been living in the residence country in the past 6 months;
+- residents of Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel (until 14 August 2021), Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro (until 14 August 2021), New Zealand, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Singapore, Ukraine and USA (until 14 August 2021). They must have been living in the residence country in the past 6 months;
 - military personnel;
 - merchant seamen;
 - students;
@@ -37,7 +37,7 @@ The test result must be in English, French, German, Italian or Spanish.
 - a negative COVID-19 antigen test taken at most 24 hours before arrival; or
 - a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.
 The test result must be in English, French, German, Italian or Spanish.
-5. Passengers arriving from a high risk area or an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> .
+5. Passengers arriving from a high risk area or an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> . The list of countries can be found at <a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html">https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html</a> 
 6. Airline crew arriving from an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> .
 7. Passengers could be subject to quarantine for 10 or 14 days. Details can be found at
 <a href="https://www.bundesgesundheitsministerium.de/en/coronavirus/current-information-for-travellers.html">https://www.bundesgesundheitsministerium.de/en/coronavirus/current-information-for-travellers.html</a> .
