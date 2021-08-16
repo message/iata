@@ -1,4 +1,4 @@
-Published 09.08.2021
+Published 16.08.2021
 1. Until 22 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Finland and their family members;
@@ -6,7 +6,8 @@ Published 09.08.2021
 - partners of nationals or residents of Finland;
 - passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac;
-- residents of Albania, Australia, Bosnia and Herzegovina, Brunei Darussalam, Chinese Taipei, Hong Kong (SAR China), Kosovo (Rep.), Macao (SAR China), New Zealand, North Macedonia (Rep.) and Ukraine, if arriving on a direct flight from Albania, Australia, Bosnia and Herzegovina, Brunei Darussalam, Chinese Taipei, Hong Kong (SAR China), Kosovo (Rep.), Macao (SAR China), New Zealand, North Macedonia (Rep.) and Ukraine;
+- residents of Albania, Australia, Bosnia and Herzegovina, Brunei Darussalam, Chinese Taipei, Hong Kong (SAR China), Macao (SAR China), New Zealand and Ukraine, if arriving on a direct flight from Albania, Australia, Bosnia and Herzegovina, Brunei Darussalam, Chinese Taipei, Hong Kong (SAR China), Macao (SAR China), New Zealand and Ukraine;
+- nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden and Switzerland residing in Finland, and their family members if they are also residing in Finland;
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and their family members, returning to their country of residence via Finland;
 - British nationals and their family members residing in Finland;
 - military personnel;

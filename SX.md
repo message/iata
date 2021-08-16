@@ -1,4 +1,4 @@
-Published 15.08.2021
+Published 16.08.2021
 1. Passengers are not allowed to enter if in the past 14 days they have been in Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, French Guiana, Guyana, India, Nepal, Pakistan, Panama, Paraguay, Peru, South Africa, Suriname, Trinidad and Tobago, Uruguay or Venezuela.
 - This does not apply to:
 - residents of St. Maarten, St. Martin, Saba or St. Eustatius;
@@ -13,9 +13,8 @@ Published 15.08.2021
 4. Passengers entering or transiting through St. Maarten from a country other than Anguilla, Antigua and Barbuda, Argentina, Barbados, Bolivia, Bonaire, St. Eustatius and Saba, Brazil, Canada, Cayman Isl., Chile, China (People’s Rep.), Colombia, Costa Rica, Dominica, Ecuador, French Guiana, Grenada, Guyana, Hong Kong (SAR China), India, Montserrat, Nepal, New Zealand, Pakistan, Panama, Paraguay, Peru, Singapore, South Africa, St. Barthelemy, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Isl., Uruguay, USA or Venezuela must have a negative COVID-19 RT-PCR test, based on a nasopharyngeal swab and taken at most 72 hours before departure of the last direct flight to St. Maarten.
 - This does not apply to:
 - passengers younger than 10 years;
-- until 15 August 2021, residents of St. Maarten, St. Martin, Saba or St. Eustatius with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival.;
-- effective 16 August 2021, residents of St. Maarten, St. Martin, Saba or St. Eustatius.
-5. Effective 16 August 2021, residents of St. Maarten, St. Martin, Saba or St. Eustatius entering or transiting through St. Maarten from a country other than Anguilla, Antigua and Barbuda, Argentina, Barbados, Bolivia, Bonaire, St. Eustatius and Saba, Brazil, Cayman Isl., Chile, China (People’s Rep.), Colombia, Costa Rica, Dominica, Ecuador, French Guiana, Grenada, Guyana, Hong Kong (SAR China), India, Montserrat, Nepal, New Zealand, Pakistan, Panama, Paraguay, Peru, Singapore, South Africa, St. Barthelemy, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Isl., Uruguay or Venezuela must have:
+- residents of St. Maarten, St. Martin, Saba or St. Eustatius.
+5. Residents of St. Maarten, St. Martin, Saba or St. Eustatius entering or transiting through St. Maarten from a country other than Anguilla, Antigua and Barbuda, Argentina, Barbados, Bolivia, Bonaire, St. Eustatius and Saba, Brazil, Cayman Isl., Chile, China (People’s Rep.), Colombia, Costa Rica, Dominica, Ecuador, French Guiana, Grenada, Guyana, Hong Kong (SAR China), India, Montserrat, Nepal, New Zealand, Pakistan, Panama, Paraguay, Peru, Singapore, South Africa, St. Barthelemy, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Isl., Uruguay or Venezuela must have:
 - a negative COVID-19 RT-PCR test taken at most 72 hours before departure of the last direct flight to St. Maarten, if they do not have a COVID-19 vaccination certificate; or
 - a negative COVID-19 antigen test taken at most 48 hours before departure of the last direct flight to St. Maarten or a negative COVID-19 RT-PCR test taken at most 72 hours before departure of the last direct flight to St. Maarten, if they have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival.
 The test must be based on a nasopharyngeal swab.
