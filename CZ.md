@@ -1,4 +1,4 @@
-Published 11.08.2021
+Published 16.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Czechia and their family members;
@@ -41,7 +41,7 @@ This does not apply to:
 - passengers with a COVID-19 recovery certificate issued by Czechia;
 - passengers with a COVID-19 recovery certificate issued in Switzerland or an EEA Member State, at least 14 days and at most 180 days before arrival, in Czech or English;
 - passengers with an EU Digital Covid Certificate (EU DCC) as proof of recovery, issued at least 11 days and at most 180 days before arrival.
-5. Passengers arriving from a country other than Albania, Australia, Austria, Belgium, Bosnia and Herzegovina, Botswana, Brazil, Brunei, Bulgaria, Canada, Chinese Taipei, Colombia, Croatia, Denmark, Eswatini, Finland, Germany, Hong Kong (SAR China), Hungary, India, Israel, Italy, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Lesotho, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malawi, Montenegro, Mozambique, Namibia, North Macedonia (Rep.), Nepal, New Zealand, Norway, Paraguay, Peru, Poland, Qatar, Romania, Russian Fed., San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, Sweden, Switzerland, Tanzania, Tunisia, USA, Vatican City (Holy See), Zambia or Zimbabwe, must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
+5. Passengers arriving from a country other than Albania, Australia, Austria, Bosnia and Herzegovina, Botswana, Brazil, Brunei, Bulgaria, Canada, Chinese Taipei, Colombia, Croatia, Eswatini, Finland, Germany, Hong Kong (SAR China), Hungary, India, Israel, Italy, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Lesotho, Liechtenstein, Luxembourg, Macao (SAR China), Malawi, Montenegro, Mozambique, Namibia, North Macedonia (Rep.), Nepal, New Zealand, Norway, Paraguay, Peru, Poland, Qatar, Romania, Russian Fed., Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, Switzerland, Tanzania, Tunisia, USA, Vatican City (Holy See), Zambia or Zimbabwe, must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. 
 - This does not apply to:
 - nationals of Czechia with a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point; 
 - nationals of Czechia with a service passport traveling on duty for a maximum stay of 72 hours;
