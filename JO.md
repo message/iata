@@ -1,7 +1,7 @@
 Published 11.08.2021
 1. Flights from India are suspended.
 2. Nationals of Afghanistan, Albania, Angola, Bangladesh, Belize, Benin, Botswana, Burkina Faso, Burundi, Cambodia, Cameroon, Central African Rep., Chad, Colombia, Comoros, Congo, Congo (Dem. Rep.), Cote d'Ivoire, Cuba, Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Iran, Iraq, Liberia, Madagascar, Mali, Mauritania, Moldova (Rep.), Mongolia, Morocco, Mozambique, Myanmar, Namibia, Nepal, Niger, Nigeria, Pakistan, Papua New Guinea, Philippines, Senegal, Sierra Leone, Somalia, South Sudan, Sri Lanka, Sudan, Tanzania, Togo, Uganda, Viet Nam and Zambia are not allowed to enter. 
-- This does not apply to passengers residing in Australia, Bahrain, Canada, Japan, Kuwait, Oman, Qatar, Saudi Arabia, Switzerland, United Arab Emirates, United Kingdom, USA or an EU Member State. They must not be nationals of Afghanistan, Bangladesh, Chad, Iran and Nigeria. 
+- This does not apply to passengers residing in Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, United Arab Emirates or United Kingdom. They must not be nationals of Afghanistan, Bangladesh, Chad, Iran and Nigeria. 
 3. Passengers who in the past 45 days have been in India are not allowed to enter.
 - This does not apply to nationals of Jordan and their spouses and children.
 4. Passengers are not allowed to enter if in the past 14 days they have been in Bangladesh, Bhutan, Nepal, Myanmar, Pakistan or Sri Lanka.
@@ -38,4 +38,4 @@ This does not apply to:
 17. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
 18. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a> 
 
-</p>
+<p>

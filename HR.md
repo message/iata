@@ -1,4 +1,4 @@
-Published 29.07.2021
+Published 17.08.2021
 1. Until 31 August 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See) and their family members;
@@ -19,7 +19,8 @@ This does not apply to:
 5. Passengers arriving from a country other than Brazil, Cyprus, India, Russian Fed., South Africa, Tanzania (only Zanzibar) or United Kingdom must have:
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a rapid antigen test taken at most 48 hours before arrival. The rapid antigen test must be listed on <a href="https://tinyurl.com/b57mretv">https://tinyurl.com/b57mretv</a> ; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days and at most 270 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sputnik V; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech, Sinopharm or Sputnik V at most 270 days before arrival; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated with Janssen at least 14 days and at most 270 days before arrival; or
 - a COVID-19 recovery certificate issued at most 180 days before arrival and a COVID-19 vaccination certificate showing that the passenger received the first dose of the vaccine not more than 270 days before arrival; or
 - a positive COVID-19 PCR or rapid antigen test result issued at least 11 days and at most 270 days before arrival; or
 - are subject to a COVID-19 PCR or rapid antigen test upon arrival and self-isolation for up to 10 days.
