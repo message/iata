@@ -1,4 +1,4 @@
-Published 16.08.2021
+Published 17.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals or residents of Denmark;
@@ -10,27 +10,39 @@ Published 16.08.2021
 - merchant seamen;
 - residents of Andorra, Canada, Chile, Colombia, Mexico, Monaco, San Marino, Turkey, United Kingdom and Vatican City (Holy See) with a COVID-19 vaccination certificate issued in their country of residence. The certificate must show that they were fully vaccinated at least 2 weeks and at most 12 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Argentina, Botswana, Colombia, Costa Rica, Cuba, Eswatini, Fiji, Iran, Iraq, Lesotho, Libya, Malawi, Malaysia, Mozambique, Namibia, Panama, Russian Fed., South Africa, Tunisia, Zambia or Zimbabwe. Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> ;
 - more exemptions can be found at <a href="https://en.coronasmitte.dk/rules-and-regulations/entry-into-denmark/foreigners-resident-abroad">https://en.coronasmitte.dk/rules-and-regulations/entry-into-denmark/foreigners-resident-abroad</a> .
-2. Passengers are subject to a COVID-19 test upon arrival.
+2. Passengers must have:
+- a negative COVID-19 PCR test taken at most 72 hours before arrival; or
+- a negative COVID-19 antigen test taken at most 48 hours before arrival.
+The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish. Details can be found at <a href="https://en.coronasmitte.dk/rules-and-regulations/entry-into-denmark">https://en.coronasmitte.dk/rules-and-regulations/entry-into-denmark</a> .
+- This does not apply to:
+- nationals and residents of Denmark;
+- passengers younger than 16 years;
+- passengers traveling to Faroe Islands (FAE) or Greenland;
+- passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 months before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish;
+- passengers with an EU Digital COVID Certificate showing that they were fully vaccinated at least 2 weeks and at most 12 months before departure;
+- passengers with a COVID-19 vaccination certificate residing in Albania, Andorra, Australia, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Mexico, Monaco, New Zealand, North Macedonia (Rep.), Rwanda, San Marino, Serbia, Singapore, Switzerland, Thailand, Turkey, USA, United Kingdom, Vatican City (Holy See) or an EEA Member State. The certificate must show that they were fully vaccinated at least 2 weeks and at most 12 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> ;
+- residents of Germany (only Schleswig-Holstein) and Sweden (only Blekinge, Halland, Scania and West Gothia provinces) traveling through Denmark to their place of residence.
+3. Passengers are subject to a COVID-19 test upon arrival.
 - This does not apply to:
 - passengers younger than 16 years;
 - passengers traveling to Greenland;
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 months before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish;
 - passengers with a COVID-19 vaccination certificate issued in Albania, Andorra, Australia, Canada, Chile, Chinse Taipei, Colombia, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Mexico, Monaco, New Zealand, North Macedonia (Rep.), Rwanda, San Marino, Serbia, Singapore, Switzerland, Thailand, Turkey, USA, United Kingdom, Vatican City (Holy See) or an EEA Member State. The certificate must show that they were fully vaccinated at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Argentina, Botswana, Colombia, Costa Rica, Cuba, Eswatini, Fiji, Iran, Iraq, Lesotho, Libya, Malawi, Malaysia, Mozambique, Namibia, Panama, Russian Fed., South Africa, Tunisia, Zambia or Zimbabwe. Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> ;
 - effective 1 September 2021, passengers traveling to Faroe Islands (FAE).
-3. Passengers could be subject to self-isolation for 10 days. Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> .
+4. Passengers could be subject to self-isolation for 10 days. Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> .
 - This does not apply to residents of Albania, Andorra, Australia, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Mexico, Monaco, New Zealand, North Macedonia (Rep.), Rwanda, San Marino, Serbia, Singapore, Switzerland, Thailand, Turkey, USA, United Kingdom, Vatican City (Holy See) and an EEA Member State with a COVID-19 vaccination certificate issued in their country of residence. The certificate must show that they were fully vaccinated at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Argentina, Botswana, Colombia, Costa Rica, Cuba, Eswatini, Fiji, Iran, Iraq, Lesotho, Libya, Malawi, Malaysia, Mozambique, Namibia, Panama, Russian Fed., South Africa, Tunisia, Zambia or Zimbabwe. Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> . 
-4. Passengers traveling to Greenland must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty).
+5. Passengers traveling to Greenland must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty).
 - This does not apply to:
 - passengers younger than 18 years;
 - residents of Greenland.
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 weeks before departure.
-5. Passengers traveling to Greenland must have a negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to Greenland. The test must be taken in Denmark, Finland, Iceland, Norway or Sweden.
+6. Passengers traveling to Greenland must have a negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to Greenland. The test must be taken in Denmark, Finland, Iceland, Norway or Sweden.
 - This does not apply to:
 - passengers younger than 2 years;
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 weeks before departure;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty).
-6. Passengers traveling to Greenland:
+7. Passengers traveling to Greenland:
 - must have a Personal Location Form (SUMUT) obtained before departure at <a href="https://sumut2020.gl/Instructions/EditInstructions">https://sumut2020.gl/Instructions/EditInstructions</a> ; and
 - could be subject to a COVID-19 test upon arrival and quarantine. Details can be found at <a href="https://visitgreenland.com/corona-faq/">https://visitgreenland.com/corona-faq/</a> .
-7. For more information, please refer to the website <a href="https://coronasmitte.dk/en/entry-into-denmark">https://coronasmitte.dk/en/entry-into-denmark</a> and <a href="https://en.coronasmitte.dk/covidtravelrules/">https://en.coronasmitte.dk/covidtravelrules/</a> .
+8. For more information, please refer to the website <a href="https://coronasmitte.dk/en/entry-into-denmark">https://coronasmitte.dk/en/entry-into-denmark</a> and <a href="https://en.coronasmitte.dk/covidtravelrules/">https://en.coronasmitte.dk/covidtravelrules/</a> .
 
