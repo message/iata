@@ -1,4 +1,4 @@
-Published 16.08.2021
+Published 17.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
@@ -14,7 +14,7 @@ Published 16.08.2021
 - nationals of Indonesia;
 - passengers younger than 12 years;
 - passengers between 12 and 17 years who are subject to a COVID-19 vaccination at their own expense at the end of quarantine;
-- passengers with diplomatic or service visa;
+- passengers with a diplomatic or service visa and an invitation letter issued by an Indonesian Ministry;
 - passengers traveling under Travel Corridor Agreement (TCA);
 - airline crew transiting without disembarking the aircraft.
 6. Passengers are subject to COVID-19 PCR test upon arrival and quarantine for 8 days.
