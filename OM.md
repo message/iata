@@ -1,4 +1,4 @@
-Published 19.07.2021
+Published 17.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Oman;
@@ -17,13 +17,13 @@ Published 19.07.2021
 - passengers younger than 16 years;
 - passengers with a diplomatic passport traveling on duty.
 5. Passengers could be subject to quarantine for 7 days at their own expense.
-6. Passengers must have a hotel reservation confirmation. The hotel must be booked at <a href="https://covid19.emushrif.om/traveler/accommodation/type">https://covid19.emushrif.om/traveler/accommodation/type</a> or via the Hmushrif app.
+6. Passengers must have a hotel reservation confirmation for 8 nights. The hotel must be booked at <a href="https://covid19.emushrif.om/traveler/accommodation/type">https://covid19.emushrif.om/traveler/accommodation/type</a> or via the Hmushrif app.
 - This does not apply to:
-- nationals of Oman;
-- passengers younger than 18 years traveling alone;
-- passengers older than 60 years;
-- passengers with an authorization from the Health Authorities;
-- passengers with a permit for private institutional isolation centers that are pre-approved by the Relief and Shelter Sector.
+- nationals of Oman, if they in the past 14 days have not been in or transited through Iran or Iraq;
+- passengers younger than 18 years traveling alone, if they in the past 14 days have not been in or transited through Iran or Iraq;
+- passengers older than 60 years, if they in the past 14 days have not been in or transited through Iran or Iraq;
+- passengers with an authorization from the Health Authorities, if they in the past 14 days have not been in or transited through Iran or Iraq;
+- passengers with a permit for private institutional isolation centers that are pre-approved by the Relief and Shelter Sector, if they in the past 14 days have not been in or transited through Iran or Iraq.
 7. Passengers must have insurance to cover COVID-19 medical expenses in Oman for a period of one month.
 - This does not apply to nationals of Oman.
 8. Passengers must download the Tarassud+ app and the Hmushrif app before departure.
