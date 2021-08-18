@@ -17,7 +17,7 @@ Published 11.08.2021
 - passengers with evidence of traveling at the invitation of the USA government for a purpose related to the containment/mitigation of the Coronavirus (COVID-19);
 - passengers with documents issued by the U.S. Department of Homeland Security, U.S. Customs and Border Protection, or U.S. Department of State indicating that the passenger is exempt from the restriction;
 - students arriving from Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland, United Kingdom;
-- students with a F-1 or M-1 visa if participating in an academic program that started on 1 Augustus 2021 or later.
+- students with a F-1 or M-1 visa if participating in an academic program that started on 1 August 2021 or later.
 2. Passengers entering or transiting through the USA must have a negative COVID-19 test taken at most 3 days before departure from the first embarkation point. Tests accepted are: antigen, NAAT, RT-LAMP, RT-PCR or TMA. Passengers details (e.g., name and date of birth) in the certificate must match those stated in the passport or other travel document; and the test result must specify "negative" or "not detected". If marked "invalid" it is not accepted.
 This does not apply to:
 - passengers younger than 2 years;
