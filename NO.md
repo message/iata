@@ -13,7 +13,7 @@ Published 18.08.2021
 The certificate must be:
 - an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
 - a certificate with a QR code issued by Denmark, Norway or Sweden; or
-- an NHS Covid Pass with a QR code, issued by the United Kingdom;
+- an NHS Covid Pass with a QR code, issued in England or Wales (UK);
 - merchant seamen;
 - students studying in Norway. They must be enrolled at an approved educational institution or have a residence permit for students;
 - more COVID-19 related information can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> 
@@ -28,12 +28,12 @@ The certificate must be:
 The certificate must be:
 - an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
 - a certificate with a QR code issued by Denmark, Norway or Sweden; or
-- an NHS Covid Pass with a QR code, issued by the United Kingdom;
+- an NHS Covid Pass with a QR code, issued in England or Wales (UK);
 - passengers with a diplomatic or service passport;
 - merchant seamen;
 - nationals and residents of Norway with no possibility of getting tested in the departure country;
 - more exemptions can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> 
-3. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="http://www.entrynorway.no/">www.entrynorway.no</a> .
+3. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="http://www.entrynorway.no/">www.entrynorway.no</a> 
 - This does not apply to:
 - airline crew who are not leaving the aircraft;
 - passengers younger than 17 years;
@@ -43,7 +43,7 @@ The certificate must be:
 The certificate must be:
 - an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
 - a certificate with a QR code issued by Denmark, Norway or Sweden; or
-- an NHS Covid Pass with a QR code, issued by the United Kingdom.
+- an NHS Covid Pass with a QR code, issued in England or Wales (UK).
 4. Passengers are subject to:
 - a COVID-19 antigen test and a PCR test upon arrival; or
 - a COVID-19 antigen test or PCR test upon arrival.
@@ -53,7 +53,7 @@ The certificate must be:
 The certificate must be:
 - an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
 - a certificate with a QR code issued by Denmark, Norway or Sweden; or
-- an NHS Covid Pass with a QR code, issued by the United Kingdom.
+- an NHS Covid Pass with a QR code, issued in England or Wales (UK).
 5. Passengers could be subject to home or hotel quarantine.
 - This does not apply to passengers with:
 - a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or
@@ -61,7 +61,7 @@ The certificate must be:
 The certificate must be:
 - an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
 - a certificate with a QR code issued by Denmark, Norway or Sweden; or
-- an NHS Covid Pass with a QR code, issued by the United Kingdom;
+- an NHS Covid Pass with a QR code, issued in England or Wales (UK);
 - more exemptions can be found at <a href="https://tinyurl.com/yoqc3omu">https://tinyurl.com/yoqc3omu</a> 
 
 
