@@ -1,4 +1,4 @@
-Published 13.08.2021
+Published 18.08.2021
 1. Passengers entering or transiting through Ireland (Rep.) from Argentina, Bangladesh, Bolivia, Botswana, Brazil, Chile, Colombia, Congo (Dem. Rep.), Cuba, Eswatini, Georgia, India, Indonesia, Kazakhstan, Malaysia, Mozambique, Myanmar, Namibia, Pakistan, Paraguay, Peru, Russian Fed., Seychelles, South Africa, Suriname, Trinidad and Tobago, Tunisia, Uganda, Uruguay or Zimbabwe must have a negative COVID-19 RT-PCR test taken at most 72 hours before arrival.
 - This does not apply to passengers younger than 12 years.
 2. Passengers entering or transiting through Ireland (Rep.) from a country other than Argentina, Bangladesh, Bolivia, Botswana, Brazil, Chile, Colombia, Congo (Dem. Rep.), Cuba, Eswatini, Georgia, India, Indonesia, Kazakhstan, Malaysia, Mozambique, Myanmar, Namibia, Pakistan, Paraguay, Peru, Russian Fed., Seychelles, South Africa, Suriname, Trinidad and Tobago, Tunisia, Uganda, Uruguay or Zimbabwe must have:
@@ -15,7 +15,7 @@ Published 13.08.2021
 - Moderna or Janssen at least 14 days before arrival;
 - AstraZeneca (Vaxzevria) at least 15 days before arrival.
 4. Passengers must complete a "Passenger Locator Form" at <a href="https://cvd19plf-prod1.powerappsportals.com/en-us/">https://cvd19plf-prod1.powerappsportals.com/en-us/</a> before departure.
-- This does not apply to passengers younger than 16 years.
+- This does not apply to passengers younger than 18 years.
 5. Passengers arriving from the United Kingdom are subject to a COVID-19 RT-PCR test on or after day 5 after arrival. They must have a booking confirmation obtained at <a href="http://www.gov.ie/test">www.gov.ie/test</a> .
 6. Passengers could be subject to quarantine for up to 14 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/2x5jpp2k">https://tinyurl.com/2x5jpp2k</a> 
 - This does not apply to passengers arriving from a country other than Argentina, Bangladesh, Bolivia, Botswana, Brazil, Chile, Colombia, Congo (Dem. Rep.), Cuba, Eswatini, Georgia, India, Indonesia, Kazakhstan, Malaysia, Mozambique, Myanmar, Namibia, Pakistan, Paraguay, Peru, Russian Fed., Seychelles, South Africa, Suriname, Trinidad and Tobago, Tunisia, Uganda, Uruguay or Zimbabwe with:

@@ -1,4 +1,4 @@
-Published 13.08.2021
+Published 18.08.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of the Netherlands;
@@ -58,7 +58,7 @@ Details can be found at <a href="https://tinyurl.com/t2nxv3jt">https://tinyurl.c
 - they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
 Details can be found at <a href="https://tinyurl.com/t2nxv3jt">https://tinyurl.com/t2nxv3jt</a> ;
 - passengers with a COVID-19 recovery certificate issued at least 11 days and at most 180 days before departure if arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
-- passengers arriving from Austria, Bulgaria, Croatia, Czechia, Germany, Hungary, Latvia, Lithuania, Norway, Poland, Romania, Slovakia, Slovenia or Sweden;
+- passengers arriving from Austria, Bulgaria, Croatia, Czechia, Germany, Hungary, Latvia, Norway, Poland, Romania, Slovakia, Slovenia or Sweden;
 - passengers arriving from Argentina, Bangladesh, Bolivia, Botswana, Brazil, Chile, Colombia, Cuba, Dominican Rep., Ecuador, Fiji, French Guiana, Georgia, Guyana, India, Kuwait, Malaysia, Martinique, Mongolia, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Seychelles, South Africa, Suriname, Tunisia, United Kingdom, Uruguay, Venezuela or Virgin Isl. (British).
 4. Passengers arriving from Argentina, Bangladesh, Bolivia, Botswana, Brazil, Chile, Colombia, Cuba, Dominican Rep., Ecuador, Fiji, French Guiana, Georgia, Guyana, India, Kuwait, Malaysia, Martinique, Mongolia, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Seychelles, South Africa, Suriname, Tunisia, United Kingdom, Uruguay, Venezuela or Virgin Isl. (British) must have:
 - a negative COVID-19 test taken at most 24 hours before boarding the flight of the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
