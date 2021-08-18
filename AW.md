@@ -1,4 +1,4 @@
-Published 06.08.2021
+Published 18.08.2021
 1. A completed Health Assessment form must be submitted on <a href="http://www.edcardaruba.aw">www.edcardaruba.aw</a> at most 72 hours before departure. A travel authorization must be presented at time of check-in.
 2. Passengers must have a negative COVID-19 NAAT test taken at most 3 days and at least 12 hours before departure of the last direct flight to Aruba. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA.
 - This does not apply to:
@@ -23,5 +23,5 @@ This does not apply to:
 - passengers departing on the same calendar day;
 - passengers with a diplomatic passport;
 - Dutch military personnel, their spouse and children.
-5. Passengers are subject to medical screening.
+5. Passengers could be subject to medical screening.
 
