@@ -1,4 +1,4 @@
-Published 12.08.2021
+Published 19.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
@@ -56,8 +56,14 @@ Published 12.08.2021
 - passengers arriving from Austria, Bulgaria, Croatia, Czechia, Estonia, Finland, Germany, Hungary, Iceland, Latvia, Liechtenstein, Lithuania, Norway, Poland, Romania, San Marino, Slovakia, Slovenia, Sweden, Switzerland or Vatican City (Holy See);
 - passengers arriving from orange regions of Denmark, France, Greece, Ireland (Rep.), Italy, Netherlands, Portugal and Spain. Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a>;
 - passengers arriving from Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro, New-Zealand, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Singapore, USA or Ukraine.
-9. A completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a> or <a href="https://tinyurl.com/yvujyb6h">https://tinyurl.com/yvujyb6h</a> .
-10. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a> 
-11. Passengers are subject to medical screening.
-12. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium.
+9. Passengers arriving from Israel, Montenegro or USA must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Dutch, English, French or German.
+- This does not apply to:
+- passengers residing in Belgium;
+- passengers younger than 12 years;
+- passengers with a vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty);
+- passengers with a positive COVID-19 PCR test issued at most 180 days before arrival and a recovery certificate.
+10. A completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a> or <a href="https://tinyurl.com/yvujyb6h">https://tinyurl.com/yvujyb6h</a> .
+11. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a> 
+12. Passengers are subject to medical screening.
+13. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium.
 
