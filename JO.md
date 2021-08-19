@@ -1,4 +1,4 @@
-Published 11.08.2021
+Published 19.08.2021
 1. Flights from India are suspended.
 2. Nationals of Afghanistan, Albania, Angola, Bangladesh, Belize, Benin, Botswana, Burkina Faso, Burundi, Cambodia, Cameroon, Central African Rep., Chad, Colombia, Comoros, Congo, Congo (Dem. Rep.), Cote d'Ivoire, Cuba, Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Iran, Iraq, Liberia, Madagascar, Mali, Mauritania, Moldova (Rep.), Mongolia, Morocco, Mozambique, Myanmar, Namibia, Nepal, Niger, Nigeria, Pakistan, Papua New Guinea, Philippines, Senegal, Sierra Leone, Somalia, South Sudan, Sri Lanka, Sudan, Tanzania, Togo, Uganda, Viet Nam and Zambia are not allowed to enter. 
 - This does not apply to passengers residing in Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, United Arab Emirates or United Kingdom. They must not be nationals of Afghanistan, Bangladesh, Chad, Iran and Nigeria. 
@@ -28,14 +28,20 @@ This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and a diplomatic QR code and their family members;
 - passengers with a COVID-19 vaccination certificate issued by Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Jordan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Morocco, Netherlands, New Zealand, Oman, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tunisia, Turkey, United Arab Emirates, United Kingdom or USA showing that they were fully vaccinated. The vaccination certificate must be in Arabic or English.
-11. Passengers must complete a "Passenger Health Declaration Form" and a "Locator Form" and present it before departure.
-12. Nationals of Jordan and their spouses and children who in the past 14 days have been in or transited through India must present a completed indemnity form. They are subject to quarantine at a hotel for 14 days at their own expense.
-13. Nationals of Jordan and their spouses and children who have been outside India between 14 and 45 days before arrival are subject to self-quarantine for 14 days.
-14. Passengers who have been outside Bangladesh, Bhutan, Nepal, Myanmar, Pakistan or Sri Lanka for more than 14 days before arrival must present a completed indemnity form. They are subject to quarantine at a hotel for 14 days at their own expense.
-15. Airline crew must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point.
+11. Passengers are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo/</a> .
+- This does not apply to:
+- passengers younger than 5 years;
+- passengers with a diplomatic or special passport and a diplomatic QR code;
+- family members of passengers with a diplomatic or special passport, or of military personnel;
+- passengers with a COVID-19 vaccination certificate issued by Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, China (People’s Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Jordan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Morocco, Netherlands, New Zealand, Oman, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tunisia, Turkey, United Arab Emirates, United Kingdom or USA showing that they were fully vaccinated. The vaccination certificate must be in Arabic or English.
+12. Passengers must complete a "Passenger Health Declaration Form" and a "Locator Form" and present it before departure.
+13. Nationals of Jordan and their spouses and children who in the past 14 days have been in or transited through India must present a completed indemnity form. They are subject to quarantine at a hotel for 14 days at their own expense.
+14. Nationals of Jordan and their spouses and children who have been outside India between 14 and 45 days before arrival are subject to self-quarantine for 14 days.
+15. Passengers who have been outside Bangladesh, Bhutan, Nepal, Myanmar, Pakistan or Sri Lanka for more than 14 days before arrival must present a completed indemnity form. They are subject to quarantine at a hotel for 14 days at their own expense.
+16. Airline crew must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point.
 - This does not apply to airline crew with a round trip flight.
-16. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.
-17. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
-18. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a> 
+17. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.
+18. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
+19. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a> 
 
 <p>
