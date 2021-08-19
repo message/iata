@@ -2,7 +2,7 @@ Published 17.08.2021
 1. Passengers arriving from India are not allowed to enter Iraq via Baghdad (BGW), Basra (BSR) or Najaf (NJF).
 2. Passengers arriving from or who have transited through India are not allowed to enter Iraq via Erbil (EBL) or Sulaymaniyah (ISU).
 - This does not apply to:
- - nationals of Iraq;
+- nationals of Iraq;
 - passengers with a diplomatic passport and an approval letter issued by the Kurdistan Regional Government (KRG) before arrival;
 - passengers with a Laissez-Passer issued by the United Nations traveling on duty and an approval letter issued by the Kurdistan Regional Government (KRG) before arrival. 
 3. Nationals of India are not allowed to enter Iraq via Baghdad (BGW), Basra (BSR) or Najaf (NJF).

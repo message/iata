@@ -14,7 +14,7 @@ Published 17.07.2021
 - This does not apply to passengers younger than 2 years.
 7. Passengers are subject to quarantine for 14 days. More details can be found at <a href="https://www.epid.gov.lk/web/">https://www.epid.gov.lk/web/</a> or <a href="https://www.hpb.health.gov.lk/en">https://www.hpb.health.gov.lk/en</a> 
 - This does not apply to:
- - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before departure; and the result of the COVID-19 PCR test upon arrival is negative; and they arrive from a country other than Angola, Botswana, Eswatini, India, Lesotho, Mozambique, Namibia, South Africa, Zambia or Zimbabwe. The vaccination certificate must be in English;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before departure; and the result of the COVID-19 PCR test upon arrival is negative; and they arrive from a country other than Angola, Botswana, Eswatini, India, Lesotho, Mozambique, Namibia, South Africa, Zambia or Zimbabwe. The vaccination certificate must be in English;
 - passengers with a positive COVID-19 NAAT test taken at least 28 days and at most 90 days before departure and a COVID-19 vaccination certificate showing that they received at least one dose 14 days after the positive test and at least 14 days before departure. Certificates and test results must be in English.
 8. Airline crew of a foreign airline must have a printed negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.
 9. Airline crew could be subject to a COVID-19 PCR test upon arrival.
