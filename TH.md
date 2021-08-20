@@ -29,7 +29,7 @@ Published 30.07.2021
 8. Nationals of Thailand travelling to Phuket (HKT) or Na Thon (Ko Samui (USM)) under the Phuket or the Samui Plus Sandbox, must have a negative COVID-19 test result issued at most 72 hours before departure from the first embarkation point. Tests accepted are: all types of PCR tests. The test result must be in English.
 9. Passengers traveling to Phuket (HKT) or Na Thon (Ko Samui (USM)) when arriving from Albania, Andorra, Antigua and Barbuda, Australia, Austria, Azerbaijan, Bahrain, Barbados, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Dominic, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Luxembourg, Macao (SAR China), Malta, Mauritius, Monaco, Morocco, Myanmar, Mongolia, Netherlands New Zealand, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, USA, United Arab Emirates, United Kingdom, Uzbekistan or Vietnam;
 - are subject to a COVID-19 RT-PCR test upon arrival; and
-- must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covidshield, Janssen, Moderna , Pfizer-BioNTech, Sinopharm and Sinovac.
+- must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna , Pfizer-BioNTech, Sinopharm and Sinovac.
 - This does not apply to passengers younger than 18 years traveling with their fully vaccinated parents/guardians.
 10. Passengers traveling to Phuket (HKT) must have proof of payment for a Safety and Health Administration (SHA+) accommodation for the period of intended stay.
 11. Passengers traveling to Phuket (HKT) or Na Thon (Ko Samui (USM), must have a return/onward ticket for a flight departing from Phuket to another country within 14 days.
@@ -39,7 +39,7 @@ Published 30.07.2021
 - proof of payment for COVID-19 tests in Ko Samui.
 13. Passengers are subject to medical screening.
 14. Nationals of Thailand are subject to quarantine for a minimum of 14 days.
-- This does not apply when traveling to Phuket (HKT) or Na Thon (Ko Samui (USM)) with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covidshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac.
+- This does not apply when traveling to Phuket (HKT) or Na Thon (Ko Samui (USM)) with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac.
 15. Airline crew are subject to self-isolation until their next flight.
 16. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-
 16. Suspension of visa on arrival facilities.
