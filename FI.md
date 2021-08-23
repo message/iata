@@ -1,4 +1,4 @@
-Published 20.08.2021
+Published 23.08.2021
 1. Until 19 September 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Finland and their family members;
@@ -9,7 +9,6 @@ Published 20.08.2021
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and their family members, returning to their country of residence via Finland;
 - passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
 - residents of Australia, Brunei Darussalam, Chinese Taipei, Hong Kong (SAR China), Macao (SAR China), New Zealand and Ukraine, if arriving on a direct flight from Australia, Brunei Darussalam, Chinese Taipei, Hong Kong (SAR China), Macao (SAR China), New Zealand and Ukraine;
-- until 22 August 2021, residents of Albania and Bosnia and Herzegovina, arriving on a direct flight from Albania, or Bosnia and Herzegovina;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac;
 - military personnel;
 - more exemptions can be found at <a href="https://raja.fi/en/guidelines-for-border-traffic-during-pandemic">https://raja.fi/en/guidelines-for-border-traffic-during-pandemic</a> 
