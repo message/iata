@@ -1,4 +1,4 @@
-Published 25.06.2021
+Published 23.08.2021
 1. Flights from India, South Africa and United Kingdom are suspended.
 2. Passengers who in the past 14 days have been in or transited through India, South Africa or United Kingdom are not allowed to enter or transit through Brazil.
 - This does not apply to:
@@ -14,6 +14,6 @@ Published 25.06.2021
 - a COVID-19 recovery certificate in English, Portuguese or Spanish showing that they are asymptomatic and fit to fly. The certificate must show the travel date.
 4. Passengers and airline crew must complete a Traveler's Health Declaration form before departure and present it upon arrival. The form can be found at <a href="https://formulario.anvisa.gov.br/">https://formulario.anvisa.gov.br/</a> .
 5. Airline crew are subject to quarantine at a hotel until their next flight.
-6. Nationals of Brazil and their spouses, partners, children, parents or guardians who have been in or transited through India, South Africa or United Kingdom in the past 14 days are subject to quarantine for 14 days.
-7. Passengers with a residence permit issued by Brazil who have been in or transited through South Africa or United Kingdom in the past 14 days are subject to quarantine for 14 days.
+6. Nationals of Brazil and their spouses, partners, children, parents or guardians who have been in or transited through India, South Africa or United Kingdom in the past 14 days are subject to quarantine for 14 days at the first point of entry.
+7. Passengers with a residence permit issued by Brazil who have been in or transited through South Africa or United Kingdom in the past 14 days are subject to quarantine for 14 days at the first point of entry.
 
