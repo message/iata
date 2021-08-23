@@ -1,4 +1,4 @@
-Published 20.08.2021
+Published 23.08.2021
 1. Until 31 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - Nationals and residents of Malta with:
@@ -37,7 +37,7 @@ Published 20.08.2021
 4. Merchant seamen must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure. The test result must be in English or accompanied by a certified English translation.
 5. Passengers could be subject to quarantine for 14 days. 
 - This does not apply to: 
-- passengers between 5 and 11 years traveling with their fully vaccinated parents/guardians;
+- passengers younger than 12 years traveling with their fully vaccinated parents/guardians;
 - passengers with a COVID-19 vaccination certificate issued by Malta showing that they were fully vaccinated at least 14 days before arrival; or
 - passengers with a digital EU Digital Covid Certificate (EU DCC) showing that they were fully vaccinated at least 14 days before arrival; or
 - passengers with a COVID-19 vaccination certificate issued in Gibraltar, Jersey and Guernsey or United Kingdom showing that they were fully vaccinated at least 14 days before arrival; or

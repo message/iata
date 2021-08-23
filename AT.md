@@ -1,4 +1,4 @@
-Published 16.08.2021
+Published 23.08.2021
 1. Passengers who in the past 10 days have been in Brazil, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Uruguay or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland;
@@ -14,7 +14,7 @@ Published 16.08.2021
 - a COVID-19 vaccination certificate showing that they received:
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 270 days before arrival; or
 - the Janssen vaccine at least 22 days and at most 270 days before arrival; or
-- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 270 days before arrival if they were tested positive at least 21 days before the vaccination. 
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 22 days and at most 270 days before arrival, and a proof of previous infection with COVID-19.
 3. Passengers must:
 - have a negative COVID-19 antigen test result issued at most 24 hours before arrival which is for personal use and recorded in an official data processing system; or
 - have a negative COVID-19 antigen test result issued at most 48 hours before arrival; or
@@ -25,7 +25,7 @@ Published 16.08.2021
 - a COVID-19 vaccination certificate showing that they received:
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 270 days before arrival; or
 - the Janssen vaccine at least 22 days and at most 270 days before arrival; or
-- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 270 days before arrival if they were tested positive at least 21 days before the vaccination. 
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 22 days and at most 270 days before arrival, and a proof of previous infection with COVID-19.
 - This does not apply to:
 - passengers younger than 12 years if accompanied by an adult;
 - passengers arriving from Brazil, Cyprus, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Spain, Uruguay or Zimbabwe;
@@ -36,7 +36,7 @@ Published 16.08.2021
 - have a COVID-19 vaccination certificate showing that they received:
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 270 days before arrival; or
 - the Janssen vaccine at least 22 days and at most 270 days before arrival; or
-- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 270 days before arrival if they were tested positive at least 21 days before the vaccination. 
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 22 days and at most 270 days before arrival, and a proof of previous infection with COVID-19.
 - This does not apply to:
 - passengers younger than 12 years if accompanied by an adult; 
 - passengers who have been in Brazil, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Uruguay or Zimbabwe in the past 10 days.

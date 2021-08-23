@@ -1,4 +1,4 @@
-Published 17.08.2021
+Published 23.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with an attestation of the Ministry of Foreign Affairs, International Business and International Cooperation of Suriname;
@@ -13,7 +13,9 @@ Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.),
 4. Passengers must have:
 - a confirmed accommodation booking for at least 7 days at a registered SHATA accommodation; and
 - health insurance to cover COVID-19 expenses.
-- This does not apply to residents of Suriname.
+- This does not apply to:
+ - residents of Suriname;
+- passengers older than 17 years with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival.
 5. Passengers are subject to quarantine for 7 days.
 - This does not apply to passengers older than 17 years with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac.
 6. Passengers arriving from Brazil must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. 
