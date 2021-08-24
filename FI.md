@@ -1,4 +1,4 @@
-Published 23.08.2021
+Published 24.08.2021
 1. Until 19 September 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Finland and their family members;
@@ -15,7 +15,6 @@ Published 23.08.2021
 2. Passengers without a negative COVID-19 antigen or PCR test result issued at most 72 hours before arrival are subject to a COVID-19 test upon arrival and self-isolation. The test result must be in English. Details can be found at <a href="https://www.finentry.fi/en/">https://www.finentry.fi/en/</a> 
 - This does not apply to passengers with:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac; or
-- a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, and a positive COVID-19 test result issued at most 6 months before arrival; or
 - a COVID-19 recovery certificate. The passenger must have tested positive at least 2 weeks and at most 6 months before arrival.
 
 

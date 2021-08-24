@@ -16,7 +16,7 @@ This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that:
 - they were vaccinated with Janssen at least 28 days before arrival and the certificate was issued on or after 14 August 2021; or
 - they were vaccinated with Janssen at least 14 days before arrival and the certificate was issued before 14 August 2021; or
-- they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
+- they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
 They must be arriving from a country other than Argentina, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, Fiji, French Guiana, Guyana, India, Kuwait, Maldives, Mongolia, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Rwanda, Seychelles, South Africa, Suriname, Thailand, Tunisia, United Kingdom, Uruguay, Venezuela or Virgin Isl. (British).
 2. Passengers are not allowed to transit through the Netherlands to Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) as final destination.
 This does not apply to:
@@ -36,7 +36,7 @@ This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that:
 - they were vaccinated with Janssen at least 28 days before arrival and the certificate was issued on or after 14 August 2021; or
 - they were vaccinated with Janssen at least 14 days before arrival and the certificate was issued before 14 August 2021; or
-- they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
+- they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
 They must be arriving from a country other than Argentina, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, Fiji, French Guiana, Guyana, India, Kuwait, Maldives, Mongolia, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Rwanda, Seychelles, South Africa, Suriname, Thailand, Tunisia, United Kingdom, Uruguay, Venezuela or Virgin Isl. (British).
 3. Passengers must have:
 - a negative COVID-19 test taken at most 48 hours before departure. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
@@ -50,12 +50,12 @@ Details can be found at <a href="https://tinyurl.com/59zy6bna">https://tinyurl.c
 - passengers with a COVID-19 vaccination certificate showing that:
 - they were vaccinated with Janssen at least 28 days before arrival and the certificate was issued on or after 14 August 2021; or
 - they were vaccinated with Janssen at least 14 days before arrival and the certificate was issued before 14 August 2021; or
-- they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
+- they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
 Details can be found at <a href="https://tinyurl.com/t2nxv3jt">https://tinyurl.com/t2nxv3jt</a> 
 - passengers with a COVID-19 vaccination certificate showing that:
 - they were vaccinated with Janssen at least 28 days before arrival and the certificate was issued on or after 14 August 2021; or
 - they were vaccinated with Janssen at least 14 days before arrival and the certificate was issued before 14 August 2021; or
-- they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
+- they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
 Details can be found at <a href="https://tinyurl.com/t2nxv3jt">https://tinyurl.com/t2nxv3jt</a> 
 - passengers with a COVID-19 recovery certificate issued at least 11 days and at most 180 days before departure if arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
 - passengers arriving from Austria, Bulgaria, Croatia, Czechia, Germany, Hungary, Latvia, Norway, Poland, Romania, Slovakia, Slovenia or Sweden;
