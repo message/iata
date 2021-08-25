@@ -9,7 +9,7 @@ Published 20.08.2021
 This does not apply to:
 - nationals of Jordan;
 - passengers with a diplomatic or special passport and a diplomatic QR code and their family members.
-7. Passengers entering or transiting through Jordan must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result for passengers arriving from Egypt, Iraq or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a> 
+7. Passengers entering or transiting through Jordan must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result for passengers arriving from Egypt, Iraq or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a>
 This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and their family members;
@@ -35,6 +35,6 @@ The vaccination certificate must be in Arabic or English.
 - This does not apply to airline crew with a round trip flight.
 15. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.
 16. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
-17. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a> 
+17. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a>
 
 <p>
