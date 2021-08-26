@@ -1,10 +1,10 @@
-Published 17.08.2021
-1. Passengers are not allowed to enter.
+Published 26.08.2021
+1. Until 31 August 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Oman;
 - passengers with a diplomatic passport traveling on duty;
 - passengers with a visa issued by Oman if in the past 14 days they have been in a country other than Argentina, Bangladesh, Brazil, Colombia, Ethiopia, India, Indonesia, Iran, Iraq, Libya, Malaysia, Nigeria, Pakistan, Philippines, Sierra Leone, Sudan, Tanzania, Thailand, Tunisia, United Kingdom or Viet Nam.
-2. Passengers must have a negative COVID-19 PCR test in Arabic or English. Test of passengers arriving on flights that take:
+2. Until 31 August 2021, passengers must have a negative COVID-19 PCR test in Arabic or English. Test of passengers arriving on flights that take:
 - 8 hours or more, including transit; must be taken at most 96 hours before arrival;
 - less than 8 hours; must be taken at most 72 hours before arrival. 
 - This does not apply to:
@@ -28,4 +28,8 @@ Published 17.08.2021
 - This does not apply to nationals of Oman.
 8. Passengers must download the Tarassud+ app and the Hmushrif app before departure.
 9. Suspension of all visa on arrival facilities.
-
+10. Effective 1 September 2021, passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Pfizer-BioNTech (Comirnaty), Sinovac or Sputnik at least 14 days before arrival. The certificate must have a QR code.
+- This does not apply to passengers younger than 18 years.
+11. Effective 1 September 2021, passengers without a negative COVID-19 PCR test including a QR code are subject to a PCR test upon arrival and quarantine. Test of passengers arriving on flights that take:
+- 8 hours or more, including transit; must be taken at most 96 hours before arrival;
+- less than 8 hours; must be taken at most 72 hours before arrival.

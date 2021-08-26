@@ -1,7 +1,7 @@
-Published 25.08.2021
+Published 26.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
-- passengers with an attestation of the Ministry of Foreign Affairs, International Business and International Cooperation of Suriname;
+- passengers with an attestation of the Ministry of Foreign Affairs, International Business and International Cooperation of Suriname obtained before departure by sending an email to <a href="mailto:conza@gov.sr">conza@gov.sr</a> ;
 - passengers older than 17 years with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac;
 - passengers with a positive COVID-19 test and a COVID-19 vaccination certificate showing that they received one dose at least 4 weeks and at most 6 months after the positive test; or
 - a COVID-19 recovery certificate.
