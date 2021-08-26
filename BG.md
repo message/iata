@@ -48,6 +48,6 @@ merchant seamen.
 - a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival; or
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a negative COVID-19 antigen test taken at most 48 hours before arrival.
-7. More details can be found at: <a href="https://www.mh.government.bg/media/filer_public/2021/07/29/zapoved_vlizane_bg_01-645_en_final.pdf">https://www.mh.government.bg/media/filer_public/2021/07/29/zapoved_vlizane_bg_01-645_en_final.pdf</a>
-and at <a href="https://www.mh.government.bg/media/filer_public/2021/08/03/zapoved_vlizane_bg_02_08_2021_izm-en.pdf">https://www.mh.government.bg/media/filer_public/2021/08/03/zapoved_vlizane_bg_02_08_2021_izm-en.pdf</a>
+7. More details can be found at: <a href="https://www.mh.government.bg/media/filer_public/2021/07/29/zapoved_vlizane_bg_01-645_en_final.pdf">https://www.mh.government.bg/media/filer_public/2021/07/29/zapoved_vlizane_bg_01-645_en_final.pdf</a> 
+and at <a href="https://www.mh.government.bg/media/filer_public/2021/08/03/zapoved_vlizane_bg_02_08_2021_izm-en.pdf">https://www.mh.government.bg/media/filer_public/2021/08/03/zapoved_vlizane_bg_02_08_2021_izm-en.pdf</a> 
 
