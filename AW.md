@@ -1,8 +1,8 @@
 Published 26.08.2021
 1. A completed Health Assessment form must be submitted on <a href="http://www.edcardaruba.aw">www.edcardaruba.aw</a> at most 72 hours before departure. A travel authorization must be presented at time of check-in.
 2. Passengers must have:
-- a negative COVID-19 test based on a nasal swab taken at most 72 hours before departure of the last direct flight to Aruba. Tests accepted are: HDA, NEAR, RT-LAMP, RT-PCR and TMA; or
-- a positive COVID-19 test taken at least 2 weeks and at most 12 weeks before departure of the last direct flight to Aruba. Tests accepted are HDA, NEAR, RT-LAMP, RT-PCR and TMA.
+- a negative COVID-19 test based on a nasal swab taken at most 72 hours before departure of the last direct flight to Aruba. Tests accepted are: HDA, NAAT, NEAR, PCR, RT-LAMP, RT-PCR and TMA; or
+- a positive COVID-19 test taken at least 2 weeks and at most 12 weeks before departure of the last direct flight to Aruba. Tests accepted are HDA, NAAT, NEAR, PCR, RT-LAMP, RT-PCR and TMA.
 - This does not apply to:
 - passengers younger than 12 years;
 - residents of Aruba with a COVID-19 vaccination certificate issued by Aruba at least 15 days before departure. They must not be arriving from Andorra, Argentina, Azerbaijan, Bahamas, Belarus, Belgium, Belize, Bonaire, Botswana, Brazil, Costa Rica, Cuba, Curacao, Cyprus, Denmark, Dominica, Estonia, Eswatini, Fiji, Finland, France, Georgia, Greece, Guatemala, Honduras, Iceland, Iran, Iraq, Ireland (Rep.), Israel, Jamaica, Japan, Kazakhstan, Kosovo (Rep.), Kuwait, Lebanon, Libya, Liechtenstein, Lithuania, Malaysia, Maldives, Malta, Mexico, Monaco, Mongolia, Montenegro, Morocco, Netherlands, North Macedonia (Rep.), Panama, Portugal, Russian Fed., San Marino, Serbia, Seychelles, South Africa, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, Suriname, Switzerland, Thailand, Trinidad and Tobago, Tunisia, Turkey, USA, United Arab Emirates or United Kingdom; 
