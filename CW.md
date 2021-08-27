@@ -1,6 +1,6 @@
-Published 12.08.2021
+Published 27.08.2021
 1. Passengers must present a "Digital Immigration Card" and a "Public Health Passenger Locator Card (PLC)" obtained at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a> . The forms must be completed at most 48 hours before departure.
-2. Passengers arriving from Aruba, Cuba, Guadeloupe, Martinique, Spain, United Kingdom, Venezuela or Virgin Isl. (British), must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test results must be uploaded at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a> 
+2. Passengers arriving from Aruba, Cuba, Dominica, France, French Guiana, Guadeloupe, Haiti, Israel, Martinique, St. Maarten, St. Martin, USA, United Kingdom, Venezuela or Virgin Isl. (British), must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test results must be uploaded at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a> 
 - This does not apply to:
 - passengers younger than 12 years without COVID-19 symptoms;
 - passengers departing on the same calendar day;
@@ -10,9 +10,9 @@ Published 12.08.2021
 - a negative COVID-19 antigen test taken at most 24 hours before departure. Test results must be uploaded at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a> 
 - This does not apply to:
 - passengers who reside in Aruba, Bonaire, St. Eustatius and Saba, Curacao and St. Maarten, with a COVID-19 vaccination certificate issued in Aruba, Bonaire, St. Eustatius and Saba, Curacao or St. Maarten, showing that they were fully vaccinated at least 14 days before arrival. They must arrive from Aruba, Bonaire, St. Eustatius and Saba, Curacao or St. Maarten;
-- passengers arriving from Aruba, Cuba, Guadeloupe, Martinique, Spain, United Kingdom, Venezuela or Virgin Isl. (British);
-- passengers arriving on direct flights from Anguilla, China (People's Rep.), Chinese Taipei, Czechia, Dominica, Grenada, Hong Kong (SAR China), Hungary, Montserrat, New Zealand, Poland, Romania, Saba or St. Eustatius;
-- passengers arriving from Anguilla, China (People's Rep.), Chinese Taipei, Czechia, Dominica, Grenada, Hong Kong (SAR China), Hungary, Montserrat, New Zealand, Poland, Romania, Saba, or St Eustatius, and transiting within 24 hours through a country other than Anguilla, China (People's Rep.), Chinese Taipei, Czechia, Dominica, Grenada, Hong Kong (SAR China), Hungary, Montserrat, New Zealand, Poland, Romania, Saba, or St Eustatius;
+- passengers arriving from Aruba, Cuba, Dominica, France, French Guiana, Guadeloupe, Haiti, Israel, Martinique, St. Maarten, St. Martin, USA, United Kingdom, Venezuela or Virgin Isl. (British);
+- passengers arriving on direct flights from Bonaire, St. Eustatius and Saba, Cayman Isl., China (People's Rep.), Chinese Taipei, Grenada, Hong Kong (SAR China), Hungary, Montserrat, New Zealand, Poland, Singapore or St. Vincent and the Grenadines;
+- passengers arriving from Bonaire, St. Eustatius and Saba, Cayman Isl., China (People's Rep.), Chinese Taipei, Grenada, Hong Kong (SAR China), Hungary, Montserrat, New Zealand, Poland, Singapore or St. Vincent and the Grenadines, and transiting within 24 hours through a country other than Bonaire, St. Eustatius and Saba, Cayman Isl., China (People's Rep.), Chinese Taipei, Grenada, Hong Kong (SAR China), Hungary, Montserrat, New Zealand, Poland, Singapore or St. Vincent and the Grenadines;
 - passengers with a negative COVID-19 antigen test taken at most 24 hours before departure; and
 a recovery certificate or at least the last two positive COVID-19 tests;
 - passengers younger than 12 years, without COVID-19 symptoms;
