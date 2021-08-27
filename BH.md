@@ -1,4 +1,4 @@
-Published 12.08.2021
+Published 27.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates;
@@ -10,9 +10,8 @@ Published 12.08.2021
 - This does not apply to:
 - nationals of Bahrain
 - passengers with a residence permit issued by Bahrain.
-3. Nationals of Bahrain and passengers with a residence permit issued by Bahrain, who in the past 14 days have been in or transited through Bangladesh, Dominican Rep., India, Indonesia, Iran, Iraq, Malaysia, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Pakistan, Panama, Philippines, South Africa, Sri Lanka, Tunisia, Uganda, Viet Nam or Zimbabwe must have a negative COVID-19 PCR test taken at most 48 hours before departure. The test result must have a QR code.
-4. Passengers who in the past 14 days have not been in or transited through Bangladesh, Dominican Rep., India, Indonesia, Iran, Iraq, Malaysia, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Pakistan, Panama, Philippines, South Africa, Sri Lanka, Tunisia, Uganda, Viet Nam or Zimbabwe, must present a negative COVID-19 PCR test taken at most 48 hours before departure. The test result must have a QR code
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
+3. Passengers who in the past 14 days have not been in or transited through Bangladesh, Dominican Rep., Georgia, India, Indonesia, Iran, Iraq, Malawi, Malaysia, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Pakistan, Panama, Philippines, South Africa, Sri Lanka, Tunisia, Uganda, Ukraine, Viet Nam or Zimbabwe, must present a COVID-19 vaccination certificate showing they were fully vaccinated at least 14 days before arrival.
+4. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must have a QR code.
 5. Passengers are subject to a COVID-19 PCR test upon arrival;
 - This does not apply to:
 - passengers younger than 6 years;
