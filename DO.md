@@ -1,4 +1,4 @@
-Published 21.07.2021
+Published 30.08.2021
 1. Passengers arriving from or who in the past 14 days have been in Spain must have:
 - a negative COVID-19 antigen or PCR test taken at most 72 hours before arrival; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival.
@@ -8,7 +8,7 @@ Published 21.07.2021
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least three weeks before arrival.
 - This does not apply to passengers younger than 5 years.
 3. Passengers arriving from Venezuela must have an authorization obtained from immigration authorities before departure.
-4. Passengers must complete an "Electronic Ticket" at <a href="https://eticket.migracion.gob.do/">https://eticket.migracion.gob.do/</a>. This will generate a QR code which must be presented upon arrival.
+4. Passengers must complete an "Electronic Ticket" at <a href="https://eticket.migracion.gob.do/">https://eticket.migracion.gob.do/</a> before departure. This will generate a QR code which must be presented at check-in and upon arrival.
 5. Passengers could be subject to a COVID-19 test upon arrival.
 - This does not apply to:
 - passengers with a negative COVID-19 antigen or PCR test taken at most 72 hours before arrival; or

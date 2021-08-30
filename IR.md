@@ -16,5 +16,4 @@ Published 30.08.2021
 - asymptomatic passengers who have transited through Kuwait.
 7. Passengers are subject to medical screening; and
 - could be subject to COVID-19 test and quarantine.
-8. Passengers must present a completed “Self-declaration form" at the time of check-in. The form can be obtained at <a href="https://www.cao.ir/web/aeronautical-operations-monitoring/news-covid-19">https://www.cao.ir/web/aeronautical-operations-monitoring/news-covid-19</a> 
 
