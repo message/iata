@@ -1,5 +1,5 @@
-Published 01.08.2021
-1. Until 30 August 2021, passengers are not allowed to enter.
+Published 30.08.2021
+1. Until 25 October 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
 - passengers with a long-term residence permit or a long term "D" visa issued by Switzerland or an EEA Member State;
@@ -10,15 +10,19 @@ Published 01.08.2021
 - passengers returning via Italy to their country of residence;
 - students;
 - military personnel.
-2. Until 30 August 2021, passengers who have been in or transited through Brazil in the past 14 days are not allowed to enter and transit.
+2. Until 25 October 2021, passengers who have been in or transited through Brazil in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
 - passengers residing in Italy since before 13 February 2021;
 - parents of children younger than 18 years who are residing in Italy;
-- military personnel.
-3. Until 30 August 2021, passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.
+- military personnel;
+- students.
+3. Until 25 October 2021, passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
-- nationals of Italy residing in Italy since before 29 April 2021;
-- nationals of Italy registered with the A.I.R.E.
+- passengers residing in Italy since before 28 August 2021;
+- nationals of Italy registered with the A.I.R.E;
+- students;
+- parents of children younger than 18 years who are residing in Italy;
+- spouses or partners of residents of Italy.
 4. Passengers must complete a Digital Passenger Locator Form at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a> 
 5. Passengers must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish.
 - This does not apply to:
@@ -60,3 +64,4 @@ All documents must be in English, French, Italian or Spanish, and be issued in t
 14. Passengers traveling to Pescara (PSR) from Malta, Spain or United Kingdom are subject to a COVID-19 test upon arrival and self-isolation until the test result is ready.
 15. Residence permits issued by Italy which expired after 31 January 2020 are considered valid until 31 July 2021.
 
+</p>
