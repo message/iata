@@ -1,11 +1,13 @@
-Published 26.08.2021
-1. Nationals of Albania, Angola, Belize, Benin, Botswana, Burkina Faso, Burundi, Cambodia, Cameroon, Central African Rep., Colombia, Comoros, Congo (Dem. Rep.), Cote d'Ivoire, Cuba, Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Iraq, Liberia, Madagascar, Mali, Moldova (Rep.), Mongolia, Morocco, Mozambique, Myanmar, Namibia, Nepal, Niger, Pakistan, Papua New Guinea, Philippines, Senegal, Sierra Leone, Somalia, South Sudan, Sri Lanka, Sudan, Tanzania, Togo, Uganda, Viet Nam and Zambia are not allowed to enter.
+Published 30.08.2021
+1. Nationals of Albania, Angola, Belize, Benin, Botswana, Burkina Faso, Burundi, Cambodia, Cameroon, Central African Rep., Colombia, Comoros, Congo (Dem. Rep.), Cote d'Ivoire, Cuba, Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Iraq, Liberia, Madagascar, Mali, Mauritania, Moldova (Rep.), Mongolia, Morocco, Mozambique, Myanmar, Namibia, Nepal, Niger, Pakistan, Papua New Guinea, Philippines, Senegal, Sierra Leone, Somalia, South Sudan, Sri Lanka, Sudan, Tanzania, Togo, Uganda, Viet Nam and Zambia are not allowed to enter.
 - This does not apply to:
 - passengers with a residence permit valid for a minimum of 6 months from the arrival date issued by Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, USA, United Arab Emirates or United Kingdom and return/onward tickets;
-- nationals of Iraq residing in Turkey
+- nationals of Comoros, Djibouti, Iraq, Mauritania, Morocco or Sudan residing in Turkey;
+- passengers with a visa issued by Jordan.
 2. Passengers who in the past 45 days have been in India are not allowed to enter.
 - This does not apply to nationals of Jordan and their spouses and children.
 3. Passengers are not allowed to enter if in the past 14 days they have been in Bangladesh, Bhutan, Nepal, Myanmar, Pakistan or Sri Lanka.
+- This does not apply to nationals of Jordan and their spouses and children.
 4. Flights from India are suspended.
 5. Passengers are not allowed to transit through Jordan for more than 10 hours.
 6. Passengers must complete a "Declaration Form" before departure at <a href="https://www.gateway2jordan.gov.jo">https://www.gateway2jordan.gov.jo</a> . This will generate a QR code which must be presented before boarding and upon arrival.
