@@ -24,7 +24,7 @@ This does not apply to:
 - US military personnel;
 - passengers with a medical certificate with a positive COVID-19 test result. The test must be taken at most three months before departure from the first embarkation point; and 
 - a letter issued by a health authority stating that the passenger has been cleared for travel. The test result must specify "positive" or "detected", if marked "invalid" it is not accepted.
-3. Passengers must complete a disclosure and attestation form before departure. The form can be obtained at <a href="https://www.cdc.gov/quarantine/pdf/attachment-a-global-passenger-disclosure-attestation-2021-p.pdf">https://www.cdc.gov/quarantine/pdf/attachment-a-global-passenger-disclosure-attestation-2021-p.pdf</a> or <a href="https://www.cdc.gov/quarantine/pdf/Fillable-Attestation-English-p.pdf">https://www.cdc.gov/quarantine/pdf/Fillable-Attestation-English-p.pdf</a> 
+3. Passengers must complete a disclosure and attestation form before departure. The form can be obtained at <a href="https://tinyurl.com/58nw6t8v">https://tinyurl.com/58nw6t8v</a> 
 4. Passengers are subject to COVID-19 measures set by the state/territory of their final destination. More information can be found at <a href="http://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html">www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html</a> 
 5. DV visas issued in September 2020 that expired are accepted for entry.
 6. Nationals of the U.S.A. are allowed to enter with an expired passport.
