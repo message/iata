@@ -1,4 +1,4 @@
-Published 30.08.2021
+Published 31.08.2021
 1. Until 25 October 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -41,8 +41,7 @@ All documents for passengers arriving from Israel must be issued in Israel.
 - passengers younger than 6 years;
 - more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> 
 7. Passengers arriving from Canada, Japan or USA must have:
-- a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival; or
-- a COVID-19 recovery certificate; or
+- a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival; and
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
 All documents must be in English, French, Italian or Spanish, and be issued in the country they are arriving from.
 - This does not apply to:
@@ -54,7 +53,7 @@ All documents must be in English, French, Italian or Spanish, and be issued in t
 - quarantine in a hotel for 10 days; and
 - another COVID-19 antigen or molecular test at the end of quarantine.
 - This does not apply to passengers younger than 6 years.
-9. Passengers who have been in or transited through Gibraltar or United Kingdom in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to self-isolation for 5 days and a COVID-19 antigen or molecular test at the end of the self-isolation.
+9. Passengers who have been in or transited through Gibraltar or United Kingdom in the past 14 days without a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival are subject to self-isolation for 5 days. The test result must be in English, French, Italian or Spanish.
 - This does not apply to passengers younger than 6 years.
 10. Passengers who have been in or transited through Brazil in the past 14 days are subject to a COVID-19 antigen or molecular test upon arrival.
 - This does not apply to passengers younger than 6 years.
@@ -62,6 +61,5 @@ All documents must be in English, French, Italian or Spanish, and be issued in t
 12. Passengers could be subject to self-isolation for 5 or 10 days and to a COVID-19 antigen or molecular test at the end of self-isolation. More details can be found at <a href="https://infocovid.viaggiaresicuri.it/index_en.html">https://infocovid.viaggiaresicuri.it/index_en.html</a> 
 13. Passengers traveling to Sicily who in the past 14 days have been in or transited through France, Greece, Malta, Netherlands, Portugal or Spain are subject to a COVID-19 test upon arrival.
 14. Passengers traveling to Pescara (PSR) from Malta, Spain or United Kingdom are subject to a COVID-19 test upon arrival and self-isolation until the test result is ready.
-15. Residence permits issued by Italy which expired after 31 January 2020 are considered valid until 31 July 2021.
 
 </p>

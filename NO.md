@@ -1,5 +1,5 @@
-Published 24.08.2021
-1. Until 1 September 2021, passengers are not allowed to enter.
+Published 31.08.2021
+1. Until 1 October 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Norway;
 - spouses, registered partners, unmarried partners, children, stepchildren, parents, stepparents of residents of Norway;

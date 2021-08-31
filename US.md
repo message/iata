@@ -1,4 +1,4 @@
-Published 11.08.2021
+Published 31.08.2021
 1. Passengers who have transited or have been in Austria, Belgium, Brazil, China (People's Rep.), Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Iran, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, United Kingdom (excluding overseas territories outside of Europe) or Vatican City (Holy See), in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
 - nationals and permanent residents of the USA;
@@ -16,6 +16,7 @@ Published 11.08.2021
 - members of the U.S. Armed Forces, spouses, and children of members of the U.S. Armed Forces;
 - passengers with evidence of traveling at the invitation of the USA government for a purpose related to the containment/mitigation of the Coronavirus (COVID-19);
 - passengers with documents issued by the U.S. Department of Homeland Security, U.S. Customs and Border Protection, or U.S. Department of State indicating that the passenger is exempt from the restriction;
+- passengers with an NIE exemption;
 - students arriving from Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland, United Kingdom;
 - students with a F-1 or M-1 visa if participating in an academic program that started on 1 August 2021 or later.
 2. Passengers entering or transiting through the USA must have a negative COVID-19 test taken at most 3 days before departure from the first embarkation point. Tests accepted are: antigen, NAAT, RT-LAMP, RT-PCR or TMA. Passengers details (e.g., name and date of birth) in the certificate must match those stated in the passport or other travel document; and the test result must specify "negative" or "not detected". If marked "invalid" it is not accepted.
