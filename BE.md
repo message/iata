@@ -1,4 +1,4 @@
-Published 19.08.2021
+Published 31.08.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
@@ -56,7 +56,7 @@ Published 19.08.2021
 - passengers arriving from Austria, Bulgaria, Croatia, Czechia, Estonia, Finland, Germany, Hungary, Iceland, Latvia, Liechtenstein, Lithuania, Norway, Poland, Romania, San Marino, Slovakia, Slovenia, Sweden, Switzerland or Vatican City (Holy See);
 - passengers arriving from orange regions of Denmark, France, Greece, Ireland (Rep.), Italy, Netherlands, Portugal and Spain. Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a>;
 - passengers arriving from Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro, New-Zealand, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Singapore, USA or Ukraine.
-9. Passengers arriving from Israel, Montenegro or USA must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Dutch, English, French or German.
+9. Passengers arriving from Azerbaijan, Israel, Kosovo (Rep.), Lebanon, Montenegro, North Macedonia (Rep.) or USA must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Dutch, English, French or German.
 - This does not apply to:
 - passengers residing in Belgium;
 - passengers younger than 12 years;
