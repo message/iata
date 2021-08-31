@@ -1,4 +1,4 @@
-Published 30.08.2021
+Published 31.08.2021
 Until 31 August 2021, the following apply:
 1. Passengers are not allowed to enter.
 - This does not apply to:
@@ -40,3 +40,4 @@ Effective 1 September 2021, the following will apply:
 - 8 hours or more (including transit), must be taken at most 96 hours before arrival;
 - less than 8 hours, must be taken at most 72 hours before arrival. The test must be uploaded in the Tarassud+ app and the test upon arrival fee must be paid via the Tarassud+ app.
 - This does not apply to passengers younger than 18 years.
+13. Visa on arrival facilities will be reinstated.
