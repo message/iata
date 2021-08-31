@@ -1,11 +1,11 @@
 Published 05.08.2021
 1. Flights from Bangladesh, Brazil, India, Nepal, South Africa and Sri Lanka are suspended.
 2. Passengers are not allowed to transit through Adana (ADA).
-3. Until 31 August 2021, passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival, if in the past 14 days they have been in Afghanistan, Bangladesh, Brazil, India, Nepal, Pakistan, South Africa or Sri Lanka.
+3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival, if in the past 14 days they have been in Afghanistan, Bangladesh, Brazil, India, Nepal, Pakistan, South Africa or Sri Lanka.
 - This does not apply to passengers younger than 6 years.
-4. Until 31 August 2021, passengers arriving from Egypt, Iran, Singapore or the United Kingdom must have a negative COVID-19 PCR test taken at most 72 hours before arrival.
+4. Passengers arriving from Egypt, Iran, Singapore or the United Kingdom must have a negative COVID-19 PCR test taken at most 72 hours before arrival.
 - This does not apply to passengers younger than 6 years.
-5. Until 31 August 2021, passengers arriving from a country other than Afghanistan, Bangladesh, Brazil, Egypt, India, Iran, Nepal, Pakistan, Singapore, South Africa, Sri Lanka, United Kingdom, must:
+5. Passengers arriving from a country other than Afghanistan, Bangladesh, Brazil, Egypt, India, Iran, Nepal, Pakistan, Singapore, South Africa, Sri Lanka, United Kingdom, must:
 - have a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival.
 This does not apply to:
