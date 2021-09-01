@@ -1,4 +1,4 @@
-Published 31.08.2021
+Published 01.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -11,7 +11,7 @@ Published 31.08.2021
 - nationals of India with a visa issued by the USA or with a residence permit issued by USA, United Kingdom or an EU Member State traveling to Abu Dhabi (AUH);
 - passengers traveling to Abu Dhabi (AUH) with a resident visa;
 - passengers traveling to Abu Dhabi (AUH) with a tourist visa issued by Abu Dhabi;
-- passengers traveling to Abu Dhabi (AUH) and arriving from Albania, Armenia, Australia, Austria, Bahrain, Belgium, Brunei Darussalam, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Czechia, Egypt, Germany, Hong Kong (SAR China), Hungary, Ireland (Rep.), Jordan, Kenya, Kuwait, Korea (Rep.), Lebanon, Malta, Mauritius, Moldova (Rep.), Netherlands, New Zealand, Poland, Romania, Saudi Arabia, Serbia, Seychelles, Singapore, Sweden, Switzerland, Turkey or Ukraine with a pre-arranged visa issued by any emirate;
+- passengers traveling to Abu Dhabi (AUH) and arriving from Albania, Armenia, Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Comoros, Croatia, Czechia, Denmark, Egypt, Finland, Germany, Greece, Hong Kong (SAR China), Hungary, Ireland (Rep.), Italy, Japan, Jordan, Kenya, Korea (Rep.), Kuwait, Kyrgyzstan, Lebanon, Luxembourg, Maldives, Malta, Mauritius, Moldova (Rep.), Monaco, Netherlands, New Zealand, Norway, Oman, Poland, Portugal, Qatar, Romania, San Marino, Saudi Arabia, Serbia, Seychelles, Singapore, Slovakia, Slovenia, Sweden, Switzerland, Tajikistan, Turkey, Turkmenistan or Ukraine with a pre-arranged visa issued by any emirate;
 - nationals of Indonesia traveling under the Safe Travel Corridor program. They must have an entry permit and a return ticket.
 2. Passengers who in the past 14 days have been in Afghanistan, Bangladesh, Congo (Dem. Rep.), India, Indonesia, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia are not allowed to enter Abu Dhabi (AUH), Ras Al Khaimah (RKT) and Sharjah (SHJ). 
 - This does not apply to:
@@ -37,7 +37,7 @@ Published 31.08.2021
 - passengers with disabilities;
 - passengers transiting through Dubai (DXB) or Al Maktoum (DWC).
 8. Passengers entering Dubai (DXB) or Al Maktoum (DWC) who in the past 14 days have been in Afghanistan, Bangladesh, Congo (Dem. Rep.), India, Indonesia, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia must have:
- - a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
+- a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
 - a printed negative COVID-19 rapid PCR test taken at most 6 hours before departure from the first embarkation point.
 The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
 - This does not apply to:
