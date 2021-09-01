@@ -1,4 +1,4 @@
-Published 20.08.2021
+Published 01.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals or residents of Denmark;
@@ -17,19 +17,20 @@ The test result must be in Danish, English, French, German, Icelandic, Italian, 
 - This does not apply to:
 - nationals and residents of Denmark;
 - passengers younger than 16 years;
-- passengers traveling to Faroe Islands (FAE) or Greenland;
+- passengers traveling to Faroe Isl. (FAE) or Greenland;
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 months before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish;
 - passengers with an EU Digital COVID Certificate showing that they were fully vaccinated at least 2 weeks and at most 12 months before arrival;
 - passengers with a COVID-19 vaccination certificate residing in Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei and Darussalam, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Mexico, Monaco, Montenegro, New Zealand, North Macedonia (Rep.), Qatar, San Marino, Saudi Arabia, Serbia, Singapore, Switzerland, Turkey, USA, Ukraine, United Kingdom, Vatican City (Holy See) or an EEA Member State. The certificate must show that they were fully vaccinated at least 2 weeks and at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty). Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> ;
-- residents of Germany (only Schleswig-Holstein) and Sweden (only Blekinge, Halland, Scania and West Gothia provinces) traveling through Denmark to their place of residence.
+- residents of Germany (only Schleswig-Holstein) and Sweden (only Blekinge, Halland, Scania and West Gothia provinces) traveling through Denmark to their place of residence;
+- more exemptions can be found at <a href="https://en.coronasmitte.dk/rules-and-regulations/entry-into-denmark/foreigners-in-transit">https://en.coronasmitte.dk/rules-and-regulations/entry-into-denmark/foreigners-in-transit</a> .
 3. Passengers are subject to a COVID-19 test upon arrival.
 - This does not apply to:
 - passengers younger than 16 years;
 - passengers traveling to Greenland;
+- passengers traveling to Faroe Isl. (FAE) or Greenland;
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 months before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish;
 - passengers with an EU Digital COVID Certificate showing that they were fully vaccinated at least 2 weeks and at most 12 months before arrival;
-- residents of Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei and Darussalam, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Mexico, Monaco, Montenegro, New Zealand, North Macedonia (Rep.), Qatar, San Marino, Saudi Arabia, Serbia, Singapore, Switzerland, Turkey, USA, Ukraine, United Kingdom, Vatican City (Holy See) or an EEA Member State with a COVID-19 vaccination certificate issued in their country of residence. The certificate must show that they were fully vaccinated at least 2 weeks and at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty). Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> ;
-- effective 1 September 2021, passengers traveling to Faroe Islands (FAE).
+- residents of Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei and Darussalam, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Mexico, Monaco, Montenegro, New Zealand, North Macedonia (Rep.), Qatar, San Marino, Saudi Arabia, Serbia, Singapore, Switzerland, Turkey, USA, Ukraine, United Kingdom, Vatican City (Holy See) or an EEA Member State with a COVID-19 vaccination certificate issued in their country of residence. The certificate must show that they were fully vaccinated at least 2 weeks and at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty). Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> .
 4. Passengers could be subject to self-isolation for 10 days. Details can be found at <a href="https://tinyurl.com/9xbu483d">https://tinyurl.com/9xbu483d</a> .
 - This does not apply to:
 - passengers with an EU Digital COVID Certificate showing that they were fully vaccinated at least 2 weeks and at most 12 months before arrival;
