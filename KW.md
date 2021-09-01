@@ -15,7 +15,7 @@ This does not apply to:
 5. Passengers are subject to medical screening.
 6. Passengers should install "Shlonik" and "Kuwait-Mosafer" applications on their personal device.
 7. Suspension of visa on arrival facilities.
-8. Passengers must register online before departure at <a href="https://kuwaitmosafer.gov.kw/home.html">https://kuwaitmosafer.gov.kw/home.html</a>
+8. Passengers must register online before departure at <a href="https://kuwaitmosafer.gov.kw/home.html">https://kuwaitmosafer.gov.kw/home.html</a> 
 9. Passengers are subject to 2 PCR tests at their own expense upon arrival. They must have a payment confirmation obtained at <a href="https://kuwaitmosafer.gov.kw/home.html">https://kuwaitmosafer.gov.kw/home.html</a> before departure.
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTec (Comirnaty).
 10. Passengers could be subject to quarantine at a hotel or home-quarantine for up to 14 days.
