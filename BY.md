@@ -1,5 +1,5 @@
-Published 30.08.2021
-1. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be issued in Belarusian, English or Russian.
+Published 01.09.2021
+1. Passengers must have a negative COVID-19 PCR test taken at most 4 days before arrival. The test result must be issued in Belarusian, English or Russian.
 This does not apply to:
 - nationals and residents of Belarus;
 - passengers with a diplomatic or service passport;
