@@ -1,6 +1,4 @@
-Published 31.08.2021
-Passengers arriving from India are subject to self-isolation for 14 days.
-Effective 1 September 2021:
+Published 01.09.2021
 1. Passengers are not allowed to enter or transit through North Macedonia (Rep.).
 - This does not apply to:
  - nationals and residents of North Macedonia (Rep.);
