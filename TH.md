@@ -1,4 +1,4 @@
-Published 30.07.2021
+Published 02.09.2021
 1. Until 30 September 2021, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -40,8 +40,9 @@ Published 30.07.2021
 13. Passengers are subject to medical screening.
 14. Nationals of Thailand are subject to quarantine for a minimum of 14 days.
 - This does not apply when traveling to Phuket (HKT) or Na Thon (Ko Samui (USM)) with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac.
-15. Airline crew are subject to self-isolation until their next flight.
-16. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-
-16. Suspension of visa on arrival facilities.
-17. Suspension of visa exemption for nationals of Cambodia and Myanmar with a normal passport.
+15. Passengers are allowed to transit through Bangkok (BKK) onward to Phuket (HKT) or Ko Samui (USM) for a maximum of 12 hours. 
+16. Airline crew are subject to self-isolation until their next flight.
+17. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-
+18. Suspension of visa on arrival facilities.
+19. Suspension of visa exemption for nationals of Cambodia and Myanmar with a normal passport.
 
