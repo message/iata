@@ -1,8 +1,9 @@
-Published 15.07.2021 
+Published 02.09.2021 
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Uruguay;
-- passengers with passports stating Uruguay as place of birth and their children.
+- passengers with passports stating Uruguay as place of birth and their children;
+- passengers with a COVID-19 vaccination certificate.
 2. Passengers are not allowed to transit.
 - This does not apply to nationals and residents of Argentina, Brazil and Paraguay transiting through Montevideo (MVD) or Punta del Este (PDP).
 3. Passengers can only land at Montevideo (MVD) and Punta del Este (PDP).
