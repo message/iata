@@ -1,4 +1,4 @@
-Published 01.09.2021
+Published 02.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -25,7 +25,7 @@ Published 01.09.2021
 - are subject to medical screening, and
 - must download and register the COVID-19 DXB Smart App.
 4. Passengers traveling as tourists arriving at Dubai (DXB) or Sharjah (SHJ) must have health insurance.
-5. Residents of United Arab Emirates with a Golden Residence Card or a residency visa returning to Dubai (DXB) or Al Maktoum (DWC) must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx</a> .
+5. Residents of United Arab Emirates with a residence visa returning to Dubai (DXB) or Al Maktoum (DWC) and arriving from Afghanistan, Bangladesh, Congo (Dem. Rep.), India, Indonesia, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx</a> .
 6. Passengers entering United Arab Emirates who in the past 14 days have been in Afghanistan, Bangladesh, Congo (Dem. Rep.), India, Indonesia, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia must have a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
 - This does not apply to:
 - passengers younger than 12 years;

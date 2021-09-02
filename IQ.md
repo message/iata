@@ -1,26 +1,22 @@
-Published 17.08.2021
+Published 02.09.2021
 1. Passengers arriving from India are not allowed to enter Iraq via Baghdad (BGW), Basra (BSR) or Najaf (NJF).
-2. Passengers arriving from or who have transited through India are not allowed to enter Iraq via Erbil (EBL) or Sulaymaniyah (ISU).
-- This does not apply to:
-- nationals of Iraq;
-- passengers with a diplomatic passport and an approval letter issued by the Kurdistan Regional Government (KRG) before arrival;
-- passengers with a Laissez-Passer issued by the United Nations traveling on duty and an approval letter issued by the Kurdistan Regional Government (KRG) before arrival. 
-3. Nationals of India are not allowed to enter Iraq via Baghdad (BGW), Basra (BSR) or Najaf (NJF).
-4. Nationals of Indonesia are not allowed to enter Iraq via Basra (BSR) or Najaf (NJF).
-5. Passengers traveling to Baghdad (BGW) must have a printed negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in Arabic or English.
+2. Nationals of India are not allowed to enter Iraq via Baghdad (BGW), Basra (BSR) or Najaf (NJF).
+3. Nationals of Indonesia are not allowed to enter Iraq via Basra (BSR) or Najaf (NJF).
+4. Passengers traveling to Baghdad (BGW) must have a printed negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in Arabic or English.
 - This does not apply to passengers younger than 10 years. They will be subject to a COVID-19 PCR test on arrival.
-6. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates, with a return onward ticket, can obtain a visa on arrival at Baghdad (BGW).
-7. Passengers traveling to Basra (BSR) must have a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Arabic or English.
+5. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates, with a return onward ticket, can obtain a visa on arrival at Baghdad (BGW).
+6. Passengers traveling to Basra (BSR) must have a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Arabic or English.
 - This does not apply to passengers younger than 10 years.
-8. Passengers traveling to Sulaymaniyah (ISU) must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival.
+7. Passengers traveling to Sulaymaniyah (ISU) must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival.
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated;
 - passengers younger than 10 years.
-9. Passengers traveling to Erbil (EBL) must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival.
+8. Passengers traveling to Erbil (EBL) must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival.
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated;
 - passengers younger than 12 years;
 - passengers arriving from Canada.
+9. Passengers traveling to Erbil (EBL) or Sulaymaniyah (ISU) arriving from India are subject to a COVID-19 PCR test upon arrival and quarantine for 14 days at their own expense.
 10. Passengers arriving from Canada traveling to Erbil (EBL) must have a printed negative COVID-19 PCR test result issued at most 96 hours before arrival.
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated;

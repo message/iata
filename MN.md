@@ -1,5 +1,5 @@
-Published 03.08.2021
-1. Passengers are not allowed to enter.
+Published 02.09.2021
+1. Passengers are not allowed to enter until 31 December 2021.
 - This does not apply to:
 - nationals and permanent residents of Mongolia;
 - nationals of Argentina, Belarus, Brazil, Canada, Chile, Cuba, Ecuador, Germany, Israel, Japan, Kazakhstan, Kyrgyzstan, Lao People's Dem. Rep., Malaysia, Philippines, Russian Fed., Serbia, Singapore, Thailand, Turkey and USA;
@@ -13,7 +13,8 @@ Published 03.08.2021
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. 
 - This does not apply to:
 - passengers younger than the minimum age required for a COVID-19 test in the departure country;
-- deadheading crew.
+- deadheading crew;
+- passengers with a positive COVID-19 test and a recovery certificate issued at most 4 months before arrival.
 3. Passengers are subject to quarantine at designated facilities for 7 days, followed by self-isolation for 7 days. Details can be found at <a href="https://tabinfo.mn/en/tab/">https://tabinfo.mn/en/tab/</a> . 
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. They are subject to a COVID-19 test upon arrival and self-isolation for 14 days;
