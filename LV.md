@@ -1,4 +1,4 @@
-Published 18.08.2021
+Published 02.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Latvia; 
@@ -22,7 +22,6 @@ passengers who reside in Albania, Armenia, Australia, Azerbaijan, Bosnia and Her
  - This does not apply to:
  - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before arrival in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience Co Ltd. from Korea), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac; 
  - passengers with a COVID-19 recovery certificate issued in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom;
- - until 1 September 2021, passengers younger than 18 years, traveling with a parent/guardian who is exempt from self-isolation; 
- - effective from 2 September 2021, passengers younger than 12 years, traveling with a parent/guardian who is exempt from self-isolation; 
+ - passengers younger than 12 years, traveling with a parent/guardian who is exempt from self-isolation; 
  - More information is available in the latest “List of countries with 14-day COVID-19 morbidity rates" which can be found at <a href="https://www.spkc.gov.lv/lv/valstu-saslimstibas-raditaji-ar-covid-19-0">https://www.spkc.gov.lv/lv/valstu-saslimstibas-raditaji-ar-covid-19-0</a> 
 

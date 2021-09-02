@@ -1,4 +1,4 @@
-Published 31.08.2021
+Published 02.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates;
@@ -6,7 +6,7 @@ Published 31.08.2021
 - passengers with an e-visa obtained before departure;
 - passengers who can obtain a visa on arrival;
 - military personnel.
-2. Passengers are not allowed to enter if in the past 14 days they have been in or transited through Bangladesh, Dominican Rep., Georgia, India, Indonesia, Iran, Iraq, Malawi, Malaysia, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Pakistan, Panama, Philippines, South Africa, Sri Lanka, Tunisia, Uganda, Ukraine, Viet Nam or Zimbabwe;
+2. Passengers are not allowed to enter if in the past 14 days they have been in or transited through Bangladesh, Bosnia and Herzegovina, Costa Rica, Ecuador, Ethiopia, Georgia, Indonesia, Iran, Iraq, Malawi, Malaysia, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Philippines, Slovenia, South Africa, Sri Lanka, Tunisia, Uganda, Ukraine, Viet Nam or Zimbabwe.
 - This does not apply to:
 - nationals of Bahrain
 - passengers with a residence permit issued by Bahrain.

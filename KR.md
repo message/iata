@@ -14,17 +14,19 @@ Published 01.09.2021
 - a Quarantine Exemption Certificate.
 8. Passengers must install the 'self-quarantine safety protection mobile app' found at <a href="https://tinyurl.com/m9fcz6dc">https://tinyurl.com/m9fcz6dc</a> 
 9. Passengers must complete a "Health Declaration Form" and a "Travel Record Declaration" and present it upon arrival. The forms can be obtained upon arrival.
-10. All flights must arrive at Incheon International Airport (ICN) between 05:00 and 20:00.
-11. Passengers are not allowed to transit through Korea (Rep.) for more than 24 hours.
-12. Nationals of Thailand are not allowed to transit if they are traveling onward to Thailand.
+10. Passengers are not allowed to transit through Korea (Rep.) for more than 24 hours.
+11. Nationals of Thailand are not allowed to transit if they are traveling onward to Thailand.
 - This does not apply to nationals of Thailand with a Certificate of Entry issued by Royal Thai Embassy and a Fit to Fly health certificate in English issued at most 72 hours before departure.
 - This does not apply to airline crew.
-13. Nationals of Egypt, Sudan, Syria and Yemen are not allowed to transit through Korea (Rep.).
+12. Nationals of Egypt, Sudan, Syria and Yemen are not allowed to transit through Korea (Rep.).
 - This does not apply to nationals of Egypt with a diplomatic or service passport.
-14. Passengers traveling to China (People's Rep.) are not allowed to transit through Korea (Rep.).
-15. Passengers with a visa on an expired passport must present a printed "Visa Grant Notice" and the expired passport to the immigration upon arrival.
-16. Passengers with an E-9 visa issued by Korea (Rep.) must present a completed 'Confirmation of Self-quarantine' form upon arrival. The form can be obtained at the local EPS center.
-17. Passengers must have a printed negative COVID-19 test result issued at most 3 days before departure from the first embarkation point. Tests accepted are: LAMP, NAAT, NEAR, PCR, SDA and TMA tests. The test result must be in English, Korean or accompanied by a certified English or Korean translation. The test result must have the name of the passenger which must match the name in the passport, the date of birth and the name of the issuing laboratory. Passengers arriving from Indonesia, Philippines or Uzbekistan must have a test result issued by an approved laboratory and details can be found at the Korean (Rep.) Embassy website in those countries.
+13. Passengers traveling to China (People's Rep.) are not allowed to transit through Korea (Rep.).
+14. Passengers with a visa on an expired passport must present a printed "Visa Grant Notice" and the expired passport to the immigration upon arrival.
+15. Passengers with an E-9 visa issued by Korea (Rep.) must present a completed 'Confirmation of Self-quarantine' form upon arrival. The form can be obtained at the local EPS center.
+16. Passengers must have a printed negative COVID-19 test result issued at most 3 days before departure from the first embarkation point. Tests accepted are: LAMP, NAAT, NEAR, PCR, SDA and TMA tests. The test result must:
+- be in English, Korean or accompanied by a certified English or Korean translation; and
+- have the name of the passenger which must match the name in the passport, the date of birth and the name of the issuing laboratory; and
+- be issued by an approved laboratory if arriving from Indonesia, Philippines or Uzbekistan. Details can be found at the Korean (Rep.) Embassy website in those countries.
 - This does not apply to:
 - nationals of Korea (Rep.) travelling on official business with a Quarantine Exemption Certificate;
 - nationals of Korea (Rep.) arriving from Myanmar;
