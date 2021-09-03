@@ -1,9 +1,9 @@
-Published 27.08.2021
-1. Until 3 September 2021, passengers are not allowed to enter.
+Published 03.09.2021
+1. Until 10 September 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
 - British nationals and residents of the United Kingdom;
-- nationals and residents of Albania, Andorra, Armenia, Australia, Azerbaijan, Bahrain, Belarus, Bosnia and Herzegovina, Brunei Darussalam, Canada, China (People's Rep.), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Kuwait, Lebanon, Moldova (Rep.), Monaco, Montenegro, New Zealand, North Macedonia (Rep), Qatar, Russian Fed., San Marino, Saudi Arabia, Serbia, Singapore, Turkey, USA, Ukraine, United Arab Emirates and Vatican City (Holy See);
+- nationals and residents of Albania, Andorra, Armenia, Australia, Azerbaijan, Bahrain, Belarus, Bosnia and Herzegovina, Brunei Darussalam, Canada, China (People's Rep.), Chinese Taipei, Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Kuwait, Lebanon, Moldova (Rep.), Monaco, Montenegro, New Zealand, North Macedonia (Rep), Qatar, Russian Fed., San Marino, Saudi Arabia, Serbia, Singapore, Turkey, USA, Ukraine, United Arab Emirates and Vatican City (Holy See);
 - passengers with a residence permit issued by Greece. A certificate of application for renewal of a residence permit issued by Greece is also accepted;
 - passengers with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom;
 - passengers with a long term visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
