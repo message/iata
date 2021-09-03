@@ -1,4 +1,4 @@
-Published 01.09.2021
+Published 03.09.2021
 1. Until 30 September 2021, passengers are not allowed to enter.
 - This does not apply to:
 - Nationals and residents of Malta with:
@@ -37,7 +37,7 @@ Published 01.09.2021
 2. Passengers between 5 and 11 years must have a negative COVID-19 PCR test taken at most 72 hours before arrival. More details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a> 
 3. Passengers must complete a "Public Health Travel Declaration Form" and "Passenger Locator Form" found at <a href="https://www.maltairport.com/declarationforms/">https://www.maltairport.com/declarationforms/</a> or <a href="https://app.euplf.eu/#/">https://app.euplf.eu/#/</a> and present it upon arrival.
 4. Merchant seamen must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure. The test result must be in English or accompanied by a certified English translation.
-5. Passengers could be subject to quarantine for 14 days. 
+5. Passengers could be subject to quarantine in a hotel for 14 days at their own expense.
 - This does not apply to: 
 - passengers younger than 12 years traveling with their fully vaccinated parents/guardians;
 - passengers with a COVID-19 vaccination certificate issued by Malta showing that they were fully vaccinated at least 14 days before arrival; or
