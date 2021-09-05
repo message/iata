@@ -1,11 +1,10 @@
-Published 03.09.2021
+Published 05.09.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of the Netherlands;
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lithuania, Liechtenstein, Luxembourg, Malta, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
 - passengers arriving from Albania, Armenia, Aruba, Australia, Azerbaijan, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Curacao, Hong Kong (SAR China), Japan, Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, San Marino, Saudi Arabia, Serbia, Singapore, St. Maarten, Ukraine or Vatican City (Holy See);
-- until 3 September 2021, passengers arriving from Israel, Kosovo (Rep.), Lebanon, Montenegro, North Macedonia (Rep.) or USA;
 - passengers with a long-term residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden;
 - family members of a national of an EEA Member State or Switzerland; more details can be found at <a href="https://tinyurl.com/j5ycrntc">https://tinyurl.com/j5ycrntc</a> 
 - passengers with a consular, diplomatic, official, service or special passports traveling on duty;
@@ -18,7 +17,6 @@ This does not apply to:
 - they were vaccinated with Janssen at least 28 days before arrival and the certificate was issued on or after 14 August 2021; or
 - they were vaccinated with Janssen at least 14 days before arrival and the certificate was issued before 14 August 2021; or
 - they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.
-They must be arriving from a country other than Argentina, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, Fiji, French Guiana, Guyana, India, Kuwait, Maldives, Mongolia, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Rwanda, Seychelles, South Africa, Suriname, Thailand, Tunisia, United Kingdom, Uruguay, Venezuela or Virgin Isl. (British).
 2. Passengers are not allowed to transit through the Netherlands to Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) as final destination.
 This does not apply to:
 - nationals and residents of the Netherlands;
@@ -26,7 +24,6 @@ This does not apply to:
 - British nationals;
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lithuania, Liechtenstein, Luxembourg, Malta, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
 - passengers arriving from Albania, Armenia, Aruba, Australia, Azerbaijan, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Curacao, Hong Kong (SAR China), Japan, Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), New Zealand, Qatar, San Marino, Saudi Arabia, Serbia, Singapore, St. Maarten, Ukraine or Vatican City (Holy See);
-- until 3 September 2021, passengers arriving from Israel, Kosovo (Rep.), Lebanon, Montenegro, North Macedonia (Rep.) or USA;
 - passengers with a long-term residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or the United Kingdom;
 - nationals of Albania, Andorra, Antigua and Barbuda, Argentina, Australia, Bahamas, Barbados, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Canada, Chile, Colombia, Costa Rica, Dominica, El Salvador, Grenada, Guatemala, Honduras, Japan, Kiribati, Korea (Rep.), Malaysia, Marshall Isl., Mauritius, Mexico, Micronesia (Federated States), Montenegro, New Zealand, Nicaragua, North Macedonia (Rep.), Palau, Panama, Paraguay, Peru, Samoa, San Marino, Seychelles, Singapore, Solomon Isl., St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Timor-Leste, Tonga, Trinidad and Tobago, Tuvalu, USA, United Arab Emirates, Uruguay, Vanuatu and Venezuela with a note verbale that the country of destination is allowing them to enter;
 - family members of a national of an EEA Member State or Switzerland; more details can be found at <a href="https://tinyurl.com/j5ycrntc">https://tinyurl.com/j5ycrntc</a> 
@@ -39,7 +36,6 @@ This does not apply to:
 - they were vaccinated with Janssen at least 28 days before arrival and the certificate was issued on or after 14 August 2021; or
 - they were vaccinated with Janssen at least 14 days before arrival and the certificate was issued before 14 August 2021; or
 - they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.
-They must be arriving from a country other than Argentina, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, Fiji, French Guiana, Guyana, India, Kuwait, Maldives, Mongolia, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Rwanda, Seychelles, South Africa, Suriname, Thailand, Tunisia, United Kingdom, Uruguay, Venezuela or Virgin Isl. (British).
 3. Passengers must have:
 - a negative COVID-19 test taken at most 48 hours before departure. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before boarding the flight of the first embarkation point.
