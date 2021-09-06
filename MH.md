@@ -1,3 +1,3 @@
-Published 29.07.2021 
-Passengers are not allowed to enter.
+Published 06.09.2021 
+Until 30 September 2021, passengers are not allowed to enter.
 
