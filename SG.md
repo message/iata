@@ -1,4 +1,4 @@
-Published 30.08.2021
+Published 07.09.2021
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
@@ -10,6 +10,12 @@ Published 30.08.2021
 - This does not apply to passengers with an Air Travel Pass approval letter issued by Singapore if they:
 - have stayed in China (People's Rep.), Chinese Taipei, Hong Kong (SAR China) or Macao (SAR China) in the last 21 days before departure; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor).
+- This does not apply to passengers with a Vaccinated Travel Pass approval letter issued by Singapore if they:
+- have been fully vaccinated in their country of departure or Singapore; and
+- have stayed in Brunei Darussalam and/or Singapore, or Germany and/or Singapore, in the last 21 days before departure; and
+- have a visa to enter Singapore (if they are a visa-required short-term visitor); and
+- have a medical certificate with a negative Coronavirus (COVID-19) PCR test result. The test must have been taken at most 48 hours before departure from the first embarkation point; and
+- travel to Singapore on a designated Vaccinated Travel Lane flight.
 - This does not apply to residents of Brunei Darussalam if they:
 - have a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor); and
@@ -27,7 +33,7 @@ Published 30.08.2021
 - This does not apply to:
 - passengers younger than 3 years;
 - passengers who in the past 21 days have only been in or transited through Australia, Brunei Darussalam, Canada, China (People’s Rep.), Chinese Taipei, Germany, Hong Kong (SAR China), Macao (SAR China) or New Zealand;
-3. Passengers with an Air Travel Pass approval letter issued by Singapore, passengers with a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane and Singapore-China Fast Lane, and passengers with an approval letter from the Ministry of Trade and Industry (MTI) with the reference numbers C01 or C21 must: 
+3. Passengers with an Air Travel Pass approval letter issued by Singapore, passengers who are short-term visitors with a valid Vaccinated Travel Pass approval letter issued by Singapore, passengers with a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane and Singapore-China Fast Lane, and passengers with an approval letter from the Ministry of Trade and Industry (MTI) with the reference numbers C01 or C21 must: 
 - have a mobile device with the TraceTogether app already downloaded, with the passenger’s profile registered on the app and the ‘Activate App’ holding screen shown on the app; or
 - if the passenger has a mobile device with the TraceTogether app downloaded but is unable to show the ‘Activate App’ holding screen, have an electronic or physical copy of his/her booking confirmation for a Singapore SIM card from Changi Recommends; or
 - if the passenger does not have a mobile device with the TraceTogether app downloaded, have an electronic or physical copy of his/her booking confirmation for a mobile device from Changi Recommends;
