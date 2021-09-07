@@ -1,10 +1,10 @@
-Published 06.09.2021
-1. Flights from Brazil, India and South Africa are suspended.
-2. Until 19 September 2021, passengers are not allowed to enter if in the past 14 days they have been to or transited through Brazil, India or South Africa.
+Published 07.09.2021
+1. Flights from South Africa are suspended.
+2. Until 19 September 2021, passengers are not allowed to enter if in the past 14 days they have been to or transited through South Africa.
 - This does not apply to nationals and residents of Peru.
 3. Passengers must have:
 - a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point; or
-- a negative COVID-19 antigen test result issued at most 24 hours before departure from the first embarkation point.
+- a COVID-19 vaccination certificate showing that they were fully vaccinated.
 - This does not apply to passengers younger than 12 years with a certificate of good health.
 4. Passengers must complete an "Affidavit of Health and Geolocation Authorization" at <a href="http://e-notificacion.migraciones.gob.pe/dj-salud/">http://e-notificacion.migraciones.gob.pe/dj-salud/</a> within 72 hours before departure.
 5. Passengers could be subject to quarantine for 14 days.

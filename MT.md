@@ -1,11 +1,12 @@
-Published 03.09.2021
-1. Until 30 September 2021, passengers are not allowed to enter.
+Published 07.09.2021
+1. Until 31 October 2021, passengers are not allowed to enter.
 - This does not apply to:
 - Nationals and residents of Malta with:
-- a negative COVID-19 PCR test taken at most 72 hours before arrival; or
+- - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a COVID-19 vaccination certificate issued by Malta showing that they were fully vaccinated at least 14 days before arrival; or
 - a digital EU Digital Covid Certificate (EU DCC) showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 vaccination certificate issued in Gibraltar, Jersey and Guernsey or United Kingdom showing that they were fully vaccinated at least 14 days before arrival; or
+- an NHS Covid Pass issued by the United Kingdom showing that they were fully vaccinated at least 14 days before arrival; or
+- a COVID-19 vaccination certificate issued in Egypt, Gibraltar, Jersey and Guernsey or Lebanon showing that they were fully vaccinated at least 14 days before arrival; or
 - a COVID-19 vaccination certificate issued in Turkey with a QR Code, showing that they were fully vaccinated at least 14 days before arrival; or
 - a COVID-19 vaccination certificate issued by Dubai Health Authority with a QR Code, showing that they were fully vaccinated at least 14 days before arrival; or
 - an Al Hosn COVID-19 vaccination certificate issued by the United Arab Emirates, showing that they were fully vaccinated at least 14 days before arrival; or
@@ -20,7 +21,8 @@ Published 03.09.2021
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a COVID-19 vaccination certificate issued by Malta showing that they were fully vaccinated at least 14 days before arrival; or
 - a digital EU Digital Covid Certificate (EU DCC) showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 vaccination certificate issued in Gibraltar, Jersey and Guernsey or United Kingdom showing that they were fully vaccinated at least 14 days before arrival; or
+- an NHS Covid Pass issued by the United Kingdom showing that they were fully vaccinated at least 14 days before arrival; or
+- a COVID-19 vaccination certificate issued in Egypt, Gibraltar, Jersey and Guernsey or Lebanon showing that they were fully vaccinated at least 14 days before arrival; or
 - a COVID-19 vaccination certificate issued in Turkey with a QR Code, showing that they were fully vaccinated at least 14 days before arrival; or
 - a COVID-19 vaccination certificate issued by Dubai Health Authority with a QR Code, showing that they were fully vaccinated at least 14 days before arrival; or
 - an Al Hosn COVID-19 vaccination certificate issued by the United Arab Emirates, showing that they were fully vaccinated at least 14 days before arrival; or
@@ -30,7 +32,7 @@ Published 03.09.2021
 - a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be verified through the VeriFLY app;
 - a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App;
 - a medical certificate showing pregnancy or an antenatal record card.
-- Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;
+- Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech; 
 - passengers arriving on humanitarian, medevac or repatriation flights;
 - merchant Seamen;
 - nationals or residents of Malta younger than 12 years.
@@ -38,11 +40,11 @@ Published 03.09.2021
 3. Passengers must complete a "Public Health Travel Declaration Form" and "Passenger Locator Form" found at <a href="https://www.maltairport.com/declarationforms/">https://www.maltairport.com/declarationforms/</a> or <a href="https://app.euplf.eu/#/">https://app.euplf.eu/#/</a> and present it upon arrival.
 4. Merchant seamen must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure. The test result must be in English or accompanied by a certified English translation.
 5. Passengers could be subject to quarantine in a hotel for 14 days at their own expense.
-- This does not apply to: 
-- passengers younger than 12 years traveling with their fully vaccinated parents/guardians;
+- This does not apply to:
 - passengers with a COVID-19 vaccination certificate issued by Malta showing that they were fully vaccinated at least 14 days before arrival; or
 - passengers with a digital EU Digital Covid Certificate (EU DCC) showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with a COVID-19 vaccination certificate issued in Gibraltar, Jersey and Guernsey or United Kingdom showing that they were fully vaccinated at least 14 days before arrival; or
+- passengers with an NHS Covid Pass issued by the United Kingdom showing that they were fully vaccinated at least 14 days before arrival; or
+- passengers with a COVID-19 vaccination certificate issued in Egypt, Gibraltar, Jersey and Guernsey or Lebanon showing that they were fully vaccinated at least 14 days before arrival; or
 - passengers with a COVID-19 vaccination certificate issued in Turkey with a QR Code, showing that they were fully vaccinated at least 14 days before arrival; or
 - passengers with a COVID-19 vaccination certificate issued by Dubai Health Authority with a QR Code, showing that they were fully vaccinated at least 14 days before arrival; or
 - passengers with an Al Hosn COVID-19 vaccination certificate issued by the United Arab Emirates, showing that they were fully vaccinated at least 14 days before arrival; or
