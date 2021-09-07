@@ -1,9 +1,6 @@
-Published 23.08.2021
+Published 07.09.2021
 1. Passengers are not allowed to enter if in the past 14 days they have been in or transited through Angola, Argentina, Bolivia, Botswana, Brazil, Chile, Colombia, Ecuador, Eswatini, French Guiana, Guyana, Lesotho, Mozambique, Namibia, Paraguay, Peru, South Africa, Suriname, Uruguay, Venezuela, Zambia or Zimbabwe.
-2. Passengers must have an approval from the Foreign Ministry of Sri Lanka by sending an email to: <a href="mailto:entry.permission@mfa.gov.lk">entry.permission@mfa.gov.lk</a> and to <a href="mailto:caaslpaz@caa.lk">caaslpaz@caa.lk</a> .
-- This does not apply to:
-- nationals and dual nationals of Sri Lanka staying in a designated quarantine hotel;
-- passengers traveling as tourists.
+2. Passengers must have an approval from the Foreign Ministry of Sri Lanka by sending an email to: <a href="mailto:dghs@health.gov.lk">dghs@health.gov.lk</a> , <a href="mailto:entry.permission@mfa.gov.lk">entry.permission@mfa.gov.lk</a> and <a href="mailto:caaslpaz@caa.lk">caaslpaz@caa.lk</a> .
 3. Passengers arriving via "Sri Lanka Tourism" must obtain an approval at <a href="https://www.srilanka.travel/helloagain/">https://www.srilanka.travel/helloagain/</a> 
 4. Passengers must have a printed negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.
 - This does not apply to:
