@@ -1,4 +1,4 @@
-Published 01.09.2021
+Published 08.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals or residents of Denmark;
@@ -38,14 +38,13 @@ The test result must be in Danish, English, French, German, Icelandic, Italian, 
 - passengers traveling to Greenland with a vaccination certificate showing that they were fully vaccinated. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty).
 5. Passengers traveling to Greenland must have a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty).
 - This does not apply to:
-- passengers younger than 18 years;
+- passengers younger than 15 years;
 - residents of Greenland.
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 weeks before departure.
-6. Passengers traveling to Greenland must have a negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to Greenland. The test must be taken in Denmark, Finland, Iceland, Norway or Sweden.
+6. Passengers traveling to Greenland must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Greenland. The test must be taken in Denmark, Finland, Iceland, Norway or Sweden.
 - This does not apply to:
 - passengers younger than 2 years;
-- passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 weeks before departure;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty).
+- passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 weeks before departure.
 7. Passengers traveling to Greenland:
 - must have a Personal Location Form (SUMUT) obtained before departure at <a href="https://sumut2020.gl/Instructions/EditInstructions">https://sumut2020.gl/Instructions/EditInstructions</a> ; and
 - could be subject to a COVID-19 test upon arrival. Details can be found at <a href="https://visitgreenland.com/corona-faq/">https://visitgreenland.com/corona-faq/</a> .

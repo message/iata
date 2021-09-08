@@ -26,7 +26,7 @@ Published 07.09.2021
 - download the ThailandPlus App and register by using COE number and reference code.
 6. Passengers entering or transiting through Thailand must have insurance to cover medical expenses in Thailand with a coverage cost of at least USD 100,000.-.
 - This does not apply to:
- - nationals of Thailand;
+- nationals of Thailand;
 - passengers transiting without disembarking the aircraft.
 7. Nationals of Thailand travelling under the Phuket or the Samui Plus Sandbox programs must have insurance to cover medical expenses in Thailand with a coverage cost of at least USD 100,000.-.
 8. Nationals of Thailand travelling to Phuket (HKT) or Na Thon (Ko Samui (USM)) under the Phuket or the Samui Plus Sandbox, must have a negative COVID-19 test result issued at most 72 hours before departure from the first embarkation point. Tests accepted are: all types of PCR tests. The test result must be in English.
@@ -43,9 +43,8 @@ Published 07.09.2021
 13. Passengers are subject to medical screening.
 14. Nationals of Thailand are subject to quarantine for a minimum of 14 days.
 - This does not apply when traveling to Phuket (HKT) or Na Thon (Ko Samui (USM)) with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
-15. Passengers are allowed to transit through Bangkok (BKK) onward to Phuket (HKT) Sandbox or Ko Samui (USM) Sandbox for a maximum of 12 hours.
-16. Airline crew are subject to self-isolation until their next flight.
-17. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-
-18. Suspension of visa on arrival facilities.
-19. Suspension of visa exemption for nationals of Cambodia and Myanmar with a normal passport.
+15. Airline crew are subject to self-isolation until their next flight.
+16. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-
+17. Suspension of visa on arrival facilities.
+18. Suspension of visa exemption for nationals of Cambodia and Myanmar with a normal passport.
 
