@@ -21,5 +21,5 @@ This does not apply to:
 9. The maximum transit time through Kuala Lumpur (KUL) changed from 48 hours to 24 hours.
 10. Transfer from an international flight to a domestic flight is not allowed.
 - This does not apply to nationals of Malaysia traveling to Sabah and Sarawak. They must have approval from the State Government.
-11. Passengers traveling to Sarawak must complete an "enterSarawak" form and an "eHealth Declaration Form" before departure at <a href="https://sarawakdisastermc.com/">https://sarawakdisastermc.com/</a>
+11. Passengers traveling to Sarawak must complete an "enterSarawak" form and an "eHealth Declaration Form" before departure at <a href="https://sarawakdisastermc.com/">https://sarawakdisastermc.com/</a> 
 

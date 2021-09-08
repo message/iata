@@ -1,4 +1,4 @@
-Published 07.09.2021
+Published 08.09.2021
 1. Until 16 September 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
@@ -32,12 +32,8 @@ This does not apply to:
 - complete a "Health Form upon arrival at the Azores" and a "Draft statement for inter-island travel" upon arrival; or
 - submit a "Questionnaire for Risk Assessment and Early Detection" before departure at <a href="https://mysafeazores.com/">https://mysafeazores.com/</a> 
 7. Passengers traveling to Madeira must complete an epidemiological survey before departure at <a href="https://madeirasafe.com/">https://madeirasafe.com</a> . This will generate a QR code which must be presented upon arrival.
-8. Passengers arriving from India, Nepal or South Africa must register at <a href="https://travel.sef.pt/">https://travel.sef.pt</a> before departure.
+8. Passengers arriving from India, Nepal or South Africa must register at <a href="https://travel.sef.pt/">https://travel.sef.pt</a> before departure and are subject to quarantine for 14 days.
 9. Passengers are subject to medical screening.
-10. Passengers could be subject to quarantine for 14 days.
-- This does not apply to: 
-- passengers with an EU Digital Covid Certificate (EU DCC);
-- passengers arriving from the United Kingdom with a COVID-19 vaccination certificate issued in the United Kingdom showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
-11. National ID cards issued to nationals of Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
-12. Residence permits issued by Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
+10. National ID cards issued to nationals of Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
+11. Residence permits issued by Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
 
