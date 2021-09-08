@@ -15,7 +15,7 @@ Published 07.09.2021
 3. Passengers traveling to Manila (MNL) must complete the "One Health Pass" form before arrival at <a href="https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/">https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/</a>. This will generate a QR code which must be presented upon arrival.
 4. Passengers with a diplomatic passport and passengers with a 9(E) visa, are subject to home quarantine for 10 days when arriving without a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival, and arriving from Anguilla, Australia, Benin, Burkina Faso, Cameroon, Cayman Isl., Chad, China (People’s Rep.), Chinese Taipei, Comoros, Congo (Dem. Rep.), Djibouti, Equatorial Guinea, Falkland Isl. (Malvinas), Gabon, Grenada, Hong Kong (SAR China), Hungary, Mali, Micronesia (Federated States), Montserrat, New Caledonia, New Zealand, Niger, Northern Mariana Isl., Palau, Poland, Saba, Samoa (American), Sierra Leone, Slovakia, St. Eustatius or St. Pierre and Miquelon.
 5. Passengers with a diplomatic passport and passengers with a 9(E) visa, are subject to home quarantine for 10 days when arriving from a country other Anguilla, Australia, Benin, Burkina Faso, Cameroon, Cayman Isl., Chad, China (People’s Rep.), Chinese Taipei, Comoros, Congo (Dem. Rep.), Djibouti, Equatorial Guinea, Falkland Isl. (Malvinas), Gabon, Grenada, Hong Kong (SAR China), Hungary, Mali, Micronesia (Federated States), Montserrat, New Caledonia, New Zealand, Niger, Northern Mariana Isl., Palau, Poland, Saba, Samoa (American), Sierra Leone, Slovakia, St. Eustatius or St. Pierre and Miquelon.
-6. Passengers must have a reservation confirmation for at least 10 days, for a hotel approved by Tourism and Health Agencies and listed at <a href="https://quarantine.doh.gov.ph/quarantine-facilities/">https://quarantine.doh.gov.ph/quarantine-facilities/</a>
+6. Passengers must have a reservation confirmation for at least 10 days, for a hotel approved by Tourism and Health Agencies and listed at <a href="https://quarantine.doh.gov.ph/quarantine-facilities/">https://quarantine.doh.gov.ph/quarantine-facilities/</a> 
 - This does not apply to:
 - nationals of the Philippines who are Overseas Filipino Workers (OFW);
 - passengers with a diplomatic passport and passengers with a 9(E) visa;
@@ -24,9 +24,9 @@ Published 07.09.2021
 8. Merchant seamen with a 9 (C) visa issued by the Philippines must have a negative COVID-19 RT-PCR test result issued at most 72 hours before arrival.
 9. Passengers traveling to Davao (DVO) must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure.
 - This does not apply to merchant seamen with a 9 (C) visa issued by the Philippines.
-10. Passengers must complete a "Case Investigation Form" and present it upon arrival. The form can be obtained at <a href="https://c19.redcross.org.ph/arriving-passengers">https://c19.redcross.org.ph/arriving-passengers</a>
+10. Passengers must complete a "Case Investigation Form" and present it upon arrival. The form can be obtained at <a href="https://c19.redcross.org.ph/arriving-passengers">https://c19.redcross.org.ph/arriving-passengers</a> 
 11. Passengers must install the app 'TRAZE' on their personal device before departure.
-12. Passengers traveling to Cebu (CEB) must register at most 5 days before departure at <a href="https://mactancebuairport.com/covid-19-registration">https://mactancebuairport.com/covid-19-registration</a>
+12. Passengers traveling to Cebu (CEB) must register at most 5 days before departure at <a href="https://mactancebuairport.com/covid-19-registration">https://mactancebuairport.com/covid-19-registration</a> 
 13. Suspension of all visa on arrival facilities.
 14. Suspension of all visa exemptions.
 

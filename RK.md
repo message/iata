@@ -1,15 +1,18 @@
-Published 23.08.2021
-1. Passengers are not allowed to enter if in the past 2 weeks they have been in Brazil, India or South Africa.
-- This does not apply to nationals and residents of Kosovo (Rep.).
-2. Passengers arriving from Denmark, France, Greece, Ireland (Rep.), Latvia, Lithuania, Netherlands, Slovenia, Spain, Sweden or Turkey must have a negative COVID-19 RT-PCR test taken at most 72 hours before arrival.
-- This does not apply to:
-- nationals of Kosovo (Rep.);
-- passengers younger than 11 years;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before arrival. A combination of vaccines is accepted;
-- passengers with a positive COVID-19 serology antibody test taken at most 30 days before arrival;
+Published 08.09.2021
+1. Passengers must have:
+- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
+- a negative COVID-19 RT-PCR test taken at most 72 hours before arrival; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before arrival. A combination of vaccines is accepted; or
+- a positive COVID-19 PCR test taken at most 180 days before arrival; or
+- a positive COVID-19 serology antibody test taken at most 30 days before arrival.
+This does not apply to:
+- nationals and residents of Kosovo (Rep.); 
+- passengers younger than 18 years;
 - passengers traveling through Kosovo (Rep.) to a third country. They must leave Kosovo (Rep.) within 3 hours.
-3. Nationals and residents of Kosovo (Rep.) arriving from Brazil, India or South Africa must have a negative COVID-19 RT-PCR test taken at most 72 hours before arrival.
-- This does not apply to passengers younger than 11 years.
-4. Nationals and residents of Kosovo (Rep.) arriving from Brazil, India or South Africa are subject to quarantine for up to 14 days.
-5. Passengers are subject to medical screening.
+2. Nationals and residents of Kosovo (Rep.) without:
+- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
+- a negative COVID-19 RT-PCR test taken at most 72 hours before arrival; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before arrival. A combination of vaccines is accepted; or
+- a positive COVID-19 PCR test taken at most 180 days before arrival; or
+- a positive COVID-19 serology antibody test taken at most 30 days before arrival, are subject to self-isolation for 7 days.
 
