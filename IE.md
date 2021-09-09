@@ -18,7 +18,7 @@ Published 06.09.2021
 - Pfizer-BioNTech (Comirnaty) at least 7 days before arrival; or
 - Moderna or Janssen at least 14 days before arrival; or
 - AstraZeneca (Vaxzevria or Covishield) at least 15 days before arrival.
-5. Passengers could be subject to quarantine for up to 14 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/2x5jpp2k">https://tinyurl.com/2x5jpp2k</a>
+5. Passengers could be subject to quarantine for up to 14 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/2x5jpp2k">https://tinyurl.com/2x5jpp2k</a> 
 - This does not apply to passengers arriving from a country other than Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador or Peru with:
 - a negative COVID-19 RT-PCR test taken at most 72 hours before arrival; or
 - a positive COVID-19 RT-PCR test taken at least 11 days and at most 180 days before arrival; or

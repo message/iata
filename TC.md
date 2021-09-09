@@ -1,4 +1,4 @@
-Published 01.09.2021
+Published 09.09.2021
 1. Passengers and airline crew must obtain a travel authorization at <a href="http://turksandcaicostourism.com">http://turksandcaicostourism.com</a> at least 24 hours before departure.
 - This does not apply to:
 - airline crew who stay for a maximum of 24 hours;
@@ -10,6 +10,7 @@ Published 01.09.2021
 - passengers younger than 10 years.
 3. Passengers and airline crew must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech (Comirnaty).
 - This does not apply to:
+- residents of Turks and Caicos Isl.;
 - airline crew staying for less than 24 hours;
 - merchant seamen;
 - passengers younger than 16 years.
