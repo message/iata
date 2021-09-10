@@ -11,13 +11,6 @@ Published 10.09.2021
 - airline crew staying for a maximum of 48 hours.
 3. Passengers could be subject to quarantine for 4 days.
 4. Airline crew staying for a maximum of 48 hours are subject to self-isolation until their next flight.
-5. Passengers arriving from Brazil, Cyprus, Ethiopia, Gambia, India, Iraq, Kenya, Liberia, Malawi, Sierra Leone, Turkey, United Arab Emirates, United Kingdom or Zambia must have a reservation confirmation at a designated hotel for 3 nights.
-This does not apply to:
-- passengers with a COVID-19 vaccination certificate showing that they received at least one vaccine dose;
-- passengers traveling through Beirut to Syria;
-- passengers younger than 18 years;
-- passengers with a COVID-19 recovery certificate issued at most 90 days before departure;
-- passengers returning to Lebanon within 7 days.
-6. Passengers transiting through Beirut (BEY) to Syria must have a negative COVID-19 PCR test result issued at most 96 hours before departure.
+5. Passengers transiting through Beirut (BEY) to Syria must have a negative COVID-19 PCR test result issued at most 96 hours before departure.
 - This does not apply to passengers younger than 12 years.
 

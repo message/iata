@@ -1,4 +1,4 @@
-Published 04.05.2021
+Published 10.09.2021
 1. Passengers who in the past 14 days have been in Brazil, India or Turkey are not allowed to enter.
 - This does not apply to:
 - nationals of Nigeria;
