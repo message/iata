@@ -15,5 +15,5 @@ Published 10.09.2021
 4. Passengers and airline crew must complete a Traveler's Health Declaration form before departure and present it upon arrival. The form can be found at <a href="https://formulario.anvisa.gov.br/">https://formulario.anvisa.gov.br/</a> .
 5. Airline crew are subject to quarantine at a hotel until their next flight.
 6. Nationals of Brazil and their spouses, partners, children, parents or guardians who have been in or transited through India, South Africa or United Kingdom in the past 14 days are subject to quarantine for 14 days.
-7. Passengers with a residence permit issued by Brazil who have been in or transited through South Africa or United Kingdom in the past 14 days are subject to quarantine for 14 days.
+7. Passengers with a residence permit issued by Brazil who have been in or transited through India, South Africa or United Kingdom in the past 14 days are subject to quarantine for 14 days.
 
