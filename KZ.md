@@ -17,9 +17,8 @@ Published 10.09.2021
 - repatriation flights.
 4. Passengers must have a negative COVID-19 PCR test result issued at most 3 days before arrival. The test result must be issued in English, Kazakh or Russian.
 This does not apply to:
-- nationals and residents of Kazakhstan with a COVID-19 vaccination certificate issued in Kazakhstan;
-- passengers younger than 5 years if accompanied by a person with a negative COVID-19 PCR test result;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated issued in Kazakhstan. 
+- passengers with a COVID-19 vaccination certificate issued in Kazakhstan, showing that they were fully vaccinated;
+- passengers younger than 5 years if accompanied by a person with a negative COVID-19 PCR test result.
 5. Passengers are subject to medical screening.
 6. Until 31 December 2021, suspension of visa exemptions for British nationals and nationals of Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, Chile, China (People's Rep.), Colombia, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Monaco, Netherlands, New Zealand, Norway, Oman, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Turkey, USA, United Arab Emirates, Vatican City (Holy See) and Vietnam with a normal passport.
 
