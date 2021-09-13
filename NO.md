@@ -16,7 +16,7 @@ The certificate must be:
 - an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
 - a certificate with a QR code issued by Denmark, Norway or Sweden; or
 - an NHS Covid Pass with a QR code, issued in England, Northern Ireland or Wales (UK);
-- more COVID-19 related information can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> 
+- more COVID-19 related information can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a>
 2. Passengers must have a negative COVID-19 test taken at most 24 hours before departure from the first embarkation point. Tests accepted are: PCR, rapid antigen and RT-PCR. The test result must be in Danish, English, French, German, Norwegian or Swedish.
 - This does not apply to:
 - passengers younger than 12 years;
@@ -32,8 +32,8 @@ The certificate must be:
 - passengers with a diplomatic or service passport;
 - merchant seamen;
 - nationals and residents of Norway with no possibility of getting tested in the departure country;
-- more exemptions can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a> 
-3. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="http://www.entrynorway.no/">www.entrynorway.no</a> 
+- more exemptions can be found at <a href="https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/">https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/</a>
+3. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="http://www.entrynorway.no/">www.entrynorway.no</a>
 - This does not apply to:
 - airline crew who are not leaving the aircraft;
 - passengers younger than 17 years;
@@ -62,6 +62,4 @@ The certificate must be:
 - an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
 - a certificate with a QR code issued by Denmark, Norway or Sweden; or
 - an NHS Covid Pass with a QR code, issued in England, Northern Ireland or Wales (UK);
-- more exemptions can be found at <a href="https://tinyurl.com/yoqc3omu">https://tinyurl.com/yoqc3omu</a> 
-
-
+- more exemptions can be found at <a href="https://tinyurl.com/yoqc3omu">https://tinyurl.com/yoqc3omu</a>

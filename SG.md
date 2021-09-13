@@ -33,21 +33,20 @@ Published 10.09.2021
 - This does not apply to:
 - passengers younger than 3 years;
 - passengers who in the past 21 days have only been in or transited through China (People’s Rep.), Chinese Taipei, Hong Kong (SAR China) or Macao (SAR China).
-3. Passengers with an Air Travel Pass approval letter issued by Singapore, passengers who are short-term visitors with a valid Vaccinated Travel Pass approval letter issued by Singapore, passengers with a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane and Singapore-China Fast Lane, and passengers with an approval letter from the Ministry of Trade and Industry (MTI) with the reference numbers C01 or C21 must: 
+3. Passengers with an Air Travel Pass approval letter issued by Singapore, passengers who are short-term visitors with a valid Vaccinated Travel Pass approval letter issued by Singapore, passengers with a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane and Singapore-China Fast Lane, and passengers with an approval letter from the Ministry of Trade and Industry (MTI) with the reference numbers C01 or C21 must:
 - have a mobile device with the TraceTogether app already downloaded, with the passenger’s profile registered on the app and the ‘Activate App’ holding screen shown on the app; or
 - if the passenger has a mobile device with the TraceTogether app downloaded but is unable to show the ‘Activate App’ holding screen, have an electronic or physical copy of his/her booking confirmation for a Singapore SIM card from Changi Recommends; or
 - if the passenger does not have a mobile device with the TraceTogether app downloaded, have an electronic or physical copy of his/her booking confirmation for a mobile device from Changi Recommends;
 - children who are aged 7 to 12 years and those unable to use a mobile device due to certified disability or special need, are eligible to be issued TraceTogether tokens.
 - This does not apply to passengers who are younger than 6 years.
 4. Passengers are not allowed to transit Singapore.
-- This does not apply when traveling on airlines with transfer routes approved by the Civil Aviation Authority of Singapore (CAAS). Passengers must check with airlines if the airlines have the Civil Aviation Authority of Singapore (CAAS)'s approval, before purchasing tickets. 
+- This does not apply when traveling on airlines with transfer routes approved by the Civil Aviation Authority of Singapore (CAAS). Passengers must check with airlines if the airlines have the Civil Aviation Authority of Singapore (CAAS)'s approval, before purchasing tickets.
 - Passengers with travel history to Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore are not allowed to transit.
-5. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine. Please refer to <a href="https://safetravel.ica.gov.sg/">https://safetravel.ica.gov.sg</a> 
-6. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense. Passengers should register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for Singapore at <a href="https://safetravel.changiairport.com/">https://safetravel.changiairport.com</a> 
+5. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine. Please refer to <a href="https://safetravel.ica.gov.sg/">https://safetravel.ica.gov.sg</a>
+6. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense. Passengers should register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for Singapore at <a href="https://safetravel.changiairport.com/">https://safetravel.changiairport.com</a>
 - This does not apply to:
 - passengers who are 6 years or younger;
 - merchant seamen.
 7. Passengers who have been in Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines and Sri Lanka in the past 21 days are also subject to a COVID-19 rapid antigen test upon arrival.
 8. Passengers must submit a health declaration before arrival via the SG Arrival Card (SGAC) e-Service (<a href="https://eservices.ica.gov.sg/sgarrivalcard">https://eservices.ica.gov.sg/sgarrivalcard</a>) or via the mobile application.
 - This does not apply to passengers in transit.
-

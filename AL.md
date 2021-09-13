@@ -1,4 +1,4 @@
-Published 06.09.2021 
+Published 06.09.2021
 1. Passengers entering or transiting through Albania must have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival; or
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
@@ -12,4 +12,3 @@ Published 06.09.2021
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a COVID-19 recovery certificate issued at most 6 months before arrival, are subject to self-isolation for 10 days.
-

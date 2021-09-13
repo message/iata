@@ -9,4 +9,3 @@ Published 02.06.2021
 3. Passengers arriving from Chinese Taipei must have a negative COVID-19 nucleic acid test result issued at most 72 hours before arrival.
 4. Passengers arriving from Hong Kong SAR, China must have a negative COVID-19 nucleic acid test taken at most 24 hours before arrival.
 5. Passengers are subject to quarantine for up to 21 days. More details can be found at <a href="http://content.macaotourism.gov.mo/uploads/mgto_main/medical_observation_hotels_en.pdf">http://content.macaotourism.gov.mo/uploads/mgto_main/medical_observation_hotels_en.pdf</a> .
-

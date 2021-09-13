@@ -17,5 +17,4 @@ Published 07.09.2021
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers with a COVID-19 vaccination certificate issued in Hungary, and their accompanying minors younger than 18 years;
-- passengers who in the past 15 days have only been in Albania, Bosnia and Herzegovina, Croatia, Kosovo (Rep.), North Macedonia (Rep.) or Serbia. 
-
+- passengers who in the past 15 days have only been in Albania, Bosnia and Herzegovina, Croatia, Kosovo (Rep.), North Macedonia (Rep.) or Serbia.

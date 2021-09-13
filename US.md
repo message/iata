@@ -8,10 +8,10 @@ Published 31.08.2021
 - the child/foster child/ward of a national or permanent resident of the USA;
 - passengers with the following visas: A-1, A-2, C-1, C-2, C-3, CR-1, CR-2, D, E-1 (as an employee of TECRO or TECO or the employee's immediate family members), G-1, G-2, G-3, G-4, IR-1, IR-4, IH-4, IV, K-1, K-2, K-3, K-4, NATO-1 through NATO-4, or NATO-6 visa;
 - airline crew, if traveling to join an aircraft in the USA; or
-- with one of the following visas: C-1/D,B1, H1, L visa if traveling to join an aircraft in the USA; 
+- with one of the following visas: C-1/D,B1, H1, L visa if traveling to join an aircraft in the USA;
 - merchant seamen, if traveling to join a ship in the USA; or
 - with one of the following visas: C-1/D,B1, H1, L visa if traveling to join a ship in the USA; or
-- engaged in lightering, Outer Continental Shelf (OCS) activity, wind farm activity, private air/sea crew or other similar crew member activities; 
+- engaged in lightering, Outer Continental Shelf (OCS) activity, wind farm activity, private air/sea crew or other similar crew member activities;
 - passengers with a DV visa issued between 1 October 2019 and 30 September 2020;
 - members of the U.S. Armed Forces, spouses, and children of members of the U.S. Armed Forces;
 - passengers with evidence of traveling at the invitation of the USA government for a purpose related to the containment/mitigation of the Coronavirus (COVID-19);
@@ -23,11 +23,10 @@ Published 31.08.2021
 This does not apply to:
 - passengers younger than 2 years;
 - US military personnel;
-- passengers with a medical certificate with a positive COVID-19 test result. The test must be taken at most three months before departure from the first embarkation point; and 
+- passengers with a medical certificate with a positive COVID-19 test result. The test must be taken at most three months before departure from the first embarkation point; and
 - a letter issued by a health authority stating that the passenger has been cleared for travel. The test result must specify "positive" or "detected", if marked "invalid" it is not accepted.
-3. Passengers must complete a disclosure and attestation form before departure. The form can be obtained at <a href="https://tinyurl.com/58nw6t8v">https://tinyurl.com/58nw6t8v</a> 
-4. Passengers are subject to COVID-19 measures set by the state/territory of their final destination. More information can be found at <a href="http://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html">www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html</a> 
+3. Passengers must complete a disclosure and attestation form before departure. The form can be obtained at <a href="https://tinyurl.com/58nw6t8v">https://tinyurl.com/58nw6t8v</a>
+4. Passengers are subject to COVID-19 measures set by the state/territory of their final destination. More information can be found at <a href="http://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html">www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html</a>
 5. DV visas issued in September 2020 that expired are accepted for entry.
 6. Nationals of the U.S.A. are allowed to enter with an expired passport.
 - This does not apply to emergency passports which must be valid on arrival.
-

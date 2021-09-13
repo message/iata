@@ -32,9 +32,8 @@ Published 20.07.2021
 - a negative Coronavirus (COVID-19) nucleic acid test result issued at most 2 days before departure and a negative IgM anti-body test result issued at most 2 days before departure. Details can be found at <a href="http://ae.chineseembassy.org/eng/lsyw/t1872245.htm">http://ae.chineseembassy.org/eng/lsyw/t1872245.htm</a> .
 14. Passengers arriving directly from United Arab Emirates must have a green QR code with an 'HDC' mark. The code can be obtained at <a href="https://hrhk.cs.mfa.gov.cn/H5/">https://hrhk.cs.mfa.gov.cn/H5/</a> with:
 - a negative Coronavirus (COVID-19) nucleic acid test result issued 14 days before departure and a negative IgM anti-body test result issued 14 days before departure; and
-- a negative Coronavirus (COVID-19) nucleic acid test result issued at most 2 days before departure and a negative IgM anti-body test result issued at most 2 days before departure. Details can be found at <a href="http://ae.chineseembassy.org/eng/lsyw/t1872245.htm">http://ae.chineseembassy.org/eng/lsyw/t1872245.htm</a> . 
+- a negative Coronavirus (COVID-19) nucleic acid test result issued at most 2 days before departure and a negative IgM anti-body test result issued at most 2 days before departure. Details can be found at <a href="http://ae.chineseembassy.org/eng/lsyw/t1872245.htm">http://ae.chineseembassy.org/eng/lsyw/t1872245.htm</a> .
 - This does not apply to nationals of China (People's Rep.).
 15. Passengers arriving from Chinese Taipei must have a medical certificate with a negative Coronavirus (COVID-19) PCR test result issued at most 3 days before departure.
 16. Passengers entering Beijing (PEK) from Hong Kong SAR, China must have a medical certificate with a negative Coronavirus (COVID-19) PCR test result issued at most 7 days before departure.
 17. Passengers arriving from Macao SAR, China must have a medical certificate with a negative Coronavirus (COVID-19) PCR test result issued at most 7 days before departure.
-

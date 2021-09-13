@@ -16,4 +16,3 @@ Published 30.08.2021
 - asymptomatic passengers who have transited through Kuwait.
 7. Passengers are subject to medical screening; and
 - could be subject to COVID-19 test and quarantine.
-

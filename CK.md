@@ -1,6 +1,6 @@
-Published 31.08.2021 
-1. Until 13 September 2021, flights from New Zealand are suspended. 
-- This does not apply to repatriation flights. 
+Published 31.08.2021
+1. Until 13 September 2021, flights from New Zealand are suspended.
+- This does not apply to repatriation flights.
 2. Until 13 September 2021, passengers are not allowed to enter.
 3. From 14 September 2021, passengers are not allowed to enter.
 - This does not apply to:
@@ -8,5 +8,4 @@ Published 31.08.2021
 - passengers with a permanent residence permit;
 - passengers with an entry permit issued by the Cook Isl;
 - passengers who have been in Cook Isl. or New Zealand for 14 consecutive days before traveling to Cook Isl.
-4. Passengers must complete the "Online Contact Information" form at least 24 hours before departure. The form can be found at <a href="https://tinyurl.com/yhary2fb">https://tinyurl.com/yhary2fb</a> 
-
+4. Passengers must complete the "Online Contact Information" form at least 24 hours before departure. The form can be found at <a href="https://tinyurl.com/yhary2fb">https://tinyurl.com/yhary2fb</a>

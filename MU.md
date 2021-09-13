@@ -7,4 +7,3 @@ Until 30 September 2021:
 - a COVID-19 recovery certificate and a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinovac, Sinopharm or Sputnik V at least 14 days before arrival.
 3. Passengers without a COVID-19 vaccination certificate must have a confirmed accommodation reservation booked for 14 days at <a href="https://mauritiusnow.com/where-to-stay-in-mauritius/">https://mauritiusnow.com/where-to-stay-in-mauritius/</a> and are subject to quarantine for 14 days.
 4. Passengers are subject to a COVID-19 PCR test upon arrival.
-

@@ -25,7 +25,7 @@ This does not apply to:
 - passengers arriving from Finland (excluding Helsinki-Uusimaa, Etela-Suomi, Lansi-Suomi and Pohjois- ja ItaSuomi); arriving from Hungary (excluding Budapest); arriving from Italy (excluding Basilicata, Calabria, Marche, Sardegna, Sicilia, Toscana, Abruzzo, Campania, Emilia-Romagna, Friuli-Venezia Giulia, Lazio, Liguria, Lombardia, Molise, Piemonte, Provincia Autonoma di Bolzano/Bozen, Provincia Autonoma di Trento, Puglia, Umbria and Veneto); arriving from Portugal (excluding Continente and Regiao Autónoma da Madeira); arriving from Romania (excluding Bucuresti-Ilfov, Nord-Est, Nord-Vest, Sud-Est, Sud-Muntenia, Sud-Vest Oltenia and Vest); or arriving from Slovakia (excluding Bratislavsky kraj and Vychodne Slovensko);
 - deadheading crew.
 3. Passengers arriving from the United Kingdom must have:
-- a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or 
+- a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival.
 This does not apply to:
 - passengers younger than 12 years;
@@ -33,4 +33,3 @@ This does not apply to:
 4. Passengers entering or transiting through Spain must complete an "FCS Health Control Form" before departure at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> or via the Spain Travel Health-SpTH App. This will generate a QR code which must be presented upon arrival.
 - This does not apply to deadheading crew.
 5. Passengers are subject to medical screening upon arrival.
-

@@ -4,4 +4,3 @@ Published 13.08.2021
 3. Passengers are subject to quarantine.
 5. Nationals of the U.S.A. are allowed to enter with an expired passport.
 - This does not apply to emergency passports which must be valid on arrival.
-

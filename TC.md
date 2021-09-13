@@ -17,4 +17,3 @@ Published 13.09.2021
 - passengers younger than 16 years.
 4. Passengers must have insurance to cover COVID-19 expenses.
 5. Passengers are subject to medical screening and quarantine.
-

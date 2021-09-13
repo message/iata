@@ -12,4 +12,3 @@ This does not apply to:
 4. Passengers are subject to medical screening.
 5. A completed "Declaracion de salud del viajero" must be presented upon arrival. The form can be found at <a href="https://www.cancilleria.gob.ec/wp-content/uploads/2020/06/formulario_de_salud_del_viajero_revisado.pdf.pdf_1-1.pdf">https://www.cancilleria.gob.ec/wp-content/uploads/2020/06/formulario_de_salud_del_viajero_revisado.pdf.pdf_1-1.pdf</a> .
 6. Passengers arriving from or who have transited through Brazil or India are subject to quarantine for 10 days at their own expense.
-

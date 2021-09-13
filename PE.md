@@ -9,4 +9,3 @@ Published 07.09.2021
 4. Passengers must complete an "Affidavit of Health and Geolocation Authorization" at <a href="http://e-notificacion.migraciones.gob.pe/dj-salud/">http://e-notificacion.migraciones.gob.pe/dj-salud/</a> within 72 hours before departure.
 5. Passengers could be subject to quarantine for 14 days.
 6. Suspension of visa exemptions for nationals of Korea (Rep.) with a normal passport.
-

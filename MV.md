@@ -14,4 +14,3 @@ This does not apply to:
 - airline crew staying for less than 8 days;
 - airline crew staying at a designated transit facility.
 7. Airline crew are subject to medical screening.
-

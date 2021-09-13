@@ -29,4 +29,3 @@ Published 02.09.2021
 14. Passengers traveling to Erbil (EBL) could be subject to quarantine at a designated facility for up to 14 days.
 15. Airline crew traveling to Erbil (EBL) or Sulaymaniyah (ISU) are subject to self-isolation in a hotel until their next flight.
 16. Passengers are subject to medical screening and quarantine.
-

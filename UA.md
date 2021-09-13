@@ -28,4 +28,3 @@ Published 08.09.2021
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac;
 - passengers with a negative COVID-19 PCR test taken at most 72 hours before arrival;
 - passengers with a COVID-19 recovery certificate.
-

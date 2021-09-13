@@ -1,4 +1,4 @@
-Published 07.09.2021 
+Published 07.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Angola;
@@ -11,4 +11,3 @@ Published 07.09.2021
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated, if arriving from a country other than Brazil and India.
 6. Airline crew are subject to self-isolation until their next flight.
 7. Residence permits, refugee cards and temporary stay visas issued by Angola which expired after 28 February 2020 are considered valid.
-

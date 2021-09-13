@@ -14,7 +14,7 @@ Published 12.09.2021
 - the first vaccine dose of Janssen at least 28 days before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and a proof of previous infection with COVID-19;
-- More exemptions can be found at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a> 
+- More exemptions can be found at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a>
 2. Passengers arriving from red list countries: Afghanistan, Algeria, Argentina, Bangladesh, Brazil, Colombia, Congo (Dem. Rep.), Costa Rica, Cuba, Georgia, Indonesia, Iran, Maldives, Morocco, Mozambique, Namibia, Nepal, Pakistan, Russian Fed., Seychelles, South Africa, Suriname, Tunisia or Turkey; must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 12 years;
@@ -69,22 +69,19 @@ Published 12.09.2021
 - the first vaccine dose of Janssen at least 28 days before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and a proof of previous infection with COVID-19.
-7. All passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a> 
+7. All passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a>
 - This does not apply to deadheading crew.
-8. Passengers entering or transiting through France from orange and red list countries must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a> 
+8. Passengers entering or transiting through France from orange and red list countries must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a>
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. The certificate must state they received:
 - the first vaccine dose of Janssen at least 28 days before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and a proof of previous infection with COVID-19.
 Effective 12 September 2021, Israel and USA will be added to the list of orange countries.
-9. Passengers could be subject to a COVID-19 test upon arrival. More details can be found at <a href="https://tinyurl.com/4wtws28x">https://tinyurl.com/4wtws28x</a> 
+9. Passengers could be subject to a COVID-19 test upon arrival. More details can be found at <a href="https://tinyurl.com/4wtws28x">https://tinyurl.com/4wtws28x</a>
 10. Passengers could be subject to self-isolation or quarantine for up to 10 days.
 - This does not apply to passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. The certificate must state they received:
 - the first vaccine dose of Janssen at least 28 days before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and a proof of previous infection with COVID-19.
 More exemptions can be found at <a href="https://tinyurl.com/4wtws28x">https://tinyurl.com/4wtws28x</a>
-
-
-

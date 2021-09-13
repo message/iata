@@ -18,6 +18,5 @@ This does not apply to:
 7. Passengers are subject to medical screening; and
 - a COVID-19 test upon arrival; and
 - quarantine for 14 days.
-8. A completed "Airport Health Screening Form" must be presented to immigration upon arrival. 
+8. A completed "Airport Health Screening Form" must be presented to immigration upon arrival.
 9. Airline crew are subject to medical screening upon arrival and quarantine.
-

@@ -7,4 +7,3 @@ Published 07.08.2021
 - a COVID-19 recovery certificate issued at least 14 days and at most 90 days before arrival.
 - This does not apply to passengers younger than 12 years.
 2. Passengers are subject to medical screening.
-

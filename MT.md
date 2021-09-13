@@ -32,11 +32,11 @@ Published 07.09.2021
 - a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be verified through the VeriFLY app;
 - a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App;
 - a medical certificate showing pregnancy or an antenatal record card.
-- Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech; 
+- Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;
 - passengers arriving on humanitarian, medevac or repatriation flights;
 - merchant Seamen;
 - nationals or residents of Malta younger than 12 years.
-2. Passengers between 5 and 11 years must have a negative COVID-19 PCR test taken at most 72 hours before arrival. More details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a> 
+2. Passengers between 5 and 11 years must have a negative COVID-19 PCR test taken at most 72 hours before arrival. More details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a>
 3. Passengers must complete a "Public Health Travel Declaration Form" and "Passenger Locator Form" found at <a href="https://www.maltairport.com/declarationforms/">https://www.maltairport.com/declarationforms/</a> or <a href="https://app.euplf.eu/#/">https://app.euplf.eu/#/</a> and present it upon arrival.
 4. Merchant seamen must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure. The test result must be in English or accompanied by a certified English translation.
 5. Passengers could be subject to quarantine in a hotel for 14 days at their own expense.
@@ -54,5 +54,4 @@ Published 07.09.2021
 - passengers with a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be verified through the VeriFLY app;
 - passengers with a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App.
 - Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
-More details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a> 
-
+More details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a>

@@ -10,4 +10,3 @@ Published 03.09.2021
 6. A completed health declaration form must be presented upon arrival.
 7. Airline crew are subject to medical screening and quarantine until their next flight.
 8. Only visas with a written authorization from Task Force Committee of Ministry of Foreign Affairs are considered valid.
-

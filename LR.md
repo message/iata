@@ -4,4 +4,3 @@ Published 01.02.2021
 - This does not apply to passengers younger than 5 years.
 3. Passengers are subject to medical screening and quarantine.
 4. Airline crew are subject to medical screening.
-

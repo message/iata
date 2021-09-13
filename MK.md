@@ -8,4 +8,3 @@ Published 01.09.2021
 - passengers younger than 18 years.
 2. Passengers without a COVID-19 vaccination certificate, recovery certificate, RT-PCR or rapid antigen test are subject to quarantine for 7 days at their own expense.
 3. Passengers arriving from India are subject to quarantine for 14 days.
-

@@ -47,4 +47,3 @@ Published 07.09.2021
 16. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-
 17. Suspension of visa on arrival facilities.
 18. Suspension of visa exemption for nationals of Cambodia and Myanmar with a normal passport.
-

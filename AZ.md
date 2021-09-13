@@ -1,4 +1,4 @@
-Published 01.09.2021 
+Published 01.09.2021
 1. Until 1 November 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Azerbaijan, Bahrain, Belgium, Canada, Czechia, Denmark, Germany, Greece, Hungary, Ireland (Rep.), Israel, Luxembourg, Malta, Netherlands, Poland, Portugal, Qatar, Russian Fed., Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, USA and United Arab Emirates;
@@ -15,4 +15,3 @@ Published 01.09.2021
 - a COVID-19 vaccination certificate with a QR code showing that they were fully vaccinated; or
 - a COVID-19 recovery certificate with a QR code.
 - This does not apply to passengers younger than 18 years.
-

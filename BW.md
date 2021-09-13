@@ -6,4 +6,3 @@ Published 06.05.2021
 3. Passengers could be subject to a COVID-19 test upon arrival at their own expense.
 4. Passengers could be subject to quarantine at their own expense.
 5. Passengers are subject to medical screening upon arrival.
-

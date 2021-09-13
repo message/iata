@@ -1,5 +1,4 @@
 Published 23.07.2021
-1. Passengers must present a completed passenger locator form upon arrival. The form can be obtained at <a href="https://www.tarom.ro/sites/default/files/u1348/passenger_form_romania-_ro.pdf">https://www.tarom.ro/sites/default/files/u1348/passenger_form_romania-_ro.pdf</a> or <a href="https://chestionar.stsisp.ro/start">https://chestionar.stsisp.ro/start</a> 
-2. Passengers could be subject to quarantine for 14 days. Details can be found at <a href="https://www.cnscbt.ro/index.php/lex">https://www.cnscbt.ro/index.php/lex</a> 
+1. Passengers must present a completed passenger locator form upon arrival. The form can be obtained at <a href="https://www.tarom.ro/sites/default/files/u1348/passenger_form_romania-_ro.pdf">https://www.tarom.ro/sites/default/files/u1348/passenger_form_romania-_ro.pdf</a> or <a href="https://chestionar.stsisp.ro/start">https://chestionar.stsisp.ro/start</a>
+2. Passengers could be subject to quarantine for 14 days. Details can be found at <a href="https://www.cnscbt.ro/index.php/lex">https://www.cnscbt.ro/index.php/lex</a>
 3. Residence permits issued by Romania which have expired are considered valid with an extension of 90 days after 11 August 2021.
-

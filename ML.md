@@ -3,4 +3,3 @@ Published 12.07.2021
 2. Passengers without a negative COVID-19 RT-PCR test result issued at most 5 days before arrival are subject to a test and quarantine upon arrival at their own expense.
 3. Passengers transiting through Mali must have a negative COVID-19 RT-PCR test result issued at most 5 days before arrival.
 4. Airline crew are subject to quarantine until their next scheduled flight.
-

@@ -7,4 +7,3 @@ Published 01.07.2021
 4. Passengers arriving from Brazil, Congo (Dem. Rep.), India, Indonesia, Peru, Philippines, South Africa, USA, Uganda or United Kingdom are subject to a COVID-19 antigen test upon arrival at their own expense.
 5. Passengers must complete a "Traveler's Surveillance Form" and present it to the Port Health Authorities upon arrival.
 6. Passengers and airline crew are subject to medical screening.
-

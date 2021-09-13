@@ -6,4 +6,3 @@ Published 23.07.2021
 4. Airline crew are subject to medical screening and quarantine.
 5. Passengers must have a negative COVID-19 RT-PCR test result. The test must have been taken at most 72 hours before departure.
 - This does not apply to nationals of Bhutan.
-

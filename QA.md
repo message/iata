@@ -1,5 +1,5 @@
 Published 04.08.2021
-1. Passengers are not allowed to enter Qatar. 
+1. Passengers are not allowed to enter Qatar.
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates;
 - residents of Qatar;
@@ -17,14 +17,14 @@ Published 04.08.2021
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech (Comirnaty) at least 14 days before arrival and with a COVID-19 recovery certificate issued in the past 12 months in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates, and their accompanying minors younger than 17 years if they have a Qatari residence card (QID);
 - passengers arriving from a green country listed on <a href="https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx">https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx</a> with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech (Comirnaty) at least 14 days before arrival, and their accompanying minors younger than 12 years;
 - passengers arriving from a green country listed on <a href="https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx">https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx</a> with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech (Comirnaty) at least 14 days before arrival and with a COVID-19 recovery certificate issued in the past 12 months in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates, and their accompanying minors younger than 12 years;
-- nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates with a Qatari residence card (QID) arriving from a green country listed on <a href="https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx">https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx</a> 
+- nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates with a Qatari residence card (QID) arriving from a green country listed on <a href="https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx">https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx</a>
 4. Passengers arriving from Bangladesh, India, Nepal, Pakistan, Philippines or Sri Lanka:
 - must have a quarantine hotel reservation for 2 days made at <a href="https://tinyurl.com/yrsr62um">https://tinyurl.com/yrsr62um</a> , if they have a COVID-19 vaccination certificate issued in Qatar or a COVID-19 recovery certificate issued in the past 12 months in Qatar; or
 - must have a quarantine hotel reservation for 10 days made at <a href="https://tinyurl.com/yrsr62um">https://tinyurl.com/yrsr62um</a> .
 Details can be found at <a href="https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx">https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx</a> .
 5. Passengers must register at <a href="https://www.ehteraz.gov.qa/">https://www.ehteraz.gov.qa/</a> at least 12 hours before arrival.
 - This does not apply to nationals and residents of Qatar.
-6. Passengers could be subject to home quarantine or quarantine in a hotel for up to 10 days; details can be found at <a href="https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx">https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx</a> 
+6. Passengers could be subject to home quarantine or quarantine in a hotel for up to 10 days; details can be found at <a href="https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx">https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx</a>
 - This does not apply to:
 - nationals and residents of Qatar with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech (Comirnaty) at least 14 days before arrival, and their accompanying minors younger than 12 years;
 - nationals and residents of Qatar with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech (Comirnaty) at least 14 days before arrival and with a COVID-19 recovery certificate issued in the past 12 months in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates, and their accompanying minors younger than 12 years.
@@ -35,5 +35,4 @@ Details can be found at <a href="https://covid19.moph.gov.qa/EN/travel-and-retur
 - This does not apply to passengers arriving from Bangladesh, India, Nepal, Pakistan, Philippines or Sri Lanka.
 9. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates are not allowed to enter with a national ID card.
 10. Visa on arrival facilities restarted.
-
 </p>

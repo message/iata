@@ -12,7 +12,6 @@ Published 01.09.2021
 7. Certificates of Visa Exemption issued to nationals of Belarus, Japan and Russian Fed. with normal passports are no longer valid.
 8. Certificates of Visa Exemption issued to residents of China (People's Rep.), Denmark, Finland, France, Germany, Iran, Italy, Korea (Rep.), Norway, Spain, Sweden and the United Kingdom are no longer valid.
 9. Suspension of visa on arrival facilities.
-10. A Health Declaration Form must be completed before arrival. The form can be found at <a href="https://tokhaiyte.vn/">https://tokhaiyte.vn/</a> 
+10. A Health Declaration Form must be completed before arrival. The form can be found at <a href="https://tokhaiyte.vn/">https://tokhaiyte.vn/</a>
 11. Passengers are subject to medical screening and quarantine for up to 28 days.
 12. Airline crew must make a medical declaration and are subject to self-isolation until their next flight.
-

@@ -9,4 +9,3 @@ Published 01.09.2021
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival;
 - passengers with a positive COVID-19 test result issued at least 14 days and at most 90 days before arrival. Tests accepted are: antigen, LAMP, NAAT and RT-PCR.
-

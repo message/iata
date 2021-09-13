@@ -11,4 +11,3 @@ This does not apply to:
 - a COVID-19 recovery certificate issued at least 10 days after the positive test result. The passenger must have tested positive at most 3 months before arrival.
 - This does not apply to passengers younger than 10 years.
 3. Passengers and airline crew could be subject to quarantine for 10 days at their own expense.
-

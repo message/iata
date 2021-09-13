@@ -16,6 +16,4 @@ This does not apply to:
 - This does not apply to passengers younger than 12 years.
 5. A completed "Passenger Locator Form" (PLF) must be presented upon arrival.
 6. Passengers could be subject to self-isolation or quarantine.
-
-
 <p>

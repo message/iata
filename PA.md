@@ -8,5 +8,4 @@ Published 01.09.2021
 - This does not apply to:
 - nationals and residents of Panama with a negative COVID-19 test taken at most 72 hours before departure. Tests accepted are: antigen, PCR and RT-PCR;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
-3. A completed "Declaracion Jurada de Salud" must be presented upon arrival. The form can be obtained at <a href="http://viajes.panamadigital.gob.pa/">http://viajes.panamadigital.gob.pa/</a> 
-
+3. A completed "Declaracion Jurada de Salud" must be presented upon arrival. The form can be obtained at <a href="http://viajes.panamadigital.gob.pa/">http://viajes.panamadigital.gob.pa/</a>

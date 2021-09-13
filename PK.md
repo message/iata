@@ -18,8 +18,8 @@ Until 30 September 2021:
 Effective 1 October 2021:
 1. Passengers are not allowed to enter.
 - This does not apply to:
- - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure;
- - passengers younger than 17 years.
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure;
+- passengers younger than 17 years.
 2. Passengers must have a negative COVID-19 test taken at most 72 hours before departure from the first embarkation point. The test result must be in Arabic or English. Tests accepted are COVID-19 PCR, COVID-19 Real Time RT-PCR, COVID-19 RT-PCR, SARS-CoV2 GeneXpert, SARS-CoV2 PCR, SARS-CoV2 Real Time RT-PCR, SARS-CoV2 RT-PCR and SARS-CoV2 Xpert Xpress.
 - This does not apply to:
 - passengers younger than 6 years;
@@ -32,4 +32,3 @@ Effective 1 October 2021:
 - This does not apply to passengers younger than 6 years.
 5. Passengers and airline crew could be subject to quarantine.
 6. Flights to Gwadar (GWD) and Turbat (TUK) are suspended.
-

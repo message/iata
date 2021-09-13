@@ -26,4 +26,3 @@ This does not apply to:
 - have a QR code or must be approved by the Egyptian Embassy in the country of departure;
 - passengers with an electronic COVID-19 vaccination certificate issued in Egypt by the Egyptian Ministry of Health showing that they were fully vaccinated at least 14 days before departure. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm, Sinovac or Sputnik V. The certificate must have the logo of the Egyptian Ministry of Health.
 5. Passengers arriving from Argentina, Bangladesh, Belize, Bhutan, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Guyana, Honduras, India, Mexico, Myanmar, Nepal, Nicaragua, Pakistan, Panama, Paraguay, Peru, Sri Lanka, Suriname, Uruguay, Venezuela or Viet Nam are subject to a COVID-19 PCR test upon arrival at their own expense and could be subject to quarantine.
-

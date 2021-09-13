@@ -1,5 +1,4 @@
 Published 08.06.2021
 1. Passengers must have spent the past 14 days in Australia (excluding the State of Victoria), Cook Isl., Fiji, Kiribati, Marshall Isl., Micronesia (Federated States), New Caledonia, New Zealand, Niue, Palau, Samoa, Solomon Isl., Chinese Taipei, Tonga, Tuvalu or Vanuatu.
 2. Passengers must have a negative COVID-19 PCR test taken at most 3 days before departure from the first embarkation point. The test must be based on nasopharyngeal and/or oropharyngeal swab. The test result must be in English or accompanied by a certified translation in English.
-3. Passengers are subject to medical screening and quarantine for a minimum of 5 days. 
-
+3. Passengers are subject to medical screening and quarantine for a minimum of 5 days.

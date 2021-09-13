@@ -25,5 +25,4 @@ This does not apply to:
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate issued at most 6 months before arrival;
 - passengers with a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival.
-More exemptions can be found at <a href="https://vm.ee/en/information-countries-and-self-isolation-requirements-passengers">https://vm.ee/en/information-countries-and-self-isolation-requirements-passengers</a> 
-
+More exemptions can be found at <a href="https://vm.ee/en/information-countries-and-self-isolation-requirements-passengers">https://vm.ee/en/information-countries-and-self-isolation-requirements-passengers</a>

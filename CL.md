@@ -23,4 +23,3 @@ This does not apply to:
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
 8. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival are subject to home quarantine for 7 days. Details can be found at <a href="https://chile.gob.cl/chile/en/ingreso-a-chile-desde-el-exterior">https://chile.gob.cl/chile/en/ingreso-a-chile-desde-el-exterior</a> .
 9. Passengers younger than 18 years traveling unaccompanied are subject to quarantine at home.
-

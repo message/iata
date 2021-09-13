@@ -14,7 +14,7 @@ Published 13.09.2021
 This does not apply to:
 - nationals of Jordan;
 - passengers with a diplomatic or special passport and a diplomatic QR code and their family members.
-7. Passengers entering or transiting through Jordan must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result for passengers arriving from Egypt, Iraq or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a> 
+7. Passengers entering or transiting through Jordan must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result for passengers arriving from Egypt, Iraq or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a>
 This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and their family members;
@@ -24,8 +24,8 @@ This does not apply to:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated; or
 - a COVID-19 vaccination certificate showing that they received the first dose of the vaccine at least 21 days before arrival; or
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
-The vaccination certificate must be in Arabic or English. 
-- This does not apply to passengers younger than 18 years traveling with parents who have a COVID-19 vaccination certificate showing that they were fully vaccinated. 
+The vaccination certificate must be in Arabic or English.
+- This does not apply to passengers younger than 18 years traveling with parents who have a COVID-19 vaccination certificate showing that they were fully vaccinated.
 9. Passengers are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo/</a> .
 - This does not apply to:
 - passengers younger than 5 years;

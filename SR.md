@@ -22,4 +22,3 @@ Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.),
 - This does not apply to passengers younger than 18 years.
 8. Passengers arriving from Brazil must have an attestation of the Ministry of Foreign Affairs, International Business and International Cooperation of Suriname.
 - This does not apply to nationals and residents of Suriname.
-

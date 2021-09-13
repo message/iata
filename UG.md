@@ -6,4 +6,3 @@ Published 03.09.2021
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated and are asymptomatic.
 4. Passengers and airline crew are subject to medical screening.
 5. Airline crew must have a negative COVID-19 PCR test taken at most 14 days before departure from the first embarkation point.
-

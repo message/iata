@@ -4,6 +4,5 @@ Published 26.05.2021
 2. A completed "Traveller Health Questionnaire" must be presented upon arrival.
 3. Passengers and airline crew are subject to medical screening upon arrival.
 4. Passengers could be subject to a COVID-19 test upon arrival at their own expense.
-5. Passengers could be subject to self-isolation for 14 days. 
+5. Passengers could be subject to self-isolation for 14 days.
 - This does not apply to passengers with a COVID-19 vaccination certificate.
-

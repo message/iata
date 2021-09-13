@@ -25,4 +25,3 @@ This does not apply to:
 - must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point; and
 - could be subject to a Coronavirus (COVID-19) RT-PCR test upon arrival.
 13. Persons of Indian Origin (PIO) cards which have expired are considered valid until 31 December 2021.
-

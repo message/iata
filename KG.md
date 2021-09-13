@@ -7,4 +7,3 @@ Published 22.06.2021
 - This does not apply to passengers younger than 6 years accompanied by their parents or legal guardians.
 3. Passengers could be subject to a COVID-19 test upon arrival.
 4. Visa on arrival facilities have been reinstated.
-

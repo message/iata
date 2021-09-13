@@ -5,4 +5,3 @@ Published 08.09.2021
 - This does not apply to passengers younger than 2 years.
 3. Passengers are subject to a COVID-19 test and self-isolation at their own expense upon arrival.
 - This does not apply to passengers younger than 2 years.
-

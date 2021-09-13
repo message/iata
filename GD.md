@@ -10,4 +10,3 @@ Published 20.08.2021
 5. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense. The test must be paid before departure at <a href="https://pay.gov.gd/">https://pay.gov.gd/</a>.
 6. Passengers are subject to quarantine for up to 14 days at an approved accommodation; details can be found at <a href="https://covid19.gov.gd/travel-covid/">https://covid19.gov.gd/travel-covid/</a> .
 7. Disembarking airline crew must present a completed Crew COVID-19 Status Card. They are subject to medical screening and self-isolation upon arrival.
-

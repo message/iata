@@ -15,7 +15,7 @@ This does not apply to:
 4. Passengers are subject to medical screening.
 5. Passengers should install "Shlonik" and "Kuwait-Mosafer" applications on their personal device.
 6. Suspension of visa on arrival facilities.
-7. Passengers must register online before departure at <a href="https://kuwaitmosafer.gov.kw/home.html">https://kuwaitmosafer.gov.kw/home.html</a> 
+7. Passengers must register online before departure at <a href="https://kuwaitmosafer.gov.kw/home.html">https://kuwaitmosafer.gov.kw/home.html</a>
 8. Passengers are subject to 2 PCR tests at their own expense upon arrival. They must have a payment confirmation obtained at <a href="https://kuwaitmosafer.gov.kw/home.html">https://kuwaitmosafer.gov.kw/home.html</a> before departure.
 - This does not apply to:
 - nationals of Kuwait;
@@ -32,4 +32,3 @@ This does not apply to:
 12. Passengers with a COVID-19 vaccination certificate issued outside of Kuwait must:
 - have a QR code on the certificate; or
 - upload the certificate at <a href="https://vaxcert.moh.gov.kw/SPCMS/PH/CVD_19_Vaccine_External_Registration.aspx">https://vaxcert.moh.gov.kw/SPCMS/PH/CVD_19_Vaccine_External_Registration.aspx</a> .
-

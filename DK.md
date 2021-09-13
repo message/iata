@@ -49,4 +49,3 @@ The test result must be in Danish, English, French, German, Icelandic, Italian, 
 - must have a Personal Location Form (SUMUT) obtained before departure at <a href="https://sumut2020.gl/Instructions/EditInstructions">https://sumut2020.gl/Instructions/EditInstructions</a> ; and
 - could be subject to a COVID-19 test upon arrival. Details can be found at <a href="https://visitgreenland.com/corona-faq/">https://visitgreenland.com/corona-faq/</a> .
 8. For more information, please refer to the website <a href="https://coronasmitte.dk/en/entry-into-denmark">https://coronasmitte.dk/en/entry-into-denmark</a> and <a href="https://en.coronasmitte.dk/covidtravelrules/">https://en.coronasmitte.dk/covidtravelrules/</a> .
-

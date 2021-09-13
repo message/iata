@@ -19,7 +19,7 @@ Published 09.09.2021
 - first degree family members of nationals of Saudi Arabia. They must be traveling together;
 - domestic workers of nationals of Saudi Arabia. They must be accompanied by the sponsor.
 5. Passengers with a residence permit issued by Saudi Arabia arriving from Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam must have a COVID-19 vaccination certificate showing that they received 2 doses of vaccine in Saudi Arabia.
-6. Passengers must register before departure at <a href="https://muqeem.sa/#?vaccine-registration/home">https://muqeem.sa/#?vaccine-registration/home</a> 
+6. Passengers must register before departure at <a href="https://muqeem.sa/#?vaccine-registration/home">https://muqeem.sa/#?vaccine-registration/home</a>
 - This does not apply to nationals of Saudi Arabia.
 7. Passengers must complete a 'Health Disclaimer Form' and present it upon arrival.
 8. Passengers must have medical insurance to cover COVID-19 expenses.
@@ -32,5 +32,4 @@ Published 09.09.2021
 10. Airline crew are subject to quarantine until their next flight.
 11. Suspension of visa on arrival facilities.
 12. Suspension of e-visa issuance.
-13. Airlines can check the validity of the exit/entry visas for residents of Saudi Arabia at <a href="https://muqeem.sa/#/visa-validity/check">https://muqeem.sa/#/visa-validity/check</a> 
-
+13. Airlines can check the validity of the exit/entry visas for residents of Saudi Arabia at <a href="https://muqeem.sa/#/visa-validity/check">https://muqeem.sa/#/visa-validity/check</a>

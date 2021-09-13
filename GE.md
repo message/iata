@@ -13,12 +13,11 @@ Published 12.08.2021
 - passengers younger than 10 years;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. The vaccination certificate must be in English and passengers must not have been in India in the past 14 days;
 - passengers with a positive COVID-19 test issued at most 100 days before arrival and a COVID-19 vaccination certificate showing that they received one dose at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. The vaccination certificate must be in English and passengers must not have been in India in the past 14 days.
-3. Passengers must submit a pre-registration form at <a href="https://tinyurl.com/krzcafmu">https://tinyurl.com/krzcafmu</a> 
+3. Passengers must submit a pre-registration form at <a href="https://tinyurl.com/krzcafmu">https://tinyurl.com/krzcafmu</a>
 - This does not apply to:
 - nationals of Georgia residing in Georgia;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. The vaccination certificate must be in English and passengers must not have been in India in the past 14 days;
 - passengers with a positive COVID-19 test issued at most 100 days before arrival and a COVID-19 vaccination certificate showing that they received one dose at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. The vaccination certificate must be in English and passengers must not have been in India in the past 14 days.
 4. Nationals of Georgia without a negative COVID-19 PCR test taken at most 72 hours before arrival are subject to self-isolation for 8 days.
-5. Passengers could be subject to quarantine for up to 14 days. More details can be found at <a href="https://tinyurl.com/4kmkznx7">https://tinyurl.com/4kmkznx7</a> 
-6. More details can be found at <a href="https://stopcov.ge/en">https://stopcov.ge/en</a> and <a href="https://tinyurl.com/4kmkznx7">https://tinyurl.com/4kmkznx7</a> 
-
+5. Passengers could be subject to quarantine for up to 14 days. More details can be found at <a href="https://tinyurl.com/4kmkznx7">https://tinyurl.com/4kmkznx7</a>
+6. More details can be found at <a href="https://stopcov.ge/en">https://stopcov.ge/en</a> and <a href="https://tinyurl.com/4kmkznx7">https://tinyurl.com/4kmkznx7</a>

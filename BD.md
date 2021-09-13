@@ -7,4 +7,3 @@ Published 17.08.2021
 4. Passengers are subject to medical screening.
 5. Passengers are subject to quarantine for up to 14 days.
 6. Suspension of visa on arrival facilities.
-

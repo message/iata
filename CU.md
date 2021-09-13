@@ -15,4 +15,3 @@ Published 20.07.2021
 9. Passengers traveling to Cayo Coco (CCC) or Varadero (VRA) must have a reservation for a tourist arrangement.
 - This does not apply to nationals of Cuba.
 10. Nationals of Cuba traveling to Cayo Coco (CCC) or Varadero (VRA) must have a reservation for a tourist arrangement that includes a period of self-isolation for 14 nights.
-

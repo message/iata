@@ -8,5 +8,4 @@ Published 03.08.2021
 5. Passengers could be subject to COVID-19 test upon arrival.
 6. Passengers must complete a "Health Declaration Form" form upon arrival.
 7. Passengers and airline crew staying overnight in transit must stay at a hotel or at a designated facility until their next flight.
-8. More Coronavirus (COVID-19) related information can be found at <a href="https://visitantiguabarbuda.com/travel-advisory/">https://visitantiguabarbuda.com/travel-advisory/</a> 
-
+8. More Coronavirus (COVID-19) related information can be found at <a href="https://visitantiguabarbuda.com/travel-advisory/">https://visitantiguabarbuda.com/travel-advisory/</a>

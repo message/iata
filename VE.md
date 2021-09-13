@@ -9,4 +9,3 @@ Published 27.08.2021
 4. Passengers must obtain an airport entry authorization before disembarking.
 5. Passengers are subject to a COVID-19 PCR test upon arrival.
 6. Airline crew are subject to quarantine until their next flight.
-

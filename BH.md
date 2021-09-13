@@ -17,14 +17,14 @@ Published 13.09.2021
 4. Passengers are subject to a COVID-19 PCR test upon arrival.
 - This does not apply to passengers younger than 6 years.
 5. Passengers must have a reservation confirmation for 10 days, for a designated government hotel listed at <a href="https://www.nhra.bh/Departments/HCF/?page=159">https://www.nhra.bh/Departments/HCF/?page=159</a> or proof that they reside in Bahrain.
-- This does not apply to: 
-- passengers younger than 6 years; 
-- passengers with a COVID-19 vaccination certificate issued in Bahrain, Cyprus, Greece, Hungary, Israel, Kuwait, Oman, Saudi Arabia, Seychelles or United Arab Emirates showing that they were fully vaccinated at least 14 days before arrival; 
-- passengers with a COVID-19 vaccination certificate issued in countries that are eligible for visa on arrival.
-6. Passengers could be subject to quarantine for up to 10 days. 
 - This does not apply to:
-- passengers with a COVID-19 vaccination certificate issued in Bahrain, Cyprus, Greece, Hungary, Israel, Kuwait, Oman, Saudi Arabia, Seychelles or United Arab Emirates showing that they were fully vaccinated at least 14 days before arrival; 
-- passengers with a COVID-19 vaccination certificate issued in countries that are eligible for visa on arrival. 
+- passengers younger than 6 years;
+- passengers with a COVID-19 vaccination certificate issued in Bahrain, Cyprus, Greece, Hungary, Israel, Kuwait, Oman, Saudi Arabia, Seychelles or United Arab Emirates showing that they were fully vaccinated at least 14 days before arrival;
+- passengers with a COVID-19 vaccination certificate issued in countries that are eligible for visa on arrival.
+6. Passengers could be subject to quarantine for up to 10 days.
+- This does not apply to:
+- passengers with a COVID-19 vaccination certificate issued in Bahrain, Cyprus, Greece, Hungary, Israel, Kuwait, Oman, Saudi Arabia, Seychelles or United Arab Emirates showing that they were fully vaccinated at least 14 days before arrival;
+- passengers with a COVID-19 vaccination certificate issued in countries that are eligible for visa on arrival.
 7. Flights from Addis Ababa (ABB) and Baku (BAK) are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 8. Flights from Iraq, Lebanon and Syria are suspended.
@@ -32,4 +32,3 @@ Published 13.09.2021
 9. Visa on arrival facility restarted.
 - This does not apply to passengers with a residence permit issued by Kuwait, Oman, Saudi Arabia or United Arab Emirates.
 10. Border crossing on the causeway is suspended.
-

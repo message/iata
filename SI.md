@@ -17,4 +17,3 @@ Published 16.08.2021
 - More exemptions can be found at <a href="https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/">https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/</a> .
 2. Passengers must complete a Digital Passenger Locator Form (DPLF) obtained at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a> .
 3. More COVID-19 related information can be found at <a href="https://www.policija.si/enterslovenia/en">https://www.policija.si/enterslovenia/en</a> .
-

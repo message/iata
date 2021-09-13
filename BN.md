@@ -1,4 +1,4 @@
-Published 30.08.2021 
+Published 30.08.2021
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and permanent residents of Brunei Darussalam;
@@ -16,5 +16,4 @@ Published 30.08.2021
 - nationals and permanent residents of Brunei Darussalam;
 - passengers with a diplomatic passport.
 6. Passengers could be subject to quarantine.
-7. More details can be found at <a href="http://www.pmo.gov.bn/travelportal/Home.aspx">http://www.pmo.gov.bn/travelportal/Home.aspx</a> 
-
+7. More details can be found at <a href="http://www.pmo.gov.bn/travelportal/Home.aspx">http://www.pmo.gov.bn/travelportal/Home.aspx</a>

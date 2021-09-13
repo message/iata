@@ -12,7 +12,7 @@ Published 01.09.2021
 - This does not apply to passengers arriving from a country other than Angola, Bangladesh, Botswana, Brazil, Chile, Eswatini, Ghana, Haiti, India, Indonesia, Japan, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Malawi, Mozambique, Myanmar, Namibia, Oman, Pakistan, Peru, Philippines, South Africa, Nepal, Russian Fed., Tajikistan, Tanzania, Trinidad and Tobago, Turkey, Viet Nam, Suriname, United Arab Emirates, Uzbekistan or Zimbabwe with:
 - a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival; or
 - a Quarantine Exemption Certificate.
-8. Passengers must install the 'self-quarantine safety protection mobile app' found at <a href="https://tinyurl.com/m9fcz6dc">https://tinyurl.com/m9fcz6dc</a> 
+8. Passengers must install the 'self-quarantine safety protection mobile app' found at <a href="https://tinyurl.com/m9fcz6dc">https://tinyurl.com/m9fcz6dc</a>
 9. Passengers must complete a "Health Declaration Form" and a "Travel Record Declaration" and present it upon arrival. The forms can be obtained upon arrival.
 10. Passengers are not allowed to transit through Korea (Rep.) for more than 24 hours.
 11. Nationals of Thailand are not allowed to transit if they are traveling onward to Thailand.
@@ -31,4 +31,3 @@ Published 01.09.2021
 - nationals of Korea (Rep.) travelling on official business with a Quarantine Exemption Certificate;
 - nationals of Korea (Rep.) arriving from Myanmar;
 - passengers younger than 6 years.
-

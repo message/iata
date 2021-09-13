@@ -5,4 +5,3 @@ Published 01.06.2021
 3. Passengers must have insurance to cover COVID-19 expenses.
 - This does not apply to nationals and residents of Bolivia.
 4. Passengers are subject to self-isolation for 10 days.
-

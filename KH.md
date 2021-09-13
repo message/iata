@@ -11,4 +11,3 @@ This does not apply to:
 - nationals of Cambodia with a foreign passport and a Visa K entry permit issued by Cambodia;
 - passengers traveling on business with a “Validation Application on Payment Guarantee/Invitation" (VAPGI).
 4. Passengers are subject to a COVID-19 test upon arrival and quarantine for 14 days.
-

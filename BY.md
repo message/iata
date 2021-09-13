@@ -10,6 +10,5 @@ This does not apply to:
 - nationals of the Russian Fed. entering Belarus to transit by land to the Russian Fed. for a maximum of 24 hours.
 2. Passengers must have health insurance to cover COVID-19 expenses.
 - This does not apply to nationals and residents of Belarus.
-3. Passengers could be subject to self-isolation for 7 days; more details can be found at <a href="https://gpk.gov.by/covid-19/en/">https://gpk.gov.by/covid-19/en/</a> 
+3. Passengers could be subject to self-isolation for 7 days; more details can be found at <a href="https://gpk.gov.by/covid-19/en/">https://gpk.gov.by/covid-19/en/</a>
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 1 month and at most 12 months before arrival. The vaccination certificate must be in Belarusian, English or Russian.
-

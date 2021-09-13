@@ -42,7 +42,7 @@ Published 08.09.2021
 4. Nationals of Slovenia must have:
 - a negative COVID-19 antigen or RT-PCR test result issued at most 48 hours before arrival; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must be issued by Armenia, Croatia, Cyprus, Czechia, Egypt, Georgia, Greece, Hungary, India, Lebanon, Moldova (Rep.), Morocco, Romania, San Marino, Serbia, Slovakia, Slovenia, Tunisia, Turkey or United Arab Emirates. Details can be found at <a href="https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements">https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements</a> ; or
-- a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Croatia, Denmark, Germany, Greece, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. Passengers must have tested positive at least 14 days and at most 6 months before arrival. 
+- a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Croatia, Denmark, Germany, Greece, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. Passengers must have tested positive at least 14 days and at most 6 months before arrival.
 - This does not apply to:
 - passengers arriving from USA;
 - passengers younger than 12 years;
@@ -51,4 +51,3 @@ Published 08.09.2021
 - passengers in transit for less than 12 hours;
 - airline crew;
 - military personnel traveling on duty.
-
