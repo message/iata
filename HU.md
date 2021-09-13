@@ -19,3 +19,4 @@ More details can be found at <a href="http://www.police.hu/en/content/informatio
 2. Passengers could be subject to medical screening.
 3. Passengers could be subject to quarantine for 10 days. More details can be found at <a href="https://tinyurl.com/3w7padwk">https://tinyurl.com/3w7padwk</a>
 4. Airline crew are subject to medical screening and quarantine until their next scheduled flight.
+<p>
