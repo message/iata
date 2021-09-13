@@ -1,3 +1,4 @@
-Published 03.11.2020
-Passengers and airline crew are subject to medical screening.
+Published 13.09.2021
+1. Passengers must have a negative COVID-19 PCR test result issued at most 72 hours before arrival.
+2. Passengers and airline crew are subject to medical screening.
 

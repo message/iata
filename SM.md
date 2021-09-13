@@ -1,4 +1,4 @@
-Published 07.09.2021
+Published 13.09.2021
 1. Until 25 October 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -29,7 +29,7 @@ Published 07.09.2021
 - passengers arriving from Andorra, Austria, Bangladesh, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies (only Guadeloupe and Martinique), Germany, Gibraltar, Greece, Hungary, Iceland, India, Ireland, Israel, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, San Marino, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, United Kingdom or Vatican City (Holy See);
 - military personnel;
 - passengers younger than 6 years;
-- more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> 
+- more exemptions can be found at <a target="_blank" href="https://tinyurl.com/xwwuut4a">https://tinyurl.com/xwwuut4a</a> . 
 6. Passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies (only Guadeloupe and Martinique), Germany, Gibraltar, Greece, Hungary, Iceland, Ireland, Israel, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom must have:
 - a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival; or
 - a COVID-19 recovery certificate; or
@@ -39,7 +39,7 @@ All documents for passengers arriving from Israel must be issued in Israel.
 - This does not apply to:
 - military personnel;
 - passengers younger than 6 years;
-- more exemptions can be found at <a href="http://tinyurl.com/294etdv7">http://tinyurl.com/294etdv7</a> 
+- more exemptions can be found at <a target="_blank" href="https://tinyurl.com/xwwuut4a">https://tinyurl.com/xwwuut4a</a> . 
 7. Passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to:
 - a COVID-19 antigen or molecular test upon arrival; and
 - quarantine in a hotel for 10 days; and

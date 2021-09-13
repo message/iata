@@ -1,11 +1,11 @@
-Published 07.09.2021
+Published 13.09.2021
 1. Nationals of Albania, Angola, Belize, Benin, Botswana, Burkina Faso, Burundi, Cambodia, Cameroon, Central African Rep., Colombia, Comoros, Congo (Dem. Rep.), Cote d'Ivoire, Cuba, Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Iraq, Liberia, Madagascar, Mali, Mauritania, Moldova (Rep.), Mongolia, Morocco, Mozambique, Myanmar, Namibia, Nepal, Niger, Pakistan, Papua New Guinea, Philippines, Senegal, Sierra Leone, Somalia, South Sudan, Sri Lanka, Sudan, Tanzania, Togo, Uganda, Viet Nam and Zambia are not allowed to enter.
 - This does not apply to:
 - passengers with a residence permit issued by Jordan;
 - passengers with a residence permit valid for a minimum of 6 months from the arrival date issued by Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, USA, United Arab Emirates or United Kingdom and return/onward tickets;
 - nationals of Comoros, Djibouti, Iraq, Mauritania, Morocco or Sudan residing in Turkey;
 - passengers with a visa issued by Jordan.
-2. Passengers are not allowed to enter if in the past 14 days they have been in Bangladesh, Bhutan, India, Myanmar, Nepal, Pakistan or Sri Lanka.
+2. Passengers are not allowed to enter or transit through Jordan if they are arriving from or have been in Bangladesh, Bhutan, India, Myanmar, Nepal, Pakistan or Sri Lanka in the past 14 days.
 - This does not apply to nationals of Jordan and their spouses and children.
 3. Flights from India are suspended.
 4. Passengers are not allowed to transit through Jordan for more than 10 hours.
