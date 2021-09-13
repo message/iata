@@ -1,9 +1,9 @@
-Published 10.09.2021
+Published 13.09.2021
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals of Kazakhstan;
 - residents of Kazakhstan. They are only allowed to enter once in 30 days;
-- nationals of Armenia, Belarus, Georgia, Germany, Egypt, Korea (Rep), Kyrgyzstan, Montenegro, Netherlands, Poland, Russian Fed., Sri Lanka, Tajikistan, Turkey, Ukraine, United Arab Emirates, Uzbekistan;
+- nationals of Armenia, Belarus, Georgia, Germany, Egypt, Hungary, Korea (Rep), Kyrgyzstan, Maldives, Montenegro, Netherlands, Poland, Qatar, Russian Fed., Saudi Arabia, Sri Lanka, Tajikistan, Turkey, Ukraine, United Arab Emirates, Uzbekistan;
 - passengers with a British passport;
 - spouses, parents and children of nationals or residents of Kazakhstan. They are only allowed to enter once in 30 days;
 - passengers with a diplomatic passport and their family members;
