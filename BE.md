@@ -36,7 +36,7 @@ Published 13.09.2021
 - This does not apply to:
 - passengers with diplomatic passports traveling on duty;
 - merchant seamen.
-6. Passengers must have an Essential Travel Certificate issued by issued by Belgium or a ‘note verbale' stating that the country of destination will allow them to enter.
+6. Passengers must have an Essential Travel Certificate issued by Belgium or a ‘note verbale' stating that the country of destination will allow them to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
 - passengers with a "C" visa issued by a Schengen Member State;
