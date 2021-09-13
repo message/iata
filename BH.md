@@ -1,4 +1,4 @@
-Published 06.09.2021
+Published 13.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates;
@@ -10,7 +10,7 @@ Published 06.09.2021
 - This does not apply to:
 - nationals of Bahrain;
 - passengers with a residence permit issued by Bahrain.
-3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must have a QR code.
+3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must have a QR code if arriving from Bangladesh, Bosnia and Herzegovina, Costa Rica, Ecuador, Ethiopia, Georgia, Indonesia, Iran, Iraq, Malawi, Malaysia, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Philippines, Slovenia, South Africa, Sri Lanka, Tunisia, Uganda, Ukraine, Viet Nam or Zimbabwe.
 - This does not apply to:
 - passengers younger than 6 years;
 - nationals of Bahrain, Cyprus, Hungary, Israel, Kuwait, Oman, Saudi Arabia, Seychelles and United Arab Emirates with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
