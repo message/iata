@@ -16,7 +16,7 @@ Published 04.08.2021
 - military personnel;
 - merchant seamen;
 - passengers with a certificate issued by the Passport, Visa and Legalization Office (BPVL).
-2. Until 14 September 2021, passengers must have:
+2. Passengers must have:
 - a negative COVID-19 LAMP, NAAT, PCR or TMA test taken at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point.
 The test result must be in English, French, German, Italian, Luxembourgish, Portuguese or Spanish. A certified translation to English, French, German or Luxembourgish is accepted.
@@ -28,6 +28,6 @@ The test result must be in English, French, German, Italian, Luxembourgish, Port
 - passengers with a COVID-19 vaccination certificate issued in Switzerland or an EEA Member State showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before departure and at most 180 days after they were tested positive.
 3. Passengers who in the past 14 days have been in the United Kingdom are subject to a COVID-19 LAMP, PCR or TMA test upon arrival.
 - This does not apply to passengers younger than 12 years.
-4. Until 14 September 2021, passengers who in the past 14 days have been in India are subject to a COVID-19 LAMP, PCR or TMA test upon arrival.
+4. Passengers who in the past 14 days have been in India are subject to a COVID-19 LAMP, PCR or TMA test upon arrival.
 - This does not apply to passengers younger than 12 years.
 5. Passengers could be subject to quarantine for up to 14 days; details can be found at <a href="https://covid19.public.lu/en/travellers/visiting-luxembourg.html">https://covid19.public.lu/en/travellers/visiting-luxembourg.html</a>
