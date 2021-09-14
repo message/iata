@@ -1,11 +1,11 @@
-Published 31.08.2021
+Published 14.09.2021
 1. Until 1 October 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Norway;
 - spouses, registered partners, unmarried partners, children, stepchildren, parents, stepparents of residents of Norway;
-- passengers residing in Australia, Austria, Belgium, Bulgaria, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom, and who are sons or daughters, parents or stepparents, grandchildren or step-grandchildren, grandparents or step-grandparents of residents of Norway;
-- passengers with consent application issued by the Norway Directorate of Immigration (UDI) and who are boyfriends or girlfriends of residents of Norway and their minor children, if residing in Australia, Austria, Belgium, Bulgaria, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom;
-- passengers arriving from and residing in Czechia, Faroe Isl., Hungary, Poland, Romania or Slovakia, if in the past 10 days they have been in their country of residence;
+- passengers who are sons or daughters, parents or stepparents, grandchildren or step-grandchildren, grandparents or step-grandparents of residents of Norway;
+- passengers with consent application issued by the Norway Directorate of Immigration (UDI) and who are boyfriends or girlfriends of residents of Norway and their minor children;
+- passengers arriving from and residing in Czechia, Faroe Isl., Hungary, Poland, if in the past 10 days they have been in their country of residence;
 - passengers who are residing in and in the past 10 days have been in specific green regions of Denmark, Finland and Sweden. Details can be found at <a href="https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from">https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from</a> ;
 - merchant seamen;
 - students studying in Norway. They must be enrolled at an approved educational institution or have a residence permit for students;
@@ -20,7 +20,7 @@ The certificate must be:
 2. Passengers must have a negative COVID-19 test taken at most 24 hours before departure from the first embarkation point. Tests accepted are: PCR, rapid antigen and RT-PCR. The test result must be in Danish, English, French, German, Norwegian or Swedish.
 - This does not apply to:
 - passengers younger than 12 years;
-- passengers arriving from Czechia, Faroe Isl., Hungary, Poland, Romania or Slovakia;
+- passengers arriving from Czechia, Faroe Isl., Hungary or Poland;
 - passengers arriving from specific green regions of Denmark, Finland and Sweden. Details can be found at <a href="https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from">https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from</a> ;
 - passengers with:
 - a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or

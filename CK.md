@@ -1,8 +1,8 @@
-Published 31.08.2021
-1. Until 13 September 2021, flights from New Zealand are suspended.
+Published 14.09.2021
+1. Until 28 September 2021, flights from New Zealand are suspended.
 - This does not apply to repatriation flights.
-2. Until 13 September 2021, passengers are not allowed to enter.
-3. From 14 September 2021, passengers are not allowed to enter.
+2. Until 28 September 2021, passengers are not allowed to enter.
+3. From 29 September 2021, passengers are not allowed to enter.
 - This does not apply to:
 - Cook Islanders;
 - passengers with a permanent residence permit;
