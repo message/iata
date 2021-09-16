@@ -1,10 +1,13 @@
-Published 01.09.2021
+Published 16.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
 - passengers with a Temporary Stay Permit (ITAS) or Permanent Stay Permit (ITAP). They must not have been in India in the past 14 days;
 - passengers with a diplomatic or service visa. They must not have been in India in the past 14 days;
-- passengers with a diplomatic or service stay permit. They must not have been in India in the past 14 days.
+- passengers with a diplomatic or service stay permit. They must not have been in India in the past 14 days;
+- passengers with an e-visit visa with a visa number ending with LN. They must not have been in India in the past 14 days;
+- passengers with an APEC Business Travel Card. They must not have been in India in the past 14 days;
+- passengers traveling under the Travel Corridor Arrangement (TCA). They must not have been in India in the past 14 days;
 2. Passengers are not allowed to transit.
 3. Passengers must have a printed negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.
 4. Airline crew must have a printed negative COVID-19 PCR or RT-PCR test taken at most 7 days before departure from the first embarkation point. The test result must be in English.
