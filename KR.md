@@ -29,6 +29,6 @@ The test result must:
 - have the name of the passenger which must match the name in the passport, the date of birth or passport/ID number and the name of the issuing laboratory; and
 - be issued by an approved laboratory if arriving from Indonesia, Philippines or Uzbekistan. Details can be found at the Korean (Rep.) Embassy website in those countries.
 - This does not apply to:
-- nationals of Korea (Rep.) travelling on official business with a Quarantine Exemption Certificate;
+- nationals of Korea (Rep.) traveling on official business or funeral attendance purposes with a Quarantine Exemption Certificate;
 - nationals of Korea (Rep.) arriving from Myanmar;
 - passengers younger than 6 years.
