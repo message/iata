@@ -1,4 +1,5 @@
-Published 22.04.2021
+Published 17.09.2021
 1. Passengers must have an approved health travel authorization obtained at <a href="https://seychelles.govtas.com/">https://seychelles.govtas.com/</a> . The travel authorization is valid up to one day after the planned arrival date.
 2. Passengers can retrieve their travel authorization at <a href="https://seychelles.govtas.com/application-check">https://seychelles.govtas.com/application-check</a> or airlines can verify the travel authorization using the tvalidator application available for download at <a href="https://tvalidator.app">https://tvalidator.app</a> or they can verify the authorization at <a href="https://seychelles.govtas.com/status-check">https://seychelles.govtas.com/status-check</a>
 3. Passengers are subject to medical screening upon arrival.
+4. Passengers arriving from Bangladesh, Brazil, India, Nepal or Pakistan are subject to quarantine for 7 days.
