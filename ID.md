@@ -1,4 +1,4 @@
-Published 16.09.2021
+Published 17.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
@@ -20,8 +20,10 @@ Published 16.09.2021
 - airline crew transiting without disembarking the aircraft.
 6. Passengers are subject to COVID-19 PCR test upon arrival and quarantine for 8 days.
 7. A completed "electronic health awareness card (e-HAC)" must be presented upon arrival. The card can be obtained before departure through the "Pedulilindungi" mobile app.
-8. Airline crew with a crew ID card are visa exempt if they are listed in the General Declaration and wearing uniform.
-9. Deadhead crew will be given an entry stamp. They must:
+8. Passengers must have health or travel insurance to cover COVID-19 expenses.
+- This does not apply to nationals of Indonesia.
+9. Airline crew with a crew ID card are visa exempt if they are listed in the General Declaration and wearing uniform.
+10. Deadhead crew will be given an entry stamp. They must:
 - have a valid crew ID card or crew member certificate;
 - provide written notification to Immigration Officer proving they will be on duty on the return flight. The notification must be received by Immigration Officer minimum 24 hours from arrival.
-10. Suspension of all visa exemptions and visa on arrival facilities.
+11. Suspension of all visa exemptions and visa on arrival facilities.
