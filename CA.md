@@ -1,4 +1,4 @@
-Published 13.09.2021
+Published 17.09.2021
 1. Until 21 September 2021, flights from India are suspended.
 2. Until 29 September 2021, flights from Morocco are suspended.
 3. Until 21 September 2021, passengers are not allowed to enter.
@@ -25,7 +25,7 @@ Published 13.09.2021
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers with a positive COVID-19 test taken at least 15 days and at most 180 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS.
-6. Passengers must arrive at Calgary (YYC), Edmonton (YEG), Halifax (YHZ), Montreal (YUL), Ottawa (YOW), Quebec (YQB), Toronto (YYZ), Vancouver (YVR) or Winnipeg (YWG).
+6. Passengers must arrive at Calgary (YYC), Edmonton (YEG), Halifax (YHZ), Montreal (YUL), Ottawa (YOW), Quebec (YQB), Toronto Pearson (YYZ), Toronto Billy Bishop (YTZ), Vancouver (YVR) or Winnipeg (YWG).
 - This does not apply to passengers arriving on direct flights from St. Pierre and Miquelon.
 7. Passengers could be subject to quarantine for 14 days; details can be found at <a href="https://travel.gc.ca/travel-covid/travel-restrictions/flying-canada-checklist">https://travel.gc.ca/travel-covid/travel-restrictions/flying-canada-checklist</a>
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival, and their accompanying children younger than 12 years. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech. A combination of vaccines is accepted. More details can be found at <a href="https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada">https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada</a> .
