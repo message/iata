@@ -1,6 +1,6 @@
-Published 17.09.2021
+Published 19.09.2021
 1. Until 30 September 2021, flights from South Africa are suspended.
-2. Passengers are not allowed to enter if in the past 14 days they have been to or transited through South Africa.
+2. Until 3 October 2021, passengers are not allowed to enter if in the past 14 days they have been to or transited through South Africa.
 - This does not apply to nationals and residents of Peru.
 3. Passengers must have:
 - a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point; or
