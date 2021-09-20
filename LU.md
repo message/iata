@@ -1,4 +1,4 @@
-Published 04.08.2021
+Published 20.09.2021
 1. Until 30 September 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -30,4 +30,3 @@ The test result must be in English, French, German, Italian, Luxembourgish, Port
 - This does not apply to passengers younger than 12 years.
 4. Passengers who in the past 14 days have been in India are subject to a COVID-19 LAMP, PCR or TMA test upon arrival.
 - This does not apply to passengers younger than 12 years.
-5. Passengers could be subject to quarantine for up to 14 days; details can be found at <a href="https://covid19.public.lu/en/travellers/visiting-luxembourg.html">https://covid19.public.lu/en/travellers/visiting-luxembourg.html</a>
