@@ -1,5 +1,5 @@
-Published 15.09.2021
-1. Until 19 September 2021, passengers are not allowed to enter.
+Published 20.09.2021
+1. Until 10 October 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Finland and their family members;
 - passengers with a residence permit issued by Finland;
