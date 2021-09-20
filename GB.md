@@ -1,5 +1,5 @@
-Published 30.08.2021
-1. Passengers who have been in or transited through Afghanistan, Angola, Argentina, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Cuba, Dominican Rep., Ecuador, Egypt, Eritrea, Eswatini, Ethiopia, French Guiana, Georgia, Guyana, Haiti, Indonesia, Kenya, Lesotho, Malawi, Maldives, Mayotte, Mexico, Mongolia, Montenegro, Mozambique, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Reunion, Rwanda, Seychelles, Sierra Leone, Somalia, South Africa, Sri Lanka, Sudan, Suriname, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Turkey, Uganda, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days are not allowed to enter.
+Published 20.09.2021
+1. Passengers who have been in or transited through Afghanistan, Angola, Argentina, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Cuba, Dominican Rep., Ecuador, Eritrea, Eswatini, Ethiopia, French Guiana, Georgia, Guyana, Haiti, Indonesia, Lesotho, Malawi, Mayotte, Mexico, Mongolia, Montenegro, Mozambique, Myanmar, Namibia, Nepal, Panama, Paraguay, Peru, Philippines, Reunion, Rwanda, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Suriname, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Uganda, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days are not allowed to enter.
 This does not apply to:
 - British nationals;
 - nationals of Ireland (Rep.);
@@ -21,19 +21,19 @@ This does not apply to:
 - merchant seamen;
 - military personnel with an exemption letter from the Ministry of Defense;
 - more exemptions can be found at <a href="https://tinyurl.com/yytxv2cp">https://tinyurl.com/yytxv2cp</a>
-7. Passengers entering England who have been in or transited through Afghanistan, Angola, Argentina, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Cuba, Dominican Rep., Ecuador, Egypt, Eritrea, Eswatini, Ethiopia, French Guiana, Georgia, Guyana, Haiti, Indonesia, Kenya, Lesotho, Malawi, Maldives, Mayotte, Mexico, Mongolia, Montenegro, Mozambique, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Reunion, Rwanda, Seychelles, Sierra Leone, Somalia, South Africa, Sri Lanka, Sudan, Suriname, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Turkey, Uganda, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days must:
+7. Passengers entering England who have been in or transited through Afghanistan, Angola, Argentina, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Cuba, Dominican Rep., Ecuador, Eritrea, Eswatini, Ethiopia, French Guiana, Georgia, Guyana, Haiti, Indonesia, Lesotho, Malawi, Mayotte, Mexico, Mongolia, Montenegro, Mozambique, Myanmar, Namibia, Nepal, Panama, Paraguay, Peru, Philippines, Reunion, Rwanda, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Suriname, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Uganda, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days must:
 - have a quarantine package for 11 nights; and
 - arrive at Birmingham (BHX), Farnborough (FAB), Gatwick (LGW), Heathrow (LHR) or London City (LCY).
 More details can be found at <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a>
 - This does not apply to military personnel with an exemption letter from the Ministry of Defence.
-8. Passengers entering Scotland who have been in or transited through Afghanistan, Angola, Argentina, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Cuba, Dominican Rep., Ecuador, Egypt, Eritrea, Eswatini, Ethiopia, French Guiana, Georgia, Guyana, Haiti, Indonesia, Kenya, Lesotho, Malawi, Maldives, Mayotte, Mexico, Mongolia, Montenegro, Mozambique, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Reunion, Rwanda, Seychelles, Sierra Leone, Somalia, South Africa, Sri Lanka, Sudan, Suriname, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Turkey, Uganda, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days must:
+8. Passengers entering Scotland who have been in or transited through Afghanistan, Angola, Argentina, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Cuba, Dominican Rep., Ecuador, Eritrea, Eswatini, Ethiopia, French Guiana, Georgia, Guyana, Haiti, Indonesia, Lesotho, Malawi, Mayotte, Mexico, Mongolia, Montenegro, Mozambique, Myanmar, Namibia, Nepal, Panama, Paraguay, Peru, Philippines, Reunion, Rwanda, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Suriname, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Uganda, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days must:
 - have a quarantine package for 11 nights; and
 - arrive at Aberdeen (ABZ), Edinburgh (EDI), Glasgow (GLA), Glasgow Prestwick (PIK) or Inverness (INV).
 More details can be found at <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a>
 - This does not apply to:
 - merchant seamen;
 - military personnel with an exemption letter from the Ministry of Defence.
-9. Passengers transiting through the United Kingdom to Ireland (Rep.) who have been in or transited through Afghanistan, Angola, Argentina, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Cuba, Dominican Rep., Ecuador, Egypt, Eritrea, Eswatini, Ethiopia, French Guiana, Georgia, Guyana, Haiti, Indonesia, Kenya, Lesotho, Malawi, Maldives, Mayotte, Mexico, Mongolia, Montenegro, Mozambique, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Reunion, Rwanda, Seychelles, Sierra Leone, Somalia, South Africa, Sri Lanka, Sudan, Suriname, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Turkey, Uganda, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days must have a quarantine package for 11 nights. More details can be found at <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a>
+9. Passengers transiting through the United Kingdom to Ireland (Rep.) who have been in or transited through Afghanistan, Angola, Argentina, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Cuba, Dominican Rep., Ecuador, Eritrea, Eswatini, Ethiopia, French Guiana, Georgia, Guyana, Haiti, Indonesia, Lesotho, Malawi, Mayotte, Mexico, Mongolia, Montenegro, Mozambique, Myanmar, Namibia, Nepal, Panama, Paraguay, Peru, Philippines, Reunion, Rwanda, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Suriname, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Uganda, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days must have a quarantine package for 11 nights. More details can be found at <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a>
 - This does not apply to military personnel with an exemption letter from the Ministry of Defence.
 10. Passengers could be subject to quarantine for 10 days. Details can be found for:
 - England at: <a href="https://www.gov.uk/guidance/booking-and-staying-in-a-quarantine-hotel-when-you-arrive-in-england">https://www.gov.uk/guidance/booking-and-staying-in-a-quarantine-hotel-when-you-arrive-in-england</a>
@@ -47,3 +47,22 @@ More details can be found at <a href="https://quarantinehotelbookings.ctmportal.
 - This does not apply to flights arriving at the South Arrival and Immigration Hall of Birmingham (BHX) or the Terminal 4 of Heathrow (LHR).
 12. Airline crew not residing in the United Kingdom are subject to self-isolation in a hotel until their next flight.
 13. Passengers with an Overseas Domestic Worker visa issued by the UK must be accompanied by the sponsor or one of the first-degree family members of the sponsor.
+14. Until 03:59, 22 September 2021, passengers who have been in or transited through Bangladesh, Egypt, Kenya, Maldives, Oman, Pakistan, Sri Lanka or Turkey in the past 10 days are not allowed to enter.
+This does not apply to:
+- British nationals;
+- nationals of Ireland (Rep.);
+- residents of the United Kingdom.
+15. Until 03:59, 22 September 2021, passengers entering England who have been in or transited through Bangladesh, Egypt, Kenya, Maldives, Oman, Pakistan, Sri Lanka or Turkey in the past 10 days must:
+- have a quarantine package for 11 nights; and
+- arrive at Birmingham (BHX), Farnborough (FAB), Gatwick (LGW), Heathrow (LHR) or London City (LCY).
+More details can be found at <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a>
+- This does not apply to military personnel with an exemption letter from the Ministry of Defence.
+16. Until 03:59, 22 September 2021, passengers entering Scotland who have been in or transited through Bangladesh, Egypt, Kenya, Maldives, Oman, Pakistan, Sri Lanka or Turkey in the past 10 days must:
+- have a quarantine package for 11 nights; and
+- arrive at Aberdeen (ABZ), Edinburgh (EDI), Glasgow (GLA), Glasgow Prestwick (PIK) or Inverness (INV).
+More details can be found at <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a>
+- This does not apply to:
+- merchant seamen;
+- military personnel with an exemption letter from the Ministry of Defence.
+17. Until 03:59, 22 September 2021, passengers transiting through the United Kingdom to Ireland (Rep.) who have been in or transited through Bangladesh, Egypt, Kenya, Maldives, Oman, Pakistan, Sri Lanka or Turkey in the past 10 days must have a quarantine package for 11 nights. More details can be found at <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a>
+- This does not apply to military personnel with an exemption letter from the Ministry of Defence.
