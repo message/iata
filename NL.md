@@ -1,4 +1,4 @@
-Published 06.09.2021
+Published 21.09.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of the Netherlands;
@@ -54,3 +54,6 @@ Details can be found at <a href="https://tinyurl.com/59zy6bna">https://tinyurl.c
 4. A completed "Health Declaration Form" must be presented prior to boarding. The form can be found at <a href="https://tinyurl.com/ybtmdgja">https://tinyurl.com/ybtmdgja</a>
 - This does not apply to passengers younger than 13 years.
 5. Passengers could be subject to self-quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/3zvzaz3b">https://tinyurl.com/3zvzaz3b</a>
+- Effective 22 September 2021, this does not apply to:
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with Janssen at least 28 days before arrival.
