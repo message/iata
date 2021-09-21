@@ -1,9 +1,6 @@
-Published 01.07.2021
-1. Flights from India are suspended.
-- This does not apply to humanitarian, medevac or repatriation flights.
-2. Passengers arriving from India on humanitarian, medevac or repatriation flights are subject to quarantine for 14 days at their own expense.
-3. Passengers and airline crew must have a negative COVID-19 RT-PCR test taken at most 72 hours before arrival.
-- This does not apply to passengers younger than 5 years.
-4. Passengers arriving from Brazil, Congo (Dem. Rep.), India, Indonesia, Peru, Philippines, South Africa, USA, Uganda or United Kingdom are subject to a COVID-19 antigen test upon arrival at their own expense.
-5. Passengers must complete a "Traveler's Surveillance Form" and present it to the Port Health Authorities upon arrival.
-6. Passengers and airline crew are subject to medical screening.
+Published 21.09.2021
+1. Passengers and airline crew must complete the "Traveler's Surveillance Form" for Tanzania at <a href="https://afyamsafiri.moh.go.tz/">https://afyamsafiri.moh.go.tz/</a> and for Zanzibar at <a href="https://healthtravelznz.mohz.go.tz">https://healthtravelznz.mohz.go.tz</a> at most 24 hours before arrival.
+2. Passengers must have a negative COVID-19 RT-PCR test taken at most 96 hours before departure from the first embarkation point.
+- This does not apply to passengers who are 5 years or younger.
+3. Passengers who in the past 14 days have been in or transited through Congo (Dem. Rep.), Egypt, France, India, Malawi, Rwanda, South Africa, Uganda, United Kingdom or USA are subject to a COVID-19 antigen test upon arrival at their own expense.
+- This does not apply to passengers who are 5 years or younger.
