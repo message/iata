@@ -1,4 +1,4 @@
-Published 30.08.2021
+Published 21.09.2021
 1. Until 1 October 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Argentina;
@@ -17,5 +17,5 @@ This does not apply to:
 4. Passengers must have health insurance to cover COVID-19 expenses.
 - This does not apply to nationals and residents of Argentina.
 5. passengers are subject to a COVID-19 antigen test upon arrival at their own expense.
-6. Until 19 September 2021, passengers are subject to quarantine for 7 days.
-7. From 20 September 2021, passengers could be subject to quarantine for 7 days.
+6. Until 1 October 2021, passengers are subject to quarantine for 7 days.
+7. Effective 2 October 2021, passengers could be subject to quarantine for 7 days.
