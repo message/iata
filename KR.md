@@ -1,4 +1,4 @@
-Published 20.09.2021
+Published 22.09.2021
 1. Short-term visas (type C-1 and C-3) issued on or before 5 April 2020 are no longer valid.
 2. Suspension of visa exemptions for nationals of Antigua and Barbuda, Argentina, Australia, Austria, Bahamas, Bahrain, Belgium, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Dominican Rep., Ecuador, El Salvador, Estonia, Eswatini (Swaziland), Fiji, Finland, France, Germany, Greece, Grenada, Guatemala, Haiti, Honduras, Hungary, Iceland, Israel, Italy, Jamaica, Kazakhstan, Kiribati, Kuwait, Latvia, Lesotho, Liechtenstein, Lithuania, Luxembourg, Malaysia, Marshall Isl., Mauritius, Micronesia (Federated States), Montenegro, Morocco, Nauru, Netherlands, New Zealand, Norway, Oman, Panama, Paraguay, Peru, Poland, Portugal, Qatar, Romania, Russian Fed., Samoa, Saudi Arabia, Serbia, Seychelles, Singapore, Slovakia, Solomon Isl., South Africa, Spain, St. Lucia, Suriname, Sweden, Switzerland, Thailand, Tonga, Trinidad and Tobago, Tunisia, Turkey, Tuvalu, United Arab Emirates or Uruguay with a normal passport.
 - This does not apply to airline crew.
@@ -18,7 +18,7 @@ Published 20.09.2021
 - effective 1 October 2021, this does not apply to passengers arriving from a country other than Djibouti or Zambia with:
 - a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival; or
 - a Quarantine Exemption Certificate.
-8. Passengers must install the 'self-quarantine safety protection mobile app' found at <a href="https://tinyurl.com/m9fcz6dc">https://tinyurl.com/m9fcz6dc</a>
+8. Passengers must install the 'self-quarantine safety protection mobile app' found at <a href="https://tinyurl.com/m9fcz6dc">https://tinyurl.com/m9fcz6dc</a> before departure or upon arrival.
 9. Passengers must complete a "Health Declaration Form" and a "Travel Record Declaration" and present it upon arrival. The forms can be obtained upon arrival.
 10. Passengers are not allowed to transit through Korea (Rep.) for more than 24 hours.
 11. Nationals of Thailand are not allowed to transit if they are traveling onward to Thailand.
