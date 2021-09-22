@@ -1,5 +1,5 @@
-Published 18.09.2021
-1. Flights from India are suspended.
+Published 22.09.2021
+1. Until 26 September 2021, flights from India are suspended.
 2. Until 29 September 2021, flights from Morocco are suspended.
 3. Until 21 November 2021, passengers are not allowed to enter.
 - This does not apply to:
