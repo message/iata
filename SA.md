@@ -1,4 +1,4 @@
-Published 22.09.2021
+Published 23.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Saudi Arabia;
@@ -29,7 +29,8 @@ Published 22.09.2021
 - nationals of Saudi Arabia and their spouses, mothers, children and accompanying domestic workers. They must not be arriving from Afghanistan, Ethiopia or Viet Nam;
 - residents of Saudi Arabia and their spouses and children. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty). They must not be arriving from Afghanistan, Ethiopia or Viet Nam;
 - domestic workers of residents of Saudi Arabia. The resident must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty). They must not be arriving from Afghanistan, Ethiopia or Viet Nam;
-- passengers with a diplomatic visa and their accompanying domestic workers.
+- passengers with a diplomatic visa and their accompanying domestic workers;
+- passengers younger than 18 years accompanied by their parents with a COVID-19 vaccination certificate showing that the parents were fully vaccinated at least 14 days before departure. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty). They must not be arriving from Afghanistan, Ethiopia or Viet Nam.
 9. Passengers could be subject to quarantine for 5 days.
 10. Airline crew are subject to quarantine until their next flight.
 11. Suspension of visa on arrival facilities.
