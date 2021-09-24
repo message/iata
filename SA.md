@@ -1,4 +1,4 @@
-Published 23.09.2021
+Published 24.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Saudi Arabia;
@@ -14,25 +14,24 @@ Published 23.09.2021
 - This does not apply to:
 - nationals of Saudi Arabia;
 - passengers younger than 8 years.
-4. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 14 days before departure. They must register at <a href="https://muqeem.sa/#/vaccine-registration/home">https://muqeem.sa/#/vaccine-registration/home</a> , and must download the Tawakkalna App and submit their personal details within 8 hours after arrival. Passengers who received Sinopharm or Sinovac must have also received one vaccine dose of AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech. Residents of Saudi Arabia arriving from Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam must prove that they received 2 vaccine doses in Saudi Arabia.
+4. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac before departure, or vaccinated with Janssen at least 14 days before departure. They must register at <a href="https://muqeem.sa/#/vaccine-registration/home">https://muqeem.sa/#/vaccine-registration/home</a> , and must download the Tawakkalna App and submit their personal details within 8 hours after arrival. Passengers who received Sinopharm or Sinovac must have also received one vaccine dose of AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty).
 - This does not apply to:
 - nationals of Saudi Arabia;
 - first degree family members of nationals of Saudi Arabia. They must be traveling together;
 - domestic workers of nationals of Saudi Arabia. They must be accompanied by the sponsor.
 5. Passengers must register before departure at <a href="https://muqeem.sa/#/vaccine-registration/home">https://muqeem.sa/#/vaccine-registration/home</a> .
 - This does not apply to nationals of Saudi Arabia.
-6. Passengers must complete a 'Health Disclaimer Form' and present it upon arrival.
-7. Passengers must have medical insurance to cover COVID-19 expenses.
+6. Passengers must have medical insurance to cover COVID-19 expenses.
 - This does not apply to nationals and residents of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates.
-8. Passengers must obtain an institutional quarantine package from the transporting carrier.
+7. Passengers must obtain an institutional quarantine package for 5 days from the transporting carrier.
 - This does not apply to:
 - nationals of Saudi Arabia and their spouses, mothers, children and accompanying domestic workers. They must not be arriving from Afghanistan, Ethiopia or Viet Nam;
-- residents of Saudi Arabia and their spouses and children. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty). They must not be arriving from Afghanistan, Ethiopia or Viet Nam;
-- domestic workers of residents of Saudi Arabia. The resident must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty). They must not be arriving from Afghanistan, Ethiopia or Viet Nam;
+- residents of Saudi Arabia and their spouses and children. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac before departure, or vaccinated with Janssen at least 14 days before departure. They must not be arriving from Afghanistan, Ethiopia or Viet Nam;
+- domestic workers of residents of Saudi Arabia. The resident must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac before departure, or vaccinated with Janssen at least 14 days before departure. They must not be arriving from Afghanistan, Ethiopia or Viet Nam;
 - passengers with a diplomatic visa and their accompanying domestic workers;
-- passengers younger than 18 years accompanied by their parents with a COVID-19 vaccination certificate showing that the parents were fully vaccinated at least 14 days before departure. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty). They must not be arriving from Afghanistan, Ethiopia or Viet Nam.
-9. Passengers could be subject to quarantine for 5 days.
-10. Airline crew are subject to quarantine until their next flight.
-11. Suspension of visa on arrival facilities.
-12. Suspension of e-visa issuance.
-13. Airlines can check the validity of the exit/entry visas for residents of Saudi Arabia at <a href="https://muqeem.sa/#/visa-validity/check">https://muqeem.sa/#/visa-validity/check</a>
+- passengers younger than 18 years accompanied by their parents with a COVID-19 vaccination certificate showing that the parents were fully vaccinated with AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac before departure, or vaccinated with Janssen at least 14 days before departure. They must not be arriving from Afghanistan, Ethiopia or Viet Nam.
+8. Passengers could be subject to quarantine for 5 days.
+9. Airline crew are subject to quarantine until their next flight.
+10. Suspension of visa on arrival facilities.
+11. Suspension of e-visa issuance.
+12. Airlines can check the validity of the exit/entry visas for residents of Saudi Arabia at <a href="https://muqeem.sa/#/visa-validity/check">https://muqeem.sa/#/visa-validity/check</a>
