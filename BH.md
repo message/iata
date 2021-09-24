@@ -1,4 +1,4 @@
-Published 13.09.2021
+Published 24.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates;
@@ -30,5 +30,5 @@ Published 13.09.2021
 8. Flights from Iraq, Lebanon and Syria are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 9. Visa on arrival facility restarted.
-- This does not apply to passengers with a residence permit issued by Kuwait, Oman, Saudi Arabia or United Arab Emirates.
+- This does not apply to passengers with a residence permit issued by Kuwait, Oman, Saudi Arabia or United Arab Emirates, if arriving from a country other than Kuwait, Oman, Saudi Arabia and United Arab Emirates.
 10. Border crossing on the causeway is suspended.
