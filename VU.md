@@ -1,7 +1,7 @@
-Published 10.09.2021
+Published 26.09.2021
 1. Until 31 December 2021, Vanuatu's borders are closed.
 - This does not apply to humanitarian flights.
-2. Flights to Vanuatu are suspended.
+2. Until 26 September 2021, flights to Vanuatu are suspended.
 3. Until 31 December 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Vanuatu;
