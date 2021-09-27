@@ -96,7 +96,8 @@ The test result must be in Arabic or English and must be issued by an approved l
 - This does not apply to passengers with a resident visa.
 24. Passengers arriving at Sharjah (SHJ) must download the ALHOSN App.
 25. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
-26. Residents of United Arab Emirates entering Abu Dhabi (AUH) must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 14 days before departure. They must update the certificate on <a href="https://smartservices.ica.gov.ae">https://smartservices.ica.gov.ae</a> and obtain a QR code before arrival.
+26. Passengers entering Abu Dhabi (AUH) must register before departure on <a href="https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals">https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals</a> . This will generate a QR code which must be presented before departure and upon arrival.
 - This does not apply to:
 - nationals of United Arab Emirates;
 - passengers entering Abu Dhabi for the World Policy Conference.
+27. Residents of United Arab Emirates entering Abu Dhabi (AUH) must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 14 days before departure. They must update the certificate on <a href="https://smartservices.ica.gov.ae">https://smartservices.ica.gov.ae</a> and obtain a QR code before arrival.
