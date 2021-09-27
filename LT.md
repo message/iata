@@ -1,4 +1,4 @@
-Published 21.09.2021
+Published 27.09.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Lithuania;
@@ -22,8 +22,8 @@ This does not apply to:
 - airline crew staying for a maximum of 24 hours.
 3. Passengers must complete a health questionnaire and present it at check-in. The e-questionnaire can be obtained at <a href="https://keleiviams.nvsc.lt/lt/form">https://keleiviams.nvsc.lt/lt/form</a>
 4. Passengers must arrive at Vilnius (VNO), Kaunas (KUN), Palanga (PLQ) or Siauliai (SQQ).
-5. Passengers could be subject to self-isolation for 10 days. More details can be found at <a href="https://tinyurl.com/9jvjfer9">https://tinyurl.com/9jvjfer9</a>
+5. Passengers could be subject to self-isolation for 10 days. More details can be found at <a href="https://sam.lrv.lt/en/news/updated-list-of-affected-countries-red-category-shrinking">https://sam.lrv.lt/en/news/updated-list-of-affected-countries-red-category-shrinking</a>
 - This does not apply to passengers arriving from a country other than Brazil, India and South Africa with:
 - a positive COVID-19 antigen or PCR test taken at most 180 days before arrival and a recovery certificate; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech (Comirnaty).
-6. Airline crew could be subject to self-isolation until their next flight or for a maximum of 10 days. More details can be found at <a href="https://tinyurl.com/9jvjfer9">https://tinyurl.com/9jvjfer9</a>
+6. Airline crew could be subject to self-isolation until their next flight or for a maximum of 10 days. More details can be found at <a href="https://sam.lrv.lt/en/news/updated-list-of-affected-countries-red-category-shrinking">https://sam.lrv.lt/en/news/updated-list-of-affected-countries-red-category-shrinking</a>

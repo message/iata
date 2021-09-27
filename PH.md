@@ -1,4 +1,4 @@
-Published 20.09.2021
+Published 27.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -14,7 +14,8 @@ Published 20.09.2021
 2. Until 30 September 2021, passengers who in the past 14 days have been in Grenada, Papua New Guinea, Serbia or Slovenia are not allowed to enter.
 - This does not apply to nationals of the Philippines traveling on repatriation flights.
 3. Until 30 September 2021, passengers are not allowed to transit through Manila (MNL) when arriving from a country other than Algeria, Bhutan, Burkina Faso, Cameroon, Cayman Isl., Chad, China (People's Rep.), Chinese Taipei, Comoros, Congo (Dem. Rep.), Cook Isl., Djibouti, Equatorial Guinea, Eritrea, Falkland Isl. (Malvinas), Gabon, Hong Kong (SAR China), Hungary, Kiribati, Korea (Dem. People's Rep.), Madagascar, Mali, Marshall Isl., Micronesia (Federated States), Montserrat, Nauru, New Caledonia, New Zealand, Nicaragua, Niger, Niue, Northern Mariana Isl., Palau, Poland, Saba, Samoa, Samoa (American), Sierra Leone, Solomon Isl., St. Eustatius, St. Helena, St. Pierre and Miquelon, Sudan, Syria, Tajikistan, Tanzania, Tonga, Turkmenistan, Tuvalu, Vanuatu or Yemen.
-4. Passengers traveling to Manila (MNL) must complete the "One Health Pass" form before arrival at <a href="https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/">https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/</a>. This will generate a QR code which must be presented upon arrival.
+4. Passengers and airline crew traveling to Manila (MNL) must complete the "One Health Pass" form before arrival at <a href="https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/">https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/</a>. This will generate a QR code which must be presented upon arrival.
+- This does not apply to airline crew staying in the aircraft.
 5. Passengers must have a reservation confirmation for at least 10 days, for a hotel approved by Tourism and Health Agencies and listed at <a href="https://quarantine.doh.gov.ph/quarantine-facilities/">https://quarantine.doh.gov.ph/quarantine-facilities/</a>
 - This does not apply to:
 - nationals of the Philippines who are Overseas Filipino Workers (OFW);
