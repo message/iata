@@ -1,9 +1,9 @@
-Published 16.09.2021
+Published 27.09.2021
 1. Until 30 September 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See) and their family members;
 - passengers with a long term residence permit or a long term "D" visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
-- residents of Australia, Bosnia and Herzegovina, Canada, Jordan, Korea (Rep.), Moldova (Rep.), New Zealand, Qatar, Saudi Arabia, Singapore, Ukraine or Uruguay, if arriving from their country of residence;
+- residents of Australia, Canada, Chile, Jordan, Korea (Rep.), Kuwait, New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine or Uruguay, if arriving from their country of residence;
 - passengers traveling through Croatia to a third country for a maximum stay of 12 hours. They must prove that they can enter the destination country;
 - passengers traveling as tourists with an accommodation reservation;
 - passengers traveling on business with an invitation letter from a company in Croatia;
