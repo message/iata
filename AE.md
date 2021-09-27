@@ -1,4 +1,4 @@
-Published 23.09.2021
+Published 27.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -87,7 +87,7 @@ The test result must be in Arabic or English and must be issued by an approved l
 16. Nationals of United Arab Emirates entering Dubai (DXB) or Al Maktoum (DWC) are subject to a COVID-19 PCR test upon arrival.
 17. Passengers entering Abu Dhabi (AUH), Ras Al Khaimah (RKT) or Sharjah (SHJ) are subject to a COVID-19 PCR test upon arrival.
 18. Passengers could be subject to quarantine.
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience Co Ltd. from Korea), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V.
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V.
 19. Visa on arrival facilities at Abu Dhabi (AUH) restarted.
 20. Expired residence permits issued by the United Arab Emirates that have been extended until December 2020 are accepted for entry. Passengers must present proof of the extended validity.
 21. Nationals of Korea (Rep.) traveling under the Fast Track program must have an 'Isolation Exemption Certificate'.
@@ -96,7 +96,7 @@ The test result must be in Arabic or English and must be issued by an approved l
 - This does not apply to passengers with a resident visa.
 24. Passengers arriving at Sharjah (SHJ) must download the ALHOSN App.
 25. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
-26. Passengers entering Abu Dhabi (AUH) must register before departure on <a href="https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals">https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals</a> . This will generate a QR code which must be presented before departure and upon arrival.
+26. Residents of United Arab Emirates entering Abu Dhabi (AUH) must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 14 days before departure. They must update the certificate on <a href="https://smartservices.ica.gov.ae">https://smartservices.ica.gov.ae</a> and obtain a QR code before arrival.
 - This does not apply to:
 - nationals of United Arab Emirates;
-- Effective 27 September 2021, passengers entering Abu Dhabi for the World Policy Conference.
+- passengers entering Abu Dhabi for the World Policy Conference.

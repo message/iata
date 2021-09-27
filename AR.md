@@ -1,4 +1,4 @@
-Published 21.09.2021
+Published 27.09.2021
 1. Until 1 October 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Argentina;
@@ -18,4 +18,6 @@ This does not apply to:
 - This does not apply to nationals and residents of Argentina.
 5. passengers are subject to a COVID-19 antigen test upon arrival at their own expense.
 6. Until 1 October 2021, passengers are subject to quarantine for 7 days.
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
 7. Effective 2 October 2021, passengers could be subject to quarantine for 7 days.
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
