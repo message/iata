@@ -10,7 +10,7 @@ Published 26.09.2021
 2. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="http://www.entrynorway.no">www.entrynorway.no</a>
 - This does not apply to:
 - airline crew who are not leaving the aircraft;
-- passengers younger than 17 18 years;
+- passengers younger than 18 years;
 - passengers arriving from Czechia, Faroe Isl., France, Hungary, Iceland, Italy, Luxembourg, Mongolia, Netherlands, Poland, Portugal, San Marino, Slovakia or Vatican City (Holy See);
 - passengers arriving from specific green regions of Denmark, Finland, Greece, Spain or Sweden. Details can be found at <a href="https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from">https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from</a> ;
 - passengers with:
