@@ -1,4 +1,4 @@
-Published 27.09.2021
+Published 28.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -101,3 +101,4 @@ The test result must be in Arabic or English and must be issued by an approved l
 - nationals of United Arab Emirates;
 - passengers entering Abu Dhabi for the World Policy Conference.
 27. Residents of United Arab Emirates entering Abu Dhabi (AUH) must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 14 days before departure. They must update the certificate on <a href="https://smartservices.ica.gov.ae">https://smartservices.ica.gov.ae</a> and obtain a QR code before arrival.
+- This does not apply to passengers younger than 16 years.
