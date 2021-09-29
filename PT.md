@@ -1,5 +1,5 @@
-Published 17.09.2021
-1. Until 30 September 2021, passengers are not allowed to enter.
+Published 29.09.2021
+1. Until 31 October 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
 - residents of Portugal;
@@ -13,7 +13,8 @@ This does not apply to:
 3. Passengers entering or transiting through Portugal must have:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point; or
 - a negative COVID-19 NAAT, PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
-- an EU Digital Covid Certificate (EU DCC).
+- an EU Digital Covid Certificate (EU DCC); or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and issued in Albania, Andorra, Faroe Isl., Israel, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine or Vatican City (Holy See). Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
 This does not apply to:
 - passengers younger than 12 years;
 - passengers traveling on a direct flight to Azores or Madeira.
@@ -22,12 +23,14 @@ This does not apply to:
 - passengers who are 12 years or younger;
 - passengers with a negative COVID-19 RT-PCR test based on nasopharyngeal or oropharyngeal swab and taken at most 72 hours before departure;
 - passengers with a COVID-19 recovery certificate issued at most 180 days before arrival;
-- passengers with an EU Digital Covid Certificate (EU DCC).
+- passengers with an EU Digital Covid Certificate (EU DCC); or
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and issued in Albania, Andorra, Faroe Isl., Israel, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine or Vatican City (Holy See). Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
 5. Passengers traveling on a direct flight to Madeira without a negative COVID-19 RT-PCR test result of a test taken at most 72 hours before departure are subject to an RT-PCR test upon arrival and quarantine.
 This does not apply to:
 - passengers younger than 12 years;
 - passengers with a COVID-19 recovery certificate issued at most 90 days before arrival;
-- an EU Digital Covid Certificate (EU DCC).
+- passengers with an EU Digital Covid Certificate (EU DCC); or
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and issued in Albania, Andorra, Faroe Isl., Israel, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine or Vatican City (Holy See). Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
 6. Passengers traveling to Azores must:
 - complete a "Health Form upon arrival at the Azores" and a "Draft statement for inter-island travel" upon arrival; or
 - submit a "Questionnaire for Risk Assessment and Early Detection" before departure at <a href="https://mysafeazores.com/">https://mysafeazores.com/</a>
