@@ -1,5 +1,5 @@
-Published 08.09.2021
-1. Until 30 September 2021, flights to India are suspended.
+Published 29.09.2021
+1. Until 31 October 2021, flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.
 This does not apply to:

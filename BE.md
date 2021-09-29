@@ -1,4 +1,4 @@
-Published 24.09.2021
+Published 29.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
@@ -11,7 +11,7 @@ Published 24.09.2021
 - students;
 - military personnel traveling on duty;
 - passengers entering Belgium to travel by land to a third country. They must prove that they can enter the destination country;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty);
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna and Pfizer-BioNTech (Comirnaty);
 - more exemptions can be found at <a href="https://www.info-coronavirus.be/en/travels/">https://www.info-coronavirus.be/en/travels/</a>
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to a Schengen Member State.
 - This does not apply to:
@@ -25,7 +25,7 @@ Published 24.09.2021
 - students;
 - military personnel traveling on duty;
 - passengers with an "Essential Journey Certificate" issued by Belgium or a ‘note verbale' stating that the country of destination will allow them to enter;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna and Pfizer-BioNTech (Comirnaty).
 3. Passengers with a "C" visa issued by Belgium before 18 March 2020 must have an Essential Travel Certificate.
 - This does not apply to:
 - passengers with diplomatic passports traveling on duty;
@@ -49,7 +49,7 @@ Published 24.09.2021
 - military personnel traveling on duty.
 7. Passengers must have:
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Dutch, English, French or German; or
-- a vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna and Pfizer-BioNTech (Comirnaty); or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna and Pfizer-BioNTech (Comirnaty); or
 - a positive COVID-19 PCR test issued at most 180 days before arrival and a recovery certificate.
 - This does not apply to:
 - passengers residing in Belgium;
@@ -57,7 +57,8 @@ Published 24.09.2021
 - passengers arriving from Andorra, Czechia, Latvia, Luxembourg, Malta, Poland, San Marino or Vatican City (Holy See);
 - passengers arriving from orange regions of Austria, Bulgaria, Croatia, Denmark, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Lithuania, Netherlands, Norway, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland. Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a> ;
 - passengers arriving from Australia, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine or Uruguay.
-8. A completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a> or <a href="https://tinyurl.com/yvujyb6h">https://tinyurl.com/yvujyb6h</a> .
-9. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a>
-10. Passengers are subject to medical screening.
-11. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium.
+8. Until 30 September 2021, a completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a> or <a href="https://tinyurl.com/yvujyb6h">https://tinyurl.com/yvujyb6h</a>
+9. Effective 1 October 2021, a completed "Passenger Locator Form" must be submitted online at most 48 hours before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a>
+10. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a>
+11. Passengers are subject to medical screening.
+12. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium.
