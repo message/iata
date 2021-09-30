@@ -1,10 +1,10 @@
-Published 14.09.2021
+Published 30.09.2021
 1. Flights from Bangladesh, Brazil, Nepal, South Africa and Sri Lanka are suspended.
-2. Until 30 September 2021, passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival, if in the past 14 days they have been in Afghanistan, Bangladesh, Brazil, India, Nepal, Pakistan, South Africa or Sri Lanka.
+2. Until 30 December 2021, passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival, if in the past 14 days they have been in Afghanistan, Bangladesh, Brazil, India, Nepal, Pakistan, South Africa or Sri Lanka.
 - This does not apply to passengers younger than 12 years.
-3. Until 30 September 2021, passengers arriving from Egypt, Iran, Singapore or the United Kingdom must have a negative COVID-19 PCR test taken at most 72 hours before arrival.
+3. Until 30 December 2021, passengers arriving from Egypt, Iran, Singapore or the United Kingdom must have a negative COVID-19 PCR test taken at most 72 hours before arrival.
 - This does not apply to passengers younger than 12 years.
-4. Until 30 September 2021, passengers arriving from a country other than Afghanistan, Bangladesh, Brazil, Egypt, India, Iran, Nepal, Pakistan, Singapore, South Africa, Sri Lanka, United Kingdom, must:
+4. Until 30 December 2021, passengers arriving from a country other than Afghanistan, Bangladesh, Brazil, Egypt, India, Iran, Nepal, Pakistan, Singapore, South Africa, Sri Lanka, United Kingdom, must:
 - have a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival.
 This does not apply to:
