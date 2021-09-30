@@ -1,5 +1,4 @@
 Published 10.09.2021
-Until 30 September 2021:
 1. Passengers must have a negative COVID-19 PCR test taken at least 3 days and at most 7 days before departure from the last embarkation point.
 2. Passengers must have a confirmed accommodation reservation for 7 days booked at <a href="https://mauritiusnow.com/where-to-stay-in-mauritius/">https://mauritiusnow.com/where-to-stay-in-mauritius/</a> if they have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinovac, Sinopharm or Sputnik V at least 14 days before arrival; or

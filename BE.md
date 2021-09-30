@@ -1,4 +1,4 @@
-Published 29.09.2021
+Published 30.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
@@ -11,7 +11,8 @@ Published 29.09.2021
 - students;
 - military personnel traveling on duty;
 - passengers entering Belgium to travel by land to a third country. They must prove that they can enter the destination country;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna and Pfizer-BioNTech (Comirnaty);
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty);
+- unvaccinated passengers younger than 18 years if accompanied by a parent with a COVID-19 vaccination certificate showing that the parent was fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty);
 - more exemptions can be found at <a href="https://www.info-coronavirus.be/en/travels/">https://www.info-coronavirus.be/en/travels/</a>
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to a Schengen Member State.
 - This does not apply to:
@@ -25,7 +26,8 @@ Published 29.09.2021
 - students;
 - military personnel traveling on duty;
 - passengers with an "Essential Journey Certificate" issued by Belgium or a ‘note verbale' stating that the country of destination will allow them to enter;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna and Pfizer-BioNTech (Comirnaty).
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty);
+- unvaccinated passengers younger than 18 years if accompanied by a parent with a COVID-19 vaccination certificate showing that the parent was fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
 3. Passengers with a "C" visa issued by Belgium before 18 March 2020 must have an Essential Travel Certificate.
 - This does not apply to:
 - passengers with diplomatic passports traveling on duty;
@@ -49,7 +51,7 @@ Published 29.09.2021
 - military personnel traveling on duty.
 7. Passengers must have:
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Dutch, English, French or German; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna and Pfizer-BioNTech (Comirnaty); or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty); or
 - a positive COVID-19 PCR test issued at most 180 days before arrival and a recovery certificate.
 - This does not apply to:
 - passengers residing in Belgium;

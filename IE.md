@@ -9,7 +9,7 @@ Published 30.09.2021
 - This does not apply to passengers younger than 12 years.
 2. Passengers must complete a "Passenger Locator Form" at <a href="https://cvd19plf-prod1.powerappsportals.com/en-us/">https://cvd19plf-prod1.powerappsportals.com/en-us/</a> before departure.
 - This does not apply to passengers younger than 18 years.
-3. Passengers could be subject to self-isolation for up to 14 days. A list of quarantine exemptions can be found at <a href="https://www.gov.ie/en/publication/77952-government-advice-on-international-travel/#travelling-to-ireland">https://www.gov.ie/en/publication/77952-government-advice-on-international-travel/#travelling-to-ireland</a>
+3. Passengers could be subject to self-isolation for up to 14 days. A list of exemptions can be found at <a href="https://www.gov.ie/en/publication/77952-government-advice-on-international-travel/#travelling-to-ireland">https://www.gov.ie/en/publication/77952-government-advice-on-international-travel/#travelling-to-ireland</a>
 - This does not apply to passengers with:
 - a negative COVID-19 RT-PCR test taken at most 72 hours before arrival; or
 - a positive COVID-19 RT-PCR test taken at least 11 days and at most 180 days before arrival; or
