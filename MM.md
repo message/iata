@@ -1,5 +1,5 @@
-Published 30.08.2021
-1. Until 30 September 2021, flights to Myanmar are suspended.
+Published 30.09.2021
+1. Until 31 October 2021, flights to Myanmar are suspended.
 - This does not apply to medevac flights.
 2. Passengers must have an approval from Ministry of Foreign Affairs Myanmar.
 - This does not apply to nationals of Myanmar.
@@ -8,3 +8,4 @@ Published 30.08.2021
 4. Passengers are subject to quarantine for 10 days.
 5. Airline crew are subject to quarantine until their next flight.
 6. Suspension of all visa exemptions and visa on arrival facilities.
+</p>
