@@ -13,7 +13,7 @@ Published 21.09.2021
 - passengers with an Olympic Identity and Accreditation Card (OIAC) or Paralympic Identity and Accreditation Card (PIAC) (including cards in Pre-Valid Card (PVC) format). They must also have a Written Pledge;
 - passengers with an Invitation Letter issued by Tokyo 2020 Organizing Committee and a "Prior Consent Form" to the Minister of Education, Culture, Sports, Science and Technology of Japan (MEXT).
 2. Passengers must complete a "Quarantine Questionnaire" at <a href="https://arqs-qa.followup.mhlw.go.jp/">https://arqs-qa.followup.mhlw.go.jp/</a> . This will generate a QR code which must be presented upon arrival.
-3. Passengers must have a negative COVID-19 test result. Tests accepted are LAMP, NEAR, Next Generation Sequence, quantitative antigen (CLEIA), RT-PCR, Smart Amp, TMA or TRC. The test must:
+3. Passengers must have a negative COVID-19 test result. Tests accepted are LAMP, NEAR, Next Generation Sequence, quantitative antigen (CLEIA/ECLEIA), RT-PCR, Smart Amp, TMA or TRC. The test must:
 - specify that it is based on nasopharyngeal swab, saliva, or nasopharyngeal and oropharyngeal swab; and
 - be taken at most 72 hours before departure from the first embarkation point; and
 - be in English.
