@@ -1,5 +1,5 @@
 Published 01.09.2021
-1. Until 1 October 2021, flights to Turkmenistan are suspended.
+1. Flights to Turkmenistan are suspended.
 - This does not apply to repatriation flights.
 2. Passengers and airline crew must have:
 - a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point; and

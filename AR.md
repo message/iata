@@ -1,5 +1,5 @@
 Published 27.09.2021
-1. Until 1 October 2021, passengers are not allowed to enter.
+1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Argentina;
 - passengers with a visa issued by Argentina (excluding tourist visas);
