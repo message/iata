@@ -1,7 +1,8 @@
-Published 27.09.2021
-1. Passengers are not allowed to enter.
+Published 01.10.2021
+1. Until 31 October 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Argentina;
+- nationals and residents of Bolivia, Brazil, Chile, Paraguay and Uruguay, if in the past 14 days they have only been in Brazil, Bolivia, Chile, Paraguay or Uruguay;
 - passengers with a visa issued by Argentina (excluding tourist visas);
 - spouses, partners with registered partnership, parents, sisters, brothers or children of nationals of Argentina. They must:
 - present proof confirming the relationship (birth, marriage or cohabitation certificate, duly apostilled or legalized); and
@@ -13,11 +14,12 @@ More details can be found at: <a href="https://tinyurl.com/y5uo6mt4">https://tin
 This does not apply to:
 - passengers younger than 6 years;
 - passengers with a positive COVID-19 test result issued at most 90 days before arrival and proof of medical discharge issued at least 10 days after the positive test;
-- passengers with a medical certificate issued at most 72 hours before departure stating lack of Coronavirus (COVID-19) symptoms if PCR tests are not available at the country of departure. They are subject to a COVID-19 test upon arrival. Details can be found at <a href="https://www.argentina.gob.ar/salud/coronavirus/ingresar-egresar-argentina/opcion-pcr-destino">https://www.argentina.gob.ar/salud/coronavirus/ingresar-egresar-argentina/opcion-pcr-destino</a> .
+- passengers with a medical certificate issued at most 72 hours before departure stating lack of Coronavirus (COVID-19) symptoms if PCR tests are not available at the country of departure. They are subject to a COVID-19 test upon arrival. Details can be found at <a href="https://www.argentina.gob.ar/salud/coronavirus/ingresar-egresar-argentina/opcion-pcr-destino">https://www.argentina.gob.ar/salud/coronavirus/ingresar-egresar-argentina/opcion-pcr-destino</a>
 4. Passengers must have health insurance to cover COVID-19 expenses.
 - This does not apply to nationals and residents of Argentina.
-5. passengers are subject to a COVID-19 antigen test upon arrival at their own expense.
-6. Until 1 October 2021, passengers are subject to quarantine for 7 days.
+5. Passengers are subject to a COVID-19 antigen test upon arrival at their own expense.
+6. Passengers could be subject to quarantine for 7 days.
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
-7. Effective 2 October 2021, passengers could be subject to quarantine for 7 days.
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
+7. Until 31 October 2021, passengers arriving from Brazil, Bolivia, Chile, Paraguay or Uruguay must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
+8. Effective 1 November 2021, passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
+- This does not apply to nationals and residents of Argentina.

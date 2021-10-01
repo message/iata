@@ -4,7 +4,7 @@ Published 22.09.2021
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland;
 - residents of Austria;
 - more exemptions can be found at <a href="https://tinyurl.com/8w8kyybv">https://tinyurl.com/8w8kyybv</a>
-2. Passengers arriving from or who in the past 10 days have been in Brazil, Chile, , Costa Rica or Suriname must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival and are subject to quarantine for 10 days.
+2. Passengers arriving from or who in the past 10 days have been in Brazil, Chile, Costa Rica or Suriname must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival and are subject to quarantine for 10 days.
 - The COVID-19 test requirement does not apply to passengers younger than 12 years if accompanied by an adult.
 3. Passengers arriving from Cyprus must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
 - take a COVID-19 LAMP, PCR or TMA test upon arrival; or
@@ -16,7 +16,7 @@ Published 22.09.2021
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 22 days and at most 360 days before arrival and proof of previous COVID-19 infection; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, at least 120 days after the first dose and at most 360 days before arrival and proof of previous COVID-19 infection.
 - This does not apply to:
-- passengers who in the past 10 days have been in Brazil, Chile, , Costa Rica or Suriname;
+- passengers who in the past 10 days have been in Brazil, Chile, Costa Rica or Suriname;
 - passengers younger than 12 years if accompanied by an adult.
 4. Passengers must have a negative COVID-19 antigen test result issued at most 24 hours before arrival which is for personal use and recorded in an official data processing system; or
 - a negative COVID-19 antigen test result issued at most 48 hours before arrival; or
@@ -33,9 +33,9 @@ Published 22.09.2021
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, at least 120 days after the first dose and at most 360 days before arrival and proof of previous COVID-19 infection.
 - This does not apply to:
 - passengers arriving from Brazil, Chile, , Cyprus, Costa Rica or Suriname;
-- passengers who in the past 10 days have been in Brazil, Chile, , Costa Rica or Suriname;
+- passengers who in the past 10 days have been in Brazil, Chile, Costa Rica or Suriname;
 - passengers younger than 12 years if accompanied by an adult.
-5. Passengers must present a completed "Pre-Travel-Clearance" upon arrival. The form can be found at <a href="https://entry.ptc.gv.at">https://entry.ptc.gv.at</a>
+5. Passengers must present a completed "Pre-Travel-Clearance" upon arrival. The form can be found at <a href="https://entry.ptc.gv.at/">https://entry.ptc.gv.at</a>
 - This does not apply to passengers arriving from Andorra, Australia, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Italy, Jordan, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Moldova (Rep.), Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, San Marino, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Uruguay, Vatican City (Holy See) or Viet Nam, with:
 - a negative COVID-19 antigen test result issued at most 24 hours before arrival which is for personal use and recorded in an official data processing system; or
 - a negative COVID-19 antigen test result issued at most 48 hours before arrival; or
