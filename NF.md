@@ -1,13 +1,30 @@
-Published 27.05.2020
-1. Passengers are not allowed to enter Australia.
-- This does not apply to nationals of Australia.
-- This does not apply to the immediate family members of nationals of Australia.
-- This does not apply to permanent residents of Australia and their immediate family members.
-- This does not apply to nationals of New Zealand residing in Australia.
-- This does not apply to diplomats accredited to Australia and currently resident in Australia, and their immediate family members.
-2. Passengers and airline crew are required to self-isolate for a period of 14 days at their first arrival location in Australia. If their duration of stay is less than 14 days, they must self-isolate for the entire duration of stay.
-- This does not apply to airline crew with the appropriate personal protective equipment.
-3. Airline crew who are nationals or residents of Australia must self-isolate at their place of residence (or hotel) between flights, or for 14 days, whichever is shorter.
-Airline crew who are not nationals or residents of Australia must self-isolate in their hotel on arrival until their next flight.
-4. When passengers transit through Australia for 8 to 72 hours, they must go to mandatory quarantine at the state designated facility until the time of the departing flight.
-5. For repatriation charter flights, airlines are advised to contact the Australian Border Force (ABF) as early as possible in the planning process. Airlines should not confirm or schedule flights before discussing arrangements with the ABF repatriation team.
+Published 28.09.2021
+1. Passengers are not allowed to enter.
+- This does not apply to:
+- nationals of Australia and their immediate family members;
+- permanent residents of Australia and their immediate family members;
+- nationals of New Zealand residing in Australia and their immediate family members;
+- passengers who have been in Australia, New Zealand or both for the full 14 days before their flight to Australia;
+- passengers who have a visa and have been granted an exemption before departure; details can be found at <a href="https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form">https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form</a>
+2. Passengers are not allowed to transit through Australia to New Zealand for more than 72 hours.
+- This does not apply to passengers with an exemption applied at <a href="https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form">https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form</a>
+3. Passengers could be subject to presenting a "Travel Declaration" form and present it at time of check-in. The form can be found at <a href="https://covid19.homeaffairs.gov.au/australia-travel-declaration">https://covid19.homeaffairs.gov.au/australia-travel-declaration</a>
+4. Passengers could be subject to quarantine for 14 days at the first point of entry. Details can be found at <a href="https://covid19.homeaffairs.gov.au/new-zealand-safe-travel-zone">https://covid19.homeaffairs.gov.au/new-zealand-safe-travel-zone</a>
+5. Airline crew are subject to self-isolation until their next flight.
+6. Passengers transiting through Australia for 8 to 72 hours to a third country are subject to quarantine until their next flight.
+7. Passengers entering or transiting through Australia must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/y398dxv4">https://tinyurl.com/y398dxv4</a>
+- This does not apply to:
+- passengers younger than 5 years;
+- passengers arriving from Kiribati, Myanmar, New Zealand, Niue, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;
+- passengers arriving from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl.;
+- passengers with a positive COVID-19 PCR test result, and a medical discharge issued at most 4 weeks before departure which specifies that:
+- at least 14 days have passed since they were infected with COVID-19; and
+- 72 hours have passed since recovery of fever and respiratory symptoms; and
+- passengers who have recovered from COVID-19 and are not contagious.
+8. Passengers entering or transiting through Australia from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl. must have a negative COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/y398dxv4">https://tinyurl.com/y398dxv4</a>
+- This does not apply to:
+- passengers younger than 5 years;
+- passengers with a positive COVID-19 PCR test result, and a medical discharge issued at most 4 weeks before departure which specifies that:
+- at least 14 days have passed since they were infected with COVID-19; and
+- 72 hours have passed since recovery of fever and respiratory symptoms; and
+- passengers who have recovered from COVID-19 and are not contagious.
