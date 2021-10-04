@@ -1,5 +1,5 @@
-Published 20.09.2021
-1. Passengers and airline crew are not allowed to enter and transit.
+Published 04.10.2021
+1. Until 30 November 2021, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
 - passengers who are spouses, parents or children of a national of Thailand;
@@ -11,22 +11,21 @@ Published 20.09.2021
 - residents of Hong Kong (SAR China) with an APEC Business Travel Card arriving from Hong Kong (SAR China);
 - students;
 - passengers transiting through Bangkok (BKK);
-- passengers traveling to Phuket (HKT) or Na Thon (Ko Samui (USM)) if, in the past 21 days they have only been in, and arrive from Albania, Andorra, Antigua and Barbuda, Australia, Austria, Azerbaijan, Bahrain, Barbados, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Dominic, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Luxembourg, Macao (SAR China), Malta, Mauritius, Monaco, Morocco, Myanmar, Mongolia, Netherlands New Zealand, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, USA, United Arab Emirates, United Kingdom, Uzbekistan or Vietnam.
+- passengers traveling to Phuket (HKT) or Na Thon (Ko Samui (USM)).
 2. Passengers entering Thailand must have a negative COVID-19 test result issued at most 72 hours before departure from the first embarkation point. Tests accepted are: all types of PCR tests. The test result must be in English.
 - This does not apply to nationals of Thailand.
 3. Passengers transiting through Thailand must have:
 - a negative COVID-19 test result issued at most 72 hours before departure from the first embarkation point. Tests accepted are: all types of PCR tests. The test result must be in English; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure.
 - This does not apply to passengers transiting without disembarking the aircraft.
-4. Passengers must have a Certificate of Entry (COE) issued by Royal Thai Embassy, and
-- download the ThailandPlus App and register by using COE number and reference code.
+4. Passengers must have a Certificate of Entry (COE) issued by Royal Thai Embassy.
 5. Passengers entering or transiting through Thailand must have insurance to cover medical expenses in Thailand with a coverage cost of at least USD 100,000.-.
 - This does not apply to:
 - nationals of Thailand;
 - passengers transiting without disembarking the aircraft.
 6. Nationals of Thailand travelling under the Phuket or the Samui Plus Sandbox programs must have insurance to cover medical expenses in Thailand with a coverage cost of at least USD 100,000.-.
 7. Nationals of Thailand travelling to Phuket (HKT) or Na Thon (Ko Samui (USM)) under the Phuket or the Samui Plus Sandbox, must have a negative COVID-19 test result issued at most 72 hours before departure from the first embarkation point. Tests accepted are: all types of PCR tests. The test result must be in English.
-8. Passengers traveling to Phuket (HKT) or Na Thon (Ko Samui (USM)) when arriving from Albania, Andorra, Antigua and Barbuda, Australia, Austria, Azerbaijan, Bahrain, Barbados, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Dominic, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Luxembourg, Macao (SAR China), Malta, Mauritius, Monaco, Morocco, Myanmar, Mongolia, Netherlands New Zealand, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, USA, United Arab Emirates, United Kingdom, Uzbekistan or Vietnam;
+8. Passengers traveling to Phuket (HKT) or Na Thon (Ko Samui (USM)):
 - are subject to a COVID-19 RT-PCR test upon arrival; and
 - must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 - This does not apply to passengers younger than 18 years traveling with their fully vaccinated parents/guardians.
@@ -37,9 +36,9 @@ Published 20.09.2021
 - proof of payment for Samui Extra+ and Safety and Health Administration (SHA+) accommodation for the period of intended stay; and
 - proof of payment for COVID-19 tests in Ko Samui.
 12. Passengers are subject to medical screening.
-13. Nationals of Thailand are subject to quarantine for a minimum of 14 days.
-- This does not apply when traveling to Phuket (HKT) or Na Thon (Ko Samui (USM)) with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
+13. Passengers are subject to quarantine for 10 days.
+- This does not apply passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure from the first embarkation point. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V. They are subject to quarantine for 7 days.
 14. Airline crew are subject to self-isolation until their next flight.
 15. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-
-16. Suspension of visa on arrival facilities.
-17. Suspension of visa exemption for nationals of Cambodia and Myanmar with a normal passport.
+16. Visa on arrival facilities restarted.
+17. Visa exemption for nationals of Cambodia and Myanmar with a normal passport restarted.
