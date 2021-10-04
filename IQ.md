@@ -1,6 +1,6 @@
-Published 30.09.2021
+Published 04.10.2021
 1. Passengers arriving from India are not allowed to enter Iraq via Baghdad (BGW), Basra (BSR) or Najaf (NJF).
-2. Nationals of India are not allowed to enter Iraq via Baghdad (BGW), Basra (BSR) or Najaf (NJF).
+2. Nationals of India are not allowed to enter Iraq via Basra (BSR) or Najaf (NJF).
 3. Nationals of Indonesia are not allowed to enter Iraq via Basra (BSR) or Najaf (NJF).
 4. Passengers traveling to Baghdad (BGW) must have a printed negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in Arabic or English.
 - This does not apply to passengers younger than 10 years. They will be subject to a COVID-19 PCR test on arrival.
