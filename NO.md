@@ -2,12 +2,12 @@ Published 26.09.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Austria, Belgium, Bulgaria, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom;
--spouses, registered partners, unmarried partners, children, stepchildren, parents, stepparents of residents of Norway;
+- spouses, registered partners, unmarried partners, children, stepchildren, parents, stepparents of residents of Norway;
 - passengers who are sons or daughters, parents or stepparents, grandchildren or step-grandchildren, grandparents or step-grandparents of residents of Norway;
 - passengers with consent application issued by the Norway Directorate of Immigration (UDI) and who are boyfriends or girlfriends of residents of Norway and their minor children;
 - merchant seamen;
 - students studying in Norway. They must be enrolled at an approved educational institution or have a residence permit for students.
-2. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="http://www.entrynorway.no">www.entrynorway.no</a>
+2. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="http://www.entrynorway.no/">www.entrynorway.no</a>
 - This does not apply to:
 - airline crew who are not leaving the aircraft;
 - passengers younger than 18 years;
