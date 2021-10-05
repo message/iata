@@ -1,7 +1,8 @@
-Published 01.10.2021
-1. Passengers arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, French Guiana, Guyana, India, Nepal, Pakistan, Panama, Paraguay, Peru, South Africa, Suriname, Trinidad and Tobago, Uruguay or Venezuela:
-- with a COVID-19 vaccination certificate showing that they were fully vaccinated must have a negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to St. Maarten;
+Published 05.10.2021
+1. Passengers entering or transiting through St. Maarten arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, French Guiana, Guyana, India, Nepal, Pakistan, Panama, Paraguay, Peru, South Africa, Suriname, Trinidad and Tobago, Uruguay or Venezuela:
+- with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival, must have a negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to St. Maarten;
 - without a COVID-19 vaccination certificate must have a negative COVID-19 RT-PCR test taken at most 24 hours before departure of the last direct flight to St. Maarten.
+Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac.
 2. Passengers entering or transiting through St. Maarten from Canada or USA must have:
 - a negative COVID-19 RT-PCR test, based on a nasopharyngeal swab and taken at most 72 hours before departure of the last direct flight to St. Maarten; or
 - a negative COVID-19 antigen test, based on a nasopharyngeal swab and taken at most 48 hours before departure of the last direct flight to St. Maarten.

@@ -24,7 +24,8 @@ Published 28.09.2021
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers with a positive COVID-19 test taken at least 14 days and at most 180 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS;
-- passengers arriving from directly from India.
+- passengers arriving from directly from India;
+- more exemption can be found via <a href="https://travel.gc.ca/travel-covid/travel-restrictions/exemptions">https://travel.gc.ca/travel-covid/travel-restrictions/exemptions</a> .
 5. Passengers arriving directly from India must have a negative COVID-19 test taken at most 18 hours before departure. The test result must be issued by the laboratory Genestrings at the New Delhi airport (DEL) and have a QR code. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS.
 - This does not apply to:
 - passengers younger than 5 years;

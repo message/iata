@@ -1,46 +1,48 @@
-Published 01.10.2021
+Published 05.10.2021
 1. Until 31 October 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Malta with:
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
-- a COVID-19 vaccination certificate issued by Malta showing that they were fully vaccinated at least 14 days before arrival; or
-- a digital EU Digital Covid Certificate (EU DCC) showing that they were fully vaccinated at least 14 days before arrival; or
-- an NHS Covid Pass issued by the United Kingdom showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 vaccination certificate issued in Canada, Egypt, Gibraltar, Jersey, Guernsey, Kuwait, Lebanon, San Marino, Singapore or Vatican City (Holy See) showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 vaccination certificate issued in Turkey with a QR Code, showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 vaccination certificate issued by Dubai Health Authority with a QR Code, showing that they were fully vaccinated at least 14 days before arrival; or
-- an Al Hosn COVID-19 vaccination certificate issued by the United Arab Emirates, showing that they were fully vaccinated at least 14 days before arrival; or
-- a "Digital Green Certificate" issued in Serbia, with a QR code and showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 vaccination certificate issued by Qatar Ministry of Public Health showing that they were fully vaccinated at least 14 days before arrival; or
-- a digital COVID-19 vaccination certificate "Certifikate Dixhitale Shqiptare" issued by Albania; or
-- a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be verified through the VeriFLY app; or
-- a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App; or
-- a COVID-19 vaccination certificate issued in Saudi Arabia by Sehaty.sa, showing that they were fully vaccinated at least 14 days before arrival; or
-- a "COVID-19 Digital Certificate" issued in Malaysia and verified through the Mysehatara App, showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 vaccination certificate issued by Rwanda Biomedical Centre with a QR code, showing that they were fully vaccinated at least 14 days before arrival; or
 - a COVID-19 recovery certificate issued at most 6 months before arrival and a COVID-19 vaccination certificate showing that they received the first COVID-19 vaccine dose; or
-- a medical certificate showing pregnancy or an antenatal record card.
-- Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;
+- a medical certificate showing pregnancy or an antenatal record card; or
+- a COVID-19 vaccination certificate issued by Malta; or
+- a digital EU Digital Covid Certificate (EU DCC); or
+- an NHS Covid Pass issued by the United Kingdom; or
+- a COVID-19 vaccination certificate issued in Bahrain, Canada, Egypt, Gibraltar, Jersey and Guernsey, Kuwait, Lebanon, San Marino, Singapore or Vatican City (Holy See); or
+- a COVID-19 vaccination certificate issued in Turkey with a QR Code; or
+- a COVID-19 vaccination certificate issued by Dubai Health Authority with a QR Code; or
+- an Al Hosn COVID-19 vaccination certificate issued by the United Arab Emirates; or
+- a "Digital Green Certificate" issued in Serbia with a QR code; or
+- a COVID-19 vaccination certificate issued by Ministry of Public Health of Qatar, the Ministry of Health of the Palestinian Territory or the Ministry of Health of Bermuda; or
+- a digital COVID-19 vaccination certificate "Certifikate Dixhitale Shqiptare" issued by Albania; or
+- a COVID-19 vaccination certificate issued in the USA and verified through the VeriFLY app; or
+- a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App; or
+- a COVID-19 vaccination certificate issued in Saudi Arabia by Sehaty.sa; or
+- a "COVID-19 Digital Certificate" issued in Malaysia and verified through the Mysehatara App; or
+- a COVID-19 vaccination certificate issued by Rwanda Biomedical Centre with a QR code; or
+- a COVID-19 vaccination card issued by the Ministry of Health of Kosovo (Rep.).
+Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. COVID-19 vaccination certificates, cards and passes must show that the passenger was fully vaccinated at least 14 days before arrival;
 - passengers arriving from Albania, Andorra, Armenia, Australia, Austria, Bahrain, Belarus, Belgium, Bermuda, Bosnia and Herzegovina, Bulgaria, Canada, Cape Verde, China (People's Rep.), Chinese Taipei, Croatia, Cuba, Cyprus, Czechia, Denmark, Egypt, Estonia, Faroe Isl., Fiji, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Iraq, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Kuwait, Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malaysia, Maldives, Moldova (Rep.), Monaco, Mongolia, Morocco, Myanmar, Namibia, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., Rwanda, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, St. Kitts and Nevis, Sweden, Switzerland, Timor-Leste, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, USA (only the states of Alabama, Alaska, Arizona, Arkansas, California, Carolina,Colorado, Connecticut, Delaware, District of Colombia, Florida, Georgia, Guam, Hawaii, Idaho, Illinois,Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Mexico, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Puerto Rico, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin or Wyoming), Vatican City (Holy See) or Vietnam. They must have been in one of these countries for at least 14 days before arrival and must be younger than 12 years or have:
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
-- a COVID-19 vaccination certificate issued by Malta showing that they were fully vaccinated at least 14 days before arrival; or
-- a digital EU Digital Covid Certificate (EU DCC) showing that they were fully vaccinated at least 14 days before arrival; or
-- an NHS Covid Pass issued by the United Kingdom showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 vaccination certificate issued in Canada, Egypt, Gibraltar, Jersey and Guernsey, Kuwait, Lebanon, San Marino, Singapore or Vatican City (Holy See) showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 vaccination certificate issued in Turkey with a QR Code, showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 vaccination certificate issued by Dubai Health Authority with a QR Code, showing that they were fully vaccinated at least 14 days before arrival; or
-- an Al Hosn COVID-19 vaccination certificate issued by the United Arab Emirates, showing that they were fully vaccinated at least 14 days before arrival; or
-- a "Digital Green Certificate" issued in Serbia, with a QR code and showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 vaccination certificate issued by Qatar Ministry of Public Health showing that they were fully vaccinated at least 14 days before arrival; or
-- a digital COVID-19 vaccination certificate "Certifikate Dixhitale Shqiptare" issued by Albania; or
-- a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be verified through the VeriFLY app; or
-- a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App; or
-- a COVID-19 vaccination certificate issued in Saudi Arabia by Sehaty.sa, showing that they were fully vaccinated at least 14 days before arrival; or
-- a "COVID-19 Digital Certificate" issued in Malaysia and verified through the Mysehatara App, showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 vaccination certificate issued by Rwanda Biomedical Centre with a QR code, showing that they were fully vaccinated at least 14 days before arrival; or
 - a COVID-19 recovery certificate issued at most 6 months before arrival and a COVID-19 vaccination certificate showing that they received the first COVID-19 vaccine dose; or
-- a medical certificate showing pregnancy or an antenatal record card.
-- Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;
+- a medical certificate showing pregnancy or an antenatal record card; or
+- a COVID-19 vaccination certificate issued by Malta; or
+- a digital EU Digital Covid Certificate (EU DCC); or
+- an NHS Covid Pass issued by the United Kingdom; or
+- a COVID-19 vaccination certificate issued in Bahrain, Canada, Egypt, Gibraltar, Jersey and Guernsey, Kuwait, Lebanon, San Marino, Singapore or Vatican City (Holy See); or
+- a COVID-19 vaccination certificate issued in Turkey with a QR Code; or
+- a COVID-19 vaccination certificate issued by Dubai Health Authority with a QR Code; or
+- an Al Hosn COVID-19 vaccination certificate issued by the United Arab Emirates; or
+- a "Digital Green Certificate" issued in Serbia with a QR code; or
+- a COVID-19 vaccination certificate issued by Ministry of Public Health of Qatar, the Ministry of Health of the Palestinian Territory or the Ministry of Health of Bermuda; or
+- a digital COVID-19 vaccination certificate "Certifikate Dixhitale Shqiptare" issued by Albania; or
+- a COVID-19 vaccination certificate issued in the USA and verified through the VeriFLY app; or
+- a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App; or
+- a COVID-19 vaccination certificate issued in Saudi Arabia by Sehaty.sa; or
+- a "COVID-19 Digital Certificate" issued in Malaysia and verified through the Mysehatara App; or
+- a COVID-19 vaccination certificate issued by Rwanda Biomedical Centre with a QR code; or
+- a COVID-19 vaccination card issued by the Ministry of Health of Kosovo (Rep.).
+Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. COVID-19 vaccination certificates, cards and passes must show that the passenger was fully vaccinated at least 14 days before arrival;
 - passengers arriving on humanitarian, medevac or repatriation flights;
 - merchant seamen;
 - nationals or residents of Malta younger than 12 years.
@@ -48,23 +50,25 @@ Published 01.10.2021
 3. Passengers must complete a "Public Health Travel Declaration Form" and "Passenger Locator Form" found at <a href="https://www.maltairport.com/declarationforms/">https://www.maltairport.com/declarationforms/</a> or <a href="https://app.euplf.eu/#/">https://app.euplf.eu/#/</a> and present it upon arrival.
 4. Merchant seamen must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure. The test result must be in English or accompanied by a certified English translation.
 5. Passengers could be subject to quarantine in a hotel for 14 days at their own expense.
-- This does not apply to:
-- passengers with a COVID-19 vaccination certificate issued by Malta showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with a digital EU Digital Covid Certificate (EU DCC) showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with an NHS Covid Pass issued by the United Kingdom showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with a COVID-19 vaccination certificate issued in Canada, Egypt, Gibraltar, Jersey and Guernsey, Kuwait, Lebanon, San Marino, Singapore or Vatican City (Holy See) showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with a COVID-19 vaccination certificate issued in Turkey with a QR Code, showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with a COVID-19 vaccination certificate issued by Dubai Health Authority with a QR Code, showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with an Al Hosn COVID-19 vaccination certificate issued by the United Arab Emirates, showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with a "Digital Green Certificate" issued in Serbia, with a QR code and showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with a COVID-19 vaccination certificate issued by Qatar Ministry of Public Health showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with a digital COVID-19 vaccination certificate "Certifikate Dixhitale Shqiptare" issued by Albania; or
-- passengers with a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be verified through the VeriFLY app; or
-- passengers with a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App; or
-- passengers with a COVID-19 vaccination certificate issued in Saudi Arabia by Sehaty.sa, showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with a "COVID-19 Digital Certificate" issued in Malaysia and verified through the Mysehatara App, showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with a COVID-19 vaccination certificate issued by Rwanda Biomedical Centre with a QR code, showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with a COVID-19 recovery certificate issued at most 6 months before arrival and a COVID-19 vaccination certificate showing that they received the first COVID-19 vaccine dose; or
-- passengers with a medical certificate showing pregnancy or an antenatal record card.
-- Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
+- This does not apply to passengers with:
+- a negative COVID-19 PCR test taken at most 72 hours before arrival; or
+- a COVID-19 recovery certificate issued at most 6 months before arrival and a COVID-19 vaccination certificate showing that they received the first COVID-19 vaccine dose; or
+- a medical certificate showing pregnancy or an antenatal record card; or
+- a COVID-19 vaccination certificate issued by Malta; or
+- a digital EU Digital Covid Certificate (EU DCC); or
+- an NHS Covid Pass issued by the United Kingdom; or
+- a COVID-19 vaccination certificate issued in Bahrain, Canada, Egypt, Gibraltar, Jersey and Guernsey, Kuwait, Lebanon, San Marino, Singapore or Vatican City (Holy See); or
+- a COVID-19 vaccination certificate issued in Turkey with a QR Code; or
+- a COVID-19 vaccination certificate issued by Dubai Health Authority with a QR Code; or
+- an Al Hosn COVID-19 vaccination certificate issued by the United Arab Emirates; or
+- a "Digital Green Certificate" issued in Serbia with a QR code; or
+- a COVID-19 vaccination certificate issued by Ministry of Public Health of Qatar, the Ministry of Health of the Palestinian Territory or the Ministry of Health of Bermuda; or
+- a digital COVID-19 vaccination certificate "Certifikate Dixhitale Shqiptare" issued by Albania; or
+- a COVID-19 vaccination certificate issued in the USA and verified through the VeriFLY app; or
+- a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App; or
+- a COVID-19 vaccination certificate issued in Saudi Arabia by Sehaty.sa; or
+- a "COVID-19 Digital Certificate" issued in Malaysia and verified through the Mysehatara App; or
+- a COVID-19 vaccination certificate issued by Rwanda Biomedical Centre with a QR code; or
+- a COVID-19 vaccination card issued by the Ministry of Health of Kosovo (Rep.).
+Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. COVID-19 vaccination certificates, cards and passes must show that the passenger was fully vaccinated at least 14 days before arrival.
 More details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a>
