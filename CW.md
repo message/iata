@@ -1,4 +1,4 @@
-Published 06.09.2021
+Published 07.10.2021
 1. Passengers must present a "Digital Immigration Card" and a "Public Health Passenger Locator Card (PLC)" obtained at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a> . The forms must be completed at most 48 hours before departure.
 2. Passengers arriving from Aruba, Cuba, Dominica, France, French Guiana, Guadeloupe, Haiti, Israel, Martinique, St. Maarten, St. Martin, USA, United Kingdom, Venezuela or Virgin Isl. (British), must have a negative COVID-19 PCR test taken at most 48 hours before departure. The test results must be uploaded at <a href="https://dicardcuracao.com/portal">https://dicardcuracao.com/portal</a>
 - This does not apply to:
