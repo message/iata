@@ -10,8 +10,9 @@ This does not apply to:
 - passengers with an 'Article 20' visa issued by Kuwait. Online registration at <a href="https://belsalamah.com/home.html">https://belsalamah.com/home.html</a> is required if they do not have a COVID-19 vaccination certificate;
 - passengers with a residence permit or a visa issued by Kuwait and with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTec (Comirnaty), and their accompanying children younger than 16 years;
 - passengers with a residence permit or a visa issued by Kuwait and with a COVID-19 vaccination certificate showing that they were fully vaccinated with Sinopharm, Sinovac or Sputnik V and that they also received one vaccine dose of AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTec (Comirnaty), and their accompanying children younger than 16 years;
-- passengers younger than 18 years with a residence permit issued by Kuwait;
-- US military personnel with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTec (Comirnaty).
+- US military personnel with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTec (Comirnaty);
+- US military personnel with a COVID-19 vaccination certificate showing that they were fully vaccinated with Sinopharm, Sinovac or Sputnik V and that they also received one vaccine dose of AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTec (Comirnaty);
+- passengers younger than 18 years with a residence permit issued by Kuwait.
 3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure.
 - This does not apply to passengers younger than 6 years.
 4. Passengers are subject to medical screening.
