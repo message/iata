@@ -1,4 +1,4 @@
-Published 06.10.2021
+Published 07.10.2021
 1. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated.
 - This does not apply to:
 - passengers younger than 18 years;
