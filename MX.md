@@ -1,2 +1,2 @@
-Published 27.09.2021
-A completed "Cuestionario de identificacion de factores de riesgo en viajeros" must be presented to immigration upon arrival.
+Published 08.10.2021
+A completed "Cuestionario de identificacion de factores de riesgo en viajeros" must be presented to immigration upon arrival. The form must be completed at <a href="https://www.vuelaseguro.com/login">https://www.vuelaseguro.com/login</a> upon arrival.

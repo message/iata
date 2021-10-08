@@ -1,5 +1,5 @@
-Published 01.10.2021
-1. Until 8 October 2021, passengers are not allowed to enter.
+Published 08.10.2021
+1. Until 15 October 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
 - British nationals and residents of the United Kingdom;
@@ -27,7 +27,7 @@ All documents must be in English, French, German, Greek, Italian, Spanish or Rus
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival.
 They are also subject to an antigen or PCR test upon arrival.
-The test result must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> .
+The test result must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
 - This does not apply to passengers younger than 12 years.
 5. Passengers arriving from Albania, Argentina, Brazil, Bulgaria, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Morocco, North Macedonia (Rep.), Pakistan, Russian Fed., Turkey or United Arab Emirates are subject to a COVID-19 PCR or rapid antigen test upon arrival.
 - This does not apply to:
