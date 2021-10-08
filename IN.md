@@ -1,4 +1,4 @@
-Published 29.09.2021
+Published 08.10.2021
 1. Until 31 October 2021, flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.
@@ -11,9 +11,12 @@ This does not apply to:
 - passengers with a diplomatic passport and an NOC (No Objection Certificate) issued by the Ministry of External Affairs;
 - passengers with a visa (excluding medical visas issued on or before 21 October 2020, and tourist visas(Type T)) issued by India;
 - passengers with an E-visa (excluding E-Tourist visas) issued by India;
-- passengers returning from Afghanistan, Bangladesh, Bhutan, Maldives or Nepal via India to their country of residence.
+- passengers returning from Afghanistan, Bangladesh, Bhutan, Maldives or Nepal via India to their country of residence;
+- effective 15 November 2021, passengers with an E-Tourist visa issued on or after 6 October 2021;
+- effective 15 November 2021, passengers with a tourist visa (Type T) issued on or after 6 October 2021.
 3. Passengers are not allowed to transit through Bangalore (BLR), Chennai (MAA), Delhi (DEL), Hyderabad (HYD), Kolkata (CCU) or Mumbai (BOM) to a third country.
 4. E-Tourist visas and tourist visas (Type T) are no longer valid.
+- Effective 15 November 2021, this does not apply to E-Tourist visas and tourist visas (Type T) issued on or after 6 October 2021.
 5. Medical visas issued on or before 21 October 2020 are no longer valid.
 6. Passengers must complete the self-declaration form at <a href="http://www.newdelhiairport.in/">www.newdelhiairport.in</a> before departure.
 7. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test must be uploaded at <a href="http://www.newdelhiairport.in/">www.newdelhiairport.in</a> .

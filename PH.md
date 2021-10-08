@@ -1,4 +1,4 @@
-Published 04.10.2021
+Published 08.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -16,13 +16,15 @@ Published 04.10.2021
 3. Passengers are not allowed to transit through Manila (MNL) when arriving from a country other than Algeria, Bhutan, Burkina Faso, Cameroon, Cayman Isl., Chad, China (People's Rep.), Chinese Taipei, Comoros, Congo, Cook Isl., Djibouti, Eritrea, Hungary, Kiribati, Korea (Dem. People's Rep.), Madagascar, Mali, Marshall Isl., Micronesia (Federated States), Montserrat, Nauru, New Zealand, Nicaragua, Niger, Niue, Northern Mariana Isl., Palau, Poland, Samoa, Samoa (American), Sierra Leone, Solomon Isl., St. Helena, St. Pierre and Miquelon, Sudan, Syria, Tajikistan, Tanzania, Tonga, Turkmenistan, Tuvalu, Uzbekistan, Vanuatu or Yemen.
 4. Passengers and airline crew traveling to Manila (MNL) must complete the "One Health Pass" form before arrival at <a href="https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/">https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/</a>. This will generate a QR code which must be presented upon arrival.
 - This does not apply to airline crew staying in the aircraft.
-5. Passengers must have a reservation confirmation for at least 10 days, for a hotel approved by Tourism and Health Agencies and listed at <a href="https://quarantine.doh.gov.ph/quarantine-facilities/">https://quarantine.doh.gov.ph/quarantine-facilities/</a>
+5. Passengers must have a hotel reservation confirmation for at least:
+- 6 days, if they have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
+- 8 days, if they do not have a COVID-19 vaccination certificate.
+The hotel must be approved by Tourism and Health Agencies and listed at <a href="https://quarantine.doh.gov.ph/quarantine-facilities/">https://quarantine.doh.gov.ph/quarantine-facilities/</a> . Vaccines accepted are: AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac.
 - This does not apply to:
-- nationals of the Philippines who are Overseas Filipino Workers (OFW);
-- passengers with a diplomatic passport and passengers with a 9(E) visa;
-- passengers who in the past 14 days have been in and arrive from Algeria, Bhutan, Burkina Faso, Cameroon, Cayman Isl., Chad, China (People's Rep.), Chinese Taipei, Comoros, Congo, Cook Isl., Djibouti, Eritrea, Hungary, Kiribati, Korea (Dem. People's Rep.), Madagascar, Mali, Marshall Isl., Micronesia (Federated States), Montserrat, Nauru, New Zealand, Nicaragua, Niger, Niue, Northern Mariana Isl., Palau, Poland, Samoa, Samoa (American), Sierra Leone, Solomon Isl., St. Helena, St. Pierre and Miquelon, Sudan, Syria, Tajikistan, Tanzania, Tonga, Turkmenistan, Tuvalu, Uzbekistan, Vanuatu or Yemen, with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival, with AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience Co Ltd. from Korea), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.
+- nationals of the Philippines;
+- passengers with a diplomatic passport and passengers with a 9(E) visa.
 6. Passengers with a diplomatic passport and passengers with a 9(E) visa could be subject to home quarantine for 10 days.
-7. Passengers are subject to quarantine at the first point of entry for 7 or 14 days.
+7. Passengers are subject to quarantine at the first point of entry for 6 or 8 days.
 8. Merchant seamen with a 9 (C) visa issued by the Philippines must have a negative COVID-19 RT-PCR test result issued at most 72 hours before arrival.
 9. Passengers traveling to Davao (DVO) must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure.
 - This does not apply to merchant seamen with a 9 (C) visa issued by the Philippines.

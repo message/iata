@@ -1,4 +1,4 @@
-Published 04.10.2021
+Published 08.10.2021
 1. Passengers with a positive COVID-19 antigen or PCR test taken at most 3 months before departure, and a COVID-19 vaccination certificate stating that they received a vaccine dose at least 14 days after the positive test and at least 14 days before departure, must have:
 - a printed negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
 - a printed negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point.
@@ -27,4 +27,6 @@ Test results and vaccination certificates must be in English.
 Test results and vaccination certificates must be in English.
 6. Airline crew of a foreign airline must have a printed negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.
 7. Airline crew could be subject to a COVID-19 PCR test upon arrival.
-8. Merchant seamen must have an authorization obtained by sending an email to the Ministry of Foreign Affairs (<a href="mailto:entry.permission@mfa.gov.lk">entry.permission@mfa.gov.lk</a>) and to the Civil Aviation Authority (<a href="mailto:caaslpax@caa.lk">caaslpax@caa.lk</a>).
+8. Airline crew staying overnight must stay at a designated hotel.
+- This does not apply to airline crew with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
+9. Merchant seamen must have an authorization obtained by sending an email to the Ministry of Foreign Affairs (<a href="mailto:entry.permission@mfa.gov.lk">entry.permission@mfa.gov.lk</a>) and to the Civil Aviation Authority (<a href="mailto:caaslpax@caa.lk">caaslpax@caa.lk</a>).
