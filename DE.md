@@ -1,4 +1,4 @@
-Published 27.09.2021
+Published 09.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Germany;
@@ -10,6 +10,8 @@ Published 27.09.2021
 - British nationals with a residence permit issued by Germany before 31 December 2020;
 - passengers with a long term "D" visa issued by an EEA Member State or Switzerland;
 - residents of Australia, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine and Uruguay. They must have been living in the residence country in the past 6 months;
+- until 9 October 2021, residents of Ukraine. They must have been living in the residence country in the past 6 months;
+- effective 10 October 2021, residents of Bahrain and United Arab Emirates. They must have been living in the residence country in the past 6 months;
 - military personnel;
 - merchant seamen;
 - students;
