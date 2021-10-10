@@ -1,4 +1,4 @@
-Published 09.10.2021
+Published 10.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates;
@@ -6,12 +6,12 @@ Published 09.10.2021
 - passengers with an e-visa obtained before departure;
 - passengers who can obtain a visa on arrival;
 - military personnel;
-- passengers arriving from a country other than Bangladesh, Bosnia and Herzegovina, Costa Rica, Ecuador, Ethiopia, Georgia, Indonesia, Iran, Iraq, Malawi, Malaysia, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Philippines, Slovenia, South Africa, Sri Lanka, Tunisia, Uganda, Ukraine, Viet Nam or Zimbabwe with a COVID-19 vaccination certificate issued in countries that are eligible for visa on arrival.
-2. Passengers are not allowed to enter if in the past 14 days they have been in or transited through Bangladesh, Bosnia and Herzegovina, Costa Rica, Ecuador, Ethiopia, Georgia, Indonesia, Iran, Iraq, Malawi, Malaysia, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Philippines, Slovenia, South Africa, Sri Lanka, Tunisia, Uganda, Ukraine, Viet Nam or Zimbabwe.
+- passengers arriving from a country other than Bosnia and Herzegovina, Costa Rica, Ethiopia, Iran, Iraq, Malaysia, Mexico, Mongolia, Nepal, Philippines, Romania, Slovenia, Sri Lanka, Tunisia, Ukraine or Viet Nam with a COVID-19 vaccination certificate issued in countries that are eligible for visa on arrival.
+2. Passengers are not allowed to enter if in the past 14 days they have been in or transited through Bosnia and Herzegovina, Costa Rica, Ethiopia, Iran, Iraq, Malaysia, Mexico, Mongolia, Nepal, Philippines, Romania, Slovenia, Sri Lanka, Tunisia, Ukraine or Viet Nam.
 - This does not apply to:
 - nationals of Bahrain;
 - passengers with a residence permit issued by Bahrain.
-3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must have a QR code if arriving from Bangladesh, Bosnia and Herzegovina, Costa Rica, Ecuador, Ethiopia, Georgia, Indonesia, Iran, Iraq, Malawi, Malaysia, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Philippines, Slovenia, South Africa, Sri Lanka, Tunisia, Uganda, Ukraine, Viet Nam or Zimbabwe.
+3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must have a QR code if arriving from Bosnia and Herzegovina, Costa Rica, Ethiopia, Iran, Iraq, Malaysia, Mexico, Mongolia, Nepal, Philippines, Romania, Slovenia, Sri Lanka, Tunisia, Ukraine or Viet Nam.
 - This does not apply to:
 - passengers younger than 6 years;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival;
