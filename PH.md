@@ -1,4 +1,4 @@
-Published 08.10.2021
+Published 11.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -21,10 +21,10 @@ Published 08.10.2021
 - 8 days, if they do not have a COVID-19 vaccination certificate.
 The hotel must be approved by Tourism and Health Agencies and listed at <a href="https://quarantine.doh.gov.ph/quarantine-facilities/">https://quarantine.doh.gov.ph/quarantine-facilities/</a> . Vaccines accepted are: AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac.
 - This does not apply to:
-- nationals of the Philippines;
+- nationals of the Philippines who are Overseas Filipino Workers (OFW);
 - passengers with a diplomatic passport and passengers with a 9(E) visa.
 6. Passengers with a diplomatic passport and passengers with a 9(E) visa could be subject to home quarantine for 10 days.
-7. Passengers are subject to quarantine at the first point of entry for 6 or 8 days.
+7. Passengers are subject to quarantine at the first point of entry for 10 to 14 days, including the hotel quarantine in item 5.
 8. Merchant seamen with a 9 (C) visa issued by the Philippines must have a negative COVID-19 RT-PCR test result issued at most 72 hours before arrival.
 9. Passengers traveling to Davao (DVO) must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure.
 - This does not apply to merchant seamen with a 9 (C) visa issued by the Philippines.
