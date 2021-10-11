@@ -1,4 +1,4 @@
-Published 08.10.2021
+Published 11.10.2021
 1. Until 24 October 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Finland and their family members;
@@ -8,8 +8,7 @@ Published 08.10.2021
 - British nationals and their family members residing in Finland;
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and their family members, returning to their country of residence via Finland;
 - passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
-- residents of Chinese Taipei, Hong Kong (SAR China), Macao (SAR China), New Zealand and Saudi Arabia, if arriving on a direct flight from Chinese Taipei, Hong Kong (SAR China), Macao (SAR China), New Zealand or Saudi Arabia;
-- effective 11 October 2021, residents of Kuwait, if arriving on a direct flight from Kuwait;
+- residents of Chinese Taipei, Hong Kong (SAR China), Kuwait, Macao (SAR China), New Zealand and Saudi Arabia, if arriving on a direct flight from Chinese Taipei, Hong Kong (SAR China), Kuwait, Macao (SAR China), New Zealand or Saudi Arabia;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival, and their accompanying minors. Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac;
 - military personnel;
 - more exemptions can be found at <a href="https://raja.fi/en/guidelines-for-border-traffic-during-pandemic">https://raja.fi/en/guidelines-for-border-traffic-during-pandemic</a>
