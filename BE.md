@@ -60,6 +60,6 @@ Published 01.10.2021
 - passengers arriving from orange regions of Austria, Bulgaria, Croatia, Denmark, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Lithuania, Netherlands, Norway, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland. Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a> ;
 - passengers arriving from Australia, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine or Uruguay.
 8. A completed "Passenger Locator Form" must be submitted online at most 180 days before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a>
-10. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a>
-11. Passengers are subject to medical screening.
-12. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium.
+9. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a>
+10. Passengers are subject to medical screening.
+11. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium.
