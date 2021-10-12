@@ -1,8 +1,8 @@
-Published 08.09.2021
+Published 12.10.2021
 1. Passengers must have:
 - a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must be issued by Armenia, Croatia, Cyprus, Czechia, Egypt, Georgia, Greece, Hungary, India, Lebanon, Moldova (Rep.), Morocco, Romania, San Marino, Serbia, Slovakia, Slovenia, Tunisia, Turkey or United Arab Emirates. Details can be found at <a href="https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements">https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements</a> ; or
-- a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Croatia, Denmark, Germany, Greece, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. Passengers must have tested positive at least 14 days and at most 6 months before arrival.
+- a COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must be issued in Andorra, Armenia, Austria, Belgium, Cape Verde, Croatia, Cyprus, Czechia, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, India, Ireland (Rep.), Italy, Lebanon, Liechtenstein, Lithuania, Malta, Moldova (Rep.), Morocco, Netherlands, Romania, San Marino, Serbia, Spain, Slovakia, Slovenia, Switzerland, Tunisia, Turkey, Ukraine or United Arab Emirates. Details can be found at <a href="https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements">https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements</a> ; or
+- a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Cape Verde, Croatia, Denmark, Estonia, Germany, Greece, Iceland, Ireland (Rep.), Liechtenstein, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. Passengers must have tested positive at least 14 days and at most 6 months before arrival.
 - This does not apply to:
 - nationals and residents of Serbia;
 - nationals of Slovenia;
@@ -16,8 +16,8 @@ Published 08.09.2021
 - military personnel traveling on duty.
 2. Passengers arriving from the USA must have:
 - a negative COVID-19 antigen or RT-PCR test result issued at most 48 hours before arrival; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must be issued by Armenia, Croatia, Cyprus, Czechia, Egypt, Georgia, Greece, Hungary, India, Lebanon, Moldova (Rep.), Morocco, Romania, San Marino, Serbia, Slovakia, Slovenia, Tunisia, Turkey or United Arab Emirates. Details can be found at <a href="https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements">https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements</a> ; or
-- a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Croatia, Denmark, Germany, Greece, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. Passengers must have tested positive at least 14 days and at most 6 months before arrival.
+- a COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must be issued in Andorra, Armenia, Austria, Belgium, Cape Verde, Croatia, Cyprus, Czechia, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, India, Ireland (Rep.), Italy, Lebanon, Liechtenstein, Lithuania, Malta, Moldova (Rep.), Morocco, Netherlands, Romania, San Marino, Serbia, Spain, Slovakia, Slovenia, Switzerland, Tunisia, Turkey, Ukraine or United Arab Emirates. Details can be found at <a href="https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements">https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements</a> ; or
+- a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Cape Verde, Croatia, Denmark, Estonia, Germany, Greece, Iceland, Ireland (Rep.), Liechtenstein, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. Passengers must have tested positive at least 14 days and at most 6 months before arrival.
 - This does not apply to:
 - nationals and residents of Serbia;
 - nationals of Slovenia;
@@ -33,7 +33,7 @@ Published 08.09.2021
 - showing that they were fully vaccinated.
 - passengers with a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival;
 - passengers arriving from the USA with a negative COVID-19 rapid antigen test issued at most 48 hours before arrival;
-- passengers with a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Croatia, Denmark, Germany, Greece, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. The passenger must have tested positive at least 14 days and at most 6 months before arrival;
+- passengers with a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Cape Verde, Croatia, Denmark, Estonia, Germany, Greece, Iceland, Ireland (Rep.), Liechtenstein, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. The passenger must have tested positive at least 14 days and at most 6 months before arrival;
 - passengers arriving from Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Hungary, India, Kosovo (Rep.), Montenegro or North Macedonia (Rep.);
 - passengers younger than 12 years;
 - passengers between 12 years and 18 years. They must take an antigen or RT-PCR test within 48 hours after arrival;
@@ -41,8 +41,8 @@ Published 08.09.2021
 - airline crew.
 4. Nationals of Slovenia must have:
 - a negative COVID-19 antigen or RT-PCR test result issued at most 48 hours before arrival; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must be issued by Armenia, Croatia, Cyprus, Czechia, Egypt, Georgia, Greece, Hungary, India, Lebanon, Moldova (Rep.), Morocco, Romania, San Marino, Serbia, Slovakia, Slovenia, Tunisia, Turkey or United Arab Emirates. Details can be found at <a href="https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements">https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements</a> ; or
-- a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Croatia, Denmark, Germany, Greece, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. Passengers must have tested positive at least 14 days and at most 6 months before arrival.
+- a COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must be issued in Andorra, Armenia, Austria, Belgium, Cape Verde, Croatia, Cyprus, Czechia, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, India, Ireland (Rep.), Italy, Lebanon, Liechtenstein, Lithuania, Malta, Moldova (Rep.), Morocco, Netherlands, Romania, San Marino, Serbia, Spain, Slovakia, Slovenia, Switzerland, Tunisia, Turkey, Ukraine or United Arab Emirates. Details can be found at <a href="https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements">https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements</a> ; or
+- a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Cape Verde, Croatia, Denmark, Estonia, Germany, Greece, Iceland, Ireland (Rep.), Liechtenstein, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. Passengers must have tested positive at least 14 days and at most 6 months before arrival.
 - This does not apply to:
 - passengers arriving from USA;
 - passengers younger than 12 years;

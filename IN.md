@@ -1,4 +1,4 @@
-Published 08.10.2021
+Published 12.10.2021
 1. Until 31 October 2021, flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.
@@ -20,8 +20,8 @@ This does not apply to:
 5. Medical visas issued on or before 21 October 2020 are no longer valid.
 6. Passengers must complete the self-declaration form at <a href="http://www.newdelhiairport.in/">www.newdelhiairport.in</a> before departure.
 7. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test must be uploaded at <a href="http://www.newdelhiairport.in/">www.newdelhiairport.in</a> .
-8. Passengers arriving from Afghanistan, Bahrain, France, Germany, Iraq, Kuwait, Netherlands, Oman, Qatar, Russian Fed., Ukraine or United Arab Emirates are subject to a Coronavirus (COVID-19) molecular test upon arrival at their own expense.
-9. Passengers arriving from Brazil, South Africa or United Kingdom are subject to a Coronavirus (COVID-19) molecular test upon arrival and another test on day 7 at their own expense.
+8. Passengers arriving from Afghanistan, Bahrain, Brazil, France, Germany, Iraq, Kuwait, Netherlands, Oman, Qatar, Russian Fed., South Africa, Ukraine, United Kingdom or United Arab Emirates are subject to a Coronavirus (COVID-19) molecular test upon arrival at their own expense.
+9. Passengers traveling to Bengaluru (BLR) must have a payment confirmation before departure for the COVID-19 RT-PCR test upon arrival. The payment can be made at <a href="https://covid19.testing-lab.com/">https://covid19.testing-lab.com/</a> .
 10. Passengers are subject to medical screening
 11. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://www.mohfw.gov.in/pdf/Guidelinesforinternationalarrivals17022021.pdf">https://www.mohfw.gov.in/pdf/Guidelinesforinternationalarrivals17022021.pdf</a> .
 12. Airline crew who are arriving from or have transited through Afghanistan, Austria, Bahrain, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Iraq, Ireland (Rep.), Italy, Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Oman, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine, United Arab Emirates or United Kingdom:
