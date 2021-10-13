@@ -1,4 +1,4 @@
-Published 11.10.2021
+Published 13.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -14,7 +14,7 @@ Published 11.10.2021
 2. Passengers who in the past 14 days have been in Bermuda are not allowed to enter.
 - This does not apply to nationals of the Philippines traveling on repatriation flights.
 3. Passengers are not allowed to transit through Manila (MNL) when arriving from a country other than Algeria, Bhutan, Burkina Faso, Cameroon, Cayman Isl., Chad, China (People's Rep.), Chinese Taipei, Comoros, Congo, Cook Isl., Djibouti, Eritrea, Hungary, Kiribati, Korea (Dem. People's Rep.), Madagascar, Mali, Marshall Isl., Micronesia (Federated States), Montserrat, Nauru, New Zealand, Nicaragua, Niger, Niue, Northern Mariana Isl., Palau, Poland, Samoa, Samoa (American), Sierra Leone, Solomon Isl., St. Helena, St. Pierre and Miquelon, Sudan, Syria, Tajikistan, Tanzania, Tonga, Turkmenistan, Tuvalu, Uzbekistan, Vanuatu or Yemen.
-4. Passengers and airline crew traveling to Manila (MNL) must complete the "One Health Pass" form before arrival at <a href="https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/">https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/</a>. This will generate a QR code which must be presented upon arrival.
+4. Passengers and airline crew traveling to Clark Field (CRK) or Manila (MNL) must complete the "One Health Pass" form before arrival at <a href="https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/">https://www.onehealthpass.com.ph/e-HDC/One-Registration-Platform/</a>. This will generate a QR code which must be presented upon arrival.
 - This does not apply to airline crew staying in the aircraft.
 5. Passengers must have a hotel reservation confirmation for at least:
 - 6 days, if they have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
@@ -28,8 +28,7 @@ The hotel must be approved by Tourism and Health Agencies and listed at <a href=
 8. Merchant seamen with a 9 (C) visa issued by the Philippines must have a negative COVID-19 RT-PCR test result issued at most 72 hours before arrival.
 9. Passengers traveling to Davao (DVO) must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure.
 - This does not apply to merchant seamen with a 9 (C) visa issued by the Philippines.
-10. Passengers must complete a "Case Investigation Form" and present it upon arrival. The form can be obtained at <a href="https://c19.redcross.org.ph/arriving-passengers">https://c19.redcross.org.ph/arriving-passengers</a>
-11. Passengers must install the app 'TRAZE' on their personal device before departure.
-12. Passengers traveling to Cebu (CEB) must register at most 5 days before departure at <a href="https://mactancebuairport.com/covid-19-registration">https://mactancebuairport.com/covid-19-registration</a>
-13. Suspension of all visa on arrival facilities.
-14. Suspension of all visa exemptions.
+10. Passengers must install the app 'TRAZE' on their personal device before departure.
+11. Passengers traveling to Cebu (CEB) must register at most 5 days before departure at <a href="https://mactancebuairport.com/covid-19-registration">https://mactancebuairport.com/covid-19-registration</a>
+12. Suspension of all visa on arrival facilities.
+13. Suspension of all visa exemptions.

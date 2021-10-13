@@ -1,11 +1,11 @@
-Published 01.10.2021
+Published 13.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
 - passengers with a "C" visa issued by Belgium;
 - passengers with a "C" visa issued by other Schengen Member State if traveling through Belgium to the country which issued the visa;
 - passengers with a "D" visa issued by a Schengen Member State;
-- residents of Australia, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine and Uruguay, arriving from Australia, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine and Uruguay;
+- residents of Australia, Bahrain, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates and Uruguay, arriving from Australia, Bahrain, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates and Uruguay;
 - merchant seamen;
 - passengers with a diplomatic passport traveling on duty;
 - students;
@@ -20,7 +20,7 @@ Published 01.10.2021
 - passengers with a "C" visa issued by Belgium;
 - passengers with a "C" visa issued by other Schengen Member State if traveling through Belgium to the country which issued the visa;
 - passengers with a "D" visa issued by a Schengen Member State;
-- residents of Australia, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine and Uruguay, arriving from Australia, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine and Uruguay;
+- residents of Australia, Bahrain, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates and Uruguay, arriving from Australia, Bahrain, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates and Uruguay;
 - merchant seamen;
 - passengers with a diplomatic passport traveling on duty;
 - students;
@@ -44,7 +44,7 @@ Published 01.10.2021
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
 - passengers with a "C" visa issued by a Schengen Member State;
-- residents of Australia, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine and Uruguay, arriving from Australia, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine and Uruguay;
+- residents of Australia, Bahrain, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates and Uruguay, arriving from Australia, Bahrain, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates and Uruguay;
 - passengers younger than 18 years traveling with their vaccinated parents/guardians;
 - merchant seamen;
 - passengers with a diplomatic passport traveling on duty;
@@ -58,7 +58,7 @@ Published 01.10.2021
 - passengers younger than 12 years;
 - passengers arriving from Andorra, Czechia, Latvia, Luxembourg, Malta, Poland, San Marino or Vatican City (Holy See);
 - passengers arriving from orange regions of Austria, Bulgaria, Croatia, Denmark, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Lithuania, Netherlands, Norway, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland. Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a> ;
-- passengers arriving from Australia, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine or Uruguay.
+- passengers arriving from Australia, Bahrain, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates or Uruguay.
 8. A completed "Passenger Locator Form" must be submitted online at most 180 days before arrival. The form can be found at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a>
 9. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a>
 10. Passengers are subject to medical screening.
