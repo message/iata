@@ -1,12 +1,20 @@
-Published 26.09.2021
+Published 13.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
-- nationals and residents of Austria, Belgium, Bulgaria, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom;
+- nationals of Austria, Belgium, Bulgaria, Chile, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland and Uruguay;
+- British nationals;
+- passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport;
+- residents of Austria, Belgium, Bulgaria, Chile, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom and Uruguay;
 - spouses, registered partners, unmarried partners, children, stepchildren, parents, stepparents of residents of Norway;
 - passengers who are sons or daughters, parents or stepparents, grandchildren or step-grandchildren, grandparents or step-grandparents of residents of Norway;
 - passengers with consent application issued by the Norway Directorate of Immigration (UDI) and who are boyfriends or girlfriends of residents of Norway and their minor children;
 - merchant seamen;
-- students studying in Norway. They must be enrolled at an approved educational institution or have a residence permit for students.
+- students studying in Norway. They must be enrolled at an approved educational institution or have a residence permit for students;
+- passengers with:
+- a COVID-19 certificate with a QR code, issued in Denmark, Norway or Sweden; or
+- a digital EU Digital COVID Certificate (EU DCC); or
+- an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales; or
+- a COVID-19 certificate issued in Albania, Andorra, Faroe Isl., Iceland, Israel, Liechtenstein, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine or Vatican City (Holy See). Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
 2. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="http://www.entrynorway.no/">www.entrynorway.no</a>
 - This does not apply to:
 - airline crew who are not leaving the aircraft;
