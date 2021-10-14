@@ -1,11 +1,10 @@
-Published 13.10.2021
+Published 14.10.2021
 1. Until 31 October 2021, flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.
 This does not apply to:
-- nationals of India;
+- nationals of Bhutan, India, Maldives and Nepal;
 - residents of India;
-- nationals of Nepal and Bhutan;
 - passengers with an Overseas Citizen of India (OCI) card or booklet;
 - passengers with a Persons of Indian Origin (PIO) card;
 - passengers with a diplomatic passport and an NOC (No Objection Certificate) issued by the Ministry of External Affairs;
