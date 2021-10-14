@@ -1,15 +1,15 @@
-Published 06.10.2021
+Published 14.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Poland;
 - spouses and children of nationals of Poland;
 - passengers under the constant care of nationals of Poland;
-- nationals of Austria, Belarus, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland;
+- nationals of Austria, Belarus, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland and Ukraine;
 - British nationals;
 - spouses and children of nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland;
 - spouses and children of British nationals;
 - passengers with a diplomatic passport;
-- nationals and residents of Australia, Canada, Georgia, Israel, Japan, Korea (Rep.), New Zealand, Thailand, Tunisia and USA;
+- nationals and residents of Australia, Canada, Georgia, Israel, Japan, Korea (Rep.), New Zealand, Thailand, Tunisia, Turkey and USA;
 - passengers with a permanent residence permit or a long-term residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom and their spouses and children, returning via Poland to their country of residence;
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
 - merchant seamen;
