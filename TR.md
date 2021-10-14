@@ -1,4 +1,4 @@
-Published 01.10.2021
+Published 14.10.2021
 1. Flights from Brazil, Nepal, South Africa and Sri Lanka are suspended.
 2. Until 30 December 2021, passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival, if in the past 14 days they have been in Afghanistan, Bangladesh, Brazil, India, Nepal, Pakistan, South Africa or Sri Lanka.
 - This does not apply to passengers younger than 12 years.
@@ -13,7 +13,7 @@ This does not apply to:
 - passengers arriving from Hungary or Serbia with a COVID-19 vaccination certificate issued by Hungary or Serbia, and their accompanying minors younger than 18 years;
 - passengers with a COVID-19 recovery certificate issued at most 6 months before arrival;
 - merchant seamen.
-5. Until 14 October 2021, a completed "Traveler Entry Form" must be submitted at most 72 hours before departure and presented at check-in and upon arrival. The form can be obtained at <a href="https://register.health.gov.tr">https://register.health.gov.tr</a>
+5. Until 30 December 2021, a completed "Traveler Entry" form must be submitted at most 72 hours before departure and presented at check-in and upon arrival. The form can be obtained at <a href="https://register.health.gov.tr">https://register.health.gov.tr</a>
 - This does not apply to passengers younger than 6 years.
 6. Passengers who in the past 14 days have been in Afghanistan, Brazil, Nepal, South Africa or Sri Lanka must have a confirmed hotel reservation before departure. They are subject to quarantine for up to 14 days, at their own expense, in a government designated hotel listed at <a href="http://www.shgm.gov.tr/tr/covid-19-tedbirler/6599-izolasyon-otelleri">www.shgm.gov.tr/tr/covid-19-tedbirler/6599-izolasyon-otelleri</a>
 7. Passengers could be subject to self-isolation for up to 14 days.
