@@ -1,4 +1,4 @@
-Published 07.10.2021
+Published 14.10.2021
 1. Until 31 October 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
@@ -22,9 +22,10 @@ This does not apply to:
 - passengers traveling on a direct flight to Azores or Madeira.
 4. Passengers traveling on a direct flight to Azores are subject to a COVID-19 test upon arrival.
 - This does not apply to:
-- passengers who are 12 years or younger;
-- passengers with a negative COVID-19 RT-PCR test based on nasopharyngeal or oropharyngeal swab and taken at most 72 hours before departure;
-- passengers with a COVID-19 recovery certificate issued at most 180 days before arrival;
+- passengers who are 12 years or younger; or
+- passengers with a negative COVID-19 rapid antigen test result issued at most 48 hours before departure; or
+- passengers with a negative COVID-19 RT-PCR test based on nasopharyngeal or oropharyngeal swab and taken at most 72 hours before departure; or
+- passengers with a COVID-19 recovery certificate issued at most 180 days before arrival; or
 - passengers with an EU Digital Covid Certificate (EU DCC); or
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and issued in Albania, Andorra, Faroe Isl., Israel, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine or Vatican City (Holy See). Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
 5. Passengers traveling on a direct flight to Madeira without a negative COVID-19 RT-PCR test result of a test taken at most 72 hours before departure are subject to an RT-PCR test upon arrival and quarantine.
