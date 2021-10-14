@@ -1,4 +1,4 @@
-Published 13.10.2021
+Published 14.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Chile, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland and Uruguay;
@@ -15,10 +15,10 @@ Published 13.10.2021
 - a digital EU Digital COVID Certificate (EU DCC); or
 - an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales; or
 - a COVID-19 certificate issued in Albania, Andorra, Faroe Isl., Iceland, Israel, Liechtenstein, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine or Vatican City (Holy See). Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
-2. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="http://www.entrynorway.no/">www.entrynorway.no</a>
+2. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="https://reg.entrynorway.no/">https://reg.entrynorway.no/</a>
 - This does not apply to:
 - airline crew who are not leaving the aircraft;
-- passengers younger than 18 years;
+- passengers younger than 16 years;
 - passengers arriving from Czechia, Faroe Isl., France, Hungary, Iceland, Italy, Luxembourg, Mongolia, Netherlands, Poland, Portugal, San Marino, Slovakia or Vatican City (Holy See);
 - passengers arriving from specific green regions of Denmark, Finland, Greece, Spain or Sweden. Details can be found at <a href="https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from">https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from</a> ;
 - passengers with:
