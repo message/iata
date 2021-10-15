@@ -1,4 +1,4 @@
-Published 24.09.2021
+Published 15.10.2021
 1. Passengers must have:
 - a negative COVID-19 antigen rapid test or a PCR test taken at most 72 hours before arrival; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac; or
@@ -6,7 +6,7 @@ Published 24.09.2021
 - a COVID-19 recovery certificate.
 - This does not apply to:
 - nationals of Ukraine;
-- passengers younger than 18 years;
+- passengers younger than 12 years;
 - passengers with a diplomatic passport;
 - merchant seamen;
 - NATO military personnel;
