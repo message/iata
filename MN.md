@@ -1,4 +1,4 @@
-Published 14.10.2021
+Published 15.10.2021
 1. Passengers are not allowed to enter until 31 December 2021.
 - This does not apply to:
 - nationals and permanent residents of Mongolia;
@@ -15,8 +15,4 @@ Published 14.10.2021
 - passengers younger than the minimum age required for a COVID-19 test in the departure country;
 - deadheading crew;
 - passengers with a positive COVID-19 test and a recovery certificate issued at most 4 months before arrival.
-3. Until 14 October 2021, passengers are subject to quarantine at designated facilities for 7 days, followed by self-isolation for 7 days. Details can be found at <a href="https://tabinfo.mn/en/tab/">https://tabinfo.mn/en/tab/</a> .
-- This does not apply to:
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. They are subject to a COVID-19 test upon arrival and self-isolation for 14 days;
-- passengers with a positive COVID-19 test and a recovery certificate issued at most 4 months before arrival. They are subject to a COVID-19 test upon arrival and self-isolation for 14 days.
-4. Effective 15 October 2021, passengers are subject to a COVID-19 PCR test upon arrival and self-isolation for 14 days.
+3. Passengers are subject to a COVID-19 PCR test upon arrival and self-isolation for 14 days.
