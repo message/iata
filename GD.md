@@ -1,4 +1,4 @@
-Published 20.08.2021
+Published 15.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Grenada;
