@@ -1,18 +1,18 @@
-Published 14.10.2021
+Published 15.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
-- passengers with a Temporary Stay Permit (ITAS) or Permanent Stay Permit (ITAP). They must not have been in India in the past 14 days;
-- passengers with a diplomatic or service visa. They must not have been in India in the past 14 days;
-- passengers with a diplomatic or service stay permit. They must not have been in India in the past 14 days;
-- passengers with an e-visit visa with a visa number ending with LN. They must not have been in India in the past 14 days;
-- passengers with an APEC Business Travel Card. They must not have been in India in the past 14 days;
-- passengers traveling under the Travel Corridor Arrangement (TCA). They must not have been in India in the past 14 days;
+- passengers with a Temporary Stay Permit (ITAS) or Permanent Stay Permit (ITAP);
+- passengers with a diplomatic or service visa;
+- passengers with a diplomatic or service stay permit;
+- passengers with an e-visit visa with a visa number ending with LN;
+- passengers with an APEC Business Travel Card;
+- passengers traveling under the Travel Corridor Arrangement (TCA).
 2. Passengers are not allowed to transit.
 3. Passengers must enter Indonesia via Jakarta (CGK) or Manado (MDC).
 4. Passengers must have a printed negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.
 5. Airline crew must have a printed negative COVID-19 PCR or RT-PCR test taken at most 7 days before departure from the first embarkation point. The test result must be in English.
-6. Passengers and airline crew must have a printed COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must be issued in both English and a local language of the country where the passenger was vaccinated.
+6. Passengers and airline crew must have a printed COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. The certificate must be issued in both English and a local language of the country where the passenger was vaccinated.
 - This does not apply to:
 - nationals of Indonesia;
 - passengers younger than 12 years;
