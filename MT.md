@@ -1,4 +1,4 @@
-Published 06.10.2021
+Published 17.10.2021
 1. Until 30 November 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Malta with:
@@ -20,7 +20,10 @@ Published 06.10.2021
 - a COVID-19 vaccination certificate issued in Saudi Arabia by Sehaty.sa; or
 - a "COVID-19 Digital Certificate" issued in Malaysia and verified through the Mysehatara App; or
 - a COVID-19 vaccination certificate issued by Rwanda Biomedical Centre with a QR code; or
-- a COVID-19 vaccination card issued by the Ministry of Health of Kosovo (Rep.).
+- a COVID-19 vaccination card issued by the Ministry of Health of Kosovo (Rep.); or
+- a COVID-19 vaccination certificate issued in Armenia through the united information system of electronic healthcare; or
+- a COVID-19 vaccination certificate issued in Korea (Rep.) through the COOV app; or
+- a COVID-19 vaccination certificate issued by the Kurdistan regional government of Iraq or the Ministry of Health of Moldova (Rep.).
 Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. COVID-19 vaccination certificates, cards and passes must show that the passenger was fully vaccinated at least 14 days before arrival;
 - passengers arriving from Albania, Andorra, Armenia, Australia, Austria, Bahrain, Belarus, Belgium, Bermuda, Bosnia and Herzegovina, Bulgaria, Canada, Cape Verde, China (People's Rep.), Chinese Taipei, Croatia, Cuba, Cyprus, Czechia, Denmark, Egypt, Estonia, Faroe Isl., Fiji, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Iraq, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Kuwait, Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malaysia, Maldives, Moldova (Rep.), Monaco, Mongolia, Morocco, Myanmar, Namibia, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., Rwanda, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, St. Kitts and Nevis, Sweden, Switzerland, Timor-Leste, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, USA (only the states of Alabama, Alaska, Arizona, Arkansas, California, Carolina,Colorado, Connecticut, Delaware, District of Colombia, Florida, Georgia, Guam, Hawaii, Idaho, Illinois,Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Mexico, New Hampshire, New Jersey, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Puerto Rico, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin or Wyoming), Vatican City (Holy See) or Vietnam. They must have been in one of these countries for at least 14 days before arrival and must be younger than 12 years or have:
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
@@ -41,7 +44,10 @@ Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNT
 - a COVID-19 vaccination certificate issued in Saudi Arabia by Sehaty.sa; or
 - a "COVID-19 Digital Certificate" issued in Malaysia and verified through the Mysehatara App; or
 - a COVID-19 vaccination certificate issued by Rwanda Biomedical Centre with a QR code; or
-- a COVID-19 vaccination card issued by the Ministry of Health of Kosovo (Rep.).
+- a COVID-19 vaccination card issued by the Ministry of Health of Kosovo (Rep.); or
+- a COVID-19 vaccination certificate issued in Armenia through the united information system of electronic healthcare; or
+- a COVID-19 vaccination certificate issued in Korea (Rep.) through the COOV app; or
+- a COVID-19 vaccination certificate issued by the Kurdistan regional government of Iraq or the Ministry of Health of Moldova (Rep.).
 Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. COVID-19 vaccination certificates, cards and passes must show that the passenger was fully vaccinated at least 14 days before arrival;
 - passengers arriving on humanitarian, medevac or repatriation flights;
 - merchant seamen;
