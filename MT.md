@@ -1,4 +1,4 @@
-Published 17.10.2021
+Published 18.10.2021
 1. Until 30 November 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Malta with:
@@ -53,11 +53,10 @@ Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNT
 - merchant seamen;
 - nationals or residents of Malta younger than 12 years.
 2. Passengers between 5 and 11 years must have a negative COVID-19 PCR test taken at most 72 hours before arrival. More details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a>
-3. Passengers must complete a "Public Health Travel Declaration Form" and "Passenger Locator Form" found at <a href="https://www.maltairport.com/declarationforms/">https://www.maltairport.com/declarationforms/</a> or <a href="https://app.euplf.eu/#/">https://app.euplf.eu/#/</a> and present it upon arrival.
+3. Passengers must complete a "Public Health Travel Declaration Form" and "Passenger Locator Form" found at <a href="https://app.euplf.eu/#/">https://app.euplf.eu/#/</a> and present it upon arrival.
 4. Merchant seamen must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure. The test result must be in English or accompanied by a certified English translation.
 5. Passengers could be subject to quarantine in a hotel for 14 days at their own expense.
 - This does not apply to passengers with:
-- a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a COVID-19 recovery certificate issued at most 6 months before arrival and a COVID-19 vaccination certificate showing that they received the first COVID-19 vaccine dose; or
 - a medical certificate showing pregnancy or an antenatal record card; or
 - a COVID-19 vaccination certificate issued by Malta; or
