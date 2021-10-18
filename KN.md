@@ -1,4 +1,4 @@
-Published 06.10.2021
+Published 18.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of St. Kitts and Nevis;
@@ -8,5 +8,4 @@ Published 06.10.2021
 3. Passengers must complete a "Customs, Border and Health Entry Form" before departure at <a href="https://www.knatravelform.kn/">https://www.knatravelform.kn</a>
 4. Passengers entering or transiting through St. Kitts and Nevis must have a COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.
 5. Passengers and airline crew are subject to medical screening and must have a confirmation of an approved accommodation; details can be found at <a href="https://www.knatravelform.kn/">https://www.knatravelform.kn</a>
-6. Passengers must install the SKN COVID 19 mobile app (EXMAPP).
-7. Airline crew must have a Crew COVID-19 Status Card.
+6. Airline crew must have a Crew COVID-19 Status Card.
