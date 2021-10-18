@@ -1,14 +1,13 @@
-Published 04.10.2021
+Published 18.10.2021
 1. Until 31 October 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Argentina;
 - nationals and residents of Bolivia, Brazil, Chile, Paraguay and Uruguay, if in the past 14 days they have only been in Brazil, Bolivia, Chile, Paraguay or Uruguay;
 - passengers with a visa issued by Argentina (excluding tourist visas);
 - spouses, partners with registered partnership, parents, sisters, brothers or children of nationals of Argentina. They must:
-- present proof confirming the relationship (birth, marriage or cohabitation certificate, apostilled or legalized); and
-- present a copy of the national ID card of the national of Argentina; and
-- be nationals of Andorra, Armenia, Australia, Austria, Barbados, Belarus, Belgium, Bolivia, Brazil, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Fiji, Finland, France, Georgia, Germany, Greece, Grenada, Guatemala, Guyana, Honduras, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Jamaica, Japan, Kazakhstan, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Monaco, Mongolia, Montenegro, Netherlands, New Zealand, Nicaragua, North Macedonia (Rep.), Norway, Panama, Paraguay, Peru, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Sweden, Switzerland, Thailand, Trinidad and Tobago, Turkey, USA, Ukraine, United Arab Emirates, Uruguay, Vatican City (Holy See) or Venezuela.
-More details can be found at: <a href="https://tinyurl.com/y5uo6mt4">https://tinyurl.com/y5uo6mt4</a>
+- have a copy of the national ID card of the national of Argentina; and
+- have proof of the relationship (birth, marriage, or cohabitation certificate, apostilled or legalized); and
+- be a British national or a national of Andorra, Armenia, Australia, Austria, Barbados, Belarus, Belgium, Bolivia, Brazil, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Fiji, Finland, France, Georgia, Germany, Greece, Grenada, Guatemala, Guyana, Honduras, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Jamaica, Japan, Kazakhstan, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Monaco, Mongolia, Montenegro, Netherlands, New Zealand, Nicaragua, North Macedonia (Rep.), Norway, Panama, Paraguay, Peru, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Sweden, Switzerland, Thailand, Trinidad and Tobago, Turkey, USA, Ukraine, United Arab Emirates, Uruguay, Vatican City (Holy See) or Venezuela.
 2. Passengers and airline crew must complete a "Declaracion Jurada Electronica para el ingreso al Territorio Nacional" available at <a href="http://ddjj.migraciones.gob.ar/app/">http://ddjj.migraciones.gob.ar/app/</a>
 3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 This does not apply to:
