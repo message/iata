@@ -1,4 +1,4 @@
-Published 07.10.2021
+Published 19.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Saudi Arabia;
@@ -19,7 +19,7 @@ Published 07.10.2021
 4. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac before departure, or vaccinated with Janssen at least 14 days before departure. They must register at <a href="https://muqeem.sa/#/vaccine-registration/home">https://muqeem.sa/#/vaccine-registration/home</a> , and must download the Tawakkalna App and submit their personal details within 8 hours after arrival. Passengers who received Sinopharm or Sinovac must have also received one vaccine dose of AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty).
 - This does not apply to:
 - nationals of Saudi Arabia;
-- first degree family members of nationals of Saudi Arabia. They must be traveling together;
+- first degree family members of nationals of Saudi Arabia;
 - domestic workers of nationals of Saudi Arabia. They must be accompanied by the sponsor.
 5. Passengers must register before departure at <a href="https://muqeem.sa/#/vaccine-registration/home">https://muqeem.sa/#/vaccine-registration/home</a> .
 - This does not apply to nationals of Saudi Arabia.
