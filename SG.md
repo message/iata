@@ -1,4 +1,4 @@
-Published 15.10.2021
+Published 19.10.2021
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
@@ -23,19 +23,13 @@ Published 15.10.2021
 - stayed in Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, or Zhejiang in the last 7 days before departure; and
 - have a return ticket or proof of other transportation arrangements to depart from Singapore.
 - This does not apply to returning passengers with a Work Pass, Student's Pass, Dependant’s Pass, or Long-Term Visit Pass who have a Entry Travel Pass issued by the Brunei authorities under the Singapore-Brunei Reciprocal Green Lane, an invitation letter issued by the Chinese authorities under the Singapore-China Fast Lane, a Singapore-Germany-Singapore (SGS) Travel Pass issued by the Singaporean-German Chamber of Industry and Commerce under the Singapore-Germany Reciprocal Green Lane, an electronic visa issued by the Indonesian authorities, an approval letter issued by the Embassy of Japan under the Singapore-Japan Reciprocal Green Lane, an approval letter issued by the Korea (Rep.) Embassy in Singapore under the Singapore-ROK Fast Lane, or a MyTravelPass approval letter issued by the Malaysian authorities under the Singapore-Malaysia Reciprocal Green Lane. They do not require an approval letter from the Safe Travel Office (STO), Ministry of Manpower (MOM), or Ministry of Education (MOE).
-- Until 18 October 2021, this does not apply to passengers with a Vaccinated Travel Pass approval letter issued by Singapore if they:
-- have been fully vaccinated in their country of departure or Singapore; and
-- have stayed in Brunei Darussalam and/or Singapore, or Germany and/or Singapore, in the last 14 days before departure; and
-- have a visa to enter Singapore (if they are a visa-required short-term visitor); and
-- have a medical certificate with a negative Coronavirus (COVID-19) PCR test result. The test must have been taken at most 48 hours before departure from the first embarkation point; and
-- travel to Singapore on a designated Vaccinated Travel Lane flight.
-- Effective 19 October 2021, this does not apply to passengers with a Vaccinated Travel Pass approval letter issued by Singapore if they:
+- This does not apply to passengers with a Vaccinated Travel Pass approval letter issued by Singapore if they:
 - have a valid proof of vaccination issued in Singapore or any Vaccinated Travel Lane (VTL) country/region listed on <a href="https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries">https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries</a> ;
 - have stayed in any VTL country/region and/or Singapore, in the last 14 days before departure; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor); and
 - have a medical certificate with a negative Coronavirus (COVID-19) PCR test result. The test must have been taken at most 48 hours before departure from the first embarkation point; and
 - arrive in Singapore on a designated VTL flight.
-- Effective 19 October 2021, this does not apply to passengers aged 12 and below if they:
+- This does not apply to passengers aged 12 and below if they:
 - have stayed in Singapore and/or any VTL country/region listed on <a href="https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries">https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries</a> , in the last 14 days before departure; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor); and
 - have a medical certificate with a negative Coronavirus (COVID-19) PCR test result. The test must have been taken at most 48 hours before departure from the first embarkation point (except passengers who are below 3 years of age); and
