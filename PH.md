@@ -1,4 +1,4 @@
-Published 16.10.2021
+Published 20.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -20,14 +20,14 @@ Published 16.10.2021
 - a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point, if they have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac; or
 - a hotel reservation confirmation for at least 6 days, if they do not have a COVID-19 vaccination certificate. The hotel must be approved by Tourism and Health Agencies and listed at <a href="https://quarantine.doh.gov.ph/quarantine-facilities/">https://quarantine.doh.gov.ph/quarantine-facilities/</a> .
 - This does not apply to:
-- nationals of the Philippines who are Overseas Filipino Workers (OFW);
+- nationals of the Philippines;
 - passengers with a diplomatic passport and passengers with a 9(E) visa.
 6. Passengers arriving from a country other than Algeria, Bhutan, Burkina Faso, Cameroon, Cayman Isl., Chad, China (People's Rep.), Chinese Taipei, Comoros, Congo, Cook Isl., Eritrea, Falkland Isl. (Malvinas), Gibraltar, Hong Kong (SAR China), Kiribati, Korea (Dem. People's Rep.), Madagascar, Mali, Marshall Isl., Micronesia (Federated States), Montserrat, Nauru, New Zealand, Nicaragua, Niger, Niue, Northern Mariana Isl., Palau, Poland, Samoa, Samoa (American), Sierra Leone, Solomon Isl., St. Helena, St. Pierre and Miquelon, Sudan, Syria, Tajikistan, Tanzania, Tonga, Turkmenistan, Tuvalu, Uzbekistan, Vanuatu or Yemen must have a hotel reservation confirmation for at least:
 - 6 days, if they have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
 - 8 days, if they do not have a COVID-19 vaccination certificate.
 The hotel must be approved by Tourism and Health Agencies and listed at <a href="https://quarantine.doh.gov.ph/quarantine-facilities/">https://quarantine.doh.gov.ph/quarantine-facilities/</a> . Vaccines accepted are: AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac.
 - This does not apply to:
-- nationals of the Philippines who are Overseas Filipino Workers (OFW);
+- nationals of the Philippines;
 - passengers with a diplomatic passport and passengers with a 9(E) visa.
 7. Passengers with a diplomatic passport and passengers with a 9(E) visa could be subject to home quarantine for 10 days.
 8. Passengers are subject to quarantine at the first point of entry for 10 to 14 days, including the hotel quarantine in item 5.
