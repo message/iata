@@ -1,4 +1,4 @@
-Published 15.10.2021
+Published 20.10.2021
 1. Until 31 October 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
@@ -31,12 +31,12 @@ This does not apply to:
 - passengers with an EU Digital Covid Certificate (EU DCC); or
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and issued in Albania, Andorra, Faroe Isl., Israel, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine or Vatican City (Holy See). Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty);
 - passengers with a positive COVID-19 test result and a recovery certificate.
-5. Passengers traveling on a direct flight to Madeira without a negative COVID-19 RT-PCR test result of a test taken at most 72 hours before departure are subject to an RT-PCR test upon arrival and quarantine.
+5. Passengers traveling on a direct flight to Madeira without a negative COVID-19 RT-PCR test result of a test taken at most 72 hours before departure are subject to an RT-PCR test upon arrival or quarantine.
 This does not apply to:
 - passengers younger than 12 years;
-- passengers with a COVID-19 recovery certificate issued at most 90 days before arrival;
+- passengers with a COVID-19 recovery certificate issued at most 180 days before arrival;
 - passengers with an EU Digital Covid Certificate (EU DCC); or
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and issued in Albania, Andorra, Faroe Isl., Israel, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine or Vatican City (Holy See). Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty);
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V;
 - passengers with a positive COVID-19 test result and a recovery certificate.
 6. Passengers traveling to Azores must:
 - complete a "Health Form upon arrival at the Azores" and a "Draft statement for inter-island travel" upon arrival; or

@@ -1,4 +1,4 @@
-Published 01.06.2021
+Published 20.10.2021
 1. Flights to Syria are suspended.
 - This does not apply to Aleppo (ALP), Damascus (DAM) and Kameshly (KAC).
 2. Passengers are not allowed to enter.
@@ -16,4 +16,3 @@ This does not apply to:
 - This does not apply to passengers younger than 12 years.
 5. A completed "Passenger Locator Form" (PLF) must be presented upon arrival.
 6. Passengers could be subject to self-isolation or quarantine.
-<p>
