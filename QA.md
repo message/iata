@@ -1,4 +1,4 @@
-Published 07.10.2021
+Published 20.10.2021
 1. Passengers are not allowed to enter Qatar.
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates;
@@ -6,7 +6,7 @@ Published 07.10.2021
 - passengers with a Diplomatic ID issued by the MOFA of Qatar;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival;
 - passengers younger than 18 years accompanied by their parents who were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival. They must not be arriving from a red country listed on <a href="https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx">https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx</a> ;
-- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival; and
+- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), or Pfizer-BioNTech (Comirnaty), at least 14 days before arrival; and
 - a COVID-19 recovery certificate issued in the past 12 months in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates.
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival.
 - This does not apply to:
