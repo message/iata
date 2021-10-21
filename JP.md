@@ -1,4 +1,4 @@
-Published 21.09.2021
+Published 21.10.2021
 1. Passengers are not allowed to enter if in the past 14 days they have been in Afghanistan, Albania, Algeria, Andorra, Antigua and Barbuda, Argentina, Armenia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Bulgaria, Cambodia, Cameroon, Canada, Cape Verde, Central African Rep., Chile, Comoros, Congo, Congo (Dem. Rep.), Colombia, Costa Rica, Cote d'Ivoire, Croatia, Cuba, Cyprus, Czechia, Denmark, Djibouti, Dominica, Dominican Rep., Ecuador, Egypt, El Salvador, Equatorial Guinea, Estonia, Eswatini (Swaziland), Ethiopia, Fiji, Finland, France, Gabon, Gambia, Georgia, Germany, Ghana, Greece, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland (Rep.), Israel, Italy, Jamaica, Jordan, Kazakhstan, Kenya, Kosovo (Rep.), Kuwait, Kyrgyzstan, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Malaysia, Maldives, Malta, Mauritania, Mauritius, Mexico, Moldova (Rep.), Monaco, Mongolia, Montenegro, Morocco, Myanmar, Namibia, Nepal, Netherlands, Nicaragua, Nigeria, North Macedonia (Rep.), Norway, Oman, Pakistan, Palestinian Territory, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Romania, Russian Fed., Rwanda, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Slovakia, Slovenia, Somalia, South Africa, South Sudan, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Tajikistan, Thailand, Timor-Leste, Trinidad and Tobago, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, Uruguay, USA, Uzbekistan, Vatican City (Holy See), Venezuela, Zambia or Zimbabwe.
 - This does not apply to:
 - nationals of Japan;
@@ -9,15 +9,13 @@ Published 21.09.2021
 - passengers with a diplomatic or an official visa issued by Japan;
 - passengers with a single or multiple-entry visa issued on or before 2 April 2020 by Japanese Embassies or Consulates General in Australia, New Zealand and Taipei Kaohsiung offices of Japan-Taiwan Exchange Association;
 - US military personnel, civilian personnel, and their dependents. They must have SOFA status and have the required documents stipulated in Article IX of the US-Japan Status of Forces Agreement;
-- merchant seamen;
-- passengers with an Olympic Identity and Accreditation Card (OIAC) or Paralympic Identity and Accreditation Card (PIAC) (including cards in Pre-Valid Card (PVC) format). They must also have a Written Pledge;
-- passengers with an Invitation Letter issued by Tokyo 2020 Organizing Committee and a "Prior Consent Form" to the Minister of Education, Culture, Sports, Science and Technology of Japan (MEXT).
+- merchant seamen.
 2. Passengers must complete a "Quarantine Questionnaire" at <a href="https://arqs-qa.followup.mhlw.go.jp/">https://arqs-qa.followup.mhlw.go.jp/</a> . This will generate a QR code which must be presented upon arrival.
 3. Passengers must have a negative COVID-19 test result. Tests accepted are LAMP, NEAR, Next Generation Sequence, quantitative antigen (CLEIA/ECLEIA), RT-PCR, Smart Amp, TMA or TRC. The test must:
 - specify that it is based on nasopharyngeal swab, saliva, or nasopharyngeal and oropharyngeal swab; and
 - be taken at most 72 hours before departure from the first embarkation point; and
 - be in English.
-Details can be found at <a href="https://www.mhlw.go.jp/content/000800272.pdf">https://www.mhlw.go.jp/content/000800272.pdf</a> and <a href="https://www.mofa.go.jp/ca/fna/page25e_000334.html">https://www.mofa.go.jp/ca/fna/page25e_000334.html</a> .
+Details can be found at <a href="https://www.mhlw.go.jp/stf/covid-19/bordercontrol.html#2_1">https://www.mhlw.go.jp/stf/covid-19/bordercontrol.html#2_1</a> and <a href="https://www.mofa.go.jp/ca/fna/page25e_000334.html">https://www.mofa.go.jp/ca/fna/page25e_000334.html</a> .
 - This does not apply to:
 - passengers younger than 6 years;
 - passengers with a diplomatic or an official visa issued by Japan;
@@ -36,7 +34,3 @@ Details can be found at <a href="https://www.mhlw.go.jp/content/000800272.pdf">h
 14. Visas issued with "EX-B" or "EX-R" in the Remarks column by a diplomatic representation of Japan in Brunei Darussalam, Cambodia, China (People's Rep.), Chinese Taipei, Korea (Rep.), Lao People's Dem. Rep., Malaysia, Myanmar, Singapore, Thailand or Viet Nam are not accepted for entry.
 15. Passengers must install the "MySOS" mobile app.
 - This does not apply to US military personnel, civilian personnel, and their dependents. They must have SOFA status and have the required documents stipulated in Article IX of the US-Japan Status of Forces Agreement.
-16. Passengers with an Olympic Identity and Accreditation Card (OIAC) or Paralympic Identity and Accreditation Card (PIAC) (including cards in Pre-Valid Card (PVC) format) must present a QR code from the app OCHA before departure and upon arrival.
-- This does not apply to:
-- passengers with a "Prior Consent Form" to the Minister of Foreign Affairs of Japan (MOFA) or the Minister of Education, Culture, Sports, Science and Technology of Japan (MEXT);
-- passengers with a Written Pledge.
