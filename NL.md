@@ -1,4 +1,4 @@
-Published 15.10.2021
+Published 21.10.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of the Netherlands;
@@ -47,10 +47,14 @@ Details can be found at <a href="https://tinyurl.com/59zy6bna">https://tinyurl.c
 - passengers with a NATO Travel Order or a NATO-2 visa;
 - passengers with a COVID-19 recovery certificate issued at least 11 days and at most 180 days before departure if arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
 - passengers arriving from Bulgaria, Czechia, Latvia, Norway, Poland, Romania or Slovakia;
-- passengers with a COVID-19 vaccination certificate showing that:
+- Until 09:00, 22 October 2021, passengers arriving from a country other than Afghanistan, Anguilla, Antigua and Barbuda, Bangladesh, Barbados, Belize, Bermuda, Botswana, Brazil, Brunei Darussalam, Costa Rica, Cuba, Eswatini, French Guiana, French Polynesia, Georgia, Grenada, Guyana, Haiti, India, Israel, Lesotho, Malaysia, Martinique, Mongolia, Montenegro, Myanmar, Nepal, New Caledonia, Pakistan, Palestinian Territory, Philippines, Serbia, Seychelles, Somalia, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Thailand, USA, United Kingdom or Venezuela with a COVID-19 vaccination certificate showing that:
 - they were vaccinated with Janssen at least 28 days before arrival and the certificate was issued on or after 14 August 2021; or
 - they were vaccinated with Janssen at least 14 days before arrival and the certificate was issued before 14 August 2021; or
-- they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. They must be arriving from a country other than Afghanistan, Anguilla, Antigua and Barbuda, Bangladesh, Barbados, Belize, Bermuda, Botswana, Brazil, Brunei Darussalam, Costa Rica, Cuba, Eswatini, French Guiana, French Polynesia, Georgia, Grenada, Guyana, Haiti, India, Israel, Lesotho, Malaysia, Martinique, Mongolia, Montenegro, Myanmar, Nepal, New Caledonia, Pakistan, Palestinian Territory, Philippines, Serbia, Seychelles, Somalia, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Thailand, USA, United Kingdom or Venezuela. Details can be found at <a href="https://tinyurl.com/t2nxv3jt">https://tinyurl.com/t2nxv3jt</a> .
+- they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. Details can be found at <a href="https://tinyurl.com/t2nxv3jt">https://tinyurl.com/t2nxv3jt</a> ;
+- Effective 09:00, 22 October 2021, passengers arriving from a country other than Afghanistan, Anguilla, Antigua and Barbuda, Barbados, Belize, Bermuda, Botswana, Brazil, Brunei Darussalam, Costa Rica, Cuba, French Guiana, Georgia, Grenada, Guyana, Haiti, Israel, Lesotho, Malaysia, Mongolia, Montenegro, New Caledonia, Philippines, Serbia, Seychelles, Somalia, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Thailand, United Kingdom or Venezuela with a COVID-19 vaccination certificate showing that:
+- they were vaccinated with Janssen at least 28 days before arrival and the certificate was issued on or after 14 August 2021; or
+- they were vaccinated with Janssen at least 14 days before arrival and the certificate was issued before 14 August 2021; or
+- they were fully vaccinated at least 14 days before arrival with AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. Details can be found at <a href="https://tinyurl.com/t2nxv3jt">https://tinyurl.com/t2nxv3jt</a> .
 4. A completed "Health Declaration Form" must be presented prior to boarding. The form can be found at <a href="https://tinyurl.com/ybtmdgja">https://tinyurl.com/ybtmdgja</a>
 - This does not apply to passengers younger than 13 years.
 5. Passengers could be subject to self-quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/3zvzaz3b">https://tinyurl.com/3zvzaz3b</a>
