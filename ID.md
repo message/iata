@@ -1,4 +1,4 @@
-Published 19.10.2021
+Published 21.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
@@ -20,10 +20,7 @@ Published 19.10.2021
 - passengers with a diplomatic or service visa and an invitation letter issued by an Indonesian Ministry;
 - passengers traveling under the Travel Corridor Arrangement (TCA);
 - airline crew transiting without disembarking the aircraft.
-7. Passengers are subject to COVID-19 PCR test upon arrival and quarantine for 5 days.
-- This does not apply to:
-- passengers with a diplomatic or service visa and an invitation letter issued by an Indonesian Ministry;
-- passengers traveling under the Travel Corridor Arrangement (TCA).
+7. Passengers are subject to a COVID-19 PCR test upon arrival and quarantine for 5 days.
 8. A completed "electronic health awareness card (e-HAC)" must be presented upon arrival. The card can be obtained before departure through the "Pedulilindungi" mobile app.
 9. Airline crew with a crew ID card are visa exempt if they are listed in the General Declaration and wearing uniform.
 10. Deadhead crew will be given an entry stamp. They must:

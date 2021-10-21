@@ -1,4 +1,4 @@
-Published 14.10.2021
+Published 21.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
@@ -44,11 +44,14 @@ Published 14.10.2021
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
 - passengers with a "C" visa issued by a Schengen Member State;
+- passengers with a "D" visa issued by a Schengen Member State;
 - residents of Australia, Bahrain, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates and Uruguay, arriving from Australia, Bahrain, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates and Uruguay;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty);
 - passengers younger than 18 years traveling with their vaccinated parents/guardians;
 - merchant seamen;
 - passengers with a diplomatic passport traveling on duty;
-- military personnel traveling on duty.
+- military personnel traveling on duty;
+- students.
 7. Passengers must have:
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Dutch, English, French or German; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty); or
