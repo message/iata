@@ -1,5 +1,5 @@
-Published 12.10.2021
-1. Passengers are not allowed to enter.
+Published 22.10.2021
+1. Until 24 October 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals or residents of Denmark;
 - residents of green and yellow countries: Australia, Austria, Belgium, Bulgaria, Canada, Chile, Chinese Taipei, Croatia, Cyprus, Czechia, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Italy, Jordan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Rwanda, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine and Uruguay;
@@ -10,7 +10,7 @@ Published 12.10.2021
 - passengers with a diplomatic passport;
 - merchant seamen;
 - more exemptions can be found at <a href="https://en.coronasmitte.dk/rules-and-regulations/entry-into-denmark/foreigners-resident-abroad">https://en.coronasmitte.dk/rules-and-regulations/entry-into-denmark/foreigners-resident-abroad</a> .
-2. Passengers must have:
+2. Until 24 October 2021, passengers must have:
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a negative COVID-19 antigen test taken at most 48 hours before arrival.
 The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish. Details can be found at <a href="https://en.coronasmitte.dk/rules-and-regulations/entry-into-denmark">https://en.coronasmitte.dk/rules-and-regulations/entry-into-denmark</a> .
