@@ -1,4 +1,4 @@
-Published 29.09.2021
+Published 22.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -17,7 +17,7 @@ Published 29.09.2021
 - are subject to medical screening, and
 - must download and register the COVID-19 DXB Smart App.
 3. Passengers traveling as tourists arriving at Dubai (DXB) or Sharjah (SHJ) must have health insurance.
-4. Residents of United Arab Emirates with a residence visa returning to Dubai (DXB) or Al Maktoum (DWC) and arriving from Afghanistan, Bangladesh, Congo (Dem. Rep.), Ethiopia, India, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx</a> .
+4. Residents of United Arab Emirates with a residence visa returning to Dubai (DXB) or Al Maktoum (DWC) and arriving from Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx</a> .
 5. Passengers entering United Arab Emirates arriving from Afghanistan, Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia must have:
 - a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
 - a printed negative COVID-19 rapid PCR test (rapid RT-PCR is required for passengers arriving from Bangladesh) taken at most 6 hours before departure from the first embarkation point.
@@ -83,7 +83,7 @@ The test result must be in Arabic or English and must be issued by an approved l
 - passengers younger than 12 years;
 - passengers with disabilities;
 - passengers arriving from Afghanistan, Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia.
-15. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Afghanistan, Angola, Argentina, Azerbaijan, Bahrain, Bangladesh, Bosnia and Herzegovina, Brazil, Cambodia, Chile, Cote d'Ivoire, Croatia, Cyprus, Czechia, Djibouti, Egypt, Eritrea, Ethiopia, Georgia, Ghana, Greece, Guinea, Hungary, India, Indonesia, Iran, Iraq, Israel, Jordan, Kenya, Kyrgyzstan, Kuwait, Lebanon, Malta, Moldova (Rep.), Montenegro, Morocco, Myanmar, Nepal, Nigeria, Pakistan, Philippines, Poland, Qatar, Romania, Russian Fed., Rwanda, Senegal, Slovakia, Somalia, South Africa, South Sudan, Sri Lanka, Sudan, Syria, Tajikistan, Tanzania, Thailand, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, Uzbekistan, Viet Nam, Zambia or Zimbabwe are subject to a COVID-19 PCR test upon arrival.
+15. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Afghanistan, Angola, Argentina, Azerbaijan, Bahrain, Bangladesh, Bosnia and Herzegovina, Brazil, Cambodia, Chile, Cote d'Ivoire, Czechia, Djibouti, Egypt, Eritrea, Ethiopia, Georgia, Ghana, Guinea, India, Indonesia, Iran, Iraq, Israel, Jordan, Kenya, Kyrgyzstan, Lebanon, Morocco, Myanmar, Nepal, Nigeria, Pakistan, Philippines, Qatar, Romania, Russian Fed., Rwanda, Senegal, Slovakia, Somalia, South Africa, South Sudan, Sri Lanka, Sudan, Syria, Tajikistan, Tanzania, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, Uzbekistan, Viet Nam, Zambia or Zimbabwe are subject to a COVID-19 PCR test upon arrival.
 16. Nationals of United Arab Emirates entering Dubai (DXB) or Al Maktoum (DWC) are subject to a COVID-19 PCR test upon arrival.
 17. Passengers entering Abu Dhabi (AUH), Ras Al Khaimah (RKT) or Sharjah (SHJ) are subject to a COVID-19 PCR test upon arrival.
 18. Passengers could be subject to quarantine.
@@ -102,3 +102,4 @@ The test result must be in Arabic or English and must be issued by an approved l
 - passengers entering Abu Dhabi for the World Policy Conference.
 27. Residents of United Arab Emirates entering Abu Dhabi (AUH) must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 14 days before departure. They must update the certificate on <a href="https://smartservices.ica.gov.ae">https://smartservices.ica.gov.ae</a> .
 - This does not apply to passengers younger than 16 years.
+<p>
