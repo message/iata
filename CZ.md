@@ -1,4 +1,4 @@
-Published 18.10.2021
+Published 25.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Czechia and their family members;
@@ -9,7 +9,7 @@ Published 18.10.2021
 - British nationals with a certificate of application for the status of UK-EU Withdrawal Agreement Beneficiary issued by Austria, Belgium, Denmark, Finland, France, Hungary, Latvia, Luxemburg, Malta, Netherlands, Romania, Slovenia and Sweden; and their family members;
 - passengers with a residence permit issued by Czechia;
 - passengers with a residence permit issued by Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See), if arriving from these countries;
-- passengers who in the past 14 days have only been in, and arrive from Australia, Bahrain, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Italy, Jordan, Korea (Rep.), Kuwait, Liechtenstein, Macao (SAR China), Malta, New Zealand, Portugal (Madeira), Qatar, Rwanda, Saudi Arabia, Spain (only Canary Isl.), United Arab Emirates, Uruguay or Vatican City (Holy See);
+- passengers who in the past 14 days have only been in, and arrive from Australia, Bahrain, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Italy, Jordan, Korea (Rep.), Kuwait, Macao (SAR China), Malta, New Zealand, Portugal (Madeira), Qatar, Rwanda, Saudi Arabia, Spain (excluding Balearic Islands), United Arab Emirates, Uruguay or Vatican City (Holy See);
 - passengers with a diplomatic passport traveling on duty;
 - spouses of British nationals residing in Czechia. They must have a marriage certificate or a confirmation of partnership;
 - passengers younger than 21 years who are children of British nationals residing in Czechia. They must have a birth certificate and a copy of their parent's residence permit;
@@ -23,7 +23,7 @@ Published 18.10.2021
 - passengers younger than 18 years if accompanied by their parent(s) or legal guardian(s).
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
-- passengers arriving from Andorra, Australia, Bahrain, Canada, Chile, Chinese Taipei, Cyprus, Denmark, France, Hong Kong (SAR China), Iceland, Italy, Jordan, Korea (Rep.), Kuwait, Liechtenstein, Macao (SAR China), Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Rwanda, San Marino, Saudi Arabia, Spain, Sweden, Switzerland, United Arab Emirates, Uruguay or Vatican City (Holy See);
+- passengers arriving from Andorra, Australia, Bahrain, Canada, Chile, Chinese Taipei, Denmark, France, Hong Kong (SAR China), Iceland, Italy, Jordan, Korea (Rep.), Kuwait, Liechtenstein, Macao (SAR China), Malta, Monaco, New Zealand, Norway, Portugal, Qatar, Rwanda, San Marino, Saudi Arabia, Spain, Sweden, Switzerland, United Arab Emirates, Uruguay or Vatican City (Holy See);
 - passengers arriving on a direct flight from Austria, Germany, Poland or Slovakia with a negative COVID-19 antigen test taken at most 48 hours before departure for a maximum stay of 24 hours. They must have a return ticket;
 - nationals of Czechia with a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point;
 - nationals of Czechia with a service passport traveling on duty for a maximum stay of 72 hours;
