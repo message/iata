@@ -30,7 +30,7 @@ Published 15.10.2021
 - passengers between 12 and 18 without a negative COVID-19 PCR test, are subject to quarantine;
 - nationals of Greece, North Macedonia, Romania, Serbia and Turkey , with a document certifying admission to an education institution in Bulgaria;
 - merchant seamen.
-5. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and and Sputnik V; or
+5. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V; or
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a negative COVID-19 antigen test taken at most 48 hours before arrival; or
 - a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival.
@@ -51,12 +51,12 @@ Published 15.10.2021
 - a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V;
 - passengers arriving from Cyprus, Czechia, Denmark, Finland, France, Hungary, Iceland, Italy, Luxembourg, Malta, Monaco, Poland, Portugal, Slovakia, Spain, Sweden, Vatican City (Holy See), with:
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and and Sputnik V; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V; or
 - a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival; or
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a negative COVID-19 antigen test taken at most 48 hours before arrival;
 - nationals and residents of Bulgaria, and their family members arriving from a country other than Antigua and Barbuda, Argentina Bangladesh, Barbados, Belize, Bhutan, Bolivia, Botswana, Brazil, Chile, Colombia, Costa Rica, Cuba, Cyprus, Czechia, Denmark, Dominican Rep., El Salvador, Estonia, Fiji, Finland, France, Georgia, Grenada, Guatemala, Hungary, Iceland, India, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Maldives, Malta, Monaco, Mongolia, Montenegro, Myanmar, Namibia, Nepal, Oman, Palestinian Territory, Panama, Paraguay, Peru, Poland, Portugal, Romania, Serbia, Seychelles, Singapore, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, Suriname, Tajikistan, Tanzania, Turkmenistan, United Kingdom, Sweden, Uruguay, Vatican City (Holy See) or Zambia, with:
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and and Sputnik V; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V; or
 - a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival; or
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a negative COVID-19 antigen test taken at most 48 hours before arrival.

@@ -1,5 +1,5 @@
 Published 07.10.2021
-1. Until 25 October 2021, passengers are not allowed to enter.
+1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
 - passengers with a long-term residence permit or a long term "D" visa issued by Switzerland or an EEA Member State;
@@ -10,13 +10,13 @@ Published 07.10.2021
 - passengers returning via Italy to their country of residence;
 - students;
 - military personnel.
-2. Until 25 October 2021, passengers who have been in or transited through Brazil in the past 14 days are not allowed to enter and transit.
+2. Passengers who have been in or transited through Brazil in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
 - passengers residing in Italy since before 13 February 2021;
 - parents of children younger than 18 years who are residing in Italy;
 - military personnel;
 - students.
-3. Until 25 October 2021, passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.
+3. Passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
 - passengers residing in Italy since before 28 August 2021;
 - nationals of Italy registered with the A.I.R.E;
