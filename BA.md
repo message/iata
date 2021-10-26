@@ -1,4 +1,4 @@
-Published 20.07.2021
+Published 26.10.2021
 1. Passengers must have:
 - a negative COVID-19 PCR or rapid antigen test result issued at most 48 hours before arrival if arriving from Albania, Andorra, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Kazakhstan, Kosovo (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova (Rep.), Monaco, Montenegro, Netherlands, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, Russian Fed., San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom or Vatican City (Holy See); or
 - a negative COVID-19 PCR or rapid antigen test result issued at most 72 hours before arrival if arriving from a country other than Albania, Andorra, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Kazakhstan, Kosovo (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova (Rep.), Monaco, Montenegro, Netherlands, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, Russian Fed., San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom or Vatican City (Holy See); or
@@ -10,7 +10,7 @@ Published 20.07.2021
 - nationals of Croatia, Montenegro and Serbia arriving directly from the country of nationality;
 - children younger than 18 years and spouses of nationals of Croatia, Montenegro and Serbia if they arrive directly from the country of nationality;
 - passengers returning via Bosnia and Herzegovina to their country of residence;
-- passengers with a diplomatic, official or service passport traveling on duty;
+- passengers with a diplomatic or official passport traveling on duty;
 - NATO military;
 - residents of Bosnia and Herzegovina returning to Bosnia and Herzegovina within 48 hours. They must have been in Croatia, Montenegro or Serbia;
 - passengers younger than 7 years if accompanied by their parents or legal guardians who have a:
