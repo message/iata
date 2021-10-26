@@ -1,5 +1,5 @@
-Published 20.10.2021
-1. Passengers must complete an "Electronic Ticket" at <a href="https://eticket.migracion.gob.do/">https://eticket.migracion.gob.do/</a> before arrival. This will generate a QR code which must be presented upon arrival.
+Published 26.10.2021
+1. Passengers must complete an "Electronic Ticket" at <a href="https://eticket.migracion.gob.do/">https://eticket.migracion.gob.do/</a> before boarding. This will generate a QR code which must be presented upon arrival.
 2. Passengers and airline crew arriving from or who in the past 14 days have been in Spain must have:
 - a negative COVID-19 antigen or PCR test taken at most 72 hours before arrival; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival.
