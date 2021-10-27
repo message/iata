@@ -1,4 +1,4 @@
-Published 31.08.2021
+Published 27.10.2021
 1. Passengers who have transited or have been in Austria, Belgium, Brazil, China (People's Rep.), Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Iran, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, United Kingdom (excluding overseas territories outside of Europe) or Vatican City (Holy See), in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
 - nationals and permanent residents of the USA;
@@ -30,3 +30,4 @@ This does not apply to:
 5. DV visas issued in September 2020 that expired are accepted for entry.
 6. Nationals of the U.S.A. are allowed to enter with an expired passport.
 - This does not apply to emergency passports which must be valid on arrival.
+7. Effective 8 November 2021, USA announced new regulations.
