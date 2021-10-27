@@ -1,4 +1,4 @@
-Published 26.10.2021
+Published 27.10.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Czechia and their family members;
@@ -40,8 +40,7 @@ Published 26.10.2021
 - passengers younger than 12 years.
 3. Passengers must complete a "Passenger Locator Form" before boarding. The form can be found at <a href="http://www.prijezdovyformular.cz/">http://www.prijezdovyformular.cz/</a>
 - This does not apply to:
-- until 26 October 2021, passengers younger than 6 years;
-- effective 27 October 2021, passengers younger than 12 years;
+- passengers younger than 12 years;
 - nationals of Czechia with a service passport traveling on duty for a maximum stay of 72 hours;
 - passengers with a diplomatic passport traveling on duty for a maximum stay of 72 hours.
 4. Passengers could be subject to a COVID-19 test upon arrival and quarantine.
