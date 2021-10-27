@@ -1,4 +1,4 @@
-Published 05.10.2021
+Published 27.10.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - British nationals and nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -10,7 +10,7 @@ This does not apply to:
 - students;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
 - passengers with a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival.
-2. Passengers must present the confirmation obtained after completing a “Travellers Questionnaire for the prevention of the spread of COVID-19" at <a href="https://iseteenindus.terviseamet.ee/">https://iseteenindus.terviseamet.ee/</a>
+2. Passengers must present a completed “Travellers Questionnaire for the prevention of the spread of COVID-19" at check-in or upon arrival. The form can be found at <a href="https://iseteenindus.terviseamet.ee/">https://iseteenindus.terviseamet.ee/</a> and must be completed at most 3 days before arrival.
 3. Passengers could be subject to a COVID-19 PCR test upon arrival.
 4. Passengers could be subject to self-isolation for 10 days.
 - This does not apply to:
