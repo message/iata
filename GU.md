@@ -8,8 +8,8 @@ Published 07.07.2021
 2. Passengers are subject to medical screening and could be subject to quarantine.
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they received:
 - the second vaccine dose of AstraZeneca (Vaxzevria) at least 14 days before arrival;
-- the second vaccine dose of Moderna at least 14 days before arrival; or
-- the second vaccine dose of Pfizer-BioNTech at least 14 days before arrival; or
+- the second vaccine dose of Moderna (Spikevax) at least 14 days before arrival; or
+- the second vaccine dose of Pfizer-BioNTech (Comirnaty) at least 14 days before arrival; or
 - the single vaccine dose of Janssen at least 14 days before arrival.
 More details can be found at <a href="https://dphss.guam.gov/quarantine/">https://dphss.guam.gov/quarantine/</a>
 3. Airline crew are subject to quarantine until their next flight.
