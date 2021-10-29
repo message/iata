@@ -1,5 +1,5 @@
 Published 28.10.2021
-1. Until 31 October 2021, flights to India are suspended.
+1. Flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.
 This does not apply to:
@@ -17,8 +17,8 @@ This does not apply to:
 4. E-Tourist visas and tourist visas (Type T) are no longer valid.
 - Effective 15 November 2021, this does not apply to E-Tourist visas and tourist visas (Type T) issued on or after 6 October 2021.
 5. Medical visas issued on or before 21 October 2020 are no longer valid.
-6. Passengers must complete the self-declaration form before departure. They must select ‘Air Suvidha’ on the right top corner at <a href="http://www.newdelhiairport.in">www.newdelhiairport.in</a>
-7. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test must be uploaded at <a href="http://www.newdelhiairport.in">www.newdelhiairport.in</a>
+6. Passengers must complete the self-declaration form before departure. They must select ‘Air Suvidha’ on the right top corner at <a href="http://www.newdelhiairport.in/">www.newdelhiairport.in</a>
+7. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test must be uploaded at <a href="http://www.newdelhiairport.in/">www.newdelhiairport.in</a>
 8. Passengers arriving from Albania, Andorra, Austria, Bangladesh, Bosnia & Herzegovina, Botswana, Brazil, Bulgaria, China (People’s Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Greece, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritius, Moldova (Rep.), Monaco, Montenegro, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, Russian Fed., San Marino, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland or Zimbabwe are subject to a COVID-19 molecular test upon arrival at their own expense.
 9. Passengers arriving from Armenia, Belarus, Belgium, France, Germany, Hungary, Lebanon, Nepal, Serbia, United Kingdom or Ukraine are subject to a COVID-19 molecular test upon arrival at their own expense and home quarantine for 7 days.
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before arrival.

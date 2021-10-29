@@ -1,5 +1,5 @@
 Published 14.10.2021
-1. Until 31 October 2021, passengers arriving from Costa Rica, Ethiopia, Guatemala, Iran, Iraq, Mexico, Mongolia, Philippines, Slovenia, South Africa, Thailand or Trinidad and Tobago are not allowed to enter.
+1. Passengers arriving from Costa Rica, Ethiopia, Guatemala, Iran, Iraq, Mexico, Mongolia, Philippines, Slovenia, South Africa, Thailand or Trinidad and Tobago are not allowed to enter.
 - This does not apply to nationals of Pakistan.
 2. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated.
 - This does not apply to:
