@@ -69,7 +69,7 @@ Effective 1 November 2021:
 - a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
 - a COVID-19 recovery certificate issued at most 180 days before arrival; or
 - proof of presence of COVID-19 antibodies, issued at most 90 days before arrival; or
-- take a test within 24 hours after arrival; or
+- take a test within 24 hours after arrival, if arriving from Andorra, Australia, Belgium, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Ireland (Rep.), Iceland, Italy, Jordan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Macau (SAR China), Malta, Monaco, New Zealand, Netherlands, Norway, Poland, Portugal, Qatar, Romania, Rwanda, San Marino, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Uruguay, Vatican City (Holy See) or Vietnam; or
 - have a COVID-19 vaccination certificate stating that they received :
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 360 days before arrival. A combination of vaccines is accepted; or
 - the third vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, at least 120 days after the second dose and at most 360 days before arrival; or
