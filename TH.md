@@ -1,4 +1,4 @@
-Published 04.10.2021
+Published 31.10.2021
 1. Until 30 November 2021, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -18,16 +18,21 @@ Published 04.10.2021
 - a negative COVID-19 test result issued at most 72 hours before departure from the first embarkation point. Tests accepted are: all types of PCR tests. The test result must be in English; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure.
 - This does not apply to passengers transiting without disembarking the aircraft.
-4. Passengers must have a Certificate of Entry (COE) issued by Royal Thai Embassy.
-5. Passengers entering or transiting through Thailand must have insurance to cover medical expenses in Thailand with a coverage cost of at least USD 100,000.-.
+4. Until 31 October 2021, passengers must have a Certificate of Entry (COE) issued by Royal Thai Embassy.
+4. Effective 1 November 2021, passengers must have a Certificate of Entry (COE) issued by Royal Thai Embassy or a Thailand Pass QR code obtained at <a href="https://tp.consular.go.th">https://tp.consular.go.th</a>
+5. Until 31 October 2021, passengers entering or transiting through Thailand must have insurance to cover medical expenses in Thailand with a coverage cost of at least USD 100,000.-.
 - This does not apply to:
 - nationals of Thailand;
 - passengers transiting without disembarking the aircraft.
-6. Nationals of Thailand travelling under the Phuket or the Samui Plus Sandbox programs must have insurance to cover medical expenses in Thailand with a coverage cost of at least USD 100,000.-.
+5. Effective 1 November 2021, passengers entering or transiting through Thailand must have insurance to cover medical expenses in Thailand with a coverage cost of at least USD 50,000.-.
+- This does not apply to:
+- nationals of Thailand;
+- passengers transiting without disembarking the aircraft.
+6. Nationals of Thailand travelling under the Phuket or the Samui Plus Sandbox programs must have insurance to cover medical expenses in Thailand with a coverage cost of at least USD 50,000.-.
 7. Nationals of Thailand travelling to Phuket (HKT) or Na Thon (Ko Samui (USM)) under the Phuket or the Samui Plus Sandbox, must have a negative COVID-19 test result issued at most 72 hours before departure from the first embarkation point. Tests accepted are: all types of PCR tests. The test result must be in English.
 8. Passengers traveling to Phuket (HKT) or Na Thon (Ko Samui (USM)):
 - are subject to a COVID-19 RT-PCR test upon arrival; and
-- must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
+- must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 - This does not apply to passengers younger than 18 years traveling with their fully vaccinated parents/guardians.
 9. Passengers traveling to Phuket (HKT) must have proof of payment for a Safety and Health Administration (SHA+) accommodation for the period of intended stay.
 10. Passengers traveling to Phuket (HKT) or Na Thon (Ko Samui (USM), must have a return/onward ticket for a flight departing from Phuket to another country within 14 days.
@@ -37,8 +42,11 @@ Published 04.10.2021
 - proof of payment for COVID-19 tests in Ko Samui.
 12. Passengers are subject to medical screening.
 13. Passengers are subject to quarantine for 10 days.
-- This does not apply passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure from the first embarkation point. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V. They are subject to quarantine for 7 days.
+- This does not apply to:
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure from the first embarkation point. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V. They are subject to quarantine for 7 days;
+- effective 1 November 2021, passengers arriving from Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Lithuania, Malaysia, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Saudi Arabia, Singapore, Slovenia, Spain, Sweden, Switzerland, USA or United Arab Emirates.
 14. Airline crew are subject to self-isolation until their next flight.
-15. Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-
+15. Until 31 October 2021, airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-
+15. Effective 1 November 2021, airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 50,000.-
 16. Visa on arrival facilities restarted.
 17. Visa exemption for nationals of Cambodia and Myanmar with a normal passport restarted.
