@@ -1,4 +1,4 @@
-Published 01.10.2021
+Published 01.11.2021
 1. Short-term visas (type C-1 and C-3) issued on or before 5 April 2020 are no longer valid.
 2. Suspension of visa exemptions for nationals of Antigua and Barbuda, Argentina, Australia, Austria, Bahamas, Bahrain, Belgium, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Dominican Rep., Ecuador, El Salvador, Estonia, Eswatini (Swaziland), Fiji, Finland, France, Germany, Greece, Grenada, Guatemala, Haiti, Honduras, Hungary, Iceland, Israel, Italy, Jamaica, Kazakhstan, Kiribati, Kuwait, Latvia, Lesotho, Liechtenstein, Lithuania, Luxembourg, Malaysia, Marshall Isl., Mauritius, Micronesia (Federated States), Montenegro, Morocco, Nauru, Netherlands, New Zealand, Norway, Oman, Panama, Paraguay, Peru, Poland, Portugal, Qatar, Romania, Russian Fed., Samoa, Saudi Arabia, Serbia, Seychelles, Singapore, Slovakia, Solomon Isl., South Africa, Spain, St. Lucia, Suriname, Sweden, Switzerland, Thailand, Tonga, Trinidad and Tobago, Tunisia, Turkey, Tuvalu, United Arab Emirates or Uruguay with a normal passport.
 - This does not apply to airline crew.
@@ -8,8 +8,8 @@ Published 01.10.2021
 4. Suspension of visa exemptions for passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) normal passport.
 5. Suspension of visa exemptions for passengers with a Hong Kong (SAR China) passport.
 6. Suspension of visa exemptions for passengers with a Macao (SAR China) passport.
-7. Passengers could be subject to quarantine for 14 days.
-- This does not apply to passengers arriving from a country other than Angola, Bangladesh, Brazil, Chile, Djibouti, Indonesia, Kazakhstan, Kyrgyzstan, Malawi, Mozambique, Myanmar, Namibia, Pakistan, Peru, Philippines, South Africa, Suriname, Trinidad and Tobago, Uzbekistan or Zambia with:
+7. Passengers could be subject to quarantine for 10 days.
+- This does not apply to passengers arriving from a country other than Angola, Brazil, Djibouti, Kazakhstan, Kyrgyzstan, Madagascar, Mozambique, Myanmar, Namibia, Pakistan, Peru, Philippines, South Africa, Suriname, Trinidad and Tobago or Uzbekistan with:
 - a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival; or
 - a Quarantine Exemption Certificate.
 8. Passengers must install the 'self-quarantine safety protection mobile app' found at <a href="https://tinyurl.com/m9fcz6dc">https://tinyurl.com/m9fcz6dc</a> before departure or upon arrival.

@@ -43,4 +43,4 @@ Published 01.11.2021
 - passengers younger than 12 years;
 - nationals of Czechia with a service passport traveling on duty for a maximum stay of 72 hours;
 - passengers with a diplomatic passport traveling on duty for a maximum stay of 72 hours.
-4. Passengers could be subject to a COVID-19 test upon arrival and quarantine.
+4. Passengers could be subject to a COVID-19 test upon arrival.

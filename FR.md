@@ -1,4 +1,4 @@
-Published 25.10.2021
+Published 01.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of France, their spouses and children;
@@ -40,7 +40,19 @@ Published 25.10.2021
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival and a proof of previous infection with COVID-19; or
 - the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and a proof of complete vaccination of Sinopharm or Sinovac;
 - passengers with a positive COVID-19 antigen or PCR test issued at least 11 days and at most 6 months before departure from the first embarkation point.
-4. Passengers arriving from Bulgaria, Estonia, Latvia, Lithuania, Romania or United Kingdom must have a negative COVID-19 antigen or PCR test taken at most 24 hours before departure from the first embarkation point.
+4. Until 1 November 2021, passengers arriving from Bulgaria, Estonia, Latvia, Lithuania, Romania or United Kingdom must have a negative COVID-19 antigen or PCR test taken at most 24 hours before departure from the first embarkation point.
+- This does not apply to:
+- passengers younger than 12 years;
+- merchant seamen;
+- French military personnel returning from a mission abroad;
+- deadheading crew;
+- passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. The certificate must state that they received:
+- the first vaccine dose of Janssen at least 28 days before arrival; or
+- the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival; or
+- the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival and a proof of previous infection with COVID-19; or
+- the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and a proof of complete vaccination of Sinopharm or Sinovac;
+- passengers with a positive COVID-19 antigen or PCR test issued at least 11 days and at most 6 months before departure from the first embarkation point.
+4. Effective 2 November 2021, passengers arriving from Bulgaria, Croatia, Estonia, Latvia, Lithuania, Romania, Slovakia, Slovenia or United Kingdom must have a negative COVID-19 antigen or PCR test taken at most 24 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 12 years;
 - merchant seamen;
