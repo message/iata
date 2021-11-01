@@ -1,4 +1,4 @@
-Published 22.10.2021
+Published 01.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -69,35 +69,31 @@ The test result must be in Arabic or English and must be issued by an approved l
 - passengers younger than 12 years;
 - passengers with disabilities;
 - passengers arriving from Afghanistan, Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia.
-12. Passengers entering Abu Dhabi (AUH) from Armenia, Jordan, Kuwait or Netherlands must have a printed negative COVID-19 PCR test taken at most 24 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country.
-- This does not apply to:
-- passengers younger than 12 years;
-- passengers with disabilities.
-13. Passengers entering Abu Dhabi (AUH) must have a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. A negative test result issued by an approved laboratory in United Arab Emirates presented upon departure from Abu Dhabi (AUH) is also accepted if the test was taken at most 48 hours before departure to Abu Dhabi (AUH). Passengers arriving from Egypt, Ethiopia, Lebanon or Sudan, must have a QR code in the test result.
+12. Passengers entering Abu Dhabi (AUH) must have a printed negative COVID-19 PCR test taken at most 48 hours before departure from the first embarkation point. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. A negative test result issued by an approved laboratory in United Arab Emirates presented upon departure from Abu Dhabi (AUH) is also accepted if the test was taken at most 48 hours before departure to Abu Dhabi (AUH). Passengers arriving from Egypt, Ethiopia, Lebanon or Sudan, must have a QR code in the test result.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with disabilities；
 - passengers arriving from Afghanistan, Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia.
-14. Passengers transiting Abu Dhabi (AUH) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory accredited by the departure country. Passengers arriving from Egypt, Ethiopia, Lebanon or Sudan, must have a QR code in the test result.
+13. Passengers transiting Abu Dhabi (AUH) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Arabic or English and must be issued by an approved laboratory accredited by the departure country. Passengers arriving from Egypt, Ethiopia, Lebanon or Sudan, must have a QR code in the test result.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with disabilities;
 - passengers arriving from Afghanistan, Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia.
-15. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Afghanistan, Angola, Argentina, Azerbaijan, Bahrain, Bangladesh, Bosnia and Herzegovina, Brazil, Cambodia, Chile, Cote d'Ivoire, Czechia, Djibouti, Egypt, Eritrea, Ethiopia, Georgia, Ghana, Guinea, India, Indonesia, Iran, Iraq, Israel, Jordan, Kenya, Kyrgyzstan, Lebanon, Morocco, Myanmar, Nepal, Nigeria, Pakistan, Philippines, Qatar, Romania, Russian Fed., Rwanda, Senegal, Slovakia, Somalia, South Africa, South Sudan, Sri Lanka, Sudan, Syria, Tajikistan, Tanzania, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, Uzbekistan, Viet Nam, Zambia or Zimbabwe are subject to a COVID-19 PCR test upon arrival.
-16. Nationals of United Arab Emirates entering Dubai (DXB) or Al Maktoum (DWC) are subject to a COVID-19 PCR test upon arrival.
-17. Passengers entering Abu Dhabi (AUH), Ras Al Khaimah (RKT) or Sharjah (SHJ) are subject to a COVID-19 PCR test upon arrival.
-18. Passengers could be subject to quarantine.
+14. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Afghanistan, Angola, Argentina, Azerbaijan, Bahrain, Bangladesh, Bosnia and Herzegovina, Brazil, Cambodia, Chile, Cote d'Ivoire, Czechia, Djibouti, Egypt, Eritrea, Ethiopia, Georgia, Ghana, Guinea, India, Indonesia, Iran, Iraq, Israel, Jordan, Kenya, Kyrgyzstan, Lebanon, Morocco, Myanmar, Nepal, Nigeria, Pakistan, Philippines, Qatar, Romania, Russian Fed., Rwanda, Senegal, Slovakia, Somalia, South Africa, South Sudan, Sri Lanka, Sudan, Syria, Tajikistan, Tanzania, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, Uzbekistan, Viet Nam, Zambia or Zimbabwe are subject to a COVID-19 PCR test upon arrival.
+15. Nationals of United Arab Emirates entering Dubai (DXB) or Al Maktoum (DWC) are subject to a COVID-19 PCR test upon arrival.
+16. Passengers entering Abu Dhabi (AUH), Ras Al Khaimah (RKT) or Sharjah (SHJ) are subject to a COVID-19 PCR test upon arrival.
+17. Passengers could be subject to quarantine.
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V.
-19. Visa on arrival facilities at Abu Dhabi (AUH) restarted.
-20. Expired residence permits issued by the United Arab Emirates that have been extended until December 2020 are accepted for entry. Passengers must present proof of the extended validity.
-21. Nationals of Korea (Rep.) traveling under the Fast Track program must have an 'Isolation Exemption Certificate'.
-22. Passengers are not allowed to transit through Abu Dhabi (AUH) for more than 24 hours. Passengers must have a confirmed airside hotel booking if their transit time exceeds 12 hours.
-23. Nationals of Nigeria must have a return ticket, and a hotel booking or proof of accommodation address for the period of intended stay.
+18. Visa on arrival facilities at Abu Dhabi (AUH) restarted.
+19. Expired residence permits issued by the United Arab Emirates that have been extended until December 2020 are accepted for entry. Passengers must present proof of the extended validity.
+20. Nationals of Korea (Rep.) traveling under the Fast Track program must have an 'Isolation Exemption Certificate'.
+21. Passengers are not allowed to transit through Abu Dhabi (AUH) for more than 24 hours. Passengers must have a confirmed airside hotel booking if their transit time exceeds 12 hours.
+22. Nationals of Nigeria must have a return ticket, and a hotel booking or proof of accommodation address for the period of intended stay.
 - This does not apply to passengers with a resident visa.
-24. Passengers arriving at Sharjah (SHJ) must download the ALHOSN App.
-25. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
-26. Passengers entering Abu Dhabi (AUH) must register before departure on <a href="https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals">https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals</a> . This will generate a QR code which must be presented before departure and upon arrival.
+23. Passengers arriving at Sharjah (SHJ) must download the ALHOSN App.
+24. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
+25. Passengers entering Abu Dhabi (AUH) must register before departure on <a href="https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals">https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals</a> . This will generate a QR code which must be presented before departure and upon arrival.
 - This does not apply to nationals of United Arab Emirates.
-27. Residents of United Arab Emirates entering Abu Dhabi (AUH) must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 14 days before departure. They must update the certificate on <a href="https://smartservices.ica.gov.ae">https://smartservices.ica.gov.ae</a> .
+26. Residents of United Arab Emirates entering Abu Dhabi (AUH) must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 14 days before departure. They must update the certificate on <a href="https://smartservices.ica.gov.ae">https://smartservices.ica.gov.ae</a> .
 - This does not apply to passengers younger than 16 years.
 <p>

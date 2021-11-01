@@ -1,4 +1,4 @@
-Published 25.08.2021
+Published 01.11.2021
 1. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival must have a negative COVID-19 PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 12 years;
