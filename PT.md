@@ -1,12 +1,11 @@
-Published 29.10.2021
+Published 01.11.2021
 1. Until 30 November 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
 - residents of Portugal;
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland, and their family members;
 - passengers with a long term visa issued by Portugal;
-- until 31 October 2021, passengers arriving from Australia, Austria, Belgium, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Italy, Jordan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Moldova (Rep.), Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Rwanda, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Ukraine, United Kingdom or Uruguay;
-- effective 1 November 2021, passengers arriving from Argentina, Australia, Austria, Bahrain, Belgium, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Italy, Jordan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Moldova (Rep.), Namibia, Netherlands, New Zealand, Norway, Peru, Poland, Portugal, Qatar, Romania, Rwanda, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Ukraine, United Arab Emirates, United Kingdom or Uruguay;
+- passengers arriving from Argentina, Australia, Austria, Bahrain, Belgium, Bosnia and Herzegovina, Brazil, Bulgaria, Canada, Chile, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Italy, Jordan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Moldova (Rep.), Namibia, Netherlands, New Zealand, Norway, Peru, Poland, Portugal, Qatar, Romania, Rwanda, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Ukraine, United Arab Emirates, United Kingdom or Uruguay;
 - passengers with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden, returning via Portugal to their country of residence;
 - passengers with a long term visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden, returning via Portugal to their country of residence;
 - passengers with an EU Digital Covid Certificate (EU DCC); or
@@ -43,7 +42,6 @@ This does not apply to:
 - complete a "Health Form upon arrival at the Azores" and a "Draft statement for inter-island travel" upon arrival; or
 - submit a "Questionnaire for Risk Assessment and Early Detection" before departure at <a href="https://mysafeazores.com/">https://mysafeazores.com/</a>
 7. Passengers traveling to Madeira must complete an epidemiological survey before departure at <a href="https://madeirasafe.com">https://madeirasafe.com</a> . This will generate a QR code which must be presented upon arrival.
-8. Until 31 October 2021, passengers arriving from India, Nepal or South Africa must register at <a href="https://travel.sef.pt">https://travel.sef.pt</a> before departure and are subject to quarantine for 14 days.
-9. Passengers are subject to medical screening.
-10. National ID cards issued to nationals of Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
-11. Residence permits issued by Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
+8. Passengers are subject to medical screening.
+9. National ID cards issued to nationals of Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
+10. Residence permits issued by Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
