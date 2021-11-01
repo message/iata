@@ -10,6 +10,7 @@ Published 01.11.2021
 4. Passengers must have health insurance to cover COVID-19 expenses.
 - This does not apply to nationals and residents of Argentina.
 5. Passengers are subject to a COVID-19 antigen test upon arrival at their own expense.
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
 6. Passengers could be subject to quarantine for 7 days.
 - This does not apply to passengers with:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; and

@@ -1,4 +1,4 @@
-Published 08.10.2021
+Published 01.11.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Chile;
@@ -20,8 +20,6 @@ This does not apply to:
 - nationals and residents of Chile;
 - nationals of Spain with an E-CHL/09 and E-CH/11 form.
 6. Passengers must undergo "Passenger Tracking" for 14 days or until they leave Chile.
-7. Passengers could be subject to a COVID-19 PCR test upon arrival.
-8. Passengers are subject to quarantine for 7 days.
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
-9. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival are subject to quarantine for 5 days. Details can be found at <a href="https://chile.gob.cl/chile/en/ingreso-a-chile-desde-el-exterior">https://chile.gob.cl/chile/en/ingreso-a-chile-desde-el-exterior</a> .
-10. Passengers younger than 18 years traveling unaccompanied are subject to quarantine at home.
+7. Passengers could be subject to a COVID-19 PCR test upon arrival; and
+- are subject to quarantine for up to 7 days. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival are subject to quarantine until test results are ready. Details can be found at <a href="https://chile.gob.cl/chile/en/ingreso-a-chile-desde-el-exterior">https://chile.gob.cl/chile/en/ingreso-a-chile-desde-el-exterior</a> .
+8. Passengers younger than 18 years traveling unaccompanied are subject to quarantine at home.
