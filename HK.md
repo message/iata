@@ -1,4 +1,4 @@
-Published 22.10.2021
+Published 02.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -14,7 +14,8 @@ Published 22.10.2021
 - spouses and minor children younger than 18 years of Hong Kong SAR, China residents. They must present proof of their relationship;
 - deadheading crew;
 - merchant seamen;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. They must not have been in or transited through Bangladesh, Brazil, Cambodia, France, Greece, India, Indonesia, Iran, Ireland (Rep.), Malaysia, Nepal, Netherlands, Pakistan, Philippines, Russian Fed., South Africa, Spain, Sri Lanka, Switzerland, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom or USA in the past 21 days. The certificate must be in Chinese or English or accompanied by a written confirmation in Chinese or English issued by the health authority of the country of vaccination. Details on accepted vaccines can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a> .
+- passengers between 12 and 17 years old who reside in Hong Kong (SAR China), with a COVID-19 vaccination certificate showing that they received one dose of Pfizer-BioNTech (Comirnaty) at least 14 days before arrival. The certificate must be in Chinese or English or accompanied by a written confirmation in Chinese or English issued by the health authority of the country of vaccination;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The certificate must be in Chinese or English or accompanied by a written confirmation in Chinese or English issued by the health authority of the country of vaccination. They must, in the past 21 days, not have been in or transited through Bangladesh, Brazil, Cambodia, France, Greece, India, Indonesia, Iran, Ireland (Rep.), Malaysia, Nepal, Netherlands, Pakistan, Philippines, Russian Fed., South Africa, Spain, Sri Lanka, Switzerland, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom or USA. Details on accepted vaccines can be found at <a href="https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf">https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf</a>
 2. Passengers who in the past 21 days have been in or transited through Bangladesh, Brazil, Cambodia, France, Greece, India, Indonesia, Iran, Ireland (Rep.), Malaysia, Nepal, Netherlands, Pakistan, Philippines, Russian Fed., South Africa, Spain, Sri Lanka, Switzerland, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom or USA are not allowed to enter.
 - This does not apply to:
 - merchant seamen;
