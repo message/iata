@@ -34,4 +34,4 @@ The vaccination certificate must be in Arabic or English.
 - This does not apply to airline crew with a round trip flight.
 10. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.
 11. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
-12. More COVID-19 related information can be found at <a href="https://www.carc.jo/en/list-of-valid-notam">https://www.carc.jo/en/list-of-valid-notam</a>
+12. More COVID-19 related information can be found at <a href="https://www.carc.jo/index.php/en/covid19-related-measures">https://www.carc.jo/index.php/en/covid19-related-measures</a>
