@@ -1,4 +1,4 @@
-Published 01.11.2021
+Published 02.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Bahrain, Belgium, Bulgaria, Chile, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Arab Emirates and Uruguay;
@@ -13,8 +13,7 @@ Published 01.11.2021
 - passengers with:
 - a COVID-19 certificate with a QR code, issued in Denmark, Norway or Sweden; or
 - a digital EU Digital COVID Certificate (EU DCC); or
-- an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales; or
-- a COVID-19 certificate issued in Albania, Andorra, Armenia, Faroe Isl., Iceland, Israel, Liechtenstein, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine or Vatican City (Holy See).
+- a COVID-19 certificate with a QR code issued in Albania, Andorra, Armenia, Faroe Isl., Iceland, Israel, Liechtenstein, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine, United Kingdom or Vatican City (Holy See).
 Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
 2. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="https://reg.entrynorway.no/">https://reg.entrynorway.no/</a>
 - This does not apply to:
@@ -27,8 +26,7 @@ Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and 
 - a digital COVID-19 recovery certificate issued at most 6 months before arrival.
 The certificate must be:
 - an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
-- a certificate with a QR code issued by Albania, Andorra, Armenia, Faroe Isl., Morocco, or Panama; or
-- an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales (UK).
+- a COVID-19 certificate with a QR code issued in Albania, Andorra, Armenia, Faroe Isl., Morocco, Panama or United Kingdom.
 Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
 3. Passengers are subject to:
 - a COVID-19 antigen test and a PCR test upon arrival; or
@@ -41,8 +39,7 @@ Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and 
 - a digital COVID-19 recovery certificate issued at most 6 months before arrival.
 The certificate must be:
 - an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
-- a certificate with a QR code issued by Albania, Andorra, Armenia, Faroe Isl., Israel, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Turkey, Ukraine or Vatican City (Holy See); or
-- an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales (UK).
+- a COVID-19 certificate with a QR code issued in Albania, Andorra, Armenia, Faroe Isl., Israel, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Turkey, Ukraine, United Kingdom or Vatican City (Holy See).
 Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
 4. Passengers could be subject to quarantine.
 - This does not apply to passengers with:
@@ -50,6 +47,5 @@ Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and 
 - a digital COVID-19 recovery certificate issued at most 6 months before arrival.
 The certificate must be:
 - an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or
-- a COVID-19 certificate issued in Albania, Andorra, Armenia, Faroe Isl., Israel, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Turkey, Ukraine or Vatican City (Holy See); or
-- an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales (UK).
+- a COVID-19 certificate with a QR code issued in Albania, Andorra, Armenia, Faroe Isl., Israel, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Turkey, Ukraine, United Kingdom or Vatican City (Holy See).
 Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
