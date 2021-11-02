@@ -1,10 +1,10 @@
-Published 01.11.2021
+Published 02.11.2021
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and permanent residents of Brunei Darussalam;
 - passengers with a diplomatic passport. They must have an Entry Travel Pass letter issued by The Government of Brunei Darussalam and a return/onward ticket;
 - members of the Armed Forces;
-- passengers travelling on business or on duty with an Entry Travel Pass letter issued by the Government of Brunei Darussalam. They must have stayed in Singapore in the last 14 days before departure and have a mobile device with the BruHealth app downloaded. More details can be found at <a href="http://www.pmo.gov.bn/travelportal/Home.aspx">http://www.pmo.gov.bn/travelportal/Home.aspx</a> and <a href="https://safetravel.ica.gov.sg/brunei/rgl/faq">https://safetravel.ica.gov.sg/brunei/rgl/faq</a> ;
+- passengers travelling on business or on duty with an Entry Travel Pass letter issued by the Government of Brunei Darussalam. They must have stayed in Singapore in the last 14 days before departure and have a mobile device with the BruHealth app downloaded. More details can be found at <a href="http://www.pmo.gov.bn/travelportal/Home.aspx">http://www.pmo.gov.bn/travelportal/Home.aspx</a> and <a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-brunei">https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-brunei</a> ;
 2. Passengers must have a negative COVID-19 RT-PCR test taken at most 48 hours before departure.
 3. Passengers with an Entry Travel Pass letter issued by The Government of Brunei Darussalam must have a confirmed hotel reservation and download the BruHealth app in their mobile device.
 - This does not apply to passengers with a diplomatic passport.
