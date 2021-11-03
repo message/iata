@@ -1,5 +1,5 @@
-Published 16.09.2021
-1. Flights to Lao People's Dem. Rep. are suspended.
+Published 03.11.2021
+1. Until 14 November 2021, flights to Lao People's Dem. Rep. are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Passengers must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point.
 3. Passengers must have a reservation confirmation for 14 days at a designated hotel and transportation arrangements.
