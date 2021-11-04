@@ -1,4 +1,4 @@
-Published 25.10.2021
+Published 04.11.2021
 1. Passengers are subject to a COVID-19 test upon arrival.
 - This does not apply to:
 - passengers younger than 16 years;
@@ -15,13 +15,11 @@ Published 25.10.2021
 3. Passengers traveling to Greenland must have a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty).
 - This does not apply to:
 - passengers younger than 15 years;
-- residents of Greenland.
+- residents of Greenland;
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 weeks before departure.
-4. Passengers traveling to Greenland must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Greenland. The test must be taken in Denmark, Finland, Iceland, Norway or Sweden.
+4. Passengers traveling to Greenland must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Greenland. The test must be taken in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom.
 - This does not apply to:
 - passengers younger than 2 years;
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 weeks before departure.
-5. Passengers traveling to Greenland:
-- must have a Personal Location Form (SUMUT) obtained before departure at <a href="https://sumut2020.gl/Instructions/EditInstructions">https://sumut2020.gl/Instructions/EditInstructions</a> ; and
-- could be subject to a COVID-19 test upon arrival. Details can be found at <a href="https://visitgreenland.com/corona-faq/">https://visitgreenland.com/corona-faq/</a> .
+5. Passengers traveling to Greenland could be subject to a COVID-19 test upon arrival. Details can be found at <a href="https://visitgreenland.com/corona-faq/">https://visitgreenland.com/corona-faq/</a> .
 6. For more information, please refer to the website <a href="https://coronasmitte.dk/en/entry-into-denmark">https://coronasmitte.dk/en/entry-into-denmark</a> and <a href="https://en.coronasmitte.dk/covidtravelrules/">https://en.coronasmitte.dk/covidtravelrules/</a> .

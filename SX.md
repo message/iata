@@ -3,7 +3,7 @@ Published 01.11.2021
 - This does not apply to:
 - passengers younger than 11 years;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. A combination of vaccines is accepted;
-- passengers with a proof of previous COVID-19 infection and a COVID-19 vaccination certificate showing that they received one dose at least 2 weeks before arrival.
+- passengers with proof of previous COVID-19 infection and a COVID-19 vaccination certificate showing that they received one dose at least 2 weeks before arrival.
 2. Passengers younger than 11 years and older than 4 years entering or transiting through St. Maarten arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, French Guiana, Guyana, India, Nepal, Pakistan, Panama, Paraguay, Peru, South Africa, Suriname, Trinidad and Tobago, Uruguay or Venezuela must have a negative COVID-19 RT-PCR test, based on a nasopharyngeal or oropharyngeal swab and taken at most 24 hours before departure of the last direct flight to St. Maarten.
 3. Passengers entering or transiting through St. Maarten from Canada or USA must have:
 - a negative COVID-19 RT-PCR test, based on a nasopharyngeal swab and taken at most 72 hours before departure of the last direct flight to St. Maarten; or
@@ -11,7 +11,7 @@ Published 01.11.2021
 - This does not apply to:
 - passengers younger than 10 years;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. A combination of vaccines is accepted;
-- passengers with a proof of previous COVID-19 infection and a COVID-19 vaccination certificate showing that they received one dose at least 2 weeks before arrival.
+- passengers with proof of previous COVID-19 infection and a COVID-19 vaccination certificate showing that they received one dose at least 2 weeks before arrival.
 4. Passengers younger than 11 years and older than 4 years entering or transiting through St. Maarten arriving from Canada or USA must have:
 - a negative COVID-19 RT-PCR test, based on a nasopharyngeal or oropharyngeal swab and taken at most 72 hours before departure of the last direct flight to St. Maarten; or
 - a negative COVID-19 antigen test, based on a nasopharyngeal or oropharyngeal swab and taken at most 48 hours before departure of the last direct flight to St. Maarten.
@@ -21,7 +21,7 @@ Published 01.11.2021
 - passengers arriving from Anguilla, Argentina, Barbados, Bolivia, Bonaire, St. Eustatius and Saba, Brazil, Canada, Cayman Isl., Chile, China (People's Rep.), Colombia, Costa Rica, Ecuador, French Guiana, Grenada, Guyana, Hong Kong (SAR China), India, Montserrat, Nepal, New Zealand, Pakistan, Panama, Paraguay, Peru, Singapore, South Africa, St. Barthelemy, St. Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Isl., USA, Uruguay or Venezuela;
 - passengers younger than 10 years;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. A combination of vaccines is accepted;
-- passengers with a proof of previous COVID-19 infection and a COVID-19 vaccination certificate showing that they received one dose at least 2 weeks before arrival.
+- passengers with proof of previous COVID-19 infection and a COVID-19 vaccination certificate showing that they received one dose at least 2 weeks before arrival.
 6. Passengers younger than 11 years and older than 4 years entering or transiting through St. Maarten must have a negative COVID-19 RT-PCR test, based on a nasopharyngeal or oropharyngeal swab and taken at most 72 hours before departure of the last direct flight to St. Maarten.
 - This does not apply to:
 - residents of Saba, St. Eustatius, St. Maarten or St. Martin;
@@ -35,5 +35,5 @@ Published 01.11.2021
 9. Airline crew entering or transiting through St. Maarten without a negative COVID-19 antigen or RT-PCR test, based on a nasopharyngeal swab and taken at most 48 hours before departure of the last direct flight to St. Maarten, are subject to quarantine until their next flight.
 - This does not apply to:
 - airline crew with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. A combination of vaccines is accepted;
-- airline crew with a proof of previous COVID-19 infection and a COVID-19 vaccination certificate showing that they received one dose at least 2 weeks before arrival.
+- airline crew with proof of previous COVID-19 infection and a COVID-19 vaccination certificate showing that they received one dose at least 2 weeks before arrival.
 10. Passengers are subject to medical screening and could be subject to COVID-19 test upon arrival and to self-isolation.
