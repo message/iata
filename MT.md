@@ -1,5 +1,5 @@
-Published 26.10.2021
-1. Until 30 November 2021, passengers are not allowed to enter.
+Published 04.11.2021
+1. Until 26 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Malta with:
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
