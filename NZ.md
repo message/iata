@@ -1,4 +1,4 @@
-Published 01.11.2021
+Published 04.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -24,7 +24,7 @@ Published 01.11.2021
 - This does not apply to nationals of China (People’s Rep.) arriving from Cook Isl., Fiji, Niue, Samoa, Tonga or Vanuatu.
 6. Transit is only allowed at Auckland (AKL) for maximum 24 hours.
 7. Passengers transiting through New Zealand to Australia must have a confirmed onward ticket on a red zone flight within 14 days.
-8. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. They must register the vaccination in the Managed Isolation Allocation System.
+8. Passengers and airline crew entering or transiting through New Zealand must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. Those entering must register the vaccination in the Managed Isolation Allocation System at <a href="https://allocation.miq.govt.nz/portal/">https://allocation.miq.govt.nz/portal/</a>.
 - This does not apply to:
 - nationals of New Zealand;
 - passengers younger than 17 years;

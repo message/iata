@@ -1,4 +1,4 @@
-Published 27.10.2021
+Published 04.11.2021
 1. Passengers must have a printed negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.
 - This does not apply to:
 - passengers younger than 2 years;
@@ -14,7 +14,7 @@ They must also have a printed negative COVID-19 antigen test taken at most 48 ho
 They must also have a printed negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point. Test results and vaccination certificates must be in English.
 3. Passengers must complete a "Health Declaration" form and present it upon arrival. The form can be completed online at <a href="https://airport.lk/health_declaration/index">https://airport.lk/health_declaration/index</a> or upon arrival or obtained at <a href="https://www.caa.lk/en/special-notices-for-covid-19">https://www.caa.lk/en/special-notices-for-covid-19</a>
 4. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before departure traveling as tourists can obtain an Electronic Travel Authorization (ETA) on arrival.
-5. Passengers could be subject to quarantine for 14 days. Details can be found at <a href="https://www.epid.gov.lk/web/">https://www.epid.gov.lk/web/</a>
+5. Passengers could be subject to quarantine for 7 days. Details can be found at <a href="https://www.epid.gov.lk/web/">https://www.epid.gov.lk/web/</a>
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before departure;
 - passengers with a positive COVID-19 antigen or PCR test taken at most 3 months before departure; and
