@@ -1,4 +1,4 @@
-Published 02.11.2021
+Published 04.11.2021
 1. Until 30 November 2021, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -40,7 +40,7 @@ Published 02.11.2021
 12. Passengers are subject to medical screening.
 13. Passengers are subject to quarantine for 10 days.
 - This does not apply to:
-- passengers arriving from Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Malaysia, Maldives, Malta, Mongolia, Myanmar, Nepal, Netherlands, New Zealand, Norway, Oman, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Arab Emirates, United Kingdom or Viet Nam with:
+- This does not apply to passengers who have been in Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Malaysia, Maldives, Malta, Mongolia, Myanmar, Nepal, Netherlands, New Zealand, Norway, Oman, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Arab Emirates, United Kingdom or Viet Nam in the past 21 days. They Must have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure from the first embarkation point. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V; and
 - a COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point; and
 - a medical insurance; and
