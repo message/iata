@@ -1,7 +1,7 @@
-Published 29.09.2021
-1. Flights from New Zealand are suspended.
+Published 05.11.2021
+1. Until 12 January 2022, flights from New Zealand are suspended.
 - This does not apply to repatriation flights.
-2. Passengers are not allowed to enter.
+2. Until 12 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - Cook Islanders;
 - passengers with a permanent residence permit;
