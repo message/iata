@@ -1,5 +1,5 @@
 Published 05.11.2021
-1. Passengers are not allowed to enter.
+1. Until 10 November 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Fiji;
 - residents of Fiji with a written approval issued by the Immigration Department in Fiji.

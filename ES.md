@@ -1,4 +1,4 @@
-Published 03.11.2021
+Published 05.11.2021
 1. Until 30 November 2021, passengers are not allowed to enter.
 This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
@@ -23,7 +23,9 @@ This does not apply to:
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers arriving from Australia, Bahrain, Canada, Chile, China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), Malta, New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates or Uruguay;
-- passengers arriving from France (excluding Guyane, Martinique, Auvergne-Rhone-Alpes, Bourgogne-Franche-Comte, Bretagne, Centre — Val de Loire, Corse, Grand Est, Guadeloupe, Hauts-de-France, Ile-de-France, La Reunion, Normandie, Nouvelle-Aquitaine, Occitanie, Pays de la Loire and Provence-Alpes-Cote d'Azur); passengers arriving from Italy (excluding Calabria, Campania, Emilia-Romagna, Friuli-Venezia Giulia, Lazio, Marche, Provincia Autonoma di Bolzano/Bozen, Sicilia, Toscana and Veneto); and passengers arriving from Portugal (excluding continental Portugal and Regiao Autonoma dos Acores);
+- effective 8 November 2021, passengers arriving from Argentina, Colombia, Namibia or Peru.
+- until 7 November 2021, passengers arriving from France (excluding Guyane, Martinique, Auvergne-Rhone-Alpes, Bourgogne-Franche-Comte, Bretagne, Centre — Val de Loire, Corse, Grand Est, Guadeloupe, Hauts-de-France, Ile-de-France, La Reunion, Normandie, Nouvelle-Aquitaine, Occitanie, Pays de la Loire and Provence-Alpes-Cote d'Azur); passengers arriving from Italy (excluding Calabria, Campania, Emilia-Romagna, Friuli-Venezia Giulia, Lazio, Marche, Provincia Autonoma di Bolzano/Bozen, Sicilia, Toscana and Veneto); and passengers arriving from Portugal (excluding continental Portugal and Regiao Autonoma dos Acores);
+- effective 8 November 2021, passengers arriving from France (excluding Guyane, Martinique, Auvergne-Rhone-Alpes, Bourgogne-Franche-Comte, Bretagne, Centre — Val de Loire, Corse, Grand Est, Guadeloupe, Hauts-de-France, Ile-de France, La Reunion, Normandie, Nouvelle-Aquitaine, Occitanie, Pays de la Loire and Provence-Alpes-Cote d’Azur); passengers arriving from Italy (excluding provincia Autonoma di Bolzano/Bozen, Abruzzo, Calabria, Campania, Emilia Romagna, Friuli-Venezia Giulia, Lazio, Liguria, Marche, Provincia Autonoma di Trento, Puglia, Sicilia, Toscana, Umbria and Veneto);
 - residents of the United Kingdom arriving from the United Kingdom;
 - deadheading crew.
 3. Residents of the United Kingdom arriving from the United Kingdom must have:
