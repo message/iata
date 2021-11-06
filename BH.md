@@ -1,4 +1,4 @@
-Published 02.11.2021
+Published 06.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates;
@@ -25,12 +25,16 @@ Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covi
 5. Passengers must have a reservation confirmation for 10 days, for a designated government hotel listed at <a href="https://www.nhra.bh/Departments/HCF/?page=159">https://www.nhra.bh/Departments/HCF/?page=159</a> or proof that they reside in Bahrain.
 - This does not apply to:
 - passengers younger than 6 years;
-- passengers with a COVID-19 vaccination certificate issued in Bahrain, Cyprus, Greece, Hungary, Israel, Kuwait, Oman, Saudi Arabia, Seychelles or United Arab Emirates showing that they were fully vaccinated at least 14 days before arrival;
+- passengers with a COVID-19 vaccination certificate with a QR code showing that they were fully vaccinated at least 14 days before arrival;
+- passengers with a COVID-19 vaccination certificate issued in Cyprus, Greece, Hungary, Israel, Jordan Kuwait, Oman, Saudi Arabia, Seychelles or United Arab Emirates showing that they were fully vaccinated at least 14 days before arrival;
 - passengers with a COVID-19 vaccination certificate issued in countries that are eligible for visa on arrival.
+Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 6. Passengers could be subject to quarantine for up to 10 days.
 - This does not apply to:
-- passengers with a COVID-19 vaccination certificate issued in Bahrain, Cyprus, Greece, Hungary, Israel, Kuwait, Oman, Saudi Arabia, Seychelles or United Arab Emirates showing that they were fully vaccinated at least 14 days before arrival;
+- passengers with a COVID-19 vaccination certificate with a QR code showing that they were fully vaccinated at least 14 days before arrival;
+- passengers with a COVID-19 vaccination certificate issued in Cyprus, Greece, Hungary, Israel, Jordan Kuwait, Oman, Saudi Arabia, Seychelles or United Arab Emirates showing that they were fully vaccinated at least 14 days before arrival;
 - passengers with a COVID-19 vaccination certificate issued in countries that are eligible for visa on arrival.
+Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 7. Flights from Addis Ababa (ABB) and Baku (BAK) are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 8. Flights from Iraq, Lebanon and Syria are suspended.
