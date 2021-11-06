@@ -1,4 +1,4 @@
-Published 04.11.2021
+Published 06.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -7,7 +7,7 @@ Published 04.11.2021
 - nationals or permanent residents of Australia residing in New Zealand;
 - passengers who have a visa and have been granted an exemption before departure; details can be found at <a href="https://www.immigration.govt.nz/formshelp/request-for-travel-to-new-zealand">https://www.immigration.govt.nz/formshelp/request-for-travel-to-new-zealand</a> ;
 - passengers arriving from Cook Isl. or Niue if they in the past 14 days have only been in Cook Isl., New Zealand or Niue.
-2. Passengers who in the past 14 days have been in or transited through Brazil, Fiji, India, Indonesia, Pakistan or Papua New Guinea are not allowed to enter.
+2. Passengers who in the past 14 days have been in Brazil, Fiji, India, Indonesia, Pakistan or Papua New Guinea are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
 - partner or dependent child of a national of New Zealand;
@@ -21,9 +21,9 @@ Published 04.11.2021
 - passengers with a visa issued by New Zealand if they have not been in Brazil, India, Indonesia, Pakistan or Papua New Guinea in the past 14 days.
 4. Passengers are not allowed to transit through New Zealand to Australia, Cook Isl. or Niue if they are arriving from Australia, Cook Isl. or Niue.
 5. Passengers are not allowed to transit through New Zealand to China (People's Rep.).
-- This does not apply to nationals of China (People’s Rep.) arriving from Cook Isl., Fiji, Niue, Samoa, Tonga or Vanuatu.
+- This does not apply to nationals of China (People's Rep.) arriving from Cook Isl., Fiji, Niue, Samoa, Tonga or Vanuatu.
 6. Transit is only allowed at Auckland (AKL) for maximum 24 hours.
-7. Passengers transiting through New Zealand to Australia must have a confirmed onward ticket on a red zone flight within 14 days.
+7. Passengers transiting through New Zealand to Australia must have a confirmed onward ticket on a red zone flight.
 8. Passengers and airline crew entering or transiting through New Zealand must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. Those entering must register the vaccination in the Managed Isolation Allocation System at <a href="https://allocation.miq.govt.nz/portal/">https://allocation.miq.govt.nz/portal/</a>.
 - This does not apply to:
 - nationals of New Zealand;
@@ -51,7 +51,7 @@ Published 04.11.2021
 - This does not apply to:
 - passengers arriving from Cook Isl. if they in the past 14 days have only been in Cook Isl. or New Zealand;
 - passengers arriving from Niue if they in the past 14 days have only been in New Zealand or Niue.
-13. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz/">https://border.covid19.govt.nz</a>
+13. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz">https://border.covid19.govt.nz</a>
 14. Passengers could be subject to medical screening and quarantine for 14 days.
 15. Airline crew not residing in Australia or New Zealand must have:
 - a negative COVID-19 test result. Tests accepted are: antigen, LAMP, NAAT, PCR, RT-PCR and TMA tests. The test must have been taken at most 7 days before arrival; or
