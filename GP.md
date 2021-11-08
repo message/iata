@@ -16,3 +16,4 @@ Published 02.11.2021
 4. Passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/3wnu8gvj">https://tinyurl.com/3wnu8gvj</a>
 5. Passengers arriving from Afghanistan, Algeria, Brazil, Colombia, Costa Rica, Cuba, Georgia, Iran, Maldives, Morocco, Pakistan, Russian Fed., Seychelles, South Africa, Suriname, Tunisia or Turkey are subject to an antigen or PCR test upon arrival.
 6. Passengers are subject to self-isolation or quarantine for up to 14 days.
+</p>
