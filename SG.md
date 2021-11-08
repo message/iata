@@ -1,9 +1,9 @@
-Published 27.10.2021
+Published 08.11.2021
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
 - This does not apply to passengers with a Long-Term Visit Pass (LTVP) or a Long-Term Visit Pass In-Principle Approval (LTVP IPA). They must have an Approval Letter for Entry (ALE) issued by the Safe Travel Office (STO) or the Immigration & Checkpoints Authority (ICA).
-- This does not apply to passengers with a Work Pass, Long-Term Visit Pass (LTVP), Dependant's Pass, or the respective In-Principle Approval (IPA) issued by the Ministry of Manpower (MOM). They must have an approval letter from the Ministry of Manpower (MOM) or Safe Travel Office (STO). Passengers with travel history to higher risk countries/regions in the past 14 days prior to departure for Singapore must have an approval letter with the following reference codes: R001; OPT-OUT OF SDF_CMod; or OPT-OUT OF <a href="mailto:SHN@SDF">SHN@SDF</a> , and have documentary proof of COVID-19 vaccination (full vaccination with AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience Co Ltd. from Korea), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 14 days before arrival), either in the form of a hardcopy vaccination certificate, or a vaccination status on the HealthHub app or TraceTogether app. Passengers holding an approval letter with other reference codes and passengers below 18 years old will not be required to present documentary proof of vaccination. Pass holders who cannot be vaccinated due to special considerations will be issued with an exemption letter by a Singapore Government Agency and must present this to the airline during pre-boarding checks.
+- This does not apply to passengers with a Work Pass, Long-Term Visit Pass (LTVP), Dependant's Pass, or the respective In-Principle Approval (IPA) issued by the Ministry of Manpower (MOM). They must have an approval letter from the Ministry of Manpower (MOM) or Safe Travel Office (STO).
 - This does not apply to passengers with a Student's Pass (STP) or a Student's Pass In-Principle Approval (STP IPA). They must have an Approval Letter for Entry (ALE) issued by the Ministry of Education (MOE) or the Safe Travel Office (STO).
 - This does not apply to passengers with an approval letter from the Safe Travel Office (STO), Ministry of Foreign Affairs (MFA), Ministry of Education (MOE), Ministry of Health (MOH), or Ministry of Trade and Industry (MTI).
 - This does not apply to with a Business Travel Pass (BTP) or a Pre-Approved Business Pass (PBP).
@@ -50,8 +50,8 @@ More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs-
 - This does not apply to passengers younger than 6 years.
 4. Passengers are not allowed to transit Singapore.
 - This does not apply when traveling on airlines with transfer routes approved by the Civil Aviation Authority of Singapore (CAAS). Passengers must check with airlines if the airlines have the Civil Aviation Authority of Singapore (CAAS)'s approval, before purchasing tickets.
-5. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine or Stay Home Notice (SHN). Please refer to <a href="https://safetravel.ica.gov.sg/">https://safetravel.ica.gov.sg</a> and Stay Home Notice (SHN) (ica.gov.sg)
-6. Passengers could be subject to a COVID-19 PCR test upon arrival at their own expense. Passengers should register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for Singapore at <a href="https://safetravel.changiairport.com/">https://safetravel.changiairport.com</a>
+5. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine or Stay Home Notice (SHN). Please refer to <a href="https://safetravel.ica.gov.sg">https://safetravel.ica.gov.sg</a> and Stay Home Notice (SHN) (ica.gov.sg)
+6. Passengers could be subject to a COVID-19 PCR test upon arrival at their own expense. Passengers should register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for at <a href="https://safetravel.changiairport.com">https://safetravel.changiairport.com</a>
 - This does not apply to:
 - passengers younger than 3 years;
 - merchant seamen;
@@ -59,3 +59,10 @@ More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs-
 - who have only been in, or transited through, countries classified as categories II, III and IV in <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>
 7. Passengers must submit a health declaration before arrival via the SG Arrival Card (SGAC) e-Service (<a href="https://eservices.ica.gov.sg/sgarrivalcard">https://eservices.ica.gov.sg/sgarrivalcard</a>) or via the mobile application.
 - This does not apply to passengers in transit.
+8. Passengers with a Work Pass, Long-Term Visit Pass (LTVP), Dependant's Pass, or the respective In-Principle Approval (IPA), a Student's Pass (STP) or a Student's Pass In-Principle Approval (STP IPA), must have:
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac;
+- vaccination status on the HealthHub app or TraceTogether app is accepted as proof of vaccination.
+More details can be found at: <a href="https://safetravel.ica.gov.sg/health/vtsg">https://safetravel.ica.gov.sg/health/vtsg</a>
+- This does not apply to:
+- passengers younger than 18 years;
+- passengers with an exemption letter issued by the Ministry of Manpower (MOM).
