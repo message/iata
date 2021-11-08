@@ -1,4 +1,4 @@
-Published 05.10.2021
+Published 08.11.2021
 1. Passengers could be subject to quarantine for 10 days. Details can be found at <a href="https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/">https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/</a> .
 - This does not apply to passengers with a negative COVID-19 PCR test taken at most 72 hours before arrival. The test must be taken in an international transit area of an airport; or
 - in Australia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, New Zealand, Netherlands, Norway, Poland, Portugal, Romania, Russian Fed., Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom or USA;
@@ -10,5 +10,5 @@ Published 05.10.2021
 - a COVID-19 vaccination certificate showing that they received the first vaccine dose at most 8 months after testing positive. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;
 - More exemptions can be found at <a href="https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/">https://www.gov.si/en/topics/coronavirus-disease-covid-19/border-crossing/</a> .
-2. Passengers must complete a Digital Passenger Locator Form (DPLF) obtained at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a> .
+2. Passengers must complete a Digital Passenger Locator Form (DPLF) before arrival obtained at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a> .
 3. More COVID-19 related information can be found at <a href="https://www.policija.si/enterslovenia/en">https://www.policija.si/enterslovenia/en</a> .
