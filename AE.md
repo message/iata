@@ -1,4 +1,4 @@
-Published 01.11.2021
+Published 08.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -8,7 +8,7 @@ Published 01.11.2021
 - passengers traveling to Abu Dhabi (AUH) with a pre-arranged visa issued by Abu Dhabi;
 - nationals and residents of Bahrain, Kuwait, Oman, Qatar and Saudi Arabia;
 - nationals of Korea (Rep.) traveling under the Fast Track program and traveling to Dubai (DXB). They must have a pre-arranged visa or a pre-approval to enter;
-- nationals of Andorra, Argentina, Australia, Austria, Bahamas, Barbados, Belarus, Belgium, Brazil, Brunei Darussalam, Bulgaria, Canada, Chile, China (People's Rep.), Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, El Salvador, Estonia, Finland, France, Germany, Greece, Honduras, Hungary, Iceland, Ireland (Rep.), Italy, Japan, Kazakhstan, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Maldives, Malta, Mauritius, Mexico, Monaco, Montenegro, Nauru, Netherlands, New Zealand, Norway, Peru, Poland, Portugal, Romania, Russian Fed., San Marino, Serbia, Seychelles, Singapore, Slovakia, Slovenia, Solomon Isl., Spain, St. Vincent and the Grenadines, Sweden, Switzerland, USA, Ukraine, Uruguay and Vatican City (Holy See), passengers with a British passport with nationality "British Citizen" and passengers with a Hong Kong (SAR China) passport, traveling to Abu Dhabi (AUH);
+- nationals of Andorra, Argentina, Australia, Austria, Bahamas, Barbados, Belarus, Belgium, Brazil, Brunei Darussalam, Bulgaria, Canada, Chile, China (People's Rep.), Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, El Salvador, Estonia, Finland, France, Germany, Greece, Honduras, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Kazakhstan, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Maldives, Malta, Mauritius, Mexico, Monaco, Montenegro, Nauru, Netherlands, New Zealand, Norway, Peru, Poland, Portugal, Romania, Russian Fed., San Marino, Serbia, Seychelles, Singapore, Slovakia, Slovenia, Solomon Isl., Spain, St. Vincent and the Grenadines, Sweden, Switzerland, USA, Ukraine, Uruguay and Vatican City (Holy See), passengers with a British passport with nationality "British Citizen" and passengers with a Hong Kong (SAR China) passport, traveling to Abu Dhabi (AUH);
 - nationals of India with a visa issued by the USA or with a residence permit issued by USA, United Kingdom or an EU Member State traveling to Abu Dhabi (AUH);
 - passengers traveling to Abu Dhabi (AUH) with a resident visa;
 - passengers traveling to Abu Dhabi (AUH) with a pre-arranged visa issued by any emirate;
@@ -79,7 +79,7 @@ The test result must be in Arabic or English and must be issued by an approved l
 - passengers younger than 12 years;
 - passengers with disabilities;
 - passengers arriving from Afghanistan, Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia.
-14. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Afghanistan, Angola, Argentina, Azerbaijan, Bahrain, Bangladesh, Bosnia and Herzegovina, Brazil, Cambodia, Chile, Cote d'Ivoire, Czechia, Djibouti, Egypt, Eritrea, Ethiopia, Georgia, Ghana, Guinea, India, Indonesia, Iran, Iraq, Israel, Jordan, Kenya, Kyrgyzstan, Lebanon, Morocco, Myanmar, Nepal, Nigeria, Pakistan, Philippines, Qatar, Romania, Russian Fed., Rwanda, Senegal, Slovakia, Somalia, South Africa, South Sudan, Sri Lanka, Sudan, Syria, Tajikistan, Tanzania, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, Uzbekistan, Viet Nam, Zambia or Zimbabwe are subject to a COVID-19 PCR test upon arrival.
+14. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Afghanistan, Angola, Argentina, Azerbaijan, Bangladesh, Bosnia and Herzegovina, Brazil, Cambodia, Chile, Cote d'Ivoire, Czechia, Djibouti, Egypt, Eritrea, Ethiopia, Georgia, Ghana, Guinea, India, Iran, Iraq, Jordan, Kenya, Kyrgyzstan, Lebanon, Morocco, Myanmar, Nepal, Nigeria, Pakistan, Philippines, Romania, Russian Fed., Rwanda, Senegal, Slovakia, Somalia, South Africa, South Sudan, Sri Lanka, Sudan, Syria, Tajikistan, Tanzania, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, Uzbekistan, Viet Nam, Zambia or Zimbabwe are subject to a COVID-19 RT-PCR test upon arrival.
 15. Nationals of United Arab Emirates entering Dubai (DXB) or Al Maktoum (DWC) are subject to a COVID-19 PCR test upon arrival.
 16. Passengers entering Abu Dhabi (AUH), Ras Al Khaimah (RKT) or Sharjah (SHJ) are subject to a COVID-19 PCR test upon arrival.
 17. Passengers could be subject to quarantine.

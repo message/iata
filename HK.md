@@ -1,4 +1,4 @@
-Published 02.11.2021
+Published 08.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -50,7 +50,7 @@ All documents must be in Chinese or English.
 12. Passengers and airline crew must complete a Health Declaration Form at <a href="https://www.chp.gov.hk/hdf/">https://www.chp.gov.hk/hdf/</a>. This will generate a QR code which must be presented upon arrival.
 13. Passengers and airline crew are subject to a COVID-19 test upon arrival. Details can be found at <a href="https://www.coronavirus.gov.hk/eng/inbound-travel.html">https://www.coronavirus.gov.hk/eng/inbound-travel.html</a> .
 14. Passengers are subject to medical screening upon arrival and quarantine for up to 21 days. More details can be found at <a href="https://www.coronavirus.gov.hk/eng/inbound-travel.html">https://www.coronavirus.gov.hk/eng/inbound-travel.html</a> .
-15. Airline crew must have a negative COVID-19 nucleic acid test result issued at most 48 hours before departure.
+15. Airline crew must have a negative COVID-19 nucleic acid test taken at most 48 hours before departure.
 16. Airline crew are subject to medical screening upon arrival and self-isolation in a hotel.
 17. Airline crew who have been in or transited through Bangladesh, Brazil, Cambodia, France, Greece, India, Indonesia, Iran, Ireland (Rep.), Malaysia, Nepal, Netherlands, Pakistan, Philippines, Russian Fed., South Africa, Spain, Sri Lanka, Switzerland, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom or USA in the past 21 days are subject to quarantine for 21 days.
 18. Merchant seamen must have:
