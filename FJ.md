@@ -1,4 +1,4 @@
-Published 08.11.2021
+Published 09.11.2021
 Until 10 November 2021:
 1. Passengers are not allowed to enter.
 - This does not apply to:
@@ -9,7 +9,7 @@ Until 10 November 2021:
 - passengers younger than 2 years;
 - passengers younger than 12 years arriving from Australia, Canada, Cook Isl., France, French Polynesia, Germany, Japan, Kiribati, Korea (Rep.), Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, New Zealand, Palau, Qatar, Samoa, Singapore, Solomon Isl., Spain, Switzerland, Tonga, Tuvalu, United Arab Emirates, United Kingdom, USA or Vanuatu;
 - passengers with a positive RT-PCR test taken at most 90 days before departure. They must have a medical certificate issued by a medical practitioner showing they are fit to fly and have completed an isolation period.
-3. Passengers are subject to medical screening and quarantine for up to 14 days. More details can be found at <a href="https://www.mcttt.gov.fj/home/traveltofiji/international-travel/">https://www.mcttt.gov.fj/home/traveltofiji/international-travel/</a></p><p>
+3. Passengers are subject to medical screening and quarantine for up to 14 days. More details can be found at <a href="https://www.mcttt.gov.fj/home/traveltofiji/international-travel/">https://www.mcttt.gov.fj/home/traveltofiji/international-travel/</a>
 Effective 11 November 2021 until 30 November 2021:
 1. Passengers are not allowed to enter.
 - This does not apply to:
@@ -22,7 +22,8 @@ They are subject to quarantine for 3 days. Vaccines accepted are AstraZeneca, Ja
 - passengers younger than 12 years arriving from Australia, Canada, Cook Isl., France, French Polynesia, Germany, Japan, Kiribati, Korea (Rep.), Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, New Zealand, Palau, Qatar, Samoa, Singapore, Solomon Isl., Spain, Switzerland, Tonga, Tuvalu, United Arab Emirates, United Kingdom, USA or Vanuatu;
 - passengers with a positive RT-PCR test taken at most 90 days before departure. They must have a medical certificate issued by a medical practitioner showing they are fit to fly and have completed an isolation period.
 3. Passengers transiting through Fiji for 10 hours or longer are subject to quarantine until their connection flight at a hotel booked at <a href="https://fijimanagedquarantine.com">https://fijimanagedquarantine.com</a>
-4. Passengers are subject to medical screening and quarantine for up to 14 days. More details can be found at <a href="https://www.mcttt.gov.fj/home/traveltofiji/international-travel/">https://www.mcttt.gov.fj/home/traveltofiji/international-travel/</a></p><p>Effective 1 December 2021:
+4. Passengers are subject to medical screening and quarantine for up to 10 days. More details can be found at <a href="https://www.mcttt.gov.fj/home/traveltofiji/international-travel/">https://www.mcttt.gov.fj/home/traveltofiji/international-travel/</a>
+Effective 1 December 2021:
 1. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are AstraZeneca, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
 - This does not apply to passengers younger than 18 years.
 2. Passengers must have a negative COVID-19 RT-PCR test taken at most 3 days before departure.
