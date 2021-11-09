@@ -1,4 +1,4 @@
-Published 08.11.2021
+Published 09.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -54,6 +54,6 @@ All documents must be in Chinese or English.
 16. Airline crew are subject to medical screening upon arrival and self-isolation in a hotel.
 17. Airline crew who have been in or transited through Bangladesh, Brazil, Cambodia, France, Greece, India, Indonesia, Iran, Ireland (Rep.), Malaysia, Nepal, Netherlands, Pakistan, Philippines, Russian Fed., South Africa, Spain, Sri Lanka, Switzerland, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom or USA in the past 21 days are subject to quarantine for 21 days.
 18. Merchant seamen must have:
-- a negative COVID-19 nucleic acid test result issued at most 48 hours before departure, and
+- a negative COVID-19 nucleic acid test taken at most 48 hours before departure, and
 - an approval letter from the Marine Department, and
 - a letter of certification to Department of Health from Hong Kong.
