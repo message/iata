@@ -1,10 +1,10 @@
-Published 08.11.2021
+Published 09.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Bahrain, Belgium, Bulgaria, Chile, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Arab Emirates and Uruguay;
 - British nationals;
 - passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport;
-- residents of Austria, Bahrain, Belgium, Bulgaria, Chile, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Arab Emirates, United Kingdom and Uruguay;
+- residents of Argentina, Austria, Bahrain, Belgium, Bulgaria, Chinese Taipei, Colombia, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Namibia, Netherlands, New Zealand, Norway, Peru, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Arab Emirates, United Kingdom and Uruguay;
 - spouses, registered partners, unmarried partners, children, stepchildren, parents, stepparents of residents of Norway;
 - passengers who are sons or daughters, parents or stepparents, grandchildren or step-grandchildren, grandparents or step-grandparents of residents of Norway;
 - passengers with consent application issued by the Norway Directorate of Immigration (UDI) and who are boyfriends or girlfriends of residents of Norway and their minor children;

@@ -1,5 +1,6 @@
-Published 01.11.2021
-1. Passengers and airline crew must complete a "Declaracion Jurada Electronica para el ingreso al Territorio Nacional" available at <a href="http://ddjj.migraciones.gob.ar/app/">http://ddjj.migraciones.gob.ar/app/</a>
+Published 09.11.2021
+1. Passengers and airline crew must complete a "Declaracion Jurada Electronica para el ingreso al Territorio Nacional" at <a href="http://ddjj.migraciones.gob.ar/app/">http://ddjj.migraciones.gob.ar/app/</a>
+- This does not apply to passengers older than 70 years who can complete it upon arrival.
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 6 years;

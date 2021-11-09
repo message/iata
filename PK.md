@@ -1,5 +1,5 @@
-Published 04.11.2021
-1. Passengers arriving from Costa Rica, Ethiopia, Guatemala, Iran, Iraq, Mexico, Mongolia, Philippines, Slovenia, South Africa, Thailand or Trinidad and Tobago are not allowed to enter.
+Published 09.11.2021
+1. Until 30 November 2021, passengers arriving from Armenia, Bulgaria, Costa Rica, Iraq, Mexico, Mongolia, Slovenia, Thailand, Trinidad and Tobago or Ukraine are not allowed to enter.
 - This does not apply to nationals of Pakistan.
 2. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated.
 - This does not apply to:
@@ -17,7 +17,9 @@ Published 04.11.2021
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with disabilities.
-6. Passengers are subject to a COVID-19 rapid antigen test upon arrival.
+6. Passengers arriving from Afghanistan, Armenia, Bulgaria, Costa Rica, Ethiopia, Germany, Iran, Iraq, Mexico, Mongolia, Philippines, Russian Fed., Slovenia, Thailand, Trinidad and Tobago or Ukraine are subject to a COVID-19 rapid antigen test upon arrival.
 - This does not apply to passengers younger than 6 years.
-7. Passengers and airline crew could be subject to quarantine.
-8. Flights to Gwadar (GWD) and Turbat (TUK) are suspended.
+7. Passengers could be subject to a COVID-19 rapid antigen test upon arrival.
+- This does not apply to passengers arriving from Afghanistan, Armenia, Bulgaria, Costa Rica, Ethiopia, Germany, Iran, Iraq, Mexico, Mongolia, Philippines, Russian Fed., Slovenia, Thailand, Trinidad and Tobago or Ukraine.
+8. Passengers and airline crew could be subject to quarantine.
+9. Flights to Gwadar (GWD) and Turbat (TUK) are suspended.
