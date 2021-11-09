@@ -1,4 +1,4 @@
-Published 04.11.2021
+Published 09.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
@@ -13,12 +13,14 @@ Published 04.11.2021
 3. Passengers must enter Indonesia via Jakarta (CGK) or Manado (MDC).
 4. Passengers must have a printed negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.
 5. Airline crew must have a printed negative COVID-19 PCR or RT-PCR test taken at most 7 days before departure from the first embarkation point. The test result must be in English.
-6. Passengers must have a COVID-19 vaccination certificate showing that they received one dose at least 14 days before departure. The certificate must be issued in both English and a local language of the country where the passenger was vaccinated.
+6. Passengers must have a COVID-19 vaccination certificate showing that:
+- they were fully vaccinated at least 14 days before departure; or
+- have received at least one dose of the vaccine at least 14 days before departure.
+The certificate must be issued in both English and a local language of the country where passengers were vaccinated.
 - This does not apply to:
 - nationals of Indonesia;
 - passengers younger than 18 years;
-- passengers with a diplomatic or service visa and an invitation letter issued by an Indonesian Ministry;
-- passengers traveling under the Travel Corridor Arrangement (TCA).
+- passengers with a diplomatic or service visa and an invitation letter issued by an Indonesian Ministry under the Travel Corridor Arrangement (TCA).
 7. Airline crew must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. The certificate must be issued in both English and a local language of the country where the airline crew was vaccinated.
 - This does not apply to airline crew transiting without disembarking the aircraft.
 8. Passengers are subject to a COVID-19 PCR test upon arrival and quarantine for up to 5 days.
