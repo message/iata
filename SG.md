@@ -1,4 +1,4 @@
-Published 08.11.2021
+Published 10.11.2021
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
@@ -14,7 +14,7 @@ Published 08.11.2021
 - have a valid proof of vaccination issued in Singapore or a Vaccinated Travel Lane (VTL) country/region listed on <a href="https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries">https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries</a> and
 - in the past 14 days they have only been in or transited through Singapore or a VTL country/region; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor); and
-- have a medical certificate with a negative Coronavirus (COVID-19) PCR test result. The test must have been taken at most 48 hours before departure from the first embarkation point; and
+- have a medical certificate with a negative Coronavirus (COVID-19) PCR test taken at most 2 days before departure from the first embarkation point; and
 - arrive in Singapore on a designated VTL flight.
 - This does not apply to residents of Brunei Darussalam if they:
 - have a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane; and
@@ -32,13 +32,13 @@ Published 08.11.2021
 - This does not apply to passengers between 3 and 12 years, if they:
 - in the past 14 days have only been in, or transited through, Singapore or a VTL country/region listed on <a href="https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries">https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries</a>; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor); and
-- have a medical certificate with a negative Coronavirus (COVID-19) PCR test result. The test must have been taken at most 48 hours before departure from the first embarkation point; and
+- have a medical certificate with a negative Coronavirus (COVID-19) PCR test taken at most 2 days before departure from the first embarkation point; and
 - arrive in Singapore on a designated VTL flight.
-2. Passengers entering and transiting through Singapore must have a negative COVID-19 PCR test taken at most 48 hours before departure from the first embarkation point. If passengers have transited for more than 24 hours before arriving in Singapore, the negative test must be taken at most 48 hours before departure of the last direct flight to Singapore. The test result must:
+2. Passengers entering and transiting through Singapore must have a negative Coronavirus (COVID-19) PCR test taken at most 2 days before departure from the first embarkation point. If passengers have transited for more than 24 hours before arriving in Singapore, the negative test must be taken at most 2 days before departure of the last direct flight to Singapore. The test result must:
 - be in English; and
 - include the date the test was taken; and
 - include a minimum of 2 personal identifiers as stated in the passport (i.e. name and either date of birth or passport number).
-More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements">https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements</a> .
+More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements">https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements</a>
 - This does not apply to:
 - passengers younger than 3 years;
 - passengers who in the past 14 days have only been in or transited through China (People's Rep.), Chinese Taipei, Hong Kong (SAR China) or Macao (SAR China).
@@ -65,4 +65,4 @@ More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs-
 More details can be found at: <a href="https://safetravel.ica.gov.sg/health/vtsg">https://safetravel.ica.gov.sg/health/vtsg</a>
 - This does not apply to:
 - passengers younger than 18 years;
-- passengers with an exemption letter issued by the Ministry of Manpower (MOM).
+- passengers with an exemption letter issued by a Singapore government agency.

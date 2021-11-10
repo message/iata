@@ -1,4 +1,4 @@
-Published 04.11.2021
+Published 10.11.2021
 1. Until 26 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Malta with:
@@ -28,7 +28,9 @@ Published 04.11.2021
 - a "MiVacuna" COVID-19 digital vaccination certificate issued in Colombia App; or
 - an Immunization Certificate for COVID-19 issued in Oman; or
 - a COVID-19 vaccination certificate issued by the National Centre for Disease Control of Libya.
-Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. COVID-19 vaccination certificates, cards and passes must show that the passenger was fully vaccinated at least 14 days before arrival.;
+Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech; and
+- Covaxin, Covishield, Sinopharm and Sinovac are accepted when AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech were the booster dose.
+COVID-19 vaccination certificates, cards and passes must show that the passenger was fully vaccinated at least 14 days before arrival;
 - passengers and merchant seamen arriving from Albania, Andorra, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahrain, Belarus, Belgium, Belize, Bermuda, Bhutan, Bulgaria, Canada, Cape Verde, Cayman Isl., Chile, China (People's Rep.), Chinese Taipei, Colombia, Croatia, Cuba, Cyprus, Czechia, Denmark, Djibouti, Egypt, Equatorial Guinea, Estonia, Falk Isl., Faroe Isl., Fiji, Finland, France, Gabon, Georgia, Germany, Gibraltar, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland (Rep.), Israel, Italy, Jamaica, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malaysia, Maldives, Mauritania, Moldova (Rep.), Monaco, Mongolia, Morocco, Myanmar, Namibia, Netherlands, New Zealand, Norway, Oman, Panama, Poland, Portugal, Qatar, Romania, Russian Fed., Rwanda, San Marino, Sao Tome and Principe, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, St. Kitts and Nevis, Sweden, Switzerland, Timor-Leste, Trinidad and Tobago, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, Uruguay, USA, Vatican City (Holy See) or Vietnam. They must have been in one of these countries for at least 14 days before arrival and must be younger than 5 years or have:
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a COVID-19 recovery certificate issued at most 6 months before arrival and a COVID-19 vaccination certificate showing that they received the first COVID-19 vaccine dose; or
@@ -56,7 +58,9 @@ Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNT
 - a "MiVacuna" COVID-19 digital vaccination certificate issued in Colombia App; or
 - an Immunization Certificate for COVID-19 issued in Oman; or
 - a COVID-19 vaccination certificate issued by the National Centre for Disease Control of Libya.
-Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. COVID-19 vaccination certificates, cards and passes must show that the passenger was fully vaccinated at least 14 days before arrival;
+Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech; and
+- Covaxin, Covishield, Sinopharm and Sinovac are accepted when AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech were the booster dose.
+COVID-19 vaccination certificates, cards and passes must show that the passenger was fully vaccinated at least 14 days before arrival;
 - passengers arriving on humanitarian, medevac or repatriation flights;
 - merchant seamen with an approval from <a href="mailto:portmedic@gov.mt">portmedic@gov.mt</a> ;
 - nationals or residents of Malta younger than 12 years.
@@ -92,5 +96,7 @@ Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNT
 - a "MiVacuna" COVID-19 digital vaccination certificate issued in Colombia App; or
 - an Immunization Certificate for COVID-19 issued in Oman; or
 - a COVID-19 vaccination certificate issued by the National Centre for Disease Control of Libya.
-Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. COVID-19 vaccination certificates, cards and passes must show that the passenger was fully vaccinated at least 14 days before arrival.
+Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech; and
+- Covaxin, Covishield, Sinopharm and Sinovac are accepted when AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech were the booster dose.
+COVID-19 vaccination certificates, cards and passes must show that the passenger was fully vaccinated at least 14 days before arrival.
 More details can be found at <a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx">https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx</a>

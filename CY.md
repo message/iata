@@ -1,4 +1,4 @@
-Published 28.10.2021
+Published 10.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Cyprus, their spouses and children;
@@ -13,7 +13,7 @@ Published 28.10.2021
 - This does not apply to:
 - nationals and residents of Cyprus, between 12 and 15 years;
 - passengers younger than 12 years;
-- passengers arriving from Italy, Jordan, Kuwait, Malta, New Zealand, Saudi Arabia, United Arab Emirates or Vatican City (Holy See);
+- passengers arriving from Bahrain, Kuwait, Malta, Saudi Arabia or United Arab Emirates;
 - passengers 16 year and older, who are nationals of Cyprus, their spouses and children, with a COVID-19 vaccination certificate stating that they received the first dose of AstraZeneca (Covishield, SK Bioscience, Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac;
 - passengers 16 year and older, who are residents of Cyprus with a COVID-19 vaccination certificate stating that they received the first dose of AstraZeneca (Covishield, SK Bioscience, Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival . Vaccines accepted are AstraZeneca (Covishield, SK Bioscience, Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. The certificate must be issued in:
