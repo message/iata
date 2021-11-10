@@ -2,7 +2,7 @@ Published 08.11.2021
 1. Passengers entering or transiting through the USA must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. Passenger details (e.g., name and date of birth) in the certificate must match those stated in the passport/travel document. Vaccines accepted are:
 - AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. A combination of these vaccines is accepted if administered at least 17 days apart; and
 - AstraZeneca and Novavax trials administered in the US.
-More details can be found at Requirement for Proof of COVID-19 Vaccination for Air Passengers | CDC
+More details can be found at <a href="http://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html">www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html</a>
 This does not apply to:
 - nationals of the USA
 - residents of the USA;
@@ -37,4 +37,4 @@ This does not apply to passengers younger than 2 years.
 Vaccines accepted are:
 - AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. A combination of these vaccines is accepted if administered at least 17 days apart; and
 - AstraZeneca and Novavax trials administered in the US.
-- More details can be found at Requirement for Proof of COVID-19 Vaccination for Air Passengers | CDC
+- More details can be found at <a href="http://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html">www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html</a>
