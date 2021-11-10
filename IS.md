@@ -1,4 +1,4 @@
-Published 01.10.2021
+Published 10.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Iceland;
@@ -6,7 +6,7 @@ Published 01.10.2021
 - British nationals who reside in Iceland and have a residence certificate (C-122), which can be obtained at <a href="http://www.icetra.is/about/press-room/news/travel-restrictions-for-uk-citizens-due-to-covid-19">www.icetra.is/about/press-room/news/travel-restrictions-for-uk-citizens-due-to-covid-19</a>
 - passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;
 - family members of nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and EEA Member States;
-- residents of Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New Zealand, North Macedonia (Rep.), Rwanda, Serbia, Singapore, Thailand or USA arriving from their country of residence;
+- residents of Argentina, Australia, Bahrain, Bosnia and Herzegovina, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Israel, Jordan, Korea (Rep.), Kosovo (Rep.), Kuwait, Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro, Namibia, New Zealand, North Macedonia (Rep.), Peru, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates, Uruguay or USA arriving from their country of residence;
 - passengers in a long-term intimate relationship with a national or resident of Iceland;
 - military personnel traveling on duty;
 - students;
