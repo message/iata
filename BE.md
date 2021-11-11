@@ -1,4 +1,4 @@
-Published 09.11.2021
+Published 11.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
@@ -53,6 +53,7 @@ Published 09.11.2021
 - military personnel traveling on duty;
 - students.
 7. Passengers must have:
+- a negative COVID-19 antigen test taken at most 36 hours before departure from the first embarkation point. The test result must be in Dutch, English, French or German; or;
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Dutch, English, French or German; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty); or
 - a positive COVID-19 PCR test issued at most 180 days before arrival and a recovery certificate.
