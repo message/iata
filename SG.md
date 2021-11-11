@@ -1,4 +1,4 @@
-Published 10.11.2021
+Published 11.11.2021
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
@@ -10,31 +10,33 @@ Published 10.11.2021
 - This does not apply to passengers with an Air Travel Pass approval letter issued by Singapore if they:
 - in the past 14 days have only been in China (People's Rep.), Chinese Taipei, Hong Kong (SAR China) or Macao (SAR China); and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor).
-- This does not apply to passengers with a Vaccinated Travel Pass approval letter issued by Singapore if they:
-- have a valid proof of vaccination issued in Singapore or a Vaccinated Travel Lane (VTL) country/region listed on <a href="https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries">https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries</a> and
-- in the past 14 days they have only been in or transited through Singapore or a VTL country/region; and
+- This does not apply to passengers with a Vaccinated Travel Pass (VTL) approval letter issued by Singapore if they:
+- have a valid proof of vaccination issued in Singapore or a Vaccinated Travel Lane (VTL) country/region listed on <a href="https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries">https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries</a> ; and
+- in the past 14 days they have only been in or transited through China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Macao (SAR China), Singapore or a VTL country/region; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor); and
-- have a medical certificate with a negative Coronavirus (COVID-19) PCR test taken at most 2 days before departure from the first embarkation point; and
+- have a medical certificate with a negative Coronavirus (COVID-19) PCR or rapid antigen test, taken at most 2 days before departure from the first embarkation point; and
 - arrive in Singapore on a designated VTL flight.
 - This does not apply to residents of Brunei Darussalam if they:
 - have a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor); and
-- have a medical certificate with a negative Coronavirus (COVID-19) PCR test result. The test must have been taken at most 72 hours before departure from the first embarkation point; and
+- have a medical certificate with a negative Coronavirus (COVID-19) PCR test taken at most 3 days before departure from the first embarkation point; and
 - stayed in Brunei Darussalam in the last 14 days before departure; and
 - have a return ticket or proof of other transportation arrangements to depart from Singapore.
 - This does not apply to residents of China (People's Rep.) if they:
 - have a valid Safe Travel Pass approval letter issued by Singapore under the Singapore-China Reciprocal Green Lane; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor); and
-- have a medical certificate with a negative Coronavirus (COVID-19) PCR test result. The test must have been taken at most 72 hours before departure from the first embarkation point; and
+- have a medical certificate with a negative Coronavirus (COVID-19) PCR test taken at most 3 days before departure from the first embarkation point; and
 - stayed in Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, or Zhejiang in the last 7 days before departure; and
 - have a return ticket or proof of other transportation arrangements to depart from Singapore.
 - This does not apply to returning passengers with a Work Pass, Student's Pass, Dependant's Pass, or Long-Term Visit Pass who have an Entry Travel Pass issued by the Brunei authorities under the Singapore-Brunei Reciprocal Green Lane, an invitation letter issued by the Chinese authorities under the Singapore-China Fast Lane, a Singapore-Germany-Singapore (SGS) Travel Pass issued by the Singaporean-German Chamber of Industry and Commerce under the Singapore-Germany Reciprocal Green Lane, an electronic visa issued by the Indonesian authorities, an approval letter issued by the Embassy of Japan under the Singapore-Japan Reciprocal Green Lane, an approval letter issued by the Korea (Rep.) Embassy in Singapore under the Singapore-ROK Fast Lane, or a MyTravelPass approval letter issued by the Malaysian authorities under the Singapore-Malaysia Reciprocal Green Lane. They do not require an approval letter from the Safe Travel Office (STO), Ministry of Manpower (MOM), or Ministry of Education (MOE).
 - This does not apply to passengers between 3 and 12 years, if they:
-- in the past 14 days have only been in, or transited through, Singapore or a VTL country/region listed on <a href="https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries">https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries</a>; and
+- in the past 14 days have only been in, or transited through China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Macao (SAR China), Singapore or a VTL country/region; and
+- have a medical certificate with a negative Coronavirus (COVID-19) PCR or rapid antigen test taken at most 2 days before departure from the first embarkation point; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor); and
-- have a medical certificate with a negative Coronavirus (COVID-19) PCR test taken at most 2 days before departure from the first embarkation point; and
 - arrive in Singapore on a designated VTL flight.
-2. Passengers entering and transiting through Singapore must have a negative Coronavirus (COVID-19) PCR test taken at most 2 days before departure from the first embarkation point. If passengers have transited for more than 24 hours before arriving in Singapore, the negative test must be taken at most 2 days before departure of the last direct flight to Singapore. The test result must:
+2. Passengers entering and transiting through Singapore from Argentina, Aruba, Bangladesh, Belarus, Bonaire, Brazil, Chile, Colombia, Curacao, Estonia, Ethiopia, Faroe Isl., Greenland, Guam, India, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Luxembourg, Malaysia, Maldives, Malta, Mexico, Mongolia, Myanmar, Nepal, Netherlands, New Zealand, Northern Mariana Isl., Norway, Oman, Pakistan, Papua New Guinea, Philippines, Poland, Portugal, Puerto Rico, Qatar, Romania, Russian Fed., Rwanda, Saba, Samoa, Samoa (American), San Marino, Saudi Arabia, Serbia, Seychelles, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, St. Eustatius, St. Maarten, Sweden, Switzerland, Thailand, Tonga, Turkey, Ukraine, United Arab Emirates, United Kingdom, Vatican City (Holy See), Viet Nam or Virgin Isl. (USA), must have a negative Coronavirus (COVID-19) PCR or rapid antigen test taken at most 2 days before departure from the first embarkation point.
+- If passengers have transited for more than 24 hours before arriving in Singapore, the negative test must be taken at most 2 days before departure of the last direct flight to Singapore.
+The test result must:
 - be in English; and
 - include the date the test was taken; and
 - include a minimum of 2 personal identifiers as stated in the passport (i.e. name and either date of birth or passport number).
@@ -42,12 +44,17 @@ More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs-
 - This does not apply to:
 - passengers younger than 3 years;
 - passengers who in the past 14 days have only been in or transited through China (People's Rep.), Chinese Taipei, Hong Kong (SAR China) or Macao (SAR China).
-3. Passengers with an Air Travel Pass approval letter issued by Singapore, passengers who are short-term visitors with a valid Vaccinated Travel Pass approval letter issued by Singapore, passengers with a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane and Singapore-China Fast Lane, and passengers with an approval letter from the Ministry of Trade and Industry (MTI) with the reference numbers C01 or C21 must:
-- have a mobile device with the TraceTogether app already downloaded, with the passenger's profile registered on the app and the ‘Activate App' holding screen shown on the app; or
-- if the passenger has a mobile device with the TraceTogether app downloaded but is unable to show the ‘Activate App' holding screen, have an electronic or physical copy of his/her booking confirmation for a Singapore SIM card from Changi Recommends; or
-- if the passenger does not have a mobile device with the TraceTogether app downloaded, have an electronic or physical copy of his/her booking confirmation for a mobile device from Changi Recommends;
-- children who are aged 7 to 12 years and those unable to use a mobile device due to certified disability or special need, are eligible to be issued TraceTogether tokens.
-- This does not apply to passengers younger than 6 years.
+3. Passengers entering and transiting through Singapore from a country other than
+Argentina, Aruba, Bangladesh, Belarus, Bonaire, Brazil, Chile, China (People's Rep.) Chinese Taipei, Colombia, Curacao, Estonia, Ethiopia, Faroe Isl., Greenland, Guam, Hong Kong (SAR China), India, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Luxembourg, Macao (SAR China), Malaysia, Maldives, Malta, Mexico, Mongolia, Myanmar, Nepal, Netherlands, New Zealand, Northern Mariana Isl., Norway, Oman, Pakistan, Papua New Guinea, Philippines, Poland, Portugal, Puerto Rico, Qatar, Romania, Russian Fed., Rwanda, Saba, Samoa, Samoa (American), San Marino, Saudi Arabia, Serbia, Seychelles, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, St. Eustatius, St. Maarten, Sweden, Switzerland, Thailand, Tonga, Turkey, Ukraine, United Arab Emirates, United Kingdom, Vatican City (Holy See), Viet Nam or Virgin Isl. (USA), must have a negative Coronavirus (COVID-19) PCR test taken at most 2 days before departure from the first embarkation point.
+- If passengers have transited for more than 24 hours before arriving in Singapore, the negative test must be taken at most 2 days before departure of the last direct flight to Singapore.
+The test result must:
+- be in English; and
+- include the date the test was taken; and
+- include a minimum of 2 personal identifiers as stated in the passport (i.e. name and either date of birth or passport number).
+More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements">https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements</a>
+- This does not apply to:
+- passengers younger than 3 years;
+- passengers who in the past 14 days have only been in or transited through China (People's Rep.), Chinese Taipei, Hong Kong (SAR China) or Macao (SAR China).
 4. Passengers are not allowed to transit Singapore.
 - This does not apply when traveling on airlines with transfer routes approved by the Civil Aviation Authority of Singapore (CAAS). Passengers must check with airlines if the airlines have the Civil Aviation Authority of Singapore (CAAS)'s approval, before purchasing tickets.
 5. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine or Stay Home Notice (SHN). Please refer to <a href="https://safetravel.ica.gov.sg">https://safetravel.ica.gov.sg</a> and Stay Home Notice (SHN) (ica.gov.sg)
