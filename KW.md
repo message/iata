@@ -1,4 +1,4 @@
-Published 07.10.2021
+Published 11.11.2021
 1. Nationals of Israel are not allowed to enter and transit.
 2. Passengers are not allowed to enter.
 This does not apply to:
@@ -35,3 +35,4 @@ This does not apply to:
 12. Passengers with a COVID-19 vaccination certificate issued outside of Kuwait must:
 - have a QR code on the certificate; or
 - upload the certificate at <a href="https://vaxcert.moh.gov.kw/SPCMS/PH/CVD_19_Vaccine_External_Registration.aspx">https://vaxcert.moh.gov.kw/SPCMS/PH/CVD_19_Vaccine_External_Registration.aspx</a> .
+- This does not apply to US military personnel.

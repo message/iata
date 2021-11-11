@@ -1,4 +1,4 @@
-Published 01.09.2021
+Published 11.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;
@@ -7,4 +7,5 @@ Published 01.09.2021
 - passengers with a negative COVID-19 rapid antigen test taken at most 48 hours before arrival;
 - passengers younger than 18 years.
 2. Passengers without a COVID-19 vaccination certificate, recovery certificate, RT-PCR or rapid antigen test are subject to quarantine for 7 days at their own expense.
-3. Passengers arriving from India are subject to quarantine for 14 days.
+- This does not apply to passengers younger than 18 years.
+3. Passengers arriving from India could be subject to quarantine for 14 days.
