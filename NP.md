@@ -16,7 +16,7 @@ Published 18.10.2021
 6. Visa on arrival facilities restarted for eligible passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
 - Visa on arrival facility is not available to passengers traveling with an emergency passport, a temporary passport or a temporary travel document.
 7.Passengers must have a copy of permits for mountain climbing, trekking, etc.
--This does not apply to
+- This does not apply to
 - nationals of Nepal;
 - spouses of Nepali nationals;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
