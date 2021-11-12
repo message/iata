@@ -1,7 +1,7 @@
-Published 09.11.2021
+Published 12.11.2021
 1. Nationals of , Angola, Belize, Benin, Botswana, Burkina Faso, Burundi, Cambodia, Cameroon, Central African Rep., Colombia, Comoros, Congo (Dem. Rep.), Cote d'Ivoire, Cuba, Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Iraq, Liberia, Madagascar, Mali, Mauritania, Mongolia, Morocco, Mozambique, Myanmar, Namibia, Nepal, Niger, Pakistan, Papua New Guinea, Philippines, Senegal, Sierra Leone, Somalia, South Sudan, Sri Lanka, Sudan, Tanzania, Togo, Uganda, Viet Nam and Zambia are not allowed to enter.
 - This does not apply to:
-- passengers with a residence permit issued by Jordan;
+- passengers with a residence permit or visa issued by Jordan;
 - passengers with a residence permit valid for a minimum of 6 months from the arrival date issued by Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Oman, Poland, Portugal, Qatar, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, USA, United Arab Emirates or United Kingdom and return/onward tickets;
 - nationals of Comoros, Djibouti, Iraq, Mauritania, Morocco or Sudan residing in Turkey;
 - passengers with a visa issued by Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Jordan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland or USA;
