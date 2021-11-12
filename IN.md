@@ -1,4 +1,4 @@
-Published 01.11.2021
+Published 12.11.2021
 1. Until 30 November 2021, flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.
@@ -18,10 +18,14 @@ This does not apply to:
 - Effective 15 November 2021, this does not apply to E-Tourist visas and tourist visas (Type T) issued on or after 6 October 2021.
 5. Medical visas issued on or before 21 October 2020 are no longer valid.
 6. Passengers must complete the self-declaration form before departure. They must select ‘Air Suvidha’ on the right top corner at <a href="http://www.newdelhiairport.in/">www.newdelhiairport.in</a>
-7. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test must be uploaded at <a href="http://www.newdelhiairport.in/">www.newdelhiairport.in</a>
-8. Passengers arriving from Albania, Andorra, Austria, Bangladesh, Bosnia & Herzegovina, Botswana, Brazil, Bulgaria, China (People’s Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Greece, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritius, Moldova (Rep.), Monaco, Montenegro, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, Russian Fed., San Marino, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland or Zimbabwe are subject to a COVID-19 molecular test upon arrival at their own expense.
-9. Passengers arriving from Armenia, Belarus, Belgium, France, Germany, Hungary, Lebanon, Nepal, Serbia, United Kingdom or Ukraine are subject to a COVID-19 molecular test upon arrival at their own expense and home quarantine for 7 days.
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before arrival.
+7. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test must be uploaded at <a href="http://www.newdelhiairport.in">www.newdelhiairport.in</a>
+- This does not apply to passenger younger than 5 years.
+8. Passengers arriving from China (People's Rep.), Cyprus, Denmark, Italy, Latvia, Lithuania, Luxembourg, Malta, Monaco, New Zealand, North Macedonia (Rep.), Norway, Portugal, San Marino, Singapore or South Africa are subject to a COVID-19 molecular test upon arrival at their own expense.
+- This does not apply to passenger younger than 5 years.
+9. Passengers arriving from Albania, Andorra, Angola, Antigua and Barbuda, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Botswana, Brazil, Bulgaria, Canada, Chad, Colombia, Comoros, Costa Rica, Croatia, Czechia, Dominica, Dominican Rep., Egypt, El Salvador, Estonia, Eswatini, Finland, France, Georgia, Germany, Ghana, Greece, Guatemala, Guyana, Haiti, Honduras, Hungary, Iceland, Iran, Ireland (Rep.), Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Liechtenstein, Malawi, Maldives, Mali, Mauritius, Mexico, Moldova (Rep.), Mongolia, Montenegro, Namibia, Nepal, Netherlands, Nicaragua, Nigeria, Oman, Palestinian Territory, Panama, Paraguay, Peru, Philippines, Poland, Qatar, Romania, Russian Fed., Serbia, Sierra Leone, Slovakia, Slovenia, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Syria, Trinidad and Tobago, Tunisia, Turkey, Uganda, United Arab Emirates, United Kingdom, Ukraine, USA, Uruguay or Zimbabwe are subject to a COVID-19 molecular test upon arrival at their own expense and home quarantine for 7 days.
+- This does not apply to:
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before arrival;
+- passenger younger than 5 years.
 10. Passengers are subject to medical screening
 11. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://www.mohfw.gov.in/pdf/Guidelinesforinternationalarrivals17022021.pdf">https://www.mohfw.gov.in/pdf/Guidelinesforinternationalarrivals17022021.pdf</a> .
 12. Persons of Indian Origin (PIO) cards which have expired are considered valid until 31 December 2021.
