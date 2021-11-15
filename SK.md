@@ -1,4 +1,4 @@
-Published 13.09.2021
+Published 15.11.2021
 1. Passengers must complete the 'Public Health Passenger' form before arrival. The form can be obtained at <a href="https://www.mindop.sk/covid/">https://www.mindop.sk/covid/</a>
 2. Passengers must register online before arrival at <a href="https://korona.gov.sk/ehranica/">https://korona.gov.sk/ehranica/</a>
 3. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before arrival.
