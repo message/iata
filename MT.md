@@ -1,4 +1,4 @@
-Published 10.11.2021
+Published 16.11.2021
 1. Until 26 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Malta with:
@@ -8,13 +8,10 @@ Published 10.11.2021
 - a COVID-19 vaccination certificate issued by Malta; or
 - a digital EU Digital Covid Certificate (EU DCC); or
 - an NHS Covid Pass issued by the United Kingdom; or
-- a COVID-19 vaccination certificate issued in Bahrain, Canada, Egypt, Gibraltar, Jersey and Guernsey, Kuwait, Lebanon, San Marino, Singapore or Vatican City (Holy See); or
-- a COVID-19 vaccination certificate issued in Turkey with a QR Code; or
+- a COVID-19 vaccination certificate issued in Bahrain, Canada, Egypt, Gibraltar, Jersey and Guernsey, Kuwait, Lebanon or Singapore; or
 - a COVID-19 vaccination certificate issued by Dubai Health Authority with a QR Code; or
 - an Al Hosn COVID-19 vaccination certificate issued by the United Arab Emirates; or
-- a "Digital Green Certificate" issued in Serbia with a QR code; or
 - a COVID-19 vaccination certificate issued by Ministry of Public Health of Qatar, the Ministry of Health of the Palestinian Territory or the Ministry of Health of Bermuda; or
-- a digital COVID-19 vaccination certificate "Certifikate Dixhitale Shqiptare" issued by Albania; or
 - a COVID-19 vaccination certificate issued in the USA or Japan and verified through the VeriFLY app; or
 - a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App; or
 - a COVID-19 vaccination certificate issued in Saudi Arabia by Sehaty.sa; or
@@ -23,7 +20,7 @@ Published 10.11.2021
 - a COVID-19 vaccination card issued in Azerbaijan or by the Ministry of Health of Kosovo (Rep.); or
 - a COVID-19 vaccination certificate issued in Armenia through the united information system of electronic healthcare; or
 - a COVID-19 vaccination certificate issued in Korea (Rep.) through the COOV app; or
-- a COVID-19 vaccination certificate issued by the Kurdistan regional government of Iraq or the Ministry of Health of Moldova (Rep.); or
+- a COVID-19 vaccination certificate issued by the Kurdistan regional government of Iraq; or
 - an official COVID-19 digital vaccination certificate issued in Chile; or
 - a "MiVacuna" COVID-19 digital vaccination certificate issued in Colombia App; or
 - an Immunization Certificate for COVID-19 issued in Oman; or
@@ -38,13 +35,10 @@ COVID-19 vaccination certificates, cards and passes must show that the passenger
 - a COVID-19 vaccination certificate issued by Malta; or
 - a digital EU Digital Covid Certificate (EU DCC); or
 - an NHS Covid Pass issued by the United Kingdom; or
-- a COVID-19 vaccination certificate issued in Bahrain, Canada, Egypt, Gibraltar, Jersey and Guernsey, Kuwait, Lebanon, San Marino, Singapore or Vatican City (Holy See); or
-- a COVID-19 vaccination certificate issued in Turkey with a QR Code; or
+- a COVID-19 vaccination certificate issued in Bahrain, Canada, Egypt, Gibraltar, Jersey and Guernsey, Kuwait, Lebanon or Singapore; or
 - a COVID-19 vaccination certificate issued by Dubai Health Authority with a QR Code; or
 - an Al Hosn COVID-19 vaccination certificate issued by the United Arab Emirates; or
-- a "Digital Green Certificate" issued in Serbia with a QR code; or
 - a COVID-19 vaccination certificate issued by Ministry of Public Health of Qatar, the Ministry of Health of the Palestinian Territory or the Ministry of Health of Bermuda; or
-- a digital COVID-19 vaccination certificate "Certifikate Dixhitale Shqiptare" issued by Albania; or
 - a COVID-19 vaccination certificate issued in the USA or Japan and verified through the VeriFLY app; or
 - a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App; or
 - a COVID-19 vaccination certificate issued in Saudi Arabia by Sehaty.sa; or
@@ -53,7 +47,7 @@ COVID-19 vaccination certificates, cards and passes must show that the passenger
 - a COVID-19 vaccination card issued in Azerbaijan or by the Ministry of Health of Kosovo (Rep.); or
 - a COVID-19 vaccination certificate issued in Armenia through the united information system of electronic healthcare; or
 - a COVID-19 vaccination certificate issued in Korea (Rep.) through the COOV app; or
-- a COVID-19 vaccination certificate issued by the Kurdistan regional government of Iraq or the Ministry of Health of Moldova (Rep.); or
+- a COVID-19 vaccination certificate issued by the Kurdistan regional government of Iraq; or
 - an official COVID-19 digital vaccination certificate issued in Chile; or
 - a "MiVacuna" COVID-19 digital vaccination certificate issued in Colombia App; or
 - an Immunization Certificate for COVID-19 issued in Oman; or
@@ -76,13 +70,10 @@ COVID-19 vaccination certificates, cards and passes must show that the passenger
 - a COVID-19 vaccination certificate issued by Malta; or
 - a digital EU Digital Covid Certificate (EU DCC); or
 - an NHS Covid Pass issued by the United Kingdom; or
-- a COVID-19 vaccination certificate issued in Bahrain, Canada, Egypt, Gibraltar, Jersey and Guernsey, Kuwait, Lebanon, San Marino, Singapore or Vatican City (Holy See); or
-- a COVID-19 vaccination certificate issued in Turkey with a QR Code; or
+- a COVID-19 vaccination certificate issued in Bahrain, Canada, Egypt, Gibraltar, Jersey and Guernsey, Kuwait, Lebanon or Singapore; or
 - a COVID-19 vaccination certificate issued by Dubai Health Authority with a QR Code; or
 - an Al Hosn COVID-19 vaccination certificate issued by the United Arab Emirates; or
-- a "Digital Green Certificate" issued in Serbia with a QR code; or
 - a COVID-19 vaccination certificate issued by Ministry of Public Health of Qatar, the Ministry of Health of the Palestinian Territory or the Ministry of Health of Bermuda; or
-- a digital COVID-19 vaccination certificate "Certifikate Dixhitale Shqiptare" issued by Albania; or
 - a COVID-19 vaccination certificate issued in the USA or Japan and verified through the VeriFLY app; or
 - a "COVID-19 Digital Certificate" issued in Australia and verified through the Medicare Express Plus App; or
 - a COVID-19 vaccination certificate issued in Saudi Arabia by Sehaty.sa; or
@@ -91,7 +82,7 @@ COVID-19 vaccination certificates, cards and passes must show that the passenger
 - a COVID-19 vaccination card issued in Azerbaijan or by the Ministry of Health of Kosovo (Rep.); or
 - a COVID-19 vaccination certificate issued in Armenia through the united information system of electronic healthcare; or
 - a COVID-19 vaccination certificate issued in Korea (Rep.) through the COOV app; or
-- a COVID-19 vaccination certificate issued by the Kurdistan regional government of Iraq or the Ministry of Health of Moldova (Rep.); or
+- a COVID-19 vaccination certificate issued by the Kurdistan regional government of Iraq; or
 - an official COVID-19 digital vaccination certificate issued in Chile; or
 - a "MiVacuna" COVID-19 digital vaccination certificate issued in Colombia App; or
 - an Immunization Certificate for COVID-19 issued in Oman; or

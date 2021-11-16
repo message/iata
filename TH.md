@@ -1,4 +1,4 @@
-Published 15.11.2021
+Published 16.11.2021
 1. Until 30 November 2021, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -29,7 +29,7 @@ Published 15.11.2021
 - must have a COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point; and
 - are subject to a COVID-19 RT-PCR test upon arrival; and
 - must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
-- This does not apply to passengers younger than 18 years traveling with their fully vaccinated parents/guardians.
+- The vaccination certificate requirement does not apply to passengers younger than 18 years traveling with their fully vaccinated parents/guardians.
 8. Passengers traveling under the Bangkok (BKK), Chiang Mai (CNX), Don Mueang (DMK), Na Thon (Ko Samui (USM)), Phuket (HKT) or Utapao (UTP) Sandbox programs must have:
 - proof of payment for Samui Extra+ and Safety and Health Administration (SHA+) accommodation for 7 days; and
 - proof of payment for COVID-19 tests in Bangkok (BKK), Chiang Mai (CNX), Don Mueang (DMK), Na Thon (Ko Samui (USM)), Phuket (HKT) or Utapao (UTP).
