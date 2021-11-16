@@ -1,10 +1,10 @@
-Published 19.10.2021
+Published 16.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Saudi Arabia;
 - first degree family members of nationals of Saudi Arabia;
-- residents of Saudi Arabia with a COVID-19 vaccination certificate showing that they were fully vaccinated in Saudi Arabia;
-- residents of Saudi Arabia who have not transited through or been in Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam in the past 14 days;
+- residents of Saudi Arabia arriving from Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam with a COVID-19 vaccination certificate showing that they were fully vaccinated in Saudi Arabia;
+- residents of Saudi Arabia. They must not have transited through or been in Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam in the past 14 days;
 - nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must not have transited through or been in Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam in the past 14 days;
 - passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia. They must not have transited through or been in Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam in the past 14 days;
 - passengers with a tourist visa issued by Saudi Arabia. They must not have transited through or been in Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam in the past 14 days;

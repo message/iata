@@ -1,4 +1,4 @@
-Published 15.11.2021
+Published 16.11.2021
 1. Short-term visas (type C-1 and C-3) issued on or before 5 April 2020 are no longer valid.
 2. Suspension of visa exemptions for nationals of Antigua and Barbuda, Argentina, Australia, Bahamas, Bahrain, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Canada, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, El Salvador, Eswatini (Swaziland), Fiji, Grenada, Guatemala, Haiti, Honduras, Israel, Jamaica, Kazakhstan, Kiribati, Kuwait, Lesotho, Malaysia, Marshall Isl., Mauritius, Micronesia (Federated States), Montenegro, Morocco, Nauru, New Zealand, Oman, Panama, Paraguay, Peru, Qatar, Russian Fed., Samoa, Saudi Arabia, Serbia, Seychelles, Solomon Isl., South Africa, Spain, St. Lucia, Suriname, Thailand, Tonga, Trinidad and Tobago, Tunisia, Turkey, Tuvalu, United Arab Emirates or Uruguay with a normal passport.
 - This does not apply to airline crew.
@@ -9,12 +9,19 @@ Published 15.11.2021
 5. Suspension of visa exemptions for passengers with a Hong Kong (SAR China) passport.
 6. Suspension of visa exemptions for passengers with a Macao (SAR China) passport.
 7. Passengers could be subject to quarantine for 10 days.
-- This does not apply to passengers arriving from a country other than Angola, Brazil, Djibouti, Kazakhstan, Kyrgyzstan, Madagascar, Mozambique, Myanmar, Namibia, Pakistan, Peru, Philippines, South Africa, Suriname, Trinidad and Tobago or Uzbekistan with:
-- a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival; or
-- a Quarantine Exemption Certificate.
+- This does not apply to:
+- passengers arriving from a country other than Angola, Brazil, Djibouti, Kazakhstan, Kyrgyzstan, Madagascar, Mozambique, Myanmar, Namibia, Pakistan, Peru, Philippines, South Africa, Suriname, Trinidad and Tobago or Uzbekistan with a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival or with a Quarantine Exemption Certificate;
+- passengers arriving from Singapore under the Vaccinated Travel Lane with:
+- a COVID-19 vaccination certificate with a QR code obtained from <a href="https://www.notarise.gov.sg/">https://www.notarise.gov.sg/</a> ; and
+- a confirmed booking for the COVID-19 test upon arrival obtained from <a href="https://safe2gopass.com/">https://safe2gopass.com/</a> ; and
+- a printed copy of travel insurance with minimum coverage of approximate USD 25,100.- for COVID-19 related medical expenses (the insurance requirement does not apply to nationals of Korea (Rep.) and passengers with a long-term visa).
 8. Passengers must install the 'self-quarantine safety protection mobile app' found at <a href="https://tinyurl.com/m9fcz6dc">https://tinyurl.com/m9fcz6dc</a> before departure or upon arrival.
-- This does not apply to passengers arriving from a country other than Angola, Bangladesh, Brazil, Chile, Djibouti, Indonesia, Kazakhstan, Kyrgyzstan, Malawi, Mozambique, Myanmar, Namibia, Pakistan, Peru, Philippines, South Africa, Suriname, Trinidad and Tobago, Uzbekistan or Zambia with a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival; or
-- a Quarantine Exemption Certificate.
+- This does not apply to:
+- passengers arriving from a country other than Angola, Bangladesh, Brazil, Chile, Djibouti, Indonesia, Kazakhstan, Kyrgyzstan, Malawi, Mozambique, Myanmar, Namibia, Pakistan, Peru, Philippines, South Africa, Suriname, Trinidad and Tobago, Uzbekistan or Zambia with a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival or with a Quarantine Exemption Certificate;
+- passengers arriving from Singapore under the Vaccinated Travel Lane with:
+- a COVID-19 vaccination certificate with a QR code obtained from <a href="https://www.notarise.gov.sg/">https://www.notarise.gov.sg/</a> ; and
+- a confirmed booking for the COVID-19 test upon arrival obtained from <a href="https://safe2gopass.com/">https://safe2gopass.com/</a> ; and
+- a printed copy of travel insurance with minimum coverage of approximate USD 25,100.- for COVID-19 related medical expenses (the insurance requirement does not apply to nationals of Korea (Rep.) and passengers with a long-term visa).
 9. Passengers must complete a "Health Declaration Form" and a "Travel Record Declaration" and present it upon arrival. The forms can be obtained upon arrival.
 10. Passengers are not allowed to transit through Korea (Rep.) for more than 24 hours.
 11. Nationals of Egypt, Sudan, Syria and Yemen are not allowed to transit through Korea (Rep.).

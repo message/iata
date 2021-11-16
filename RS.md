@@ -1,4 +1,4 @@
-Published 01.11.2021
+Published 16.11.2021
 1. Passengers must have:
 - a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must be issued in Andorra, Armenia, Austria, Belgium, Cape Verde, Croatia, Cyprus, Czechia, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, India, Ireland (Rep.), Italy, Lebanon, Liechtenstein, Lithuania, Malta, Moldova (Rep.), Morocco, Netherlands, Romania, San Marino, Serbia, Spain, Slovakia, Slovenia, Switzerland, Syria, Tunisia, Turkey, Ukraine, United Arab Emirates or United Kingdom. Details can be found at <a href="https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements">https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements</a> ; or
@@ -7,6 +7,7 @@ Published 01.11.2021
 - nationals and residents of Serbia;
 - nationals of Slovenia;
 - nationals of Albania, Bosnia and Herzegovina, Bulgaria, Hungary, Montenegro and North Macedonia (Rep.) if arriving from their country of nationality;
+- residents of Albania, Bosnia and Herzegovina, Bulgaria, Hungary, Montenegro and North Macedonia (Rep.) if arriving from their country of residency. They are subject to a COVID-19 antigen or PCR test at most 48 hours after arrival;
 - passengers arriving from USA;
 - passengers younger than 12 years;
 - passengers between 12 years and 18 years. They must take an antigen or RT-PCR test within 48 hours after arrival;
