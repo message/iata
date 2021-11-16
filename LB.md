@@ -1,4 +1,4 @@
-Published 10.09.2021
+Published 16.11.2021
 1. Passengers must have a negative COVID-19 PCR test result issued at most 96 hours before arrival. The test result must have a QR code if issued in a country other than Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Korea (Rep.), Latvia, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or USA.
 - This does not apply to:
 - passengers younger than 12 years;
@@ -9,7 +9,6 @@ Published 10.09.2021
 - This does not apply to:
 - passengers younger than 12 years;
 - airline crew staying for a maximum of 48 hours.
-3. Passengers could be subject to quarantine for 4 days.
-4. Airline crew staying for a maximum of 48 hours are subject to self-isolation until their next flight.
-5. Passengers transiting through Beirut (BEY) to Syria must have a negative COVID-19 PCR test result issued at most 96 hours before departure.
+3. Airline crew staying for a maximum of 48 hours are subject to self-isolation until their next flight.
+4. Passengers transiting through Beirut (BEY) to Syria must have a negative COVID-19 PCR test result issued at most 96 hours before departure.
 - This does not apply to passengers younger than 12 years.
