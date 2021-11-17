@@ -6,7 +6,7 @@ Published 15.11.2021
 - nationals of Argentina, Australia, Bahrain, Canada, Chile, Colombia, Jordan, Korea (Rep.), Kuwait, Namibia, New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates and Uruguay;
 - passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) passport;
 - passengers with a Hong Kong (SAR China) passport or a Macao (SAR China) passport;
-- British nationals with a certificate of application for the status of UK-EU Withdrawal Agreement Beneficiary issued by Austria, Belgium, Denmark, Finland, France, Hungary, Latvia, Luxemburg, Malta, Netherlands, Romania, Slovenia and Sweden; and their family members;
+- British nationals with a certificate of application for the status of UK-EU Withdrawal Agreement Beneficiary issued by Austria, Belgium, Denmark, Finland, France, Hungary, Latvia, Luxembourg, Malta, Netherlands, Romania, Slovenia and Sweden; and their family members;
 - passengers with a residence permit issued by Czechia;
 - passengers with a residence permit issued by Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See), if arriving from these countries;
 - passengers who in the past 14 days have only been in, and arrive from Argentina, Australia, Bahrain, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), Namibia, New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, Spain (excluding Canary Isl.), United Arab Emirates, Uruguay or Vatican City (Holy See);
