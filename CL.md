@@ -1,4 +1,4 @@
-Published 01.11.2021
+Published 17.11.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Chile;
@@ -7,7 +7,10 @@ This does not apply to:
 - passengers with a diplomatic or official visa issued by the Ministry of Foreign Affairs of Chile;
 - passengers with a diplomatic or official passport;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covieshield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. The certificate must be uploaded before departure at <a href="https://mevacuno.gob.cl/">https://mevacuno.gob.cl/</a> .
-2. Passengers must arrive at Antofagasta (ANF), Iquique (IQQ) or Santiago (SCL).
+2. Passengers must arrive at Antofagasta (ANF), Iquique (IQQ), Punta Arenas (PUQ) or Santiago (SCL).
+- This does not apply to:
+- nationals and residents of Chile;
+- passengers with a diplomatic passport.
 3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Chile.
 - This does not apply to:
 - passengers younger than 2 years;

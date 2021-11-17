@@ -1,4 +1,4 @@
-Published 10.11.2021
+Published 17.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -31,7 +31,8 @@ Published 10.11.2021
 - passengers with a medical certificate of contraindication;
 - passengers with a consular or diplomatic visa;
 - passengers who are members of the New Zealand Defence Force with operating orders;
-- nationals of Afghanistan arriving in New Zealand on or before 12 December 2022.
+- nationals of Afghanistan arriving in New Zealand on or before 12 December 2022;
+- refugees with a visa issued by New Zealand.
 9. Passengers must have a negative COVID-19 test taken at most 72 hours before departure from the first international embarkation point. Tests accepted are: antigen, LAMP, NAAT, PCR, RT-PCR and TMA tests. More details can be found at <a href="https://tinyurl.com/39tsn56h">https://tinyurl.com/39tsn56h</a>
 - This does not apply to:
 - passengers arriving from Antarctica, Australia, Cook Isl., Fiji, Kiribati, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Niue, Palau, Samoa, Solomon Isl., Tonga, Tuvalu or Vanuatu;

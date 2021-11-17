@@ -1,10 +1,10 @@
-Published 01.11.2021
+Published 17.11.2021
 1. Until 31 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
 - passengers arriving from Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland;
 - residents of Australia, Bahrain, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates and Uruguay;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty). The certificate must be issued in Albania, Andorra, Armenia, Faroe Isl., Israel, Morocco, Monaco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine, United Kingdom, Vatican City (Holy See) or a Schengen Member State;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty). The certificate must be issued in Albania, Andorra, Armenia, Faroe Isl., Georgia, Israel, Moldova (Rep.), Morocco, Monaco, New Zealand, North Macedonia (Rep.), Panama, San Marino, Serbia, Switzerland, Turkey, Ukraine, United Kingdom, USA, Vatican City (Holy See) or a Schengen Member State;
 - passengers with a residence permit issued by Switzerland or an EEA Member State;
 - passengers with a "D" visa issued by Switzerland or an EEA Member State;
 - British nationals and their family members with:
@@ -22,8 +22,9 @@ Published 01.11.2021
 - a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point.
 The test result must be in English, French, German, Italian, Luxembourgish, Portuguese or Spanish. A certified translation to English, French, German or Luxembourgish is accepted.
 - This does not apply to:
-- passengers younger than 12 years;
+- passengers younger than 12 years and 2 months;
 - passengers returning to Luxembourg within 72 hours if they stayed in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
 - passengers with a COVID-19 recovery certificate issued by Switzerland or an EEA Member State. The passenger must have tested positive at most 6 months before arrival;
 - passengers with a COVID-19 vaccination certificate issued in Switzerland or an EEA Member State showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty);
-- passengers with a COVID-19 vaccination certificate issued in Switzerland or an EEA Member State showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 14 days before departure and at most 180 days after they were tested positive.
+- passengers with a COVID-19 vaccination certificate issued in Switzerland or an EEA Member State showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 14 days before departure and at most 180 days after they were tested positive;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty). The certificate must be issued in Albania, Andorra, Armenia, Faroe Isl., Georgia, Israel, Moldova (Rep.), Morocco, Monaco, New Zealand, North Macedonia (Rep.), Panama, San Marino, Serbia, Switzerland, Turkey, Ukraine, United Kingdom, USA or Vatican City (Holy See).
