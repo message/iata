@@ -10,3 +10,4 @@ Published 03.11.2021
 - passengers older than 18 years with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival;
 - passengers with a diplomatic passport.
 5. Passengers are subject to medical screening.
+<p>
