@@ -1,4 +1,4 @@
-Published 09.11.2021
+Published 18.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
@@ -8,7 +8,7 @@ Published 09.11.2021
 - passengers with an e-visit visa with a visa number ending with LN;
 - passengers with an APEC Business Travel Card;
 - passengers traveling under the Travel Corridor Arrangement (TCA);
-- passengers arriving at Denpasar-Bali (DPS) or Batam (BTH) as tourists and arriving from Bahrain, China (People's Rep.), France, Hungary, India, Italy, Japan, Korea (Rep.), Kuwait, Liechtenstein, New Zealand, Norway, Poland, Portugal, Qatar, Saudi Arabia, Spain, Sweden or United Arab Emirates. They must have a confirmed booking of accommodation and medical insurance with minimal coverage of USD 100,000- for COVID-19 treatment.
+- nationals of Bahrain, China (People's Rep.), France, Hungary, India, Italy, Japan, Korea (Rep.), Kuwait, Liechtenstein, New Zealand, Norway, Poland, Portugal, Qatar, Saudi Arabia, Spain, Sweden and United Arab Emirates arriving at Denpasar-Bali (DPS) or Batam (BTH) as tourists from their country of nationality. They must have a confirmed booking of accommodation and medical insurance with minimal coverage of USD 100,000- for COVID-19 treatment.
 2. Passengers are not allowed to transit.
 3. Passengers must enter Indonesia via Jakarta (CGK) or Manado (MDC).
 4. Passengers must have a printed negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.
