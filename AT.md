@@ -1,9 +1,6 @@
-Published 01.11.2021
-1. Passengers must have a negative COVID-19 antigen test result issued at most 24 hours before arrival which is for personal use and recorded in an official data processing system; or
-- a negative COVID-19 antigen test result issued at most 48 hours before arrival; or
-- a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
+Published 18.11.2021
+1. Passengers must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
 - a COVID-19 recovery certificate issued at most 180 days before arrival; or
-- proof of presence of COVID-19 antibodies, issued at most 90 days before arrival; or
 - take a test within 24 hours after arrival, if arriving from Andorra, Australia, Belgium, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Ireland (Rep.), Iceland, Italy, Jordan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Macau (SAR China), Malta, Monaco, New Zealand, Netherlands, Norway, Poland, Portugal, Qatar, Romania, Rwanda, San Marino, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Uruguay, Vatican City (Holy See) or Vietnam; or
 - have a COVID-19 vaccination certificate stating that they received :
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 360 days before arrival. A combination of vaccines is accepted; or
@@ -15,11 +12,8 @@ Published 01.11.2021
 - This does not apply to passengers younger than 12 years if accompanied by an adult.
 2. Passengers must present a completed "Pre-Travel-Clearance" upon arrival. The form can be found at <a href="https://entry.ptc.gv.at">https://entry.ptc.gv.at</a>
 - This does not apply to passengers arriving from Andorra, Australia, Belgium, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Italy, Jordan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Rwanda, San Marino, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Uruguay, Vatican City (Holy See) or Viet Nam, with:
-- a negative COVID-19 antigen test result issued at most 24 hours before arrival which is for personal use and recorded in an official data processing system; or
-- a negative COVID-19 antigen test result issued at most 48 hours before arrival; or
 - a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
 - a COVID-19 recovery certificate issued at most 180 days before arrival; or
-- a proof of presence of COVID-19 antibodies, issued at most 90 days before arrival; or
 - a COVID-19 vaccination certificate stating that they received :
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 360 days before arrival. A combination of vaccines is accepted; or
 - the third vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, at least 120 days after the second dose and at most 360 days before arrival; or
@@ -31,7 +25,6 @@ Published 01.11.2021
 - This does not apply to:
 - passengers between 12 and 18 years of age, traveling with their vaccinated parents/guardians; or
 - passengers with a COVID-19 recovery certificate issued at most 180 before arrival; or
-- passengers with proof of presence of COVID-19 antibodies, issued at most 90 days before arrival; or
 - passengers with a COVID-19 vaccination certificate stating that they received :
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 360 days before arrival. A combination of vaccines is accepted; or
 - the third vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, at least 120 days after the second dose and at most 360 days before arrival; or
