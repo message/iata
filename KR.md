@@ -1,4 +1,4 @@
-Published 16.11.2021
+Published 18.11.2021
 1. Short-term visas (type C-1 and C-3) issued on or before 5 April 2020 are no longer valid.
 2. Suspension of visa exemptions for nationals of Antigua and Barbuda, Argentina, Australia, Bahamas, Bahrain, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Canada, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, El Salvador, Eswatini (Swaziland), Fiji, Grenada, Guatemala, Haiti, Honduras, Israel, Jamaica, Kazakhstan, Kiribati, Kuwait, Lesotho, Malaysia, Marshall Isl., Mauritius, Micronesia (Federated States), Montenegro, Morocco, Nauru, New Zealand, Oman, Panama, Paraguay, Peru, Qatar, Russian Fed., Samoa, Saudi Arabia, Serbia, Seychelles, Solomon Isl., South Africa, Spain, St. Lucia, Suriname, Thailand, Tonga, Trinidad and Tobago, Tunisia, Turkey, Tuvalu, United Arab Emirates or Uruguay with a normal passport.
 - This does not apply to airline crew.
@@ -35,7 +35,6 @@ The test result must:
 - specify the date that the test was taken; and
 - be issued by an approved laboratory if arriving from Indonesia, Philippines or Uzbekistan. Details can be found at the Korean (Rep.) Embassy website in those countries.
 - This does not apply to:
-- until 17 November 2021, nationals of Korea (Rep.) traveling on official business or funeral attendance purposes with a Quarantine Exemption Certificate;
 - nationals of Korea (Rep.) arriving from Myanmar;
 - passengers younger than 6 years;
-- effective 18 November 2021, passengers traveling on official business or funeral attendance purposes with a Quarantine Exemption Certificate.
+- passengers traveling on official business or funeral attendance purposes with a Quarantine Exemption Certificate.
