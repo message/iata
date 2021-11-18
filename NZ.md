@@ -1,4 +1,4 @@
-Published 17.11.2021
+Published 18.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -45,9 +45,7 @@ Published 17.11.2021
 10. Passengers arriving from Brazil, India, Indonesia, Pakistan or Papua New Guinea must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first international embarkation point. The test result must be issued by an approved laboratory listed at <a href="https://tinyurl.com/uav8cadf">https://tinyurl.com/uav8cadf</a>
 - This does not apply to passengers younger than 2 years.
 11. Passengers arriving from Australia must have a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first international embarkation point.
-- This does not apply to:
-- passengers who have been in Australia for 72 hours or less;
-- passengers younger than 2 years.
+- This does not apply to passengers younger than 2 years.
 12. Passengers must have a voucher confirming their allocation to a place in managed isolation.
 - This does not apply to:
 - passengers arriving from Cook Isl. if they in the past 14 days have only been in Cook Isl. or New Zealand;
