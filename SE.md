@@ -1,5 +1,5 @@
-Published 15.11.2021
-1. Until 30 November 2021, passengers are not allowed to enter.
+Published 19.11.2021
+1. Until 31 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Sweden and their family members. More details on family members can be found at: <a href="https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/">https://polisen.se/en/the-swedish-police/the-coronavirus-and-the-swedish-police/faq/</a> ;
 - passengers with a residence permit issued by Sweden;

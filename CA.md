@@ -1,5 +1,5 @@
 Published 18.11.2021
-1. Until 21 November 2021, passengers are not allowed to enter.
+1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Canada;
 - dual nationals of Canada with a Special Authorization approval email;
