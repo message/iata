@@ -1,12 +1,17 @@
-Published 08.10.2021
-1. Passengers arriving from or who have been in Brazil or South Africa in the past 14 days are not allowed to enter.
-2. Passengers entering or transiting through Antigua and Barbuda must have a negative COVID-19 RT-PCR test result based on a nasal or oral swab. The test must have been taken at most 4 days before departure from the first embarkation point.
+Published 19.11.2021
+1. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival, must have:
+- a negative COVID-19 RT-PCR test taken at most 4 days before departure from the first embarkation point; or
+- a negative COVID-19 antigen test taken at most 3 days before departure from the first embarkation point. The list of approved antigen tests can be found at <a href="https://covid19.gov.ag/pdf-post/travel-advisory/">https://covid19.gov.ag/pdf-post/travel-advisory/</a>
+Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 - This does not apply to passengers younger than 5 years.
-3. Passengers must have a COVID-19 vaccination certificates showing that they received one dose of the vaccine before arrival. Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
+2. Passengers entering or transiting through Antigua and Barbuda without a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival, must have a negative COVID-19 RT-PCR test taken at most 4 days before departure from the first embarkation point. The test result must be based on nasopharyngeal or oropharyngeal swab.
+Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
+- This does not apply to passengers younger than 5 years.
+3. Passengers must have a COVID-19 vaccination certificate showing that they received one dose of the vaccine before arrival. Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 - This does not apply to passengers younger than 18 years.
 4. Passengers are subject to medical screening upon arrival.
 5. Passengers are subject to quarantine for up to 14 days.
-- This does not apply to nationals and residents of Antigua and Barbuda with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
+- This does not apply to nationals and residents of Antigua and Barbuda with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival. Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 6. Passengers could be subject to COVID-19 test upon arrival.
 7. Passengers and airline crew staying overnight in transit must stay at a hotel or at a designated facility until their next flight.
 8. More COVID-19 related information can be found at <a href="https://visitantiguabarbuda.com/travel-advisory/">https://visitantiguabarbuda.com/travel-advisory/</a>
