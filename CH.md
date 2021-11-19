@@ -1,4 +1,4 @@
-Published 16.11.2021
+Published 19.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
@@ -38,4 +38,3 @@ Published 16.11.2021
 4. Passengers must:
 - provide the contact details electronically at <a href="https://swissplf.admin.ch/home">https://swissplf.admin.ch/home</a> ; or
 - complete the "Contact Tracing Card" form. The form is available at <a href="https://tinyurl.com/4ynves7d">https://tinyurl.com/4ynves7d</a> or on board.
-5. Passengers could be subject to quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html">https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html</a>
