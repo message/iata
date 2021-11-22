@@ -1,7 +1,7 @@
-Published 02.11.2021
+Published 22.11.2021
 1. Flights to Algeria are suspended.
 - This does not apply to:
-- flights arriving from Canada, France, Germany, Italy, Russian Fed., Spain, Tunisia, Turkey, United Arab Emirates and United Kingdom;
+- flights arriving from Canada, France, Germany, Italy, Qatar, Russian Fed., Spain, Tunisia, Turkey, United Arab Emirates and United Kingdom;
 - medevac and repatriation flights.
 2. Passengers arriving on a direct flight must have a printed negative COVID-19 RT-PCR test result issued at most 36 hours before departure. The test result must be in Arabic, English or French.
 - This does not apply to passengers younger than 12 years.
