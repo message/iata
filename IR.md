@@ -1,4 +1,4 @@
-Published 19.11.2021
+Published 22.11.2021
 1. Passengers entering or transiting through Iran, must have a negative COVID-19 RT-PCR test taken at most 96 hours before departure from the first embarkation point. The test result must be in English or approved by an Iranian consulate.
 - This does not apply to passengers 12 years and younger.
 2. Passengers must have a COVID-19 vaccination certificate in English, showing that they were fully vaccinated at least 14 days before arrival.
@@ -8,5 +8,5 @@ Published 19.11.2021
 3. Passengers could be subject to a COVID-19 test upon arrival when arriving from Albania, Armenia, Belarus, Bosnia and Herzegovina, Brunei Darussalam, Burundi, Costa Rica, Cuba, Dominican Rep., Egypt, El Salvador, Estonia, Ethiopia, Gabon, Georgia, Grenada, Guatemala, Guyana, Haiti, Honduras, Iraq, Jamaica, Kenya, Korea (Dem. People's Rep.), Kosovo, Latvia, Liberia, Malaysia, Mexico, Moldovia, Mongolia, Montenegro, Myanmar, North Macedonia (Rep.), Nicaragua, Papua New Guinea, Philippines , Romania, Russian Fed., Serbia, Seychelles, Slovenia, Sudan, Suriname, Syria, Tajikistan, Tanzania, Thailand, Turkey, Trinidad and Tobago, Turkmenistan, USA, Ukraine, United Kingdom, Uzbekistan, Venezuela, Vietnam or Yemen.
 - This does not apply to passengers 12 years and younger.
 4. Passengers could be subject to COVID-19 test upon arrival and quarantine at their own expense.
-5. Passengers must complete a "Self-declaration Form" before arrival at <a href="https://www.cao.ir">https://www.cao.ir</a>
+5. Passengers must complete a "Self-declaration Form" before arrival at <a href="https://tinyurl.com/2amxzs3u">https://tinyurl.com/2amxzs3u</a>
 6. E-visas can be obtained before departure at <a href="http://e_visa.mfa.ir/en/">http://e_visa.mfa.ir/en/</a> . Passengers must have an e-visa confirmation.
