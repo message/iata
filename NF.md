@@ -1,13 +1,16 @@
-Published 22.11.2021
+Published 23.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Australia and their immediate family members;
 - permanent residents of Australia and their immediate family members;
 - nationals of New Zealand residing in Australia and their immediate family members;
-- nationals of Singapore arriving directly from Singapore and their unvaccinated children between 12 and 17 years who are traveling together. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure.
-Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (for ages 18-60 years only) and Sinovac;
+- nationals of Singapore arriving directly from Singapore with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure.
+Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (for ages 18-60 years only) and Sinovac;
+- children of nationals of Singapore traveling directly from Singapore between 12 and 17 years traveling with their vaccinated parents/guardians;
 - passengers who have a visa and have been granted an exemption before departure; details can be found at <a href="https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form">https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form</a> .
-2. Nationals of Australia, permanent residents of Australia and their immediate family and their unvaccinated children younger than 17 years who are traveling together and above the passenger caps, must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (for ages 18-60 years only) and Sinovac.
+2. Nationals of Australia, permanent residents of Australia and their immediate family members traveling above the passenger caps, must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure.
+Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (for ages 18-60 years only) and Sinovac.
+This also applies to passengers younger than 17 years traveling with their vaccinated parents/guardians.
 3. Passengers are not allowed to transit through Australia to New Zealand for more than 72 hours.
 - This does not apply to passengers with an exemption applied at <a href="https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form">https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form</a>
 4. Passengers could be subject to presenting a "Travel Declaration" form and present it at time of check-in. The form can be found at <a href="https://covid19.homeaffairs.gov.au/australia-travel-declaration">https://covid19.homeaffairs.gov.au/australia-travel-declaration</a>
