@@ -1,8 +1,12 @@
-Published 16.11.2021
+Published 22.11.2021
 1. Passengers must have:
 - a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must be issued in Andorra, Armenia, Austria, Belgium, Cape Verde, Croatia, Cyprus, Czechia, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, India, Ireland (Rep.), Italy, Lebanon, Liechtenstein, Lithuania, Malta, Moldova (Rep.), Morocco, Netherlands, Romania, San Marino, Serbia, Spain, Slovakia, Slovenia, Switzerland, Syria, Tunisia, Turkey, Ukraine, United Arab Emirates or United Kingdom. Details can be found at <a href="https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements">https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements</a> ; or
-- a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Cape Verde, Croatia, Denmark, Estonia, Germany, Greece, Iceland, Ireland (Rep.), Liechtenstein, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. Passengers must have tested positive at least 14 days and at most 6 months before arrival.
+- a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Cape Verde, Croatia, Denmark, Estonia, Germany, Greece, Iceland, Ireland (Rep.), Liechtenstein, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. Passengers must have tested positive at least 14 days and at most 6 months before arrival; or
+- an EU Digital Covid Certificate (EU DCC) showing:
+- a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated; or
+- a COVID-19 recovery certificate showing that passengers have tested positive at least 14 days and at most 6 months before arrival. More details can be found at <a href="https://tinyurl.com/yw4j25a4">https://tinyurl.com/yw4j25a4</a>
 - This does not apply to:
 - nationals and residents of Serbia;
 - nationals of Slovenia;
