@@ -25,4 +25,3 @@ They must also have a printed negative COVID-19 antigen test taken at most 48 ho
 8. Airline crew staying overnight must stay at a designated hotel.
 - This does not apply to airline crew with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
 9. Merchant seamen must have an authorization obtained by sending an email to the Ministry of Foreign Affairs (<a href="mailto:entry.permission@mfa.gov.lk">entry.permission@mfa.gov.lk</a>) and to the Civil Aviation Authority (<a href="mailto:caaslpax@caa.lk">caaslpax@caa.lk</a>)
-</p>
