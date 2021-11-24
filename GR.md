@@ -1,4 +1,4 @@
-Published 12.11.2021
+Published 24.11.2021
 1. Until 26 November 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
@@ -21,9 +21,8 @@ More details can be found at <a href="https://travel.gov.gr/">https://travel.gov
 All documents must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
 - This does not apply to:
 - passengers younger than 12 years;
-- nationals of Russian Fed.;
-- residents of Russian Fed.
-4. Nationals and residents of Russian Fed. must have:
+- passengers who reside permanently in the Russian Fed.
+4. Passengers who reside permanently in the Russian Fed. must have:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival.
 They are also subject to an antigen or PCR test upon arrival.
