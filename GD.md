@@ -1,5 +1,5 @@
-Published 17.11.2021
-1. Passengers must have a "Pure Safe Travel Certificate" obtained before departure at <a href="https://covid19.gov.gd/travel-covid/">https://covid19.gov.gd/travel-covid/</a> .
+Published 24.11.2021
+1. Passengers must complete a “Travel Health Declaration" form at <a href="https://covid19.gov.gd/travel-health-declaration-form/">https://covid19.gov.gd/travel-health-declaration-form/</a> or upon arrival.
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Grenada.
 - This does not apply to passengers younger than 5 years.
 3. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience Co Ltd. from Korea), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac.

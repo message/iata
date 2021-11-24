@@ -1,4 +1,4 @@
-Published 13.09.2021
+Published 24.11.2021
 1. Passengers must have:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 RT-PCR test taken at most 72 hours before arrival; or
@@ -7,7 +7,7 @@ Published 13.09.2021
 - a positive COVID-19 serology antibody test taken at most 30 days before arrival.
 This does not apply to:
 - nationals and residents of Kosovo (Rep.);
-- passengers younger than 18 years;
+- passengers younger than 16 years;
 - passengers traveling through Kosovo (Rep.) to a third country. They must leave Kosovo (Rep.) within 3 hours.
 2. Nationals and residents of Kosovo (Rep.) without:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or

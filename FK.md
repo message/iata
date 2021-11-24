@@ -1,4 +1,4 @@
-Published 29.09.2021
+Published 24.11.2021
 1. Until 28 February 2022, passengers are not allowed to enter.
 - This does not apply to:
 - residents of Falkland Isl. (Malvinas);
