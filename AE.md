@@ -1,4 +1,4 @@
-Published 22.11.2021
+Published 25.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -26,10 +26,7 @@ The test result must be in Arabic or English and be issued by an approved labora
 - passengers younger than 12 years;
 - passengers with disabilities.
 - passengers entering Dubai (DXB) or Al Maktoum (DWC).
-- The rapid PCR test requirement does not apply to:
-- nationals of United Arab Emirates and their first degree family members;
-- passengers with a diplomatic or an official passport traveling on duty;
-- passengers with a golden visa or a silver visa issued by United Arab Emirates.
+- The rapid PCR test requirement does not apply to nationals of United Arab Emirates and their first degree family members.
 6. Passengers transiting through United Arab Emirates from Afghanistan, Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam or Zambia must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
 - This does not apply to:
 - passengers younger than 12 years;
