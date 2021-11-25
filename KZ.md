@@ -1,4 +1,4 @@
-Published 08.11.2021
+Published 25.11.2021
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals of Kazakhstan;
@@ -13,7 +13,7 @@ Published 08.11.2021
 2. Nationals of India are not allowed to enter.
 3. Flights to Kazakhstan are suspended.
 - This does not apply to:
-- flights from Armenia, Belarus, Egypt, Germany, Georgia, Korea (Rep.), Kyrgyzstan, Montenegro, Netherlands, Russian Fed., Turkey, Tajikistan Ukraine, United Arab Emirates and Uzbekistan;
+- flights from Armenia, Belarus, Egypt, Germany, Georgia, Korea (Rep.), Kyrgyzstan, Montenegro, Netherlands, Qatar, Russian Fed., Turkey, Tajikistan Ukraine, United Arab Emirates and Uzbekistan;
 - repatriation flights.
 4. Passengers must have a negative COVID-19 PCR test result issued at most 3 days before arrival. The test result must be issued in English, Kazakh or Russian.
 This does not apply to:

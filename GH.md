@@ -1,4 +1,4 @@
-Published 09.09.2021
+Published 25.11.2021
 1. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must have a QR code obtained at <a href="http://www.globalhaven.org/">www.globalhaven.org</a> or <a href="https://trustedtravel.panabios.org">https://trustedtravel.panabios.org</a>
 - This does not apply to:
 - nationals and residents of Ghana returning within one week;
