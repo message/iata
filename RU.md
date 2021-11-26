@@ -14,6 +14,6 @@ Published 26.11.2021
 - passengers arriving from Armenia, Azerbaijan, Belarus, Kazakhstan, Moldova (Rep.), Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan.
 3. Passengers arriving from Armenia, Azerbaijan, Belarus, Kazakhstan, Moldova (Rep.), Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan must have a negative COVID-19 PCR test taken at most 3 days before arrival. The test result must have a green QR code obtained in the app 'Traveling without COVID-19'.
 - This does not apply to nationals of the Russian Fed.
-4. Flights arriving from Morocco or Tanzania to the Russian Fed. are suspended.
+4. Flights from Morocco and Tanzania to the Russian Fed. are suspended.
 5. Passengers must complete an "Application Form" and present it upon arrival. The form can be obtained at <a href="https://www.rospotrebnadzor.ru/upload/%D0%B0%D0%B2%D0%B8%D0%B0%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0%20RUS.docx">https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docx</a>
 6. Suspension of e-visa issuance.
