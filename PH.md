@@ -1,4 +1,4 @@
-Published 23.11.2021
+Published 26.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -23,7 +23,7 @@ Published 23.11.2021
 - those showing vaccination with AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac;
 - the International Certificate of Vaccination (ICV);
 - digital certificates issued in Argentina, Australia, Austria, Azerbaijan, Belgium, Brazil, Bulgaria, Cambodia, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, India, Iraq, Ireland (Rep.), Italy, Japan, Kazakhstan, Latvia, Lebanon, Lithuania, Luxembourg, Maldives, Malta, Netherlands, New Zealand, Poland, Portugal, Romania, Russian Fed., Samoa, Singapore, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, Suriname, Sweden, Thailand, Turkey, Ukraine, United Arab Emirates, United Kingdom, Uruguay or Vatican City (Holy See).
-5. Passengers and airline crew traveling to Clark Field (CRK) or Manila (MNL) must complete the "One Health Pass" form before arrival at <a href="https://onehealthpass.com.ph/e-HDC/OHP-Registration/">https://onehealthpass.com.ph/e-HDC/OHP-Registration/</a> . This will generate a QR code which must be presented upon arrival.
+5. Passengers and airline crew traveling to Angeles city (CRK), Cebu (CEB) and Manila (MNL) must complete the "One Health Pass" form before arrival at <a href="https://onehealthpass.com.ph/e-HDC/OHP-Registration/">https://onehealthpass.com.ph/e-HDC/OHP-Registration/</a> . This will generate a QR code which must be presented upon arrival.
 - This does not apply to:
 - passengers with a diplomatic passport traveling on duty and their family members;
 - airline crew staying in the aircraft.
@@ -31,6 +31,5 @@ Published 23.11.2021
 7. Passengers traveling to Davao (DVO) must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure.
 - This does not apply to merchant seamen with a 9 (C) visa issued by the Philippines.
 8. Passengers must install the app 'TRAZE' on their personal device before departure.
-9. Passengers traveling to Cebu (CEB) must register at most 5 days before departure at <a href="https://mactancebuairport.com/covid-19-registration">https://mactancebuairport.com/covid-19-registration</a>
-10. Suspension of all visa on arrival facilities.
-11. Suspension of all visa exemptions.
+9. Suspension of all visa on arrival facilities.
+10. Suspension of all visa exemptions.
