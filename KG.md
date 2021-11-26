@@ -1,4 +1,4 @@
-Published 22.06.2021
+Published 26.11.2021
 1. Nationals of Tajikistan are not allowed to enter.
 - This does not apply to passengers with a diplomatic passport and their family members.
 2. Passengers must have:
