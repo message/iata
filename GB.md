@@ -1,4 +1,4 @@
-Published 22.11.2021
+Published 26.11.2021
 1. Passengers entering or transiting through the United Kingdom must have a negative COVID-19 test result. The test must have been taken at most 3 days before departure of the last direct flight to the United Kingdom. Tests accepted are: antigen, LAMP, nucleic acid and PCR tests. The test result must be in English, French or Spanish. Passengers details (name, date of birth or age) on the test result must match those stated in the passport or other travel document. The test result must also include the contact details of the issuing laboratory.
 - This does not apply to:
 - passengers younger than 18 years;
@@ -23,9 +23,19 @@ Published 22.11.2021
 - Northern Ireland at: <a href="https://www.nidirect.gov.uk/articles/coronavirus-covid-19-international-travel-advice">https://www.nidirect.gov.uk/articles/coronavirus-covid-19-international-travel-advice</a>
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate issued in Albania, Andorra, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Australia, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belize, Bermuda, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Cambodia, Canada, Cayman Isl., Chile, Chinese Taipei, Colombia, Costa Rica, Djibouti, Dominica, Egypt, Eswatini, Falkland Isl., Georgia, Ghana, Gibraltar, Grenada, Guyana, Honduras, Hong Kong (SAR China), India, Indonesia, Israel, Jamaica, Japan, Jordan, Kenya, Korea (Rep.), Kosovo (Rep.), Kuwait, Lebanon, Lesotho, Madagascar, Malaysia, Maldives, Mauritius, Moldova (Rep.), Monaco, Mongolia, Montenegro, Morocco, Namibia, Nepal, New Zealand, Nigeria, North Macedonia (Rep.), Oman, Pakistan, Palestinian Territory, Panama, Peru, Philippines, Qatar, Rwanda, San Marino, Saudi Arabia, Serbia, Seychelles, Sierra Leone, Singapore, South Africa, Sri Lanka, St. Helena, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Switzerland, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Turkey, Turks and Caicos Isl., Uganda, Ukraine, United Arab Emirates, United Kingdom, Uruguay, USA, Vatican City (Holy See), Virgin Isl. (British), Viet Nam or an EEA Member State showing that they were fully vaccinated with AstraZeneca (Covishield), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinovac or Sinopharm at least 14 days before arrival. A combination of vaccines is accepted.
-6. Flights from Argentina, Brazil, Cape Verde, Chile, Cuba, Dominican Rep., Ethiopia, Georgia, Indonesia, Mexico, Montenegro, South Africa, Thailand and Tunisia are suspended.
+6. Flights from Argentina, Brazil, Cape Verde, Chile, Cuba, Dominican Rep., Ethiopia, Georgia, Indonesia, Mexico, Montenegro, Thailand and Tunisia are suspended.
 - This does not apply to flights arriving at the South Arrival and Immigration Hall of Birmingham (BHX) or the Terminal 4 of Heathrow (LHR).
 7. There are no transit facilities at Manchester (MAN). Passengers must comply with all entry regulations for United Kingdom.
 8. Airline crew not residing in the United Kingdom are subject to self-isolation in a hotel until their next flight.
 9. Passengers with an Overseas Domestic Worker visa issued by the UK must be accompanied by the sponsor or one of the first-degree family members of the sponsor.
+10. Until 28 November 2021 at 4 GMT, suspension of flights from Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe to England.
+11. Until 28 November 2021 at 4 GMT, passengers arriving from, or who in the past 10 days have been in Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe, are not allowed entry into England.
+- This does not apply to:
+- British nationals and residents of the United Kingdom;
+- nationals and residents of Ireland (Rep.);
+- passengers who only transited through Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe.
+12. Until 28 November 2021 at 4 GMT, British nationals and residents of the United Kingdom, arriving in England from, or who in the past 10 days have been in, Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe, are subject to home quarantine for 10 days.
+13. Until 28 November 2021 at 4 GMT, nationals of Ireland (Rep.), and residents of Ireland (Rep.), arriving in England from, or who in the past 10 days have been in Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe, are subject to home quarantine for 10 days.
+14. Effective 28 November 2021 at 4 GMT, British nationals and residents of the United Kingdom, arriving in England from, or who in the past 10 days have been in, Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe, must have a reservation for a government-approved hotel quarantine facility for 10 days.
+15. Effective 28 November 2021 at 4 GMT, nationals of Ireland (Rep.), and residents of Ireland (Rep.), arriving in England from, or who in the past 10 days have been in Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe, must have a reservation for a government-approved hotel quarantine facility for 10 days.
 </p>
