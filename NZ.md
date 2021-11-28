@@ -1,4 +1,4 @@
-Published 18.11.2021
+Published 28.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -7,7 +7,7 @@ Published 18.11.2021
 - nationals or permanent residents of Australia residing in New Zealand;
 - passengers who have a visa and have been granted an exemption before departure; details can be found at <a href="https://www.immigration.govt.nz/formshelp/request-for-travel-to-new-zealand">https://www.immigration.govt.nz/formshelp/request-for-travel-to-new-zealand</a> ;
 - passengers arriving from Cook Isl. or Niue if they in the past 14 days have only been in Cook Isl., New Zealand or Niue.
-2. Passengers who in the past 14 days have been in Brazil, Fiji, India, Indonesia, Pakistan or Papua New Guinea are not allowed to enter.
+2. Passengers who in the past 14 days have been in Botswana, Eswatini, Fiji, India, Indonesia, Lesotho, Namibia, Pakistan, Papua New Guinea, South Africa and Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
 - partner or dependent child of a national of New Zealand;
