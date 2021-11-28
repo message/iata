@@ -1,4 +1,4 @@
-Published 27.11.2021
+Published 22.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Czechia and their family members;
@@ -22,16 +22,8 @@ Published 27.11.2021
 - passengers with a digital COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and issued in Albania, Andorra, Armenia, Faroe Isl., Georgia, Israel, Moldova (Rep.), Monaco, New Zealand, North Macedonia (Rep.), Panama, Serbia, Turkey, Ukraine or United Kingdom. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty);
 - passengers with a COVID-19 vaccination certificate in English showing that they were fully vaccinated at least 14 days before arrival, issued in Argentina, Australia, Bahrain, Bhutan, Brazil, Canada, Chile, Colombia, Hong Kong (SAR China), India, Iran, Iraq, Jordan, Kazakhstan, Korea (Rep.), Kosovo (Rep.), Kuwait, Lebanon, Malaysia, Maldives, Mexico, Montenegro, Nepal, Palestinian Territory, Pakistan, Peru, Philippines, Saudi Arabia, Singapore, Sri Lanka, Syria, Thailand, United Arab Emirates or USA. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty). Details can be found at <a href="https://koronavirus.mzcr.cz/certifikaty/">https://koronavirus.mzcr.cz/certifikaty/</a>
 - passengers younger than 18 years if accompanied by their parent(s) or legal guardian(s).
-2. Passengers arriving from, or who in the past 14 days have been for more than 12 hours in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, Zambia or Zimbabwe, are not allowed to enter.
-This does not apply to:
-- nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, and Vatican City (Holy See);
-- passengers with a residence permit issued by Czechia;
-- passengers with a "D" visa issued by Czechia.
-3. Passengers arriving from, or who in the past 14 days have been for more than 12 hours in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, Zambia or Zimbabwe, must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
-This does not apply to pasengers younger than 6 years.
-4. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
+2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
-- passengers who in the past 14 days have been for more than 12 hours in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, Zambia or Zimbabwe;
 - passengers arriving from Argentina, Australia, Bahrain, Canada, Chile, Chinese Taipei, Colombia, France, Hong Kong (SAR China), Italy, Jordan, Korea (Rep.), Kuwait, Macao (SAR China), Malta, Monaco, Namibia, New Zealand, Peru, Portugal, Qatar, Rwanda, Saudi Arabia, Spain, United Arab Emirates, Uruguay or Vatican City (Holy See);
 - passengers arriving on a direct flight from Austria, Germany, Poland or Slovakia with a negative COVID-19 antigen test taken at most 48 hours before departure for a maximum stay of 24 hours. They must have a return ticket;
 - nationals of Czechia with a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point;
@@ -47,12 +39,9 @@ This does not apply to pasengers younger than 6 years.
 - spouses of nationals of Czechia and their children younger than 21 years, with a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point;
 - children of nationals of Czechia younger than 21 years, with a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point;
 - passengers younger than 12 years.
-5. Passengers arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, Zambia or Zimbabwe must complete a "Passenger Locator Form" before boarding at <a href="http://www.prijezdovyformular.cz/">http://www.prijezdovyformular.cz/</a>
-- This does not apply to passengers 6 years and younger.
-6. Passengers must complete a "Passenger Locator Form" before boarding. The form can be found at <a href="http://www.prijezdovyformular.cz/">http://www.prijezdovyformular.cz/</a>
+3. Passengers must complete a "Passenger Locator Form" before boarding. The form can be found at <a href="http://www.prijezdovyformular.cz/">http://www.prijezdovyformular.cz/</a>
 - This does not apply to:
 - passengers younger than 12 years;
 - nationals of Czechia with a service passport traveling on duty for a maximum stay of 72 hours;
-- passengers with a diplomatic passport traveling on duty for a maximum stay of 72 hours;
-- passengers arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, Zambia or Zimbabwe.
-7. Passengers could be subject to a COVID-19 test upon arrival.
+- passengers with a diplomatic passport traveling on duty for a maximum stay of 72 hours.
+4. Passengers could be subject to a COVID-19 test upon arrival.

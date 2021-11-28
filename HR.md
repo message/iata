@@ -1,7 +1,6 @@
-Published 27.11.2021
+Published 15.11.2021
 1. Until 30 November 2021, passengers are not allowed to enter.
 - This does not apply to:
-- nationals of Croatia
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See) and their family members;
 - passengers with a long term residence permit or a long term "D" visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
 - residents of Argentina, Australia, Bahrain, Canada, Chile, Colombia, Jordan, Korea (Rep.), Kuwait, Namibia, New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates or Uruguay, if arriving from their country of residence, if arriving from their country of residence;
@@ -12,11 +11,8 @@ Published 27.11.2021
 - passengers traveling as students;
 - merchant seamen;
 - military personnel.
-2. Until 15 December 2021, passengers arriving from or who have been in Botswana, Eswatini, Hong Kong (SAR China), Lesotho, Namibia, South Africa or Zimbabwe in the past 14 days are not allowed to enter.
-- This does not apply to:
-- nationals of Croatia and their immediate family members;
-- passengers with a long-term residence permit or a long term "D" visa issued by Croatia.
-3. Passengers arriving from Tanzania (only Zanzibar) must have a negative COVID-19 PCR test taken at most 72 hours before arrival. They are subject to mandatory self-isolation for 14 days.
+2. Passports and national ID cards issued to nationals of Croatia which expired on 11 March 2020 or later are considered valid.
+3. Passengers arriving from South Africa or Tanzania (only Zanzibar) must have a negative COVID-19 PCR test taken at most 72 hours before arrival. They are subject to mandatory self-isolation for 14 days.
 4. Passengers arriving from Brazil must have a negative COVID-19 antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR test taken at most 72 hours before arrival. The test must be based on nasopharyngeal swab.
 5. Passengers are subject to a COVID-19 PCR or rapid antigen test upon arrival at their own expense.
@@ -37,4 +33,3 @@ More exemptions can be found at <a href="https://mup.gov.hr/uzg-covid/english/28
 7. Passengers must complete an "Enter Croatia Form" and present it upon arrival. The form can be completed before departure at <a href="https://entercroatia.mup.hr/">https://entercroatia.mup.hr/</a> or upon arrival.
 - This does not apply to nationals and residents of Croatia.
 8. More information can be found at <a href="https://mup.gov.hr/uzg-covid/english/286212">https://mup.gov.hr/uzg-covid/english/286212</a>
-9. Passports and national ID cards issued to nationals of Croatia which expired on 11 March 2020 or later are considered valid.
