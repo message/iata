@@ -1,5 +1,7 @@
-Published 26.11.2021
-1. Passengers are not allowed to enter.
+Published 28.11.2021
+1. Passengers arriving from or who in the past 10 days have been in Botswana, Eswatini, Hong Kong (SAR China), Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania or Zimbabwe are not allowed to enter.
+- This does not apply to nationals of the Russian Fed.
+2. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Russian Fed. and their family members;
 - permanent residents of the Russian Fed.;
@@ -8,12 +10,15 @@ Published 26.11.2021
 - students with a written approval issued by their university. The approval must have been submitted to the Federal Security Service of the Russian Fed. by the university;
 - until 30 November 2021, guests and participants of The IX St. Petersburg International Cultural Forum with an invitation letter issued by the Organization Committee;
 - more exemptions can be found at <a href="https://tinyurl.com/3mcy3n2r">https://tinyurl.com/3mcy3n2r</a>
-2. Passengers entering or transiting the Russian Fed. must have a negative COVID-19 PCR test taken at most 3 days before arrival. The test result must be in English or Russian. A notarized translation to Russian is accepted.
+3. Passengers entering or transiting the Russian Fed. must have a negative COVID-19 PCR test taken at most 3 days before arrival. The test result must be in English or Russian. A notarized translation to Russian is accepted.
 - This does not apply to:
 - nationals of the Russian Fed.;
 - passengers arriving from Armenia, Azerbaijan, Belarus, Kazakhstan, Moldova (Rep.), Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan.
-3. Passengers arriving from Armenia, Azerbaijan, Belarus, Kazakhstan, Moldova (Rep.), Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan must have a negative COVID-19 PCR test taken at most 3 days before arrival. The test result must have a green QR code obtained in the app 'Traveling without COVID-19'.
+4. Passengers arriving from Armenia, Azerbaijan, Belarus, Kazakhstan, Moldova (Rep.), Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan must have a negative COVID-19 PCR test taken at most 3 days before arrival. The test result must have a green QR code obtained in the app 'Traveling without COVID-19'.
 - This does not apply to nationals of the Russian Fed.
-4. Flights from Morocco and Tanzania to the Russian Fed. are suspended.
-5. Passengers must complete an "Application Form" and present it upon arrival. The form can be obtained at <a href="https://www.rospotrebnadzor.ru/upload/%D0%B0%D0%B2%D0%B8%D0%B0%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0%20RUS.docx">https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docx</a>
-6. Suspension of e-visa issuance.
+5. Nationals of the Russian Fed. arriving from Botswana, China (People's Rep.), Eswatini, Hong Kong (SAR China), Israel, Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania, United Kingdom or Zimbabwe are subject to a COVID-19 antigen test upon arrival.
+6. Passengers arriving from China (People's Rep.), Israel or United Kingdom are subject to a COVID-19 antigen test upon arrival.
+- This does not apply to nationals of the Russian Fed.
+7. Flights from Morocco and Tanzania to the Russian Fed. are suspended.
+8. Passengers must complete an "Application Form" and present it upon arrival. The form can be obtained at <a href="https://www.rospotrebnadzor.ru/upload/%D0%B0%D0%B2%D0%B8%D0%B0%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0%20RUS.docx">https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docx</a>
+9. Suspension of e-visa issuance.

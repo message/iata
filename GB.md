@@ -1,4 +1,4 @@
-Published 26.11.2021
+Published 28.11.2021
 1. Passengers entering or transiting through the United Kingdom must have a negative COVID-19 test result. The test must have been taken at most 3 days before departure of the last direct flight to the United Kingdom. Tests accepted are: antigen, LAMP, nucleic acid and PCR tests. The test result must be in English, French or Spanish. Passengers details (name, date of birth or age) on the test result must match those stated in the passport or other travel document. The test result must also include the contact details of the issuing laboratory.
 - This does not apply to:
 - passengers younger than 18 years;
@@ -28,14 +28,4 @@ Published 26.11.2021
 7. There are no transit facilities at Manchester (MAN). Passengers must comply with all entry regulations for United Kingdom.
 8. Airline crew not residing in the United Kingdom are subject to self-isolation in a hotel until their next flight.
 9. Passengers with an Overseas Domestic Worker visa issued by the UK must be accompanied by the sponsor or one of the first-degree family members of the sponsor.
-10. Until 28 November 2021 at 4 GMT, suspension of flights from Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe to England.
-11. Until 28 November 2021 at 4 GMT, passengers arriving from, or who in the past 10 days have been in Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe, are not allowed entry into England.
-- This does not apply to:
-- British nationals and residents of the United Kingdom;
-- nationals and residents of Ireland (Rep.);
-- passengers who only transited through Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe.
-12. Until 28 November 2021 at 4 GMT, British nationals and residents of the United Kingdom, arriving in England from, or who in the past 10 days have been in, Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe, are subject to home quarantine for 10 days.
-13. Until 28 November 2021 at 4 GMT, nationals of Ireland (Rep.), and residents of Ireland (Rep.), arriving in England from, or who in the past 10 days have been in Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe, are subject to home quarantine for 10 days.
-14. Effective 28 November 2021 at 4 GMT, British nationals and residents of the United Kingdom, arriving in England from, or who in the past 10 days have been in, Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe, must have a reservation for a government-approved hotel quarantine facility for 10 days.
-15. Effective 28 November 2021 at 4 GMT, nationals of Ireland (Rep.), and residents of Ireland (Rep.), arriving in England from, or who in the past 10 days have been in Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe, must have a reservation for a government-approved hotel quarantine facility for 10 days.
-</p>
+10. British nationals, nationals of Ireland (Rep.) and residents of Ireland (Rep.) and the United Kingdom, who in the past 10 days have been in Botswana, Eswatini, Lesotho, Namibia, South Africa or Zimbabwe, are subject to quarantine for 10 days and must have a reservation for a government approved quarantine facility. More details can be found at <a href="https://tinyurl.com/2p8r8dye">https://tinyurl.com/2p8r8dye</a>
