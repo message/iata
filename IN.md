@@ -1,5 +1,5 @@
-Published 24.11.2021
-1. Until 30 November 2021, flights to India are suspended.
+Published 29.11.2021
+1. Until 14 December 2021, flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.
 This does not apply to:
@@ -20,12 +20,12 @@ This does not apply to:
 6. Passengers must complete the self-declaration form before departure. They must select ‘Air Suvidha’ on the right top corner at <a href="http://www.newdelhiairport.in/">www.newdelhiairport.in</a>
 7. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test must be uploaded at <a href="http://www.newdelhiairport.in/">www.newdelhiairport.in</a>
 - This does not apply to passenger younger than 5 years.
-8. Passengers arriving from China (People's Rep.), Cyprus, Denmark, Italy, Latvia, Lithuania, Luxembourg, Malta, Monaco, New Zealand, North Macedonia (Rep.), Norway, Portugal, Singapore or South Africa are subject to a COVID-19 molecular test upon arrival at their own expense.
-- This does not apply to passenger younger than 5 years.
-9. Passengers arriving from Albania, Andorra, Angola, Antigua and Barbuda, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Botswana, Brazil, Bulgaria, Canada, Chad, Colombia, Comoros, Costa Rica, Croatia, Czechia, Dominica, Dominican Rep., Egypt, El Salvador, Estonia, Eswatini, Finland, France, Georgia, Germany, Ghana, Greece, Guatemala, Guyana, Haiti, Honduras, Hungary, Iceland, Iran, Ireland (Rep.), Jamaica, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Liechtenstein, Malawi, Maldives, Mali, Mauritius, Mexico, Moldova (Rep.), Mongolia, Montenegro, Namibia, Nepal, Netherlands, Nicaragua, Nigeria, Oman, Palestinian Territory, Panama, Paraguay, Peru, Philippines, Poland, Qatar, Romania, Russian Fed., Rwanda, San Marino, Serbia, Sierra Leone, Slovakia, Slovenia, South Sudan, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Syria, Trinidad and Tobago, Tunisia, Turkey, Uganda, United Arab Emirates, United Kingdom, Ukraine, USA, Uruguay or Zimbabwe are subject to a COVID-19 molecular test upon arrival at their own expense and home quarantine for 7 days.
+8. Passengers arriving from China (People's Rep.), Cyprus, Denmark, Italy, Latvia, Luxembourg, Malta, Monaco, New Zealand, North Macedonia (Rep.), Norway, Portugal or South Africa are subject to a COVID-19 molecular test upon arrival at their own expense and home quarantine for 7 days.
+- This does not apply to passengers younger than 5 years.
+9. Passengers arriving from Albania, Andorra, Angola, Antigua and Barbuda, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Belarus, Belgium, Benin, Botswana, Brazil, Bulgaria, Canada, Chad, Colombia, Comoros, Costa Rica, Croatia, Czechia, Dominica, Dominican Rep., Egypt, El Salvador, Estonia, Eswatini, Finland, France, Georgia, Germany, Ghana, Greece, Guatemala, Guyana, Haiti, Honduras, Hungary, Iceland, Iran, Ireland (Rep.), Israel, Jamaica, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Liechtenstein, Malawi, Maldives, Mali, Mauritius, Mexico, Moldova (Rep.), Mongolia, Montenegro, Namibia, Nepal, Netherlands, Nicaragua, Nigeria, Oman, Palestinian Territory, Panama, Paraguay, Peru, Philippines, Poland, Qatar, Romania, Russian Fed., Rwanda, San Marino, Serbia, Sierra Leone, Singapore, Slovakia, Slovenia, South Sudan, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Syria, Trinidad and Tobago, Tunisia, Turkey, Uganda, United Arab Emirates, United Kingdom, Ukraine, USA, Uruguay or Zimbabwe are subject to a COVID-19 molecular test upon arrival at their own expense and home quarantine for 7 days.
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before arrival;
-- passenger younger than 5 years.
+- passengers younger than 5 years.
 10. Passengers are subject to medical screening
 11. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://www.mohfw.gov.in/pdf/Guidelinesforinternationalarrivals17022021.pdf">https://www.mohfw.gov.in/pdf/Guidelinesforinternationalarrivals17022021.pdf</a> .
 12. Persons of Indian Origin (PIO) cards which have expired are considered valid until 31 December 2021.

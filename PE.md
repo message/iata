@@ -1,6 +1,6 @@
-Published 22.11.2021
-1. Until 30 November 2021, flights from South Africa are suspended.
-2. Passengers are not allowed to enter if in the past 14 days they have been to or transited through South Africa.
+Published 29.11.2021
+1. Until 31 December 2021, flights from South Africa are suspended.
+2. Until 12 December 2021, passengers are not allowed to enter if in the past 14 days they have been to or transited through South Africa.
 - This does not apply to nationals and residents of Peru.
 3. Passengers must have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or

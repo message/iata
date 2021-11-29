@@ -3,7 +3,6 @@ Published 29.11.2021
 This does not apply to:
 - nationals of USA;
 - passengers with a Permanent Resident/Resident Alien Card (Form I-551);
-- passengers with an Authorization for Parole of an Alien into the United States (Form I-512);
 - spouses of nationals and of residents of the USA;
 - children of nationals and of residents of the USA, or passengers with an IR-4 or IH-4 visa;
 - parents/guardians of a national or a residents of the USA, who is unmarried and younger than 21 years;
@@ -12,9 +11,7 @@ This does not apply to:
 - passengers with one of the following visas: A-1, A-2, C-2, C-3 (as a foreign government official or immediate family member of an official), E-1 (as an employee of TECRO or TECO or the employee’s immediate family members), G-1, G-2, G-3, G-4, NATO-1 through NATO-4, or NATO-6 (or seeking to enter as a nonimmigrant in one of those NATO categories);
 - passengers with a letter of invitation or other official document, issued by the USA, by other government or by the United Nations, traveling on duty.
 2. Passengers entering or transiting through the USA must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. Passenger details (e.g., name and date of birth) in the certificate must match those stated in the passport/travel document. Vaccines accepted are:
-- AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. A combination of these vaccines is accepted if administered at least 17 days apart; and
-- AstraZeneca and Novavax trials administered in the US.
-More details can be found at <a href="http://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html">www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html</a>
+- AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. A combination of these vaccines is accepted if administered at least 17 days apart. More details can be found at <a href="http://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html">www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html</a>
 This does not apply to:
 - nationals of the USA
 - residents of the USA;
@@ -47,6 +44,4 @@ This does not apply to passengers younger than 2 years.
 - passengers with a COVID-19 recovery certificate proving recovery in the past 90 days;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. Passenger details (e.g., name and date of birth) in the certificate must match those stated in the passport/travel document.
 Vaccines accepted are:
-- AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. A combination of these vaccines is accepted if administered at least 17 days apart; and
-- AstraZeneca and Novavax trials administered in the US.
-- More details can be found at <a href="http://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html">www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html</a>
+- AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. A combination of these vaccines is accepted if administered at least 17 days apart. More details can be found at <a href="http://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html">www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html</a>

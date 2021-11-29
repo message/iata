@@ -1,11 +1,10 @@
-Published 28.11.2021
-1. Until January 31 2022, passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe, are not allowed to enter.
+Published 29.11.2021
+1. Until January 31, 2022, passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe, are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Canada;
 - passengers with status under Canada's Indian Act.
-2. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe:
-- must have a negative COVID-19 PCR or TR-LAMP test taken at most 72 hours before departure; and
-- are subject to COVID-19 test upon arrival and quarantine for 14 days.
+2. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe, are subject to COVID-19 test upon arrival and quarantine for 14 days; and
+- must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. More details can be found at <a href="https://tinyurl.com/uuf5nntc">https://tinyurl.com/uuf5nntc</a>
 3. Until 31 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Canada;
@@ -26,11 +25,11 @@ Published 28.11.2021
 - more exemptions can be found at <a href="https://tinyurl.com/s4tbrc8">https://tinyurl.com/s4tbrc8</a>
 4. Passengers and airline crew must submit their information electronically, at most 72 hours before arrival, through the ArriveCAN app or the website <a href="https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html">https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html</a> . Passengers must present an ArriveCAN receipt before boarding.
 5. Passengers must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. More details can be found at <a href="https://tinyurl.com/uuf5nntc">https://tinyurl.com/uuf5nntc</a>
-- Test results issued in India or Morocco are not accepted.
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers with a positive COVID-19 test taken at least 14 days and at most 180 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS;
 - passengers arriving from directly from India;
+- passengers arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe;
 - more exemption can be found via <a href="https://travel.gc.ca/travel-covid/travel-restrictions/exemptions">https://travel.gc.ca/travel-covid/travel-restrictions/exemptions</a>
 6. Passengers arriving directly from India must have a negative COVID-19 test taken at most 18 hours before departure. The test result must be issued by the laboratory Genestrings at the New Delhi airport (DEL) and have a QR code. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS.
 - This does not apply to:
@@ -49,4 +48,4 @@ Published 28.11.2021
 - passengers who are members of the Canadian Forces or a visiting force traveling on duty;
 - the COVID-19 molecular test on day 8 after arrival does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. The certificate must be in English, French or accompanied by a certified English or French translation. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty). A combination of vaccines is accepted. Effective 30 November, Covaxin, Sinopharm and Sinovac will be accepted. More details can be found at <a href="https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada">https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada</a> ;
 - more exemptions can be found at <a href="https://tinyurl.com/y33jxz4f">https://tinyurl.com/y33jxz4f</a>
-10. All travel restrictions may be prolonged as necessary for public health reasons
+10. All travel restrictions may be prolonged as necessary for public health reasons.
