@@ -1,4 +1,4 @@
-Published 26.11.2021
+Published 29.11.2021
 1. Until 30 November 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
@@ -23,7 +23,6 @@ Published 26.11.2021
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers arriving from Argentina, Australia, Bahrain, Canada, Chile, China (People's Rep.), Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Jordan, Korea (Rep.), Kuwait, Macao (SAR China), Namibia, New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates or Uruguay;
-- until 28 November 2021, passengers arriving from Finland (excluding Etela-Suomi, Helsinki-Uusimaa, Lansi-Suomi and Pohjois- ja Ita-Suomi); passengers arriving from Italy (excluding Provincia Autonoma di Bolzano/Bozen, Friuli-Venezia Giulia, Marche, Veneto, Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio, Liguria, Lombardia, Molise, Piemonte, Provincia Autonoma di Trento, Puglia, Sicilia, Toscana, Umbria and Valle d'Aosta/Vallee d'Aoste);
 - residents of the United Kingdom arriving from the United Kingdom;
 - deadheading crew.
 3. Residents of the United Kingdom arriving from the United Kingdom must have:
