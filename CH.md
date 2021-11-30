@@ -1,4 +1,4 @@
-Published 29.11.2021
+Published 30.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
@@ -30,11 +30,13 @@ Published 29.11.2021
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to:
-- passengers with a COVID-19 recovery certificate issued at most 6 months before arrival;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> ;
+- passengers with a COVID-19 recovery certificate issued at most 6 months before arrival. They must not be arriving from a country with a variant of concern listed at <a href="https://tinyurl.com/mvedz8jy">https://tinyurl.com/mvedz8jy</a>;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. They must not be arriving from a country with a variant of concern listed at <a href="https://tinyurl.com/mvedz8jy">https://tinyurl.com/mvedz8jy</a>
+Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> ;
 - passengers younger than 16 years;
 - nationals and residents of Switzerland with no possibility of getting tested in the departure country. They must complete a self-declaration form obtained at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a> . They are subject to a COVID-19 test upon arrival;
 - more exemptions can be found at <a href="https://tinyurl.com/2xllqfnn">https://tinyurl.com/2xllqfnn</a>
 4. Passengers must:
 - provide the contact details electronically at <a href="https://swissplf.admin.ch/home">https://swissplf.admin.ch/home</a> ; or
 - complete the "Contact Tracing Card" form. The form is available at <a href="https://tinyurl.com/yckhd3sr">https://tinyurl.com/yckhd3sr</a> or on board.
+5. Passengers could be subject to quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/yjn3csr7">https://tinyurl.com/yjn3csr7</a>
