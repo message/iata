@@ -1,8 +1,9 @@
-Published 29.11.2021
+Published 30.11.2021
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Israel;
-- passengers with an authorization letter issued by the Population and Immigration Authority.
+- passengers with an authorization letter issued by the Population and Immigration Authority;
+- passengers with an A/1, A/2, A/3, A/4, A/5, B/1, B/3 or B/4 visa.
 2. Passengers must complete an "Entry Statement" at most 48 hours before departure of the last direct flight to Israel at <a href="https://www.gov.il/en/service/request-entry-to-israel-covid19">https://www.gov.il/en/service/request-entry-to-israel-covid19</a> . They will receive an electronic approval from the Ministry of Health. They will receive an electronic approval from the Ministry of Health and a Green Pass which must be presented before boarding.
 3. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense. Payment of ILS 100,- can be made upon arrival. Or ILS 80,- in advance at <a href="https://www.gov.il/en/service/request-entry-to-israel-covid19">https://www.gov.il/en/service/request-entry-to-israel-covid19</a>
 4. Passengers and airline crew who have been outside Israel for more than 72 hours entering or transiting through Israel must have:

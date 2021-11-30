@@ -1,5 +1,5 @@
-Published 29.11.2021
-1. Until 30 November 2021, passengers are not allowed to enter.
+Published 30.11.2021
+1. Until 31 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
 - residents of Andorra, Argentina, Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, Chile, China (People's Rep.), Chinese Taipei, Colombia, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Indonesia, Ireland (Rep.), Italy, Jordan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Monaco, Netherlands, New Zealand, Norway, Peru, Poland, Portugal, Qatar, Romania, Rwanda, San Marino, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Arab Emirates, Uruguay or Vatican City (Holy See);
@@ -37,3 +37,4 @@ This does not apply to:
 5. Passengers entering or transiting through Spain must complete an "FCS Health Control Form" before departure at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> or via the Spain Travel Health-SpTH App. This will generate a QR code which must be presented upon arrival.
 - This does not apply to deadheading crew.
 6. Passengers are subject to medical screening upon arrival.
+7. Passengers could be subject to quarantine for 10 days.
