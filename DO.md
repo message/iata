@@ -1,5 +1,5 @@
-Published 27.11.2021
-1.Passengers who in the past 14 days have been in Angola, Botswana, Eswatini, Lesotho, Namibia or South Africa are not allowed to enter.
+Published 30.11.2021
+1.Passengers and airline crew who in the past 14 days have been in Angola, Botswana, Eswatini, Lesotho, Namibia or South Africa are not allowed to enter.
 2. Passengers must complete an "Electronic Ticket" at <a href="https://eticket.migracion.gob.do/">https://eticket.migracion.gob.do/</a> before boarding. This will generate a QR code which must be presented upon arrival.
 3. Passengers and airline crew arriving from or who in the past 14 days have been in Spain must have:
 - a negative COVID-19 antigen or PCR test taken at most 72 hours before arrival; or

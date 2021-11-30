@@ -1,5 +1,5 @@
 Published 15.11.2021
-1. Until 30 November 2021, passengers are not allowed to enter.
+1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
 - residents of Portugal;
@@ -41,7 +41,7 @@ This does not apply to:
 6. Passengers traveling to Azores must:
 - complete a "Health Form upon arrival at the Azores" and a "Draft statement for inter-island travel" upon arrival; or
 - submit a "Questionnaire for Risk Assessment and Early Detection" before departure at <a href="https://mysafeazores.com/">https://mysafeazores.com/</a>
-7. Passengers traveling to Madeira must complete an epidemiological survey before departure at <a href="https://madeirasafe.com">https://madeirasafe.com</a> . This will generate a QR code which must be presented upon arrival.
+7. Passengers traveling to Madeira must complete an epidemiological survey before departure at <a href="https://madeirasafe.com/">https://madeirasafe.com</a> . This will generate a QR code which must be presented upon arrival.
 8. Passengers are subject to medical screening.
 9. National ID cards issued to nationals of Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
 10. Residence permits issued by Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.

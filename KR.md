@@ -1,4 +1,4 @@
-Published 29.11.2021
+Published 30.11.2021
 1. Passengers arriving from or who have been in Botswana, Eswatini, Lesotho, Namibia, Malawi, Mozambique, South Africa and Zimbabwe in the past 14 days are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Korea (Rep.);
@@ -52,4 +52,7 @@ The test result must:
 - nationals of Korea (Rep.) arriving from Myanmar;
 - passengers younger than 6 years;
 - passengers traveling on official business or funeral attendance purposes with a Quarantine Exemption Certificate.
-16. Passengers transiting to China (People's Rep.) are not allowed to stay in the international transit area of the airport.
+16. Passengers transiting to China (People's Rep.) must enter Korea (Rep.) to obtain a green QR code with an 'HDC' mark.
+- This does not apply to passengers with:
+- an invitation letter issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games;
+- a Pre-Valid card (PVC) issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games.
