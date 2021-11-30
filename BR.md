@@ -1,7 +1,7 @@
 Published 28.11.2021
-1. Passengers arriving from or who have been in Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe in the last 14 days are not allowed to enter.
+1. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe are not allowed to enter.
 - This does not apply to nationals and residents of Brazil.
-2. Nationals and resident of Brazil arriving from or who have been in Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe are subject to quarantine for 14 days.
+2. Nationals and resident of Brazil who in the past 14 days have been in Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe are subject to quarantine for 14 days.
 3. Passengers entering or transiting through Brazil must have:
 - a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point. The test result must be in English, Portuguese or Spanish.

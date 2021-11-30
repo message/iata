@@ -1,4 +1,4 @@
-Published 29.11.2021
+Published 30.11.2021
 1. Until 19 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Finland and their family members;
@@ -9,7 +9,8 @@ Published 29.11.2021
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and their family members, returning to their country of residence via Finland;
 - passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
 - residents of Argentina, Australia, Bahrain, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Jordan, Korea (Rep.), Kuwait, Macao (SAR China), Namibia, New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates and Uruguay, if arriving on a direct flight from Argentina, Australia, Bahrain, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Jordan, Korea (Rep.), Kuwait, Macao (SAR China), Namibia, New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates or Uruguay;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before arrival, and their accompanying minors. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before arrival, and their accompanying minors. They must not be arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe.
+Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac;
 - nationals and residents of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland with a COVID-19 recovery certificate issued at most 6 months before arrival;
 - military personnel;
 - more exemptions can be found at <a href="https://raja.fi/en/guidelines-for-border-traffic-during-pandemic">https://raja.fi/en/guidelines-for-border-traffic-during-pandemic</a>

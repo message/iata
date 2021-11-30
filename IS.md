@@ -1,4 +1,4 @@
-Published 10.11.2021
+Published 30.11.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Iceland;
@@ -25,11 +25,12 @@ The test and the certificates must be in Danish, English, Icelandic, Norwegian o
 - This does not apply to:
 - nationals and residents of Iceland;
 - passengers younger than 16 years.
-5. Passengers are subject to a COVID-19 test upon arrival.
+5. Passengers are subject to a COVID-19 PCR test upon arrival.
 - This does not apply to:
 - passengers younger than 16 years;
-- passengers who are not nationals or residents of Iceland with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Details can be found at <a href="https://tinyurl.com/y4el6uru">https://tinyurl.com/y4el6uru</a> ;
-- passengers with a certificate of previous COVID-19 infection. The certificate must be in Danish, English, Icelandic, Norwegian or Swedish. Tests accepted are:
+- passengers who are not nationals or residents of Iceland with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. They must not be arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe.
+Details can be found at <a href="https://tinyurl.com/y4el6uru">https://tinyurl.com/y4el6uru</a> ;
+- passengers with a certificate of previous COVID-19 infection. They must not be arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe.
+The certificate must be in Danish, English, Icelandic, Norwegian or Swedish. Tests accepted are:
 - positive COVID-19 PCR test result issued at least 14 days before arrival; or
 - presence of antibodies against COVID-19 measured by ELISA serologic assay.
-6. Passengers could be subject to quarantine. Details can be found at <a href="https://www.covid.is/sub-categories/visiting-iceland">https://www.covid.is/sub-categories/visiting-iceland</a>
