@@ -1,4 +1,4 @@
-Published 28.11.2021
+Published 01.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -15,10 +15,10 @@ Published 28.11.2021
 3. Passengers are not allowed to transit.
 - This does not apply to:
 - nationals of New Zealand;
-- nationals of Australia if they have not been in Brazil, India, Indonesia, Pakistan or Papua New Guinea in the past 14 days;
-- residents of New Zealand if they have not been in Brazil, India, Indonesia, Pakistan or Papua New Guinea in the past 14 days;
-- passengers with a New Zealand Electronic Travel Authority (NZeTA) if they have not been in Brazil, India, Indonesia, Pakistan or Papua New Guinea in the past 14 days;
-- passengers with a visa issued by New Zealand if they have not been in Brazil, India, Indonesia, Pakistan or Papua New Guinea in the past 14 days.
+- nationals of Australia if they have not been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Papua New Guinea, Seychelles, South Africa or Zimbabwe in the past 14 days;
+- residents of New Zealand if they have not been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Papua New Guinea, Seychelles, South Africa or Zimbabwe in the past 14 days;
+- passengers with a New Zealand Electronic Travel Authority (NZeTA) if they have not been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Papua New Guinea, Seychelles, South Africa or Zimbabwe in the past 14 days;
+- passengers with a visa issued by New Zealand if they have not been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Papua New Guinea, Seychelles, South Africa or Zimbabwe in the past 14 days.
 4. Passengers are not allowed to transit through New Zealand to Australia, Cook Isl. or Niue if they are arriving from Australia, Cook Isl. or Niue.
 5. Passengers are not allowed to transit through New Zealand to China (People's Rep.).
 - This does not apply to nationals of China (People's Rep.) arriving from Cook Isl., Fiji, Niue, Samoa, Tonga or Vanuatu.
@@ -36,13 +36,13 @@ Published 28.11.2021
 9. Passengers must have a negative COVID-19 test taken at most 72 hours before departure from the first international embarkation point. Tests accepted are: antigen, LAMP, NAAT, PCR, RT-PCR and TMA tests. More details can be found at <a href="https://tinyurl.com/39tsn56h">https://tinyurl.com/39tsn56h</a>
 - This does not apply to:
 - passengers arriving from Antarctica, Australia, Cook Isl., Fiji, Kiribati, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Niue, Palau, Samoa, Solomon Isl., Tonga, Tuvalu or Vanuatu;
-- passengers arriving from Brazil, India, Indonesia, Pakistan or Papua New Guinea;
+- passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Papua New Guinea, Seychelles, South Africa or Zimbabwe;
 - passengers younger than 2 years;
 - passengers with a medical certificate specifying that the passenger cannot take a test due to medical reasons and does not have COVID-19 symptoms. The certificate must be issued at most 72 hours before departure from the first embarkation point;
 - passengers with a diplomatic or consular visa;
 - passengers who are members of the New Zealand Defence Force;
 - passengers arriving from Albania, Belize, Dominica, Kenya, Lao People's Dem. Rep., Montenegro, Myanmar, Slovenia, St. Kitts and Nevis, St. Vincent and the Grenadines, Tajikistan or Turkmenistan. They must have a medical certificate issued at most 72 hours before departure from the first embarkation point and it must confirm that they have no COVID-19 symptoms.
-10. Passengers arriving from Brazil, India, Indonesia, Pakistan or Papua New Guinea must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first international embarkation point. The test result must be issued by an approved laboratory listed at <a href="https://tinyurl.com/uav8cadf">https://tinyurl.com/uav8cadf</a>
+10. Passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Papua New Guinea, Seychelles, South Africa or Zimbabwe must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first international embarkation point. The test result must be issued by an approved laboratory listed at <a href="https://tinyurl.com/uav8cadf">https://tinyurl.com/uav8cadf</a>
 - This does not apply to passengers younger than 2 years.
 11. Passengers arriving from Australia must have a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first international embarkation point.
 - This does not apply to passengers younger than 2 years.
