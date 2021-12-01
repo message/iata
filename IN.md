@@ -1,4 +1,4 @@
-Published 30.11.2021
+Published 01.12.2021
 1. Until 14 December 2021, flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.
@@ -20,9 +20,9 @@ This does not apply to:
 6. Passengers must complete the self-declaration form before departure. They must select ‘Air Suvidha’ on the right top corner at <a href="http://www.newdelhiairport.in/">www.newdelhiairport.in</a>
 7. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test must be uploaded at <a href="http://www.newdelhiairport.in/">www.newdelhiairport.in</a>
 - This does not apply to passenger younger than 5 years.
-8. Passengers arriving from Austria, Bangladesh, Belgium, Botswana, Brazil, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritius, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, United Kingdom or Zimbabwe are subject to a COVID-19 RT-PCR test upon arrival at their own expense and home quarantine for 7 days.
+8. Passengers arriving from Austria, Belgium, Botswana, Brazil, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritius, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, United Kingdom or Zimbabwe are subject to a COVID-19 RT-PCR test upon arrival at their own expense and home quarantine for 7 days.
 - This does not apply to passengers younger than 5 years.
-9. Passengers arriving from a country other than Austria, Bangladesh, Belgium, Botswana, Brazil, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritius, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, United Kingdom or Zimbabwe could be subject to a COVID-19 RT-PCR test upon arrival at their own expense.
+9. Passengers arriving from a country other than Austria, Belgium, Botswana, Brazil, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritius, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, United Kingdom or Zimbabwe could be subject to a COVID-19 RT-PCR test upon arrival at their own expense.
 - This does not apply to passengers younger than 5 years.
 10. Passengers are subject to medical screening
 11. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://www.mohfw.gov.in/pdf/Guidelinesforinternationalarrivals17022021.pdf">https://www.mohfw.gov.in/pdf/Guidelinesforinternationalarrivals17022021.pdf</a> .

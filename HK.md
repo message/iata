@@ -56,4 +56,4 @@ All documents must be in Chinese or English.
 - a negative COVID-19 PCR or RT-PCR test taken at most 48 hours before departure, and
 - an approval letter from the Marine Department, and
 - a letter of certification to Department of Health from Hong Kong.
-More information can be found at <a href="https://www.coronavirus.gov.hk/eng/inbound-travel-faq.html#FAQB5">https://www.coronavirus.gov.hk/eng/inbound-travel-faq.html#FAQB5</a><p>
+More information can be found at <a href="https://www.coronavirus.gov.hk/eng/inbound-travel-faq.html#FAQB5">https://www.coronavirus.gov.hk/eng/inbound-travel-faq.html#FAQB5</a> <p>
