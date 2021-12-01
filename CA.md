@@ -1,11 +1,12 @@
-Published 30.11.2021
-1. Until January 31, 2022, passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe, are not allowed to enter.
+Published 01.12.2021
+1. Until January 31, 2022, passengers who in the past 14 days have been in Botswana, Egypt, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa or Zimbabwe, are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Canada;
 - passengers with status under Canada's Indian Act.
-2. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe:
+2. Passengers who in the past 14 days have been in Botswana, Egypt, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa or Zimbabwe:
 - are subject to COVID-19 test upon arrival and quarantine for 14 days; and
-- must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. More details can be found at <a href="https://tinyurl.com/uuf5nntc">https://tinyurl.com/uuf5nntc</a>
+- must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. The test must not be issued in Botswana, Egypt, Eswatini, India, Lesotho, Malawi, Morocco, Mozambique, Namibia, Nigeria, South Africa or Zimbabwe.
+Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. More details can be found at <a href="https://tinyurl.com/uuf5nntc">https://tinyurl.com/uuf5nntc</a>
 3. Until 31 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Canada;
@@ -24,14 +25,14 @@ Published 30.11.2021
 - passengers with an application for permanent residence. They must have a written notice issued under the Immigration and Refugee Protection Act;
 - members of the Canadian forces traveling on duty, and their immediate family members;
 - more exemptions can be found at <a href="https://tinyurl.com/s4tbrc8">https://tinyurl.com/s4tbrc8</a>
-4. Passengers and airline crew must submit their information electronically, at most 72 hours before arrival, through the ArriveCAN app or the website <a href="https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html">https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html</a> . Passengers must present an ArriveCAN receipt before boarding.
-5. Passengers must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. More details can be found at <a href="https://tinyurl.com/uuf5nntc">https://tinyurl.com/uuf5nntc</a>
+4. Passengers must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. More details can be found at <a href="https://tinyurl.com/uuf5nntc">https://tinyurl.com/uuf5nntc</a>
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers with a positive COVID-19 test taken at least 14 days and at most 180 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS;
 - passengers arriving from directly from India;
-- passengers arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe;
+- passengers arriving from Botswana, Egypt, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa or Zimbabwe;
 - more exemption can be found via <a href="https://travel.gc.ca/travel-covid/travel-restrictions/exemptions">https://travel.gc.ca/travel-covid/travel-restrictions/exemptions</a>
+5.Passengers and airline crew must submit their information electronically, at most 72 hours before arrival, through the ArriveCAN app or the website <a href="https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html">https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html</a> . Passengers must present an ArriveCAN receipt before boarding.
 6. Passengers arriving directly from India must have a negative COVID-19 test taken at most 18 hours before departure. The test result must be issued by the laboratory Genestrings at the New Delhi airport (DEL) and have a QR code. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS.
 - This does not apply to:
 - passengers younger than 5 years;

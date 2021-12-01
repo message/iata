@@ -1,4 +1,4 @@
-Published 11.11.2021
+Published 01.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Chinese Taipei travel document;
@@ -21,7 +21,10 @@ Tests accepted are: LAMP, NAAT, PCR, RNA, RT-LAMP and RT-PCR. Details can be fou
 - are subject to an RT-PCR test upon arrival at their own expense.
 Tests accepted are: LAMP, NAAT, PCR, RNA, RT-LAMP and RT-PCR. Details can be found at <a href="https://www.cdc.gov.tw/Category/MPage/XQ9r73gXAgEfJZV9zm6gaA">https://www.cdc.gov.tw/Category/MPage/XQ9r73gXAgEfJZV9zm6gaA</a> .
 6. A completed "Quarantine System for Entry Form" must be submitted before departure at <a href="https://hdhq.mohw.gov.tw/">https://hdhq.mohw.gov.tw/</a>
-7. Passengers arriving from a country other than India, Myanmar or United Kingdom must have a confirmed booking of quarantine facility or hotel.
+7. Passengers must have a confirmed booking of quarantine facility or hotel.
+- This does not apply to:
+- passengers arriving from India, Myanmar or United Kingdom;
+- passengers who in the past 14 days have been in or transited through Botswana, Egypt, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa or Zimbabwe.
 8. "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visas with "FC", "FR" or "FS" stated on remarks which expired between 19 May 2021 and 23 August 2021 are considered valid until 30 November 2021.
 9. "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visas with "OC", "OS", "TC" or "TS" stated on remarks which expired between 19 May 2021 and 13 September 2021 are considered valid until 31 December 2021.
 10. "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visas issued to nationals of Indonesia with "FL" stated on remarks which expired between 4 December 2020 and 4 May 2021 are considered valid until 31 May 2022.

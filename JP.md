@@ -3,9 +3,14 @@ Published 01.12.2021
 - This does not apply to:
 - nationals of Japan;
 - spouses or children of nationals of Japan;
-- passengers with a re-entry permission;
-- passengers with a visa issued by Japan outside Japan. The visa must not have "M19" in the Remarks column;
-- US military personnel, civilian personnel, and their dependents. They must have SOFA status and have the required documents stipulated in Article IX of the US-Japan Status of Forces Agreement.
+- US military personnel, civilian personnel, and their dependents. They must have SOFA status and have the required documents stipulated in Article IX of the US-Japan Status of Forces Agreement;
+- until 1 December 2021, passengers with a re-entry permission;
+- until 1 December 2021, passengers with a visa issued by Japan outside Japan. The visa must not have "M19" in the Remarks column;
+- effective 2 December 2021, passengers with a "D" visa or an "S" visa (for spouse, child of Japanese or for spouse of permanent resident);
+- effective 2 December 2021, passengers with a visa issued by Japan outside Japan on or after 2 December 2021;
+- effective 2 December 2021, passengers with a visa issued by Japan and a "Letter of Embassy/Consulate General/Consular Office of Japan";
+- effective 2 December 2021, residents of Japan with a re-entry permit who in the past 14 days have not been in Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe;
+- effective 2 December 2021, passengers with a Special Permanent Residence Permit who in the past 14 days have been in Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe, and departed from those countries by 1 December 2021.
 2. Passengers must complete a "Quarantine Questionnaire" at <a href="https://arqs-qa.followup.mhlw.go.jp/">https://arqs-qa.followup.mhlw.go.jp/</a> . This will generate a QR code which must be presented upon arrival.
 3. Passengers must have a negative COVID-19 test result. Tests accepted are LAMP, NEAR, Next Generation Sequence, quantitative antigen (CLEIA/ECLEIA), RT-PCR, Smart Amp, TMA or TRC. The test must:
 - specify that it is based on nasopharyngeal swab, saliva, or nasopharyngeal and oropharyngeal swab; and
