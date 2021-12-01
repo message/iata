@@ -1,19 +1,19 @@
-Published 30.11.2021
+Published 01.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Saudi Arabia;
 - first degree family members of nationals of Saudi Arabia;
-- residents of Saudi Arabia arriving from Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam with a COVID-19 vaccination certificate showing that they were fully vaccinated in Saudi Arabia;
-- residents of Saudi Arabia. They must not have transited through or been in Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam in the past 14 days;
-- nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must not have transited through or been in Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam in the past 14 days;
-- passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia. They must not have transited through or been in Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam in the past 14 days;
-- passengers with a tourist visa issued by Saudi Arabia. They must not have transited through or been in Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam in the past 14 days;
+- residents of Saudi Arabia arriving from Afghanistan, Ethiopia, Lebanon or Turkey with a COVID-19 vaccination certificate showing that they were fully vaccinated in Saudi Arabia;
+- residents of Saudi Arabia. They must not have been in or transited through Afghanistan, Ethiopia, Lebanon or Turkey in the past 14 days;
+- nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must not have been in or transited through Afghanistan, Ethiopia, Lebanon or Turkey in the past 14 days;
+- passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia. They must not have been in or transited through Afghanistan, Ethiopia, Lebanon or Turkey in the past 14 days;
+- passengers with a tourist visa issued by Saudi Arabia. They must not have been in or transited through Afghanistan, Ethiopia, Lebanon or Turkey in the past 14 days;
 - domestic workers of nationals of Saudi Arabia. They must be accompanied by the sponsor;
-- domestic workers of nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must be accompanied by the sponsor or one of the first degree family members of the sponsor. They must not have transited through or been in Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam in the past 14 days;
-- Umrah passengers. They must not have transited through or been in Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam in the past 14 days.
+- domestic workers of nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must be accompanied by the sponsor or one of the first degree family members of the sponsor. They must not have been in or transited through Afghanistan, Ethiopia, Lebanon or Turkey in the past 14 days;
+- Umrah passengers. They must not have been in or transited through Afghanistan, Ethiopia, Lebanon or Turkey in the past 14 days.
 2. Passengers who in the past 14 days have been in or transited through Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter.
 - This does not apply to nationals of Saudi Arabia.
-3. Passengers arriving from Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, Turkey or Viet Nam are not allowed to transit.
+3. Passengers arriving from Afghanistan, Ethiopia, Lebanon or Turkey are not allowed to transit.
 4. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Saudi Arabia.
 - This does not apply to:
 - nationals of Saudi Arabia;
