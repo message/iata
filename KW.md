@@ -1,4 +1,4 @@
-Published 30.11.2021
+Published 01.12.2021
 1. Nationals of Israel are not allowed to enter and transit.
 2. Passengers are not allowed to enter.
 This does not apply to:
@@ -14,9 +14,9 @@ This does not apply to:
 - US military personnel with a COVID-19 vaccination certificate showing that they were fully vaccinated with Sinopharm, Sinovac or Sputnik V and that they also received one vaccine dose of AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTec (Comirnaty);
 - passengers younger than 18 years with a residence permit issued by Kuwait;
 - passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe.
-3. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter.
+3. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to nationals of Kuwait.
-4. Flights from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
+4. Flights from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia and Zimbabwe are suspended.
 5. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure.
 - This does not apply to passengers younger than 6 years.
 6. Passengers are subject to medical screening.
