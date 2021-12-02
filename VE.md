@@ -1,4 +1,4 @@
-Published 20.10.2021
+Published 02.12.2021
 1. Flights to Venezuela are suspended.
 - This does not apply to:
 - flights from Bolivia, Dominican Rep., Mexico, Panama, Russian Fed. or Turkey;
@@ -7,5 +7,5 @@ Published 20.10.2021
 - This does not apply to passengers younger than 1 year.
 3. Passengers must register online before departure at <a href="http://pasedesalud.casalab.com.ve/">http://pasedesalud.casalab.com.ve/</a>. This will generate a QR code which must be presented upon arrival.
 4. Passengers must obtain an airport entry authorization before disembarking.
-5. Passengers are subject to a COVID-19 PCR test upon arrival.
+5. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense.
 6. Airline crew are subject to quarantine until their next flight.

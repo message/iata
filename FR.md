@@ -82,4 +82,4 @@ Published 01.12.2021
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival and proof of previous infection with COVID-19; or
 - the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and proof of complete vaccination of Covaxin, Sinopharm or Sinovac.
-More exemptions can be found at <a href="https://tinyurl.com/4wtws28x">https://tinyurl.com/4wtws28x</a><p>
+More exemptions can be found at <a href="https://tinyurl.com/4wtws28x">https://tinyurl.com/4wtws28x</a> <p>

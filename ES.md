@@ -1,5 +1,5 @@
-Published 01.12.2021
-1. Effective 1 December 2021 at 23.00h until 15 December 2021, flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
+Published 02.12.2021
+1. Until 15 December 2021, flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Until 31 December 2021, passengers are not allowed to enter.
 - This does not apply to:
