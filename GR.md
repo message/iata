@@ -1,4 +1,4 @@
-Published 26.11.2021
+Published 02.12.2021
 1. Until 3 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
@@ -11,8 +11,12 @@ Published 26.11.2021
 - military personnel;
 - students.
 More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
-2. Passengers must complete a "Passenger Locator Form (PLF)" at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> before arrival in Greece. A confirmation email or a QR code generated from the completed form must be presented upon arrival. Families can be accepted with one joint confirmation e-mail or a unique QR code.
-3. Passengers must have:
+2. Passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe are not allowed to enter.
+- This does not apply to:
+- nationals of Greece;
+- passengers with a permit to travel issued by a Greek diplomatic representation.
+3. Passengers must complete a "Passenger Locator Form (PLF)" at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> before arrival in Greece. A confirmation email or a QR code generated from the completed form must be presented upon arrival. Families can be accepted with one joint confirmation e-mail or a unique QR code.
+4. Passengers must have:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
@@ -21,16 +25,19 @@ More details can be found at <a href="https://travel.gov.gr/">https://travel.gov
 All documents must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
 - This does not apply to:
 - passengers younger than 12 years;
-- passengers who reside permanently in the Russian Fed.
-4. Passengers who reside permanently in the Russian Fed. must have:
+- passengers who reside permanently in the Russian Fed;
+- passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe.
+5. Passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe must have a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival.
+- This does not apply to passengers younger than 12 years.
+6. Passengers who reside permanently in the Russian Fed. must have:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival.
 They are also subject to an antigen or PCR test upon arrival.
 The test result must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
 - This does not apply to passengers younger than 12 years.
-5. Passengers arriving from Albania, Argentina, Brazil, Bulgaria, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Morocco, North Macedonia (Rep.), Pakistan, Russian Fed., Turkey or United Arab Emirates are subject to a COVID-19 PCR or rapid antigen test upon arrival.
+7. Passengers arriving from Albania, Argentina, Brazil, Bulgaria, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Morocco, North Macedonia (Rep.), Pakistan, Russian Fed., Turkey or United Arab Emirates are subject to a COVID-19 PCR or rapid antigen test upon arrival.
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
 - passengers with a COVID-19 recovery certificate.
-6. Passengers arriving from a country other than Albania, Argentina, Brazil, Bulgaria, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Morocco, North Macedonia (Rep.), Pakistan, Russian Fed., Turkey or United Arab Emirates could be subject to a COVID-19 rapid test upon arrival.
-7. Passengers could be subject to self-isolation for up to 10 days. Details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
+8. Passengers arriving from a country other than Albania, Argentina, Brazil, Bulgaria, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Morocco, North Macedonia (Rep.), Pakistan, Russian Fed., Turkey or United Arab Emirates could be subject to a COVID-19 rapid test upon arrival.
+9. Passengers could be subject to self-isolation for up to 10 days. Details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
