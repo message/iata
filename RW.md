@@ -7,4 +7,4 @@ Published 02.12.2021
 5. Passengers could be subject to quarantine for 7 days at their own expense.
 6. Airline crew must have a negative COVID-19 PCR test taken at most 14 days before arrival.
 7. More information can be found at <a href="http://www.rbc.gov.rw/">http://www.rbc.gov.rw/</a>
-</p><p>
+<p>
