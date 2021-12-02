@@ -1,11 +1,10 @@
-Published 30.11.2021
+Published 01.12.2021
 1. Passengers arriving from Armenia, Botswana, Bulgaria, Costa Rica, Eswatini, Hong Kong (SAR China), Iraq, Lesotho, Mexico, Mongolia, Mozambique, Namibia, Slovenia, South Africa, Thailand, Trinidad and Tobago or Ukraine are not allowed to enter.
 - This does not apply to nationals of Pakistan.
 2. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated.
 - This does not apply to:
-- until 30 November 2021, passengers younger than 18 years;
-- from 1 December 2021, nationals of Pakistan younger than 15 years;
-- from 1 December 2021, passengers younger than 18 years who are nationals of a country other than Pakistan;
+- nationals of Pakistan younger than 15 years;
+- passengers younger than 18 years who are nationals of a country other than Pakistan;
 - passengers who departed Pakistan before 1 October 2021;
 - passengers with a medical certificate specifying that the passenger cannot be vaccinated due to medical reasons.
 3. Nationals of Pakistan younger than 18 years and older than 14 years must have a COVID-19 vaccination certificate showing that they received at least one dose of the vaccine.
