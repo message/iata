@@ -1,5 +1,5 @@
 Published 03.12.2021
-1. Passengers arriving from or who have been in Botswana, Eswatini, Lesotho, Namibia, Nigeria, Malawi, Mozambique, South Africa and Zimbabwe in the past 14 days are not allowed to enter and transit.
+1. Passengers arriving from or who have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Korea (Rep.);
 - passengers with an A1 and A2 visa.
@@ -14,7 +14,7 @@ Published 03.12.2021
 7. Suspension of visa exemptions for passengers with a Macao (SAR China) passport.
 8. Passengers could be subject to quarantine for 10 days.
 - This does not apply to:
-- passengers arriving from a country other than Botswana, Eswatini, Kazakhstan, Kyrgyzstan, Lesotho, Malawi, Mozambique, Myanmar, Namibia, Nigeria, Pakistan, Philippines, South Africa, Ukraine, Uzbekistan or Zimbabwe with a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival or with a Quarantine Exemption Certificate;
+- passengers with a Quarantine Exemption Certificate;
 - passengers arriving from Singapore under the Vaccinated Travel Lane with:
 - a COVID-19 vaccination certificate with a QR code obtained from <a href="https://www.notarise.gov.sg/">https://www.notarise.gov.sg/</a> ; and
 - a confirmed booking for the COVID-19 test upon arrival obtained from <a href="https://safe2gopass.com/">https://safe2gopass.com/</a> ; and

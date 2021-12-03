@@ -1,5 +1,5 @@
-Published 01.12.2021
-1. Until 4 December 2021, flights from Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe are suspended.
+Published 03.12.2021
+1. Until 4 December 2021, flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
 2. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of France, their spouses and children;
@@ -9,7 +9,7 @@ Published 01.12.2021
 - passengers arriving from Argentina, Australia, Bahrain, Canada, Chinese Taipei, Comoros, Hong Kong (SAR China), Japan, Jordan, Korea (Rep.), Kuwait, Lebanon, New Zealand, Qatar, Rwanda, Saudi Arabia, Senegal, United Arab Emirates, Uruguay or Vanuatu. They must not have been outside these countries in the past 30 days;
 - passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;
 - merchant seamen;
-- students. They must not arrive from Afghanistan, Belarus, Botswana, Brazil, Costa Rica, Cuba, Eswatini, Georgia, Lesotho, Mauritius, Moldova (Rep.), Montenegro, Mozambique, Namibia, Pakistan, Russian Fed., Serbia, South Africa, Suriname, Turkey, Ukraine or Zimbabwe;
+- students. They must not arrive from Afghanistan, Belarus, Botswana, Brazil, Costa Rica, Cuba, Eswatini, Georgia, Lesotho, Mauritius, Moldova (Rep.), Montenegro, Mozambique, Namibia, Pakistan, Russian Fed., Serbia, South Africa, Suriname, Turkey, Ukraine or Zimbabwe; effective 4 December 2021, Malawi and Zambia will be added to the list of red countries.
 - passengers with a Laissez-Passer;
 - deadheading crew;
 - passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. The certificate must state that they received:
@@ -18,7 +18,9 @@ Published 01.12.2021
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival and proof of previous infection with COVID-19; or
 - the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and proof of complete vaccination of Covaxin, Sinopharm or Sinovac.
 - More exemptions can be found at <a href="https://tinyurl.com/104zuyhq">https://tinyurl.com/104zuyhq</a>
-3. Passengers arriving from red list countries: Afghanistan, Belarus, Botswana, Brazil, Costa Rica, Cuba, Eswatini, Georgia, Lesotho, Mauritius, Moldova (Rep.), Montenegro, Mozambique, Namibia, Pakistan, Russian Fed., Serbia, South Africa, Suriname, Turkey, Ukraine or Zimbabwe must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
+3. Passengers arriving from red list countries: Afghanistan, Belarus, Botswana, Brazil, Costa Rica, Cuba, Eswatini, Georgia, Lesotho, Mauritius, Moldova (Rep.), Montenegro, Mozambique, Namibia, Pakistan, Russian Fed., Serbia, South Africa, Suriname, Turkey, Ukraine or Zimbabwe must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point. Effective 4 December 2021, Malawi and Zambia will be added to the list of red countries and passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe will need:
+- a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point ; or
+- a negative PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 12 years;
 - merchant seamen;
