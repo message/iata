@@ -27,5 +27,4 @@ This does not apply to:
 - passengers with an EU Digital Covid Certificate (EU DCC) as proof of recovery, issued at most 180 days after the positive test result;
 - passengers who recovered from COVID-19 with an EU Digital Covid Certificate (EU DCC) showing that they received at least one dose of a COVID-19 vaccine.
 6. Passengers could be subject to a COVID-19 test upon arrival at their own expense and self-isolation.
-- This does not apply to passengers arriving from Italy, Jordan, Kuwait, Malta, New Zealand, Saudi Arabia, United Arab Emirates or Vatican City (Holy See).
-- Details can be found at <a href="https://cyprusflightpass.gov.cy/en/passengers-eligible-for-a-test">https://cyprusflightpass.gov.cy/en/passengers-eligible-for-a-test</a>
+Details can be found at <a href="https://cyprusflightpass.gov.cy/en/passengers-eligible-for-a-test">https://cyprusflightpass.gov.cy/en/passengers-eligible-for-a-test</a>

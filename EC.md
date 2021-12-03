@@ -5,7 +5,7 @@ Published 03.12.2021
 - This does not apply to:
 - passengers younger than 16 years;
 - passengers arriving from or who have transited through India.
-3. Passengers older than 1 year and younger than 16 years must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure.
+3. Passengers older than 2 years and younger than 16 years must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure.
 4. Passengers arriving from or who have transited through India must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure.
 - This does not apply to passengers younger than 16 years.
 5. Passengers could be subject to a COVID-19 antigen test upon arrival.
