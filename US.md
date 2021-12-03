@@ -1,4 +1,4 @@
-Published 29.11.2021
+Published 03.12.2021
 1. Passengers who in the past 14 days have been in, or transited through, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe, are not allowed to enter.
 This does not apply to:
 - nationals of USA;
@@ -21,7 +21,7 @@ This does not apply to:
 - passengers with a letter of invitation or other official document, issued by the USA, by other government or by the United Nations, traveling on duty;
 - nationals of Afghanistan, Algeria, Angola, Armenia, Benin, Burkina Faso, Burundi, Cameroon, Central African Rep., Chad, Congo, Congo (Dem. Rep.), Cote d'Ivoire, Djibouti, Egypt, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Haiti, Iraq, Kenya, Kiribati, Liberia, Libya, Madagascar, Malawi, Mali, Mozambique, Myanmar, Namibia, Nicaragua, Niger, Nigeria, Papua New Guinea, Senegal, Sierra Leone, Solomon Isl., Somalia, South Sudan, Syria, Tanzania, Togo, Uganda, Vanuatu, Yemen and Zambia, with a visa issued by the USA, excluding B -1 and B -2 visas;
 - members of the U.S. Armed Forces, their spouses, and children younger than 18 years;
-- merchant seamen with a C-1 and D visa.
+- merchant seamen with one of the following visas: C, D, C1/D, B1, H or L.
 - More details can be found at Requirement for Proof of COVID-19 Vaccination for Air Passengers | CDC
 3. Passengers entering or transiting through the USA must have a negative COVID-19 test taken at most 3 days before departure from the first embarkation point. Tests accepted are: antigen, NAAT, RT-LAMP, RT-PCR or TMA. Passengers details (e.g., name and date of birth) in the certificate must match those stated in the passport or other travel document; and the test result must specify "negative" or "not detected". If marked "invalid" it is not accepted.
 This does not apply to:
