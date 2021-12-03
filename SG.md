@@ -1,4 +1,4 @@
-Published 01.12.2021
+Published 03.12.2021
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to:
 - nationals of Singapore;
@@ -10,7 +10,7 @@ Published 01.12.2021
 - This does not apply to with a Business Travel Pass (BTP) or a Pre-Approved Business Pass (PBP). They must not have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days.
 - This does not apply to passengers with an Air Travel Pass approval letter issued by Singapore if they:
 - have only been in Singapore and/or Category I countries/regions <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a> in the past 14 days ; and
-- effective 2 December 2021 at 23:59 (Singapore time): they must have a negative COVID-19 PCR or rapid antigen test, taken at most 2 days before departure from the first embarkation point; and
+- must have a negative COVID-19 PCR or rapid antigen test, taken at most 2 days before departure from the first embarkation point; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor).
 - This does not apply to passengers with a Vaccinated Travel Pass (VTL) approval letter issued by Singapore if they:
 - have a valid proof of vaccination issued in Singapore or a Vaccinated Travel Lane (VTL) country/region listed on <a href="https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries">https://safetravel.ica.gov.sg/vtl/requirements-and-process#countries</a> ; and
@@ -36,23 +36,20 @@ Published 01.12.2021
 - have a medical certificate with a negative Coronavirus (COVID-19) PCR or rapid antigen test taken at most 2 days before departure from the first embarkation point; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor); and
 - arrive in Singapore on a designated VTL flight.
-2. Passengers entering and transiting through Singapore must have a negative COVID-19 test taken at most 2 days before the day of departure from the first embarkation point. If passengers have transited for more than 24 hours before arriving in Singapore, the negative test must be taken at most 2 days before the day of departure of the last direct flight to Singapore. Passengers entering or transiting through Singapore from Category I, Category II or Category III countries/regions (<a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>) could be subject to presenting a negative COVID-19 PCR test or professionally-administered ART result. Passengers entering or transiting through Singapore from Category IV countries/regions (<a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>) must present a negative COVID-19 PCR test result. The test result must:
+2. Passengers entering and transiting through Singapore must have a negative COVID-19 test taken at most 2 days before the day of departure from the first embarkation point. If passengers have transited for more than 24 hours before arriving in Singapore, the negative test must be taken at most 2 days before the day of departure of the last direct flight to Singapore. Passengers entering or transiting through Singapore from Category II or Category III countries/regions (<a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>) could be subject to presenting a negative COVID-19 PCR test or professionally-administered ART result. Passengers entering or transiting through Singapore from Category IV countries/regions (<a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>) must present a negative COVID-19 PCR test result. The test result must:
 - be in English; and
 - include the date the test was taken; and
 - include a minimum of 2 personal identifiers as stated in the passport (i.e. name and either date of birth or passport number).
 More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements">https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements</a> .
 - This does not apply to:
-- passengers younger than 3 years;
-- until 2 December 2021 at 23:59 (Singapore time): passengers who in the past 14 days have only been in or transited through Category I countries/regions (<a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>)
+- passengers younger than 3 years.
 3. Passengers are not allowed to transit.
 - This does not apply when traveling on airlines with transit routes approved by the Civil Aviation Authority of Singapore (CAAS). They must not have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days.
 4. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine or Stay Home Notice (SHN). Please refer to <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>
 5. Passengers could be subject to a COVID-19 PCR test upon arrival at their own expense. Passengers should register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for at <a href="https://safetravel.changiairport.com">https://safetravel.changiairport.com</a>
 - This does not apply to:
 - passengers younger than 3 years;
-- merchant seamen;
-- until 2 December 2021 at 23:59 (Singapore time): passengers not travelling under the Vaccinated Travel Lane (VTL), Reciprocal Green Lane (RGL), Business Travel Pass (BTP) and Overseas Singaporeans Vaccination Program; and
-- who have only been in, or transited through, countries classified as categories II, III and IV in <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>
+- merchant seamen.
 6. Passengers must submit a health declaration before arrival via the SG Arrival Card (SGAC) e-Service (<a href="https://eservices.ica.gov.sg/sgarrivalcard">https://eservices.ica.gov.sg/sgarrivalcard</a>) or via the mobile application.
 - This does not apply to passengers in transit.
 7. Passengers with a Work Pass, Long-Term Visit Pass (LTVP), Dependant's Pass, or the respective In-Principle Approval (IPA), a Student's Pass (STP) or a Student's Pass In-Principle Approval (STP IPA), must have:
