@@ -1,9 +1,9 @@
-Published 02.12.2021
+Published 03.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Chinese Taipei travel document;
 - passengers with an Alien Resident Certificate;
-- passengers with a "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visa with "DC", "ER", "FC", "FD", "FO", "FR", "FS", "OC", "OS", "TC" or "TS" stated on remarks;
+- passengers with a "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visa with "CC", "CF", "DC", "ER", "FC", "FD", "FO", "FR", "FS", "HC", "HS", "OC", "OS", "SC", "SF", "TC" or "TS" stated on remarks;
 - passengers with a "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visa with "X" stated on remarks issued after 21 October 2021;
 - nationals of Indonesia with a "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visa with “FL" stated on remarks;
 - passengers with a MOFA ID.

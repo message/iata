@@ -2,7 +2,8 @@ Published 03.12.2021
 1. Passengers arriving from or who have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Korea (Rep.);
-- passengers with an A1 and A2 visa.
+- passengers with a diplomatic or official passport;
+- passengers with an A1, A2 and A3 visa.
 2. Short-term visas (type C-1 and C-3) issued on or before 5 April 2020 are no longer valid.
 3. Suspension of visa exemptions for nationals of Antigua and Barbuda, Argentina, Australia, Bahamas, Bahrain, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Canada, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, El Salvador, Eswatini (Swaziland), Fiji, Grenada, Guatemala, Haiti, Honduras, Israel, Jamaica, Kazakhstan, Kiribati, Kuwait, Lesotho, Malaysia, Marshall Isl., Mauritius, Micronesia (Federated States), Montenegro, Morocco, Nauru, New Zealand, Oman, Panama, Paraguay, Peru, Qatar, Russian Fed., Samoa, Saudi Arabia, Serbia, Seychelles, Solomon Isl., South Africa, Spain, St. Lucia, Suriname, Thailand, Tonga, Trinidad and Tobago, Tunisia, Turkey, Tuvalu, United Arab Emirates or Uruguay with a normal passport.
 - This does not apply to airline crew.
@@ -14,14 +15,14 @@ Published 03.12.2021
 7. Suspension of visa exemptions for passengers with a Macao (SAR China) passport.
 8. Passengers could be subject to quarantine for 10 days.
 - This does not apply to:
-- passengers with a Quarantine Exemption Certificate;
+- passengers with a Quarantine Exemption Certificate (the Quarantine Exemption Certificate for family visit purposes is invalid);
 - passengers arriving from Singapore under the Vaccinated Travel Lane with:
 - a COVID-19 vaccination certificate with a QR code obtained from <a href="https://www.notarise.gov.sg/">https://www.notarise.gov.sg/</a> ; and
 - a confirmed booking for the COVID-19 test upon arrival obtained from <a href="https://safe2gopass.com/">https://safe2gopass.com/</a> ; and
 - a printed copy of travel insurance with minimum coverage of approximate USD 25,100.- for COVID-19 related medical expenses (the insurance requirement does not apply to nationals of Korea (Rep.) and passengers with a long-term visa).
 9. Passengers must install the 'self-quarantine safety protection mobile app' found at <a href="https://tinyurl.com/m9fcz6dc">https://tinyurl.com/m9fcz6dc</a> before departure or upon arrival.
 - This does not apply to:
-- passengers arriving from a country other than Botswana, Eswatini, Kazakhstan, Kyrgyzstan, Lesotho, Malawi, Mozambique, Myanmar, Namibia, Nigeria, Pakistan, Philippines, South Africa, Ukraine, Uzbekistan or Zimbabwe with a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival or with a Quarantine Exemption Certificate;
+- passengers with a Quarantine Exemption Certificate (the Quarantine Exemption Certificate for family visit purposes is invalid);
 - passengers arriving from Singapore under the Vaccinated Travel Lane with:
 - a COVID-19 vaccination certificate with a QR code obtained from <a href="https://www.notarise.gov.sg/">https://www.notarise.gov.sg/</a> ; and
 - a confirmed booking for the COVID-19 test upon arrival obtained from <a href="https://safe2gopass.com/">https://safe2gopass.com/</a> ; and
@@ -46,4 +47,4 @@ The test result must:
 - This does not apply to passengers with:
 - an invitation letter issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games;
 - a Pre-Valid card (PVC) issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games.
-17. Airline crew arriving from or who have been in Botswana, Eswatini, Lesotho, Namibia, Nigeria, Malawi, Mozambique, South Africa and Zimbabwe in the past 14 days are subject to a PCR test upon arrival.
+17. Airline crew arriving from or who have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Malawi, Nigeria, South Africa and Zimbabwe in the past 14 days are subject to a PCR test upon arrival.
