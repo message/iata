@@ -1,4 +1,4 @@
-Published 03.12.2021
+Published 04.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
@@ -29,7 +29,7 @@ Published 03.12.2021
 - passengers with a diplomatic or service visa and an invitation letter issued by an Indonesian Ministry under the Travel Corridor Arrangement (TCA).
 8. Airline crew must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. The certificate must be issued in both English and a local language of the country where the airline crew was vaccinated.
 - This does not apply to airline crew transiting without disembarking the aircraft.
-9. Passengers are subject to a COVID-19 PCR test upon arrival and quarantine for up to 10 days.
+9. Passengers are subject to a COVID-19 PCR test upon arrival and quarantine for up to 14 days.
 10. A completed "electronic health awareness card (e-HAC)" must be presented upon arrival. The card can be obtained before departure through the "Pedulilindungi" mobile app.
 11. Airline crew with a crew ID card are visa exempt if they are listed in the General Declaration and wearing uniform.
 12. Deadhead crew will be given an entry stamp. They must:
