@@ -1,4 +1,4 @@
-Published 03.12.2021
+Published 05.12.2021
 1. Until 10 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
@@ -35,9 +35,9 @@ All documents must be in English, French, German, Greek, Italian, Spanish or Rus
 They are also subject to an antigen or PCR test upon arrival.
 The test result must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
 - This does not apply to passengers younger than 12 years.
-7. Passengers arriving from Albania, Argentina, Brazil, Bulgaria, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Morocco, North Macedonia (Rep.), Pakistan, Russian Fed., Turkey or United Arab Emirates are subject to a COVID-19 PCR or rapid antigen test upon arrival.
+7. Passengers arriving from Albania, Argentina, Brazil, Bulgaria, Chile, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Mexico, Morocco, North Macedonia (Rep.), Oman, Pakistan, Russian Fed., Turkey, United Arab Emirates or Uruguay are subject to a COVID-19 PCR or rapid antigen test upon arrival.
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
 - passengers with a COVID-19 recovery certificate.
-8. Passengers arriving from a country other than Albania, Argentina, Brazil, Bulgaria, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Morocco, North Macedonia (Rep.), Pakistan, Russian Fed., Turkey or United Arab Emirates could be subject to a COVID-19 rapid test upon arrival.
+8. Passengers arriving from a country other than Albania, Argentina, Brazil, Bulgaria, Chile, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Mexico, Morocco, North Macedonia (Rep.), Oman, Pakistan, Russian Fed., Turkey, United Arab Emirates or Uruguay could be subject to a COVID-19 rapid test upon arrival.
 9. Passengers could be subject to self-isolation for up to 10 days. Details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
