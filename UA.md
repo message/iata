@@ -1,5 +1,5 @@
-Published 03.12.2021
-1. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe are not allowed to enter.
+Published 05.12.2021
+1. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe for more than 7 days are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Ukraine;
 - spouses and children of nationals of Ukraine;
@@ -24,7 +24,7 @@ Published 03.12.2021
 - NATO military personnel.
 3. Passengers arriving from or who have transited through India or Russian Fed. are subject to quarantine for 14 days.
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac.
-4. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe are subject to self-isolation for 14 days.
+4. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe for more than 7 days are subject to self-isolation for 14 days.
 5. Nationals and residents of Ukraine with a COVID-19 positive result are subject to quarantine.
 6. Passengers must install the Vdoma application on their personal device.
 - This does not apply to:
