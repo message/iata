@@ -23,6 +23,8 @@ Published 06.12.2021
 - have a COVID-19 vaccination certificate issued in Singapore; and
 - have stayed in Singapore or Malaysia in the past 14 days; and
 - have a copy of travel insurance policy with a minimum coverage of MYR 100,000.
+- The COVID-19 RT-PCR test does not apply to passengers younger than 2 years;
+- The COVID-19 vaccination certificate does not apply to passengers younger than 12 years.
 6. Passengers traveling to Langkawi (LGK) under the Langkawi Travel Bubble must have:
 - a travel package from a travel agency licensed by the Ministry of Tourism, Arts & Culture Malaysia (MOTAC); and
 - insurance to cover COVID-19 expenses with minimum coverage of USD 80,000; and
