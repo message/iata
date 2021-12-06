@@ -1,4 +1,4 @@
-Published 29.11.2021
+Published 06.12.2021
 1. Flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
 2. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter and transit.
 - This does not apply to nationals of Jordan and their spouses and children.
@@ -10,40 +10,39 @@ Published 29.11.2021
 - passengers with a visa issued by Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Jordan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland or USA;
 - nationals of Colombia, Libya, Niger, Pakistan and Philippines traveling as part of an organized tourist group of 5 or more people;
 - nationals of Syria traveling as part of an organized tourist group of 5 or more people. The travel agency must have submitted an application to the Ministry of Interior of Jordan.
-4. Passengers are not allowed to transit through Jordan for more than 10 hours.
-5. Passengers must complete a "Declaration Form" before departure at <a href="https://www.gateway2jordan.gov.jo">https://www.gateway2jordan.gov.jo</a> . This will generate a QR code which must be presented before boarding and upon arrival.
-6. Passengers must have health insurance valid for the period of intended stay.
+4. Passengers must complete a "Declaration Form" before departure at <a href="https://www.gateway2jordan.gov.jo">https://www.gateway2jordan.gov.jo</a> . This will generate a QR code which must be presented before boarding and upon arrival.
+5. Passengers must have health insurance valid for the period of intended stay.
 This does not apply to:
 - nationals of Jordan;
 - passengers with a diplomatic or special passport and a diplomatic QR code and their family members.
-7. Passengers entering or transiting through Jordan must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result for passengers arriving from Egypt, Iraq or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a>
+6. Passengers entering or transiting through Jordan must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result for passengers arriving from Egypt, Iraq or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a>
 - This does not apply to:
 - passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe;
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and their family members;
 - nationals of Jordan residing in Jordan with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure, if they have been outside of Jordan for not more than 10 days;
 - passengers traveling to Aqaba (AQJ).
-8. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
+7. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 5 years.
-9. Passengers traveling to Aqaba (AQJ) must have:
+8. Passengers traveling to Aqaba (AQJ) must have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated; or
 - a COVID-19 vaccination certificate showing that they received the first dose of the vaccine at least 21 days before arrival; or
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.
 The vaccination certificate must be in Arabic or English.
 - This does not apply to passengers younger than 18 years traveling with parents who have a COVID-19 vaccination certificate showing that they were fully vaccinated.
-10. Passengers are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo/</a> .
+9. Passengers are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo/</a> .
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and a diplomatic QR code;
 - family members of passengers with a diplomatic or special passport;
 - passengers with a COVID-19 vaccination certificate issued by Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Jordan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Morocco, Netherlands, New Zealand, Oman, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tunisia, Turkey, United Arab Emirates, United Kingdom or USA showing that they were fully vaccinated. The vaccination certificate must be in Arabic or English;
 - passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe.
-11. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo/</a> .
+10. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo/</a> .
 - This does not apply to passengers younger than 5 years.
-12. Passengers must complete a "Passenger Health Declaration Form" and a "Locator Form" and present it before departure.
-13. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to quarantine for 14 days at a hotel at their own expense.
-14. Airline crew must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point.
+11. Passengers must complete a "Passenger Health Declaration Form" and a "Locator Form" and present it before departure.
+12. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to quarantine for 14 days at a hotel at their own expense.
+13. Airline crew must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point.
 - This does not apply to airline crew with a round trip flight.
-15. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.
-16. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
-17. More COVID-19 related information can be found at <a href="https://www.carc.jo/index.php/en/covid19-related-measures">https://www.carc.jo/index.php/en/covid19-related-measures</a>
+14. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.
+15. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
+16. More COVID-19 related information can be found at <a href="https://www.carc.jo/index.php/en/covid19-related-measures">https://www.carc.jo/index.php/en/covid19-related-measures</a>
