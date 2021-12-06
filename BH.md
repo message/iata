@@ -1,5 +1,5 @@
-Published 30.11.2021
-1. Passengers arriving from or who have transited through Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe are not allowed to enter.
+Published 06.12.2021
+1. Passengers arriving from or who have transited through Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to nationals and residents of Bahrain.
 2. Passengers are not allowed to enter.
 - This does not apply to:
@@ -22,9 +22,9 @@ Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covi
 - This does not apply to passengers younger than 6 years.
 5. Passengers could be subject to quarantine for up to 10 days.
 - This does not apply to:
-- passengers with a COVID-19 vaccination certificate with a QR code showing that they were fully vaccinated at least 14 days before arrival, if arriving from a country other than Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe;
-- passengers with a COVID-19 vaccination certificate issued in Cyprus, Greece, Hungary, Israel, Jordan Kuwait, Oman, Saudi Arabia, Seychelles or United Arab Emirates showing that they were fully vaccinated at least 14 days before arrival, if arriving from a country other than Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe;
-- passengers with a COVID-19 vaccination certificate issued in countries that are eligible for visa on arrival, if arriving from a country other than Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe.
+- passengers with a COVID-19 vaccination certificate with a QR code showing that they were fully vaccinated at least 14 days before arrival, if arriving from a country other than Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia or Zimbabwe;
+- passengers with a COVID-19 vaccination certificate issued in Cyprus, Greece, Hungary, Israel, Jordan Kuwait, Oman, Saudi Arabia, Seychelles or United Arab Emirates showing that they were fully vaccinated at least 14 days before arrival, if arriving from a country other than Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia or Zimbabwe;
+- passengers with a COVID-19 vaccination certificate issued in countries that are eligible for visa on arrival, if arriving from a country other than Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia or Zimbabwe.
 Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 6. Flights from Addis Ababa (ABB) and Baku (BAK) are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
