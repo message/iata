@@ -1,16 +1,16 @@
-Published 03.12.2021
+Published 06.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Malaysia;
 - permanent residents of Malaysia;
 - passengers with a Long Term Visit Pass;
-- passengers with a diplomatic passport. They must not have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days;
+- passengers with a diplomatic passport. They must not have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days;
 - passengers arriving from Singapore under the Vaccinated Travel Lanes scheme;
-- passengers with MyTravelPass (MTP) obtained at <a href="https://mtp.imi.gov.my/myTravelPass/main">https://mtp.imi.gov.my/myTravelPass/main</a> . They must not have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days;
-- students with a written approval from immigration applied at <a href="https://educationmalaysia.gov.my/">https://educationmalaysia.gov.my/</a> . They must not have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days;
-- merchant seamen with an official letter from the company certified by Malaysian immigration and joining the ship no later than 24 hours from arrival. They must not have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days;
+- passengers with MyTravelPass (MTP) obtained at <a href="https://mtp.imi.gov.my/myTravelPass/main">https://mtp.imi.gov.my/myTravelPass/main</a> . They must not have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days;
+- students with a written approval from immigration applied at <a href="https://educationmalaysia.gov.my/">https://educationmalaysia.gov.my/</a> . They must not have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days;
+- merchant seamen with an official letter from the company certified by Malaysian immigration and joining the ship no later than 24 hours from arrival. They must not have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days;
 - passengers traveling to Langkawi (LGK) under the Langkawi Travel Bubble, if not arriving from Australia, Austria, Belarus, Belgium, Brazil, Bulgaria, Canada, Czechia, Denmark, France, Georgia, Germany, Ghana, Guyana, Hong Kong (SAR China), Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Libya, Martinique, Netherlands, Nigeria, Norway, Poland, Portugal, Reunion, Romania, Russian Fed., Saudi Arabia, Slovakia, Spain, St. Kitts and Nevis, Sweden, Trinidad and Tobago, Ukraine, United Arab Emirates, United Kingdom or USA (Only California).
-2. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to transit.
+2. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to transit.
 - This does not apply to:
 - nationals of Malaysia;
 - permanent residents of Malaysia;
