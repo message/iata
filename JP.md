@@ -1,15 +1,16 @@
-Published 05.12.2021
+Published 07.12.2021
 1. Until 31 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Japan;
 - spouses or children of nationals of Japan;
 - special permanent residents of Japan;
-- spouses or children of special permanent residents of Japan;
+- spouses or children of permanent residents of Japan;
 - US military personnel, civilian personnel, and their dependents. They must have SOFA status and have the required documents stipulated in Article IX of the US-Japan Status of Forces Agreement;
 - passengers with a "D" visa (only (D) as Diplomat) or an "S" visa (only (S) as Spouse, Child of Japanese or (S) as Spouse of Permanent Resident);
 - passengers with a visa issued by Japan outside Japan on or after 2 December 2021;
 - passengers with a visa issued by Japan and a "Letter of Embassy/Consulate General/Consular Office of Japan";
-- residents of Japan with a re-entry permit who in the past 14 days have not been in Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe.
+- residents of Japan with a re-entry permit who in the past 14 days have not been in Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe;
+- residents of Japan with a re-entry permit who in the past 14 days have been in Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe and who departed Japan on or before 1 December 2021.
 2. Passengers must complete a "Quarantine Questionnaire" at <a href="https://arqs-qa.followup.mhlw.go.jp/">https://arqs-qa.followup.mhlw.go.jp/</a> . This will generate a QR code which must be presented upon arrival.
 3. Passengers must have a negative COVID-19 test result. Tests accepted are LAMP, NEAR, Next Generation Sequence, quantitative antigen (CLEIA/ECLEIA), RT-PCR, Smart Amp, TMA or TRC. The test must:
 - specify that it is based on nasopharyngeal swab, saliva, or nasopharyngeal and oropharyngeal swab; and
@@ -21,7 +22,7 @@ Details can be found at <a href="https://www.mhlw.go.jp/stf/covid-19/bordercontr
 - passengers with a diplomatic or an official visa issued by Japan;
 - US military personnel, civilian personnel, and their dependents. They must have SOFA status and have the required documents stipulated in Article IX of the US-Japan Status of Forces Agreement;
 - passengers with a consular letter specifying why the test could not be taken.
-4. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://www.mhlw.go.jp/content/000862663.pdf">https://www.mhlw.go.jp/content/000862663.pdf</a>
+4. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://www.mhlw.go.jp/content/000863576.pdf">https://www.mhlw.go.jp/content/000863576.pdf</a>
 5. Visa exemption for passengers with a British passport, Chinese Taipei (on the cover: Republic of China Taiwan) passport, Hong Kong (SAR China) passport and Macao (SAR China) passport is suspended.
 6. Visa exemption for nationals of Andorra, Argentina, Australia, Austria, Bahamas, Barbados, Belgium, Brunei Darussalam, Bulgaria, Costa Rica, Croatia, Czechia, Cyprus, Denmark, Dominican Rep., El Salvador, Estonia, Finland, France, Germany, Greece, Guatemala, Honduras, Hungary, Iceland, Indonesia, Iran, Ireland (Rep.), Israel, Italy, Korea (Rep.), Latvia, Lesotho, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Monaco, Netherlands, New Zealand, Norway, Peru, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Suriname, Sweden, Switzerland, Thailand, Tunisia, United Arab Emirates, Uruguay and Vatican City (Holy See) is suspended.
 7. Visa exemption for nationals of Azerbaijan, Bangladesh, Cambodia, Colombia, Georgia, India, Kazakhstan, Lao People's Dem. Rep., Mongolia, Myanmar, Nauru, Oman, Pakistan, Palau, Papua New Guinea, Paraguay, Qatar, Samoa, Solomon Isl., Turkmenistan, Ukraine, Uzbekistan and Viet Nam with a diplomatic, official or service passport is suspended.
