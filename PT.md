@@ -1,4 +1,4 @@
-Published 06.12.2021
+Published 07.12.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
@@ -21,7 +21,8 @@ This does not apply to:
 6. Passengers who have been in Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe in the past 14 days are subject to COVID-19 test upon arrival and quarantine.
 7. Passengers entering or transiting through Portugal must have:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point; or
-- a negative COVID-19 NAAT, PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point.
+- a negative COVID-19 NAAT, PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
+- an EU Digital Covid Certificate (EU DCC) as proof of recovery.
 This does not apply to:
 - passengers younger than 12 years;
 - passengers traveling on a direct flight to Azores or Madeira.
