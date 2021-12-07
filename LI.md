@@ -23,9 +23,7 @@ Published 07.12.2021
 - passengers with a "D" visa issued by a Schengen Member State they are traveling to;
 - passengers arriving from countries other than Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, and Zimbabwe with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> ;
 3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival.
-- This does not apply to:
-- passengers younger than 16 years arriving from a country other than Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe;
-- passengers younger than 6 years.
+- This does not apply to passengers younger than 16 years.
 4. Passengers must:
 - provide the contact details electronically at <a href="https://swissplf.admin.ch/home">https://swissplf.admin.ch/home</a> ; or
 - complete the "Contact Tracing Card" form. The form is available at <a href="https://tinyurl.com/yckhd3sr">https://tinyurl.com/yckhd3sr</a> or on board.

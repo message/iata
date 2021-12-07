@@ -1,12 +1,13 @@
-Published 06.12.2021
+Published 07.12.2021
 1. Flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
 2. Passengers who in the past 14 days have been in Austria, Belgium, Botswana, Czechia, Eswatini, Hungary, Italy, Lesotho, Mozambique, Namibia, Netherlands, South Africa, Switzerland or Zimbabwe, are not allowed to enter.
 - This does not apply to:
-- nationals of the Philippines;
+- nationals of the Philippines on Bayanihan flights or repatriation flights
 - passengers with diplomatic or official passports and their family members;
 - passengers who only transited through Austria, Belgium, Botswana, Czechia, Eswatini, Hungary, Italy, Lesotho, Mozambique, Namibia, Netherlands, South Africa, Switzerland or Zimbabwe.
 3. Nationals of Philippines arriving from Austria, Belgium, Botswana, Czechia, Eswatini, Hungary, Italy, Lesotho, Mozambique, Namibia, Netherlands, South Africa, Switzerland or Zimbabwe, must enter the Philippines via Angeles city (CRK) or Manila (MNL)
 4. Passengers arriving from a country other than Austria, Belgium, Botswana, Czechia, Eswatini, Hungary, Italy, Lesotho, Mozambique, Namibia, Netherlands, South Africa, Switzerland or Zimbabwe, must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point.
+This does not apply to passenger without COVID-19 symptoms who are 3 years old and younger.
 5. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -17,7 +18,7 @@ Published 06.12.2021
 - passengers with a 9(A) visa with an endorsement document issued by the Department of Foreign Affairs (DFA). Letters to the Bureau of Immigration (LBI) issued before 8 February 2021 without an expiration date are not accepted;
 - passengers with an Identification Certificate (IC) or a Certificate of Re-acquisition/Retention of Philippine Citizenship (CRPC) issued by the Philippines;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated in the Philippines, at least 14 days before arrival.
-6. Passengers are subject to quarantine.
+6. Passengers are subject to quarantine at the first point of entry.
 7. Passengers and airline crew traveling to Angeles city (CRK), Cebu (CEB) and Manila (MNL) must complete the "One Health Pass" form before arrival at <a href="https://onehealthpass.com.ph/e-HDC/OHP-Registration/">https://onehealthpass.com.ph/e-HDC/OHP-Registration/</a> . This will generate a QR code which must be presented upon arrival.
 - This does not apply to:
 - passengers with a diplomatic passport traveling on duty and their family members;
