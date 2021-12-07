@@ -36,4 +36,4 @@ Published 06.12.2021
 - have a valid crew ID card or crew member certificate;
 - provide written notification to Immigration Officer proving they will be on duty on the return flight. The notification must be received by Immigration Officer minimum 24 hours from arrival.
 13. Suspension of all visa exemptions and visa on arrival facilities.
-- This does not apply to nationals of Argentina, Brazil, China (People’s Rep.), France, India, Italy, Japan, Korea (Rep.), Mexico, Russian Fed., South Africa, Turkey and United Kingdom with a diplomatic or service passport participating in the G20 event who can obtain a visa on arrival.
+- This does not apply to nationals of Argentina, Brazil, China (People’s Rep.), France, India, Italy, Japan, Korea (Rep.), Mexico, Russian Fed., South Africa and Turkey with a diplomatic or service passport participating in the G20 event who are visa exempt.
