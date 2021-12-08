@@ -1,4 +1,4 @@
-Published 07.12.2021
+Published 08.12.2021
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Israel;
@@ -17,7 +17,7 @@ The test result must be in English and indicate the passenger passport number.
 - This does not apply to nationals and residents of Israel.
 6. Airline crew are subject to a COVID-19 PCR test upon arrival.
 - This does not apply to airline crew with a negative COVID-19 PCR test taken at most 7 days before arrival.
-7. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://tinyurl.com/265ndkth">https://tinyurl.com/265ndkth</a> and <a href="https://tinyurl.com/h8hxy4w7">https://tinyurl.com/h8hxy4w7</a>
+7. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://tinyurl.com/h8hxy4w7">https://tinyurl.com/h8hxy4w7</a> and <a href="https://tinyurl.com/4tbzd4rx">https://tinyurl.com/4tbzd4rx</a>
 8. Airline crew are subject to self-isolation until their next flight.
-- This does not apply to airline crew with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Covishield), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. They must also complete an "Entry Statement" at most 24 hours before departure of the last direct flight to Israel at <a href="https://www.gov.il/en/service/request-entry-to-israel-covid19">https://www.gov.il/en/service/request-entry-to-israel-covid19</a> in order to be eligible for the Green Pass.
-9. More COVID-19 related information can be found at <a href="https://corona.health.gov.il/en/directives/air-travel-covid19-israel/">https://corona.health.gov.il/en/directives/air-travel-covid19-israel/</a>
+- This does not apply to airline crew with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. They must also complete an "Entry Statement" at most 24 hours before departure of the last direct flight to Israel at <a href="https://www.gov.il/en/service/request-entry-to-israel-covid19">https://www.gov.il/en/service/request-entry-to-israel-covid19</a> in order to be eligible for the Green Pass.
+9. More COVID-19 related information can be found at <a href="https://corona.health.gov.il/en/">https://corona.health.gov.il/en/</a>
