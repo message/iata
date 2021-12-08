@@ -1,5 +1,5 @@
-Published 07.07.2021
-1. Passengers must have a negative COVID-19 test taken at most 3 days before departure from the first embarkation point. Tests accepted are: antigen, NAAT, RT-LAMP, RT-PCR or TMA. Passengers details (e.g., name and date of birth) on the result must match those stated in the passport or other travel document. The test result must specify "negative" or "not detected". If marked "invalid" it is not accepted.
+Published 08.12.2021
+1. Passengers must have a negative COVID-19 test taken at most 1 day before departure from the first embarkation point. Tests accepted are: antigen, NAAT, RT-LAMP, RT-PCR or TMA. Passengers details (e.g., name and date of birth) on the result must match those stated in the passport or other travel document. The test result must specify "negative" or "not detected". If marked "invalid" it is not accepted.
 - This does not apply to:
 - passengers arriving from the USA;
 - passengers younger than 2 years;
