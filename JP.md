@@ -1,4 +1,4 @@
-Published 08.12.2021
+Published 09.12.2021
 1. Until 31 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Japan;
@@ -9,6 +9,7 @@ Published 08.12.2021
 - passengers with a "D" visa (only (D) as Diplomat) or an "S" visa (only (S) as Spouse, Child of Japanese or (S) as Spouse of Permanent Resident);
 - passengers with a visa issued by Japan outside Japan on or after 2 December 2021;
 - passengers with a visa issued by Japan and a "Letter of Embassy/Consulate General/Consular Office of Japan";
+- residents of Japan with the status of residence of "diplomatic";
 - residents of Japan with a re-entry permit who in the past 14 days have not been in Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe;
 - residents of Japan with the status of residence of "Permanent Resident", "Spouse or Child of a Japanese National", "Spouse or Child of a Permanent Resident" or "Long Term Resident" with a re-entry permit who in the past 14 days have been in Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe and who departed Japan on or before 1 December 2021.
 2. Passengers must complete a "Quarantine Questionnaire" at <a href="https://arqs-qa.followup.mhlw.go.jp/">https://arqs-qa.followup.mhlw.go.jp/</a> . This will generate a QR code which must be presented upon arrival.

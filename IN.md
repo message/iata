@@ -1,4 +1,4 @@
-Published 08.12.2021
+Published 09.12.2021
 1. Until 14 December 2021, flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.
@@ -20,8 +20,7 @@ This does not apply to:
 6. Passengers must complete the self-declaration form before departure. They must select ‘Air Suvidha' on the right top corner at <a href="http://www.newdelhiairport.in">www.newdelhiairport.in</a>
 7. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test must be uploaded at <a href="http://www.newdelhiairport.in">www.newdelhiairport.in</a>
 - This does not apply to passenger younger than 5 years.
-8. Passengers could be subject to a COVID-19 RT-PCR test upon arrival at their own expense. The test must be booked before departure at the website of the airport of arrival.
-More details can be found at <a href="https://www.mohfw.gov.in/">https://www.mohfw.gov.in/</a>
+8. Passengers arriving from Austria, Belgium, Botswana, Brazil, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Ghana, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritius, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Tanzania, United Kingdom or Zimbabwe are subject to a COVID-19 antigen or RT-PCR test upon arrival at their own expense.
 - This does not apply to passengers younger than 5 years.
 9. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://www.mohfw.gov.in/">https://www.mohfw.gov.in/</a>
 10. Passengers are subject to medical screening

@@ -1,4 +1,4 @@
-Published 05.12.2021
+Published 09.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -48,7 +48,7 @@ Published 05.12.2021
 - This does not apply to passengers younger than 2 years.
 11. Passengers arriving from Australia must have a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first international embarkation point.
 - This does not apply to passengers younger than 2 years.
-12. Passengers must have a voucher confirming their allocation to a place in managed isolation.
+12. Passengers must have a voucher confirming their allocation to a place in managed isolation. The voucher can be obtained at <a href="https://allocation.miq.govt.nz/portal/">https://allocation.miq.govt.nz/portal/</a>
 - This does not apply to:
 - passengers arriving from Cook Isl. if they in the past 14 days have only been in Cook Isl. or New Zealand;
 - passengers arriving from Niue if they in the past 14 days have only been in New Zealand or Niue;
