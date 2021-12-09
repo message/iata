@@ -1,4 +1,4 @@
-Published 28.11.2021
+Published 09.12.2021
 1. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe are not allowed to enter.
 - This does not apply to nationals and residents of Brazil.
 2. Nationals and resident of Brazil who in the past 14 days have been in Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe are subject to quarantine for 14 days.
@@ -11,5 +11,8 @@ Published 28.11.2021
 - passengers with two positive COVID-19 RT-PCR tests. The tests must be taken at least 14 days apart and the second test at most 72 hours before departure; and
 - a negative or non-detectable COVID-19 antigen test taken after the last positive COVID-19 RT-PCR test; and
 - a COVID-19 recovery certificate in English, Portuguese or Spanish showing that they are asymptomatic and fit to fly. The certificate must show the travel date.
-4. Passengers and airline crew must complete a "Traveler's Health Declaration" form before departure and present it upon arrival. The form can be found at <a href="https://formulario.anvisa.gov.br/">https://formulario.anvisa.gov.br/</a>
-5. Airline crew are subject to quarantine in a hotel room until their next flight.
+4. Passengers and airline crew must complete a "Traveler's Health Declaration" form at most 24 hours before departure from the first embarkation point and present it upon arrival. The form can be found at <a href="https://formulario.anvisa.gov.br/">https://formulario.anvisa.gov.br/</a>
+5. Passengers are subject to self-quarantine for 5 days. More details can be found at <a href="https://tinyurl.com/hk7w75t2">https://tinyurl.com/hk7w75t2</a>
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure from the first embarkation point.
+6. Airline crew are subject to quarantine in a hotel room until their next flight.
+- This does not apply to airline crew with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure from the first embarkation point.
