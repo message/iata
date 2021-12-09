@@ -1,5 +1,5 @@
-Published 03.12.2021
-1. Passengers arriving from or who have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa and Zimbabwe in the past 14 days are not allowed to enter and transit.
+Published 09.12.2021
+1. Until 16 December 2021, passengers arriving from or who have been in Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia and Zimbabwe in the past 14 days are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Korea (Rep.);
 - passengers with a diplomatic or official passport;
@@ -47,4 +47,4 @@ The test result must:
 - This does not apply to passengers with:
 - an invitation letter issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games;
 - a Pre-Valid card (PVC) issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games.
-17. Airline crew arriving from or who have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Malawi, Nigeria, South Africa and Zimbabwe in the past 14 days are subject to a PCR test upon arrival.
+17. Airline crew arriving from or who have been Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia or Zimbabwe in the past 14 days are subject to a PCR test upon arrival.
