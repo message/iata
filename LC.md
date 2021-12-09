@@ -6,5 +6,5 @@ Published 26.11.2021
 3. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense.
 - This does not apply to passengers younger than 5 years.
 4. Passengers could be subject to quarantine for 14 days. Details can be found at <a href="https://www.stlucia.org/en/covid-19/">https://www.stlucia.org/en/covid-19/</a> .
-- This does not apply to passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated at least two weeks before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. A combination of vaccines is accepted.
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. A combination of vaccines is accepted.
 5. Passengers and airline crew are subject to medical screening.

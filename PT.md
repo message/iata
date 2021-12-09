@@ -1,4 +1,4 @@
-Published 07.12.2021
+Published 09.12.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
@@ -22,7 +22,8 @@ This does not apply to:
 7. Passengers entering or transiting through Portugal must have:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point; or
 - a negative COVID-19 NAAT, PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
-- an EU Digital Covid Certificate (EU DCC) as proof of recovery.
+- an EU Digital Covid Certificate (EU DCC) as proof of recovery; or
+- a COVID-19 recovery certificate issued by Albania, Andorra, Armenia, El Salvador, Faroe Islands, Georgia, Israel, Iceland, Liechtenstein, Moldova, Monaco, Morocco, New Zealand, North Macedonia, Norway, Panama, San Marino, Serbia, Singapore, Switzerland, Togo, Turkey, Ukraine, United Kingdom or Vatican City (Holy See).
 This does not apply to:
 - passengers younger than 12 years;
 - passengers traveling on a direct flight to Azores or Madeira.
