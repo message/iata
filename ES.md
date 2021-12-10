@@ -1,4 +1,4 @@
-Published 06.12.2021
+Published 10.12.2021
 1. Until 15 December 2021, flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Until 31 December 2021, passengers are not allowed to enter.
@@ -25,10 +25,11 @@ Published 06.12.2021
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers arriving from Argentina, Australia, Bahrain, Canada, Chile, China (People's Rep.), Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates or Uruguay;
-- passengers arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia or South Africa;
+- passengers arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe;
+- effective 13 December 2021, passengers arriving from Malawi or Zambia;
 - residents of the United Kingdom arriving from the United Kingdom;
 - deadheading crew.
-4. Passengers arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe must have a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
+4. Passengers arriving from Botswana, Eswatini, Lesotho, Malawi (effective 13 December 2021), Mozambique, Namibia, South Africa, Zambia (effective 13 December 2021) or Zimbabwe must have a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation.
 5. Residents of the United Kingdom arriving from the United Kingdom must have:
 - a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or

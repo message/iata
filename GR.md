@@ -1,5 +1,5 @@
-Published 05.12.2021
-1. Until 10 December 2021, passengers are not allowed to enter.
+Published 10.12.2021
+1. Until 17 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
 - British nationals and residents of the United Kingdom;
@@ -20,7 +20,7 @@ More details can be found at <a href="https://travel.gov.gr/">https://travel.gov
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
-- a COVID-19 recovery certificate issued at least 30 days after having tested positive. The certificate is considered valid for at least 30 days and at most 180 days after the initial positive result; or
+- a COVID-19 recovery certificate issued at least 30 days and at most 90 days after having tested positive. Recovery certificates issued before 15 July 2021 are not accepted; or
 - a positive COVID-19 antigen, PCR or RT-PCR test result issued at least 30 days and at most 180 days before arrival.
 All documents must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
 - This does not apply to:
