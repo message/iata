@@ -1,4 +1,4 @@
-Published 09.12.2021
+Published 10.12.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals of Portugal and their family members;
@@ -39,10 +39,10 @@ This does not apply to:
 9. Passengers traveling on a direct flight to Madeira without a negative COVID-19 RT-PCR test taken at most 72 hours before departure are subject to a COVID-19 rapid antigen test upon arrival or quarantine for 10 days.
 This does not apply to:
 - passengers younger than 12 years;
-- passengers with a COVID-19 recovery certificate issued at most 180 days before arrival;
+- passengers with a COVID-19 recovery certificate issued at most 90 days before arrival;
 - passengers with an EU Digital Covid Certificate (EU DCC); or
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V;
-- passengers with a positive COVID-19 test result and a recovery certificate.
+- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before arrival. They must have a positive COVID-19 test taken more than 90 days before arrival or taken after receiving the first dose.
 10. Passengers are subject to medical screening.
 11. National ID cards issued to nationals of Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
 12. Residence permits issued by Portugal which have expired on 24 February 2020 or later are considered valid until 31 December 2021.
