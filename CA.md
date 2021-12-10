@@ -1,4 +1,4 @@
-Published 02.12.2021
+Published 10.12.2021
 1. Until January 31, 2022, passengers who in the past 14 days have been in Botswana, Egypt, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa or Zimbabwe, are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Canada;
@@ -10,7 +10,6 @@ Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene
 3. Until 31 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Canada;
-- dual nationals of Canada with a Special Authorization approval email;
 - permanent residents of Canada;
 - persons registered under Canada's Indian Act with the Certificate of Indian Status (CIS) or the Secure Certificate of Indian Status (SCIS);
 - passengers with a Canadian Refugee Travel Document or a Single Journey Document for Resettlement to Canada;

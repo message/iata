@@ -1,4 +1,4 @@
-Published 30.11.2021
+Published 10.12.2021
 1. Until 15 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Croatia
@@ -28,7 +28,7 @@ Published 30.11.2021
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with Janssen at least 14 days and at most 365 days before arrival; or
 - a COVID-19 recovery certificate and a COVID-19 vaccination certificate showing that the passenger received the first dose of AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, or Sputnik V vaccine not more than 8 months after infection with COVID-19 and 365 days before arrival; or
 - a positive COVID-19 PCR or rapid antigen test result issued at least 11 days and at most 365 days before arrival;
-- passengers arriving from Brazil, South Africa or Tanzania (only Zanzibar);
+- passengers arriving from Brazil or Tanzania (only Zanzibar);
 - passengers arriving directly from Switzerland or an EEA Member State with an EU Digital COVID Certificate;
 - passengers arriving directly from Switzerland or an EEA Member State with a COVID-19 vaccination certificate showing that they received the first vaccine dose of Moderna (Spikevax) , Pfizer-BioNTech (Comirnaty) or Sputnik V between 22 and 42 days before arrival, or showing that they received the first vaccine dose of AstraZeneca (Vaxzevria) between 22 and 84 days before arrival;
 - minors younger than 12 years accompanied by their parents or legal guardians. The parents or guardians must have an EU Digital COVID Certificate, a negative COVID-19 PCR or rapid antigen test result, a vaccination certificate or a recovery certificate.
