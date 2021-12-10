@@ -1,5 +1,5 @@
-Published 09.12.2021
-1. Until 14 December 2021, flights to India are suspended.
+Published 10.12.2021
+1. Until 31 January 2022, flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.
 This does not apply to:
