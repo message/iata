@@ -1,5 +1,5 @@
 Published 02.12.2021
-1. Until 12 December 2021, flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
+1. Flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
 - This does not apply to passengers arriving on humanitarian or repatriation flights.
 2. Passengers must complete the 'Public Health Passenger' form before arrival. The form can be obtained at <a href="https://www.mindop.sk/covid/">https://www.mindop.sk/covid/</a>
 3. Passengers must register online before arrival at <a href="https://korona.gov.sk/ehranica/">https://korona.gov.sk/ehranica/</a>
