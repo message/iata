@@ -1,4 +1,4 @@
-Published 06.12.2021
+Published 13.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Switzerland and EEA Member States;
@@ -58,7 +58,7 @@ Published 06.12.2021
 - passengers with a diplomatic passport traveling on duty;
 - military personnel traveling on duty;
 - students.
-8. Passengers must have:
+8. Passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland must have:
 - a negative COVID-19 antigen test taken at most 1 day before arrival. The test result must be in Dutch, English, French or German; or;
 - a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be in Dutch, English, French or German; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty); or
@@ -66,15 +66,23 @@ Published 06.12.2021
 - This does not apply to:
 - passengers residing in Belgium;
 - passengers younger than 12 years;
-- passengers arriving from Malta, Monaco or Vatican City (Holy See);
 - passengers arriving from orange regions of Finland, France, Italy, Portugal, Spain or Sweden .Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a> ;
 - passengers arriving from Argentina, Australia, Bahrain, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates or Uruguay;
 - passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe.
-9. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be in Dutch, English, French or German.
+9. Passengers must have:
+- a negative COVID-19 antigen test taken at most 1 day before arrival. The test result must be in Dutch, English, French or German; or;
+- a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be in Dutch, English, French or German.
+This does not apply to:
+- passengers residing in Belgium;
+- passengers younger than 12 years;
+- passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland
+- passengers arriving from Argentina, Australia, Bahrain, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates or Uruguay;
+- passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe.
+10. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be in Dutch, English, French or German.
 - This does not apply to:
 - passengers residing in Belgium;
 - passengers younger than 12 years.
-10. Passengers entering or transiting through Belgium must complete a "Passenger Locator Form" at most 180 days before arrival at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a>
-11. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a>
-12. Passengers are subject to medical screening.
-13. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium.
+11. Passengers entering or transiting through Belgium must complete a "Passenger Locator Form" at most 180 days before arrival at <a href="https://travel.info-coronavirus.be/public-health-passenger-locator-form">https://travel.info-coronavirus.be/public-health-passenger-locator-form</a>
+12. Passengers could be subject to a COVID-19 test and quarantine; details can be found at <a href="https://www.info-coronavirus.be/en/">https://www.info-coronavirus.be/en/</a>
+13. Passengers are subject to medical screening.
+14. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium.
