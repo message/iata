@@ -1,5 +1,5 @@
-Published 10.12.2021
-1. Passengers are not allowed to enter.
+Published 13.12.2021
+Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of France, their spouses and children;
 - nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and an EU Member State and their spouses and children;
@@ -36,9 +36,9 @@ Published 10.12.2021
 - This does not apply to passengers younger than 12 years.
 6. Passengers arriving from green list countries: Argentina, Australia, Bahrain, Brunei Darussalam, Canada, Chile, Chinese Taipei, Comoros, Hong Kong (SAR China), Japan, Jordan, Korea (Rep.), Kuwait, Lebanon, New Zealand, Qatar, Rwanda, Saudi Arabia, Senegal, Singapore, United Arab Emirates, Uruguay or Vanuatu must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 12 years.
-7. Passengers arriving from the United Kingdom with a COVID-19 vaccination certificate showing that they were fully vaccinated must have a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point.
+7. Passengers arriving from the United Kingdom with a COVID-19 vaccination certificate showing that they were fully vaccinated must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 12 years;
-8. Passengers arriving from the United Kingdom without a COVID-19 vaccination certificate showing that they were fully vaccinated must have a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point.
+8. Passengers arriving from the United Kingdom without a COVID-19 vaccination certificate showing that they were fully vaccinated must have a negative COVID-19 antigen ot PCR test taken at most 24 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 12 years.
 9. Passengers arriving from all other countries must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 12 years.
@@ -56,4 +56,5 @@ Published 10.12.2021
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival and proof of previous infection with COVID-19; or
 - the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and proof of complete vaccination of Covaxin, Sinopharm or Sinovac.
-More exemptions can be found at <a href="https://tinyurl.com/2p8mf8fy">https://tinyurl.com/2p8mf8fy</a><p>
+More exemptions can be found at <a href="https://tinyurl.com/2p8mf8fy">https://tinyurl.com/2p8mf8fy</a>
+<p>
