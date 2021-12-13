@@ -1,11 +1,11 @@
 Published 13.12.2021
 1. Flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
-2. Passengers who in the past 14 days have been in Austria, Belgium, Botswana, Czechia, Eswatini, France (until 15 December 2021), Hungary, Italy, Lesotho, Mozambique, Namibia, Netherlands, South Africa, Switzerland or Zimbabwe, are not allowed to enter.
+2. Passengers who in the past 14 days have been in Austria, Belgium, Botswana, Czechia, Eswatini, France (until 15 December 2021), Hungary, Italy, Lesotho, Mozambique, Namibia, Netherlands, Portugal (effective 15 December 2021), South Africa, Switzerland or Zimbabwe, are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines on Bayanihan flights or repatriation flights
 - passengers with diplomatic or official passports and their family members.
-3. Nationals of Philippines arriving from Austria, Belgium, Botswana, Czechia, Eswatini, France (until 15 December 2021), Hungary, Italy, Lesotho, Mozambique, Namibia, Netherlands, South Africa, Switzerland or Zimbabwe, must enter the Philippines via Angeles city (CRK) or Manila (MNL).
-4. Passengers arriving from a country other than Austria, Belgium, Botswana, Czechia, Eswatini, France (until 15 December 2021), Hungary, Italy, Lesotho, Mozambique, Namibia, Netherlands, South Africa, Switzerland or Zimbabwe, must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point.
+3. Nationals of Philippines arriving from Austria, Belgium, Botswana, Czechia, Eswatini, France (until 15 December 2021), Hungary, Italy, Lesotho, Mozambique, Namibia, Netherlands, Portugal (effective 15 December 2021), South Africa, Switzerland or Zimbabwe, must enter the Philippines via Angeles city (CRK) or Manila (MNL).
+4. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to passengers without COVID-19 symptoms who are 3 years old and younger.
 5. Passengers are not allowed to enter.
 - This does not apply to:
