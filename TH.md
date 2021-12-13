@@ -1,4 +1,4 @@
-Published 02.12.2021
+Published 13.12.2021
 1. Until 31 January 2022, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -22,6 +22,7 @@ a. arrive from or have been in Australia, Austria, Bahrain, Belgium, Bhutan, Bru
 b. have a Thailand Pass QR code obtained at <a href="https://tp.consular.go.th">https://tp.consular.go.th</a>;
 c. have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure;
 - This does not apply to:
+- nationals of Thailand between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one vaccine dose;
 - unvaccinated passengers younger than 12 years traveling with their fully-vaccinated parents/guardians;
 - passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of the vaccine at most 3 months after the infection and at least 14 days before departure.
 d. have a COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;
@@ -34,6 +35,7 @@ b. arrive from or who have been in a country other than Botswana, Eswatini, Leso
 c. have a Thailand Pass QR code obtained at <a href="https://tp.consular.go.th">https://tp.consular.go.th</a> ;
 d. have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure;
 - This does not apply to:
+- nationals of Thailand between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one vaccine dose;
 - unvaccinated passengers younger than 18 years traveling with their fully-vaccinated parents/guardians;
 - passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of the vaccine at most 3 months after the infection and at least 14 days before departure.
 e. have a COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;

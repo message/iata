@@ -5,7 +5,7 @@ Published 13.12.2021
 - passengers with a travel authorization obtained before departure at <a href="https://tinyurl.com/t5e3vtf9">https://tinyurl.com/t5e3vtf9</a>
 2. Passengers must complete an "ETIS Application" at <a href="https://www.etis.pf/en/">https://www.etis.pf/en/</a> at least 6 days and at most 30 days before departure.
 3. Passengers must have a negative COVID-19 antigen or RT-PCR test taken at most 48 hours before departure from the first embarkation point.
-- This does not apply to passengers younger than 13 years.
+- This does not apply to passengers younger than 12 years.
 4. Passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/ytuat2th">https://tinyurl.com/ytuat2th</a>
 5. Passengers are subject to a COVID-19 antigen test upon arrival.
 - This does not apply to passengers younger than 7 years.
