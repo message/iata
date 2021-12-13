@@ -1,12 +1,10 @@
-Published 02.12.2021
+Published 13.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before departure or fully vaccinated with Janssen at least 28 days before departure, and their accompanying minors younger than 18 years. In the past 15 days, they must have only been in Argentina, Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, Chinese Taipei, Comoros, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French West Indies, Germany, Greece, Hong Kong (SAR China), Hungary, Ireland (Rep.), Italy, Japan, Jordan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Netherlands, New Caledonia, New Zealand, Norway, Poland, Portugal, Reunion, Romania, Rwanda, San Marino, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Arab Emirates, United Kingdom, USA, Vanuatu or Vatican City (Holy See);
 - passengers with a travel authorization obtained before departure at <a href="https://tinyurl.com/t5e3vtf9">https://tinyurl.com/t5e3vtf9</a>
 2. Passengers must complete an "ETIS Application" at <a href="https://www.etis.pf/en/">https://www.etis.pf/en/</a> at least 6 days and at most 30 days before departure.
-3. Passengers must have:
-- a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
-- a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point.
+3. Passengers must have a negative COVID-19 antigen or RT-PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 13 years.
 4. Passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/ytuat2th">https://tinyurl.com/ytuat2th</a>
 5. Passengers are subject to a COVID-19 antigen test upon arrival.

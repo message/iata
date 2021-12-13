@@ -1,4 +1,4 @@
-Published 22.11.2021
+Published 13.12.2021
 1. Flights to Algeria are suspended.
 - This does not apply to:
 - flights arriving from Canada, France, Germany, Italy, Qatar, Russian Fed., Spain, Tunisia, Turkey, United Arab Emirates and United Kingdom;
