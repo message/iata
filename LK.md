@@ -1,10 +1,8 @@
-Published 10.12.2021
+Published 13.12.2021
 1. Passengers must have a printed negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.
 - This does not apply to:
-- passengers younger than 2 years;
-- passengers with a positive COVID-19 antigen or PCR test taken at most 3 months before departure; and
-- a COVID-19 vaccination certificate stating that they received a vaccine dose at least 14 days after the positive test and at least 14 days before departure.
-They must also have a printed negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point. Test results and vaccination certificates must be in English.
+- passengers younger than 12 years;
+- passengers with a positive COVID-19 antigen or PCR test taken at most 3 months before departure and a COVID-19 vaccination certificate stating that they received a vaccine dose at least 14 days after the positive test and at least 14 days before departure. They must also have a printed negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point. Test results and vaccination certificates must be in English.
 2. Passengers are subject to a COVID-19 PCR test upon arrival.
 - This does not apply to:
 - passengers younger than 12 years;

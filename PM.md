@@ -1,5 +1,5 @@
 Published 13.12.2021
-Passengers are not allowed to enter.
+1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of France, their spouses and children;
 - nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and an EU Member State and their spouses and children;
