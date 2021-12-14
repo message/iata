@@ -1,4 +1,4 @@
-Published 09.12.2021
+Published 14.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Saudi Arabia;
@@ -15,7 +15,7 @@ Published 09.12.2021
 2. Passengers who in the past 14 days have been in or transited through Angola, Botswana, Comoros, Eswatini, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Nigeria, Seychelles, South Africa, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to nationals of Saudi Arabia. They must have an institutional quarantine package for 5 days if not arriving from Nigeria.
 3. Passengers arriving from Afghanistan, Ethiopia, Lebanon or Turkey are not allowed to transit.
-4. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Saudi Arabia.
+4. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Saudi Arabia. The test result must be issued by one of the following medical centers (Kartica Pulomas Hospital, Karunia Jakarta or PT Prodia Widyahusada TBK) if arriving from Indonesia.
 - This does not apply to:
 - nationals of Saudi Arabia;
 - passengers younger than 8 years.

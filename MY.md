@@ -1,4 +1,4 @@
-Published 10.12.2021
+Published 14.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Malaysia;
@@ -24,21 +24,21 @@ Published 10.12.2021
 - passengers with an Entry Permission Approval obtained from <a href="https://myentry.myxpats.com.my/app/">https://myentry.myxpats.com.my/app/</a> ;
 - passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe.
 5. Passengers arriving from Singapore under the Vaccinated Travel Lanes scheme must:
-- have a negative COVID-19 RT-PCR test taken at most 48 hours before departure; and
-- have a COVID-19 vaccination certificate issued in Singapore; and
+- have a negative COVID-19 RT-PCR test taken at most 2 days before departure; and
+- have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 14 days before arrival; and
 - have stayed in Singapore or Malaysia in the past 14 days; and
 - have a copy of travel insurance policy with a minimum coverage of MYR 100,000.
 - The COVID-19 RT-PCR test does not apply to passengers younger than 2 years;
 - The COVID-19 vaccination certificate does not apply to passengers younger than 12 years.
 6. Passengers traveling to Langkawi (LGK) under the Langkawi Travel Bubble must have:
-- a negative COVID-19 RT-PCR test taken at most 48 hours before departure; and
+- a negative COVID-19 RT-PCR test taken at most 2 days before departure; and
 - a travel package from a travel agency licensed by the Ministry of Tourism, Arts & Culture Malaysia (MOTAC); and
 - insurance to cover COVID-19 expenses with minimum coverage of USD 80,000; and
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with:
 - CanSinoBIO (Convidecia) or Janssen at least 28 days before arrival; or
 - AstraZeneca, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before arrival.
 7. Passengers with an Entry Permission Approval obtained from <a href="https://myentry.myxpats.com.my/app/">https://myentry.myxpats.com.my/app/</a> must have:
-- a negative COVID-19 RT-PCR test taken at most 48 hours before departure; and
+- a negative COVID-19 RT-PCR test taken at most 2 days before departure; and
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with:
 - CanSinoBIO (Convidecia) or Janssen at least 28 days before arrival; or
 - AstraZeneca, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before arrival.
