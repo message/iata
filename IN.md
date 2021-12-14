@@ -1,4 +1,4 @@
-Published 10.12.2021
+Published 14.12.2021
 1. Until 31 January 2022, flights to India are suspended.
 - This does not apply to relief, repatriation and humanitarian flights.
 2. Passengers are not allowed to enter.
@@ -11,8 +11,7 @@ This does not apply to:
 - passengers with a visa (excluding medical visas issued on or before 21 October 2020, and tourist visas(Type T)) issued by India;
 - passengers with an E-visa (excluding E-Tourist visas) issued by India;
 - passengers with an E-Tourist visa issued on or after 6 October 2021;
-- passengers with a tourist visa (Type T) issued on or after 6 October 2021;
-- passengers returning from Afghanistan, Bangladesh, Bhutan, Maldives or Nepal via India to their country of residence.
+- passengers with a tourist visa (Type T) issued on or after 6 October 2021.
 3. Passengers are not allowed to transit through Bangalore (BLR), Chennai (MAA), Delhi (DEL), Hyderabad (HYD), Kolkata (CCU) or Mumbai (BOM) to a third country.
 4. E-Tourist visas and tourist visas (Type T) are no longer valid.
 - This does not apply to E-Tourist visas and tourist visas (Type T) issued on or after 6 October 2021.

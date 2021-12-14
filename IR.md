@@ -1,7 +1,7 @@
-Published 30.11.2021
+Published 14.12.2021
 1. Passengers arriving from or who have transited through Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe in the past 14 days are not allowed to enter.
 - This does not apply to nationals and residents of Iran.
-2. Passengers entering or transiting through Iran, must have a negative COVID-19 RT-PCR test taken at most 96 hours before departure from the first embarkation point. The test result must be in English or approved by an Iranian consulate.
+2. Passengers entering or transiting through Iran, must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English or approved by an Iranian consulate.
 - This does not apply to passengers 12 years and younger.
 3. Passengers must have a COVID-19 vaccination certificate in English, showing that they were fully vaccinated at least 14 days before arrival.
 - This does not apply to:
