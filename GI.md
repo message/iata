@@ -1,4 +1,4 @@
-Published 06.12.2021
+Published 14.12.2021
 1. Passengers are not allowed to enter if in the past 10 days they have been in Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia or Zimbabwe.
 - This does not apply to:
 - passengers with a British passport with nationality "British Overseas Territories Citizen" issued by Gibraltar;
@@ -16,6 +16,8 @@ Published 06.12.2021
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty). They must be arriving from a country other Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia or Zimbabwe. They must also update the vaccination certificate on the passenger locator form.
 3. Passengers must complete a passenger locator form at <a href="https://www.passengers.egov.gi/">https://www.passengers.egov.gi/</a>. This will generate a barcode which must be presented upon arrival.
 4. Passengers are subject to a COVID-19 antigen test upon arrival. The test must be booked and paid before arrival at <a href="http://www.covidrapidtest.gi">www.covidrapidtest.gi</a>
-5. Passengers could be subject to self-isolation for up to 10 days.
+5. Passengers returning via Gibraltar to Spain are subject to a COVID-19 antigen test upon arrival. The test must be booked and paid before arrival at <a href="http://www.covidrapidtest.gi">www.covidrapidtest.gi</a>
+6. Passengers who in the past 10 days have been in Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia or Zimbabwe are subject to a COVID-19 PCR test on day 2 after arrival and to self-isolation until test results are ready. The test must be booked and paid before arrival with an approved COVID-19 test provider listed at <a href="http://www.visitgibraltar.gi/covid-19">www.visitgibraltar.gi/covid-19</a>
+7. Passengers could be subject to self-isolation for up to 10 days.
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty). They must update the vaccination certificate on the passenger locator form.
 More exemptions can be found at <a href="http://www.visitgibraltar.gi/covid-19">www.visitgibraltar.gi/covid-19</a>
