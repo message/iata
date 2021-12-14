@@ -1,4 +1,4 @@
-Published 08.12.2021
+Published 14.12.2021
 1. Passengers and airline crew must have an approved travel authorization obtained at least 1 day and at most 3 days before departure. The authorization must be obtained at <a href="https://www.gov.bm/applying-bermuda-travel-authorisation">https://www.gov.bm/applying-bermuda-travel-authorisation</a> and presented at time of departure.
 - This does not apply to:
 - residents of Bermuda who can complete it upon arrival. A fee of 1000 USD will have to be paid.
@@ -7,13 +7,12 @@ Published 08.12.2021
 2. Passengers must have a negative COVID-19 PCR test taken at most 4 days before arrival.
 - This does not apply to:
 - residents of Bermuda;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer (Comirnaty), Sinopharm (BIBP) and Sinovac;
-- passengers younger than 2 years.
-3. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival must have a negative COVID-19 PCR test taken at most 4 days before arrival; or
-- a negative COVID-19 antigen test taken at most 3 days before arrival.
+- passengers younger than 2 years;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer (Comirnaty), Sinopharm (BIBP) and Sinovac.
+3. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer (Comirnaty), Sinopharm (BIBP) and Sinovac.
 - This does not apply to:
 - residents of Bermuda;
-- passengers younger than 2 years.
+- passengers younger than 12 years.
 4. Passengers are subject to quarantine for 14 days at their own expense.
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer (Comirnaty), Sinopharm (BIBP) and Sinovac.
 5. Passengers are subject to a COVID-19 PCR test upon arrival.
