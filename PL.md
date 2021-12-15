@@ -1,4 +1,4 @@
-Published 14.12.2021
+Published 15.12.2021
 1. Until 27 December 2021, flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
 2. Passengers are not allowed to enter.
 - This does not apply to:
@@ -16,7 +16,11 @@ Published 14.12.2021
 - merchant seamen;
 - passengers traveling as students;
 - passengers with a Polish Card (Karta Polaka).
-3. Passengers must complete a "Passenger Locator Form" (PLF) and present it upon arrival. The form can be found at <a href="https://aplikacje.gov.pl/app/klp/#/home">https://aplikacje.gov.pl/app/klp/#/home</a> or on board.
-4. Passengers could be subject to quarantine for 10 days.
+3. Passengers and airline crew entering Poland without a negative COVID-19 test in English or Polish taken at most 24 hours before departure are subject to quarantine for 14 days.
+- This does not apply to passengers arriving from Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland.
+4. Passengers and airline crew transiting through Poland must have negative COVID-19 test in English or Polish taken at most 24 hours before departure.
+- This does not apply to passengers arriving from Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland.
+5. Passengers must complete a "Passenger Locator Form" (PLF) and present it upon arrival. The form can be found at <a href="https://aplikacje.gov.pl/app/klp/#/home">https://aplikacje.gov.pl/app/klp/#/home</a> or on board.
+6. Passengers could be subject to quarantine for 10 days.
 - This does not apply to passengers with a COVID-19 vaccination certificate in English or Polish showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
 More quarantine exemptions can be found at <a href="https://www.gov.pl/web/coronavirus/temporary-limitations">https://www.gov.pl/web/coronavirus/temporary-limitations</a>

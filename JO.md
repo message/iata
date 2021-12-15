@@ -1,4 +1,4 @@
-Published 09.12.2021
+Published 15.12.2021
 1. Flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
 2. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter and transit.
 - This does not apply to nationals of Jordan and their spouses and children.
@@ -34,7 +34,6 @@ The vaccination certificate must be in Arabic or English.
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and a diplomatic QR code;
 - family members of passengers with a diplomatic or special passport;
-- passengers with a COVID-19 vaccination certificate issued by Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Jordan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Morocco, Netherlands, New Zealand, Oman, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tunisia, Turkey, United Arab Emirates, United Kingdom or USA showing that they were fully vaccinated. The vaccination certificate must be in Arabic or English;
 - passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe.
 10. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo/</a> .
 - This does not apply to passengers younger than 5 years.

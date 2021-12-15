@@ -1,17 +1,14 @@
-Published 14.12.2021
+Published 15.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Australia and their immediate family members;
 - permanent residents of Australia and their immediate family members;
-- nationals of New Zealand residing in Australia and their immediate family members. They must not have been in Botswana, Eswatini, Lesotho, Namibia, Malawi, Mozambique, South Africa and Zimbabwe in the past 14 days;
-- until 14 December 2021, nationals of Singapore arriving directly from Singapore with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure. They must not have been in Botswana, Eswatini, Lesotho, Namibia, Malawi, Mozambique, South Africa and Zimbabwe in the past 14 days.
-Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (for ages 18-60 years only) and Sinovac;
-- until 14 December 2021, children of nationals of Singapore arriving directly from Singapore between 12 and 17 years traveling with their vaccinated parents/guardians. They must not have been in Botswana, Eswatini, Lesotho, Namibia, Malawi, Mozambique, South Africa and Zimbabwe in the past 14 days;
-- passengers who have been in Australia and New Zealand in the past 14 days;
-- from 15 December 2021, nationals of Japan, Korea (Rep.) and Singapore arriving directly from their country of nationality with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (for ages 18-60 years only) and Sinovac. They must not have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days;
-- from 15 December 2021, nationals of Japan, Korea (Rep.) and Singapore younger than 18 years and older than 11 years arriving directly from their country of nationality and traveling with their vaccinated parents/guardians;
-- from 15 December 2021, nationals of Japan, Korea (Rep.) and Singapore younger than 12 years arriving directly from their country of nationality;
-- from 15 December 2021, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure and a visa issued by Australia listed at <a href="https://covid19.homeaffairs.gov.au/vaccinated-travellers">https://covid19.homeaffairs.gov.au/vaccinated-travellers</a> . Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (for ages 18-60 years only) and Sinovac. They must not have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days.
+- nationals of New Zealand residing in Australia and their immediate family members;
+- passengers who have been in Australia or New Zealand in the past 14 days;
+- nationals of Japan, Korea (Rep.) and Singapore arriving directly from their country of nationality with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (for ages 18-60 years only) and Sinovac;
+- nationals of Japan, Korea (Rep.) and Singapore younger than 18 years and older than 11 years arriving directly from their country of nationality and traveling with their vaccinated parents/guardians;
+- nationals of Japan, Korea (Rep.) and Singapore younger than 12 years arriving directly from their country of nationality;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure and a visa issued by Australia listed at <a href="https://covid19.homeaffairs.gov.au/vaccinated-travellers">https://covid19.homeaffairs.gov.au/vaccinated-travellers</a> . Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (for ages 18-60 years only) and Sinovac.
 2. Passengers entering or transiting through Australia must have a negative COVID-19 PCR test taken at most 3 days before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/y398dxv4">https://tinyurl.com/y398dxv4</a>
 - This does not apply to:
 - passengers younger than 5 years;
