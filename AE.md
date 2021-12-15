@@ -1,4 +1,4 @@
-Published 04.12.2021
+Published 15.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -95,3 +95,22 @@ The test result must be in Arabic or English and must be issued by an approved l
 25. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
 26. Passengers entering Abu Dhabi (AUH) must register before departure on <a href="https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals">https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals</a> . This will generate a QR code which must be presented before departure and upon arrival.
 - This does not apply to nationals of United Arab Emirates.
+27. Effective 16 December 2021, passengers who in the past 14 days have been in or transited through Congo are not allowed to enter and transit Dubai (DXB) or Al Maktoum (DWC).
+- This does not apply to:
+- nationals of United Arab Emirates;
+- passengers with a golden visa issued by United Arab Emirates.
+28. Effective 16 December 2021, passengers entering Dubai (DXB) or Al Maktoum (DWC) from Congo must have:
+- a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
+- a printed negative COVID-19 rapid PCR test taken at most 6 hours before departure from the first embarkation point. The rapid PCR test must be taken at the first departure airport.
+The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+- This does not apply to:
+- nationals of United Arab Emirates and their parents, spouses, children and siblings;
+- domestic workers who are traveling with the sponsor or with the first degree family members of the sponsor;
+- passengers younger than 12 years;
+- passengers with disabilities.
+29. Effective 16 December 2021, passengers transiting through Dubai (DXB) or Al Maktoum (DWC) from Congo must have a printed negative COVID-19 RT-PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+- This does not apply to:
+- nationals of United Arab Emirates and their parents, spouses, children and siblings;
+- domestic workers who are traveling with the sponsor or with the first degree family members of the sponsor;
+- passengers younger than 12 years;
+- passengers with disabilities.
