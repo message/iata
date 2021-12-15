@@ -1,9 +1,10 @@
-Published 08.12.2021
+Published 15.12.2021
 1. Passengers arriving from Botswana, Croatia, Eswatini, Hungary, Ireland (Rep.), Lesotho, Mozambique, Namibia, Netherlands, Poland, Slovenia, South Africa, Ukraine, Viet Nam or Zimbabwe are not allowed to enter.
-- This does not apply to nationals of Pakistan.
+- Until 31 December 2021, this does not apply to nationals of Pakistan.
 2. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated.
 - This does not apply to:
 - nationals of Pakistan younger than 15 years;
+- until 31 January 2022, nationals of Pakistan between 15 and 18 years;
 - passengers younger than 18 years who are nationals of a country other than Pakistan;
 - passengers who departed Pakistan before 1 October 2021;
 - passengers with a medical certificate specifying that the passenger cannot be vaccinated due to medical reasons.
