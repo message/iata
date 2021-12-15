@@ -1,4 +1,4 @@
-Published 17.11.2021
+Published 15.12.2021
 1. Entry by foreign nationals holding a visa is suspended.
 - This does not apply to:
 - foreign nationals with a visa issued after 28 March 2020 with the place of issue outside the Mainland of China. They must not arrive from Bangladesh, Belgium, France, India, Italy, Philippines, Russian Fed. and United Kingdom;
@@ -71,3 +71,7 @@ Published 17.11.2021
 21. Passengers arriving from Chinese Taipei must have a medical certificate with a negative Coronavirus (COVID-19) PCR test result issued at most 3 days before departure.
 22. Passengers entering Beijing (PEK) from Hong Kong SAR, China must have a medical certificate with a negative Coronavirus (COVID-19) PCR test result issued at most 7 days before departure.
 23. Passengers arriving from Macao SAR, China must have a medical certificate with a negative Coronavirus (COVID-19) PCR test result issued at most 7 days before departure.
+24. The Olympic Identity and Accreditation Card (OIAC) and the Paralympic Identity and Accreditation Card (PIAC):
+- are valid from 4 January 2022 until 13 April 2022; and
+- are valid for multiple entries; and
+- must be accompanied with a passport valid until at least 13 May 2022.
