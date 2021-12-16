@@ -1,6 +1,8 @@
-Published 14.12.2021
+Published 16.12.2021
 1. Until 31 January 2022, flights to India are suspended.
-- This does not apply to relief, repatriation and humanitarian flights.
+- This does not apply to:
+- relief, repatriation and humanitarian flights;
+- flights under the Air Transport Bubbles.
 2. Passengers are not allowed to enter.
 This does not apply to:
 - nationals of Bhutan, India, Maldives and Nepal;

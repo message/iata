@@ -1,4 +1,4 @@
-Published 15.12.2021
+Published 16.12.2021
 1. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Namibia, South Africa and Zimbabwe are not allowed to enter.
 - This does not apply to nationals and residents of Brazil.
 2. Passengers entering or transiting through Brazil must have:
@@ -13,6 +13,7 @@ Published 15.12.2021
 3. Passengers entering or transiting through Brazil must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure from the first embarkation point. The certificate must be in English, Portuguese or Spanish.
 Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covieshield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 - This does not apply to:
+- nationals and residents of Brazil who departed Brazil before 14 December 2021;
 - passengers younger than 12 years;
 - passengers with a letter issued by a doctor proving that the passenger is medically unable to receive the vaccine. The letter must be in English, Portuguese or Spanish.
 4. Passengers and airline crew must complete a "Traveler's Health Declaration" form at most 24 hours before departure from the first embarkation point and present it upon arrival. The form can be found at <a href="https://formulario.anvisa.gov.br/">https://formulario.anvisa.gov.br/</a>
