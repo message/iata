@@ -1,5 +1,5 @@
-Published 04.12.2021
-1. Until 19 December 2021, passengers are not allowed to enter.
+Published 16.12.2021
+1. Until 16 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Finland and their family members;
 - passengers with a residence permit issued by Finland;
