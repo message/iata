@@ -1,4 +1,4 @@
-Published 14.12.2021
+Published 16.12.2021
 1. Until 31 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Croatia
@@ -12,7 +12,7 @@ Published 14.12.2021
 - passengers traveling as students;
 - merchant seamen;
 - military personnel.
-2. Until 31 December 2021, passengers arriving from or who have been in Botswana, Eswatini, Hong Kong (SAR China), Lesotho, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days are not allowed to enter.
+2. Until 31 December 2021, passengers arriving from or who have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days are not allowed to enter.
 - This does not apply to:
 - nationals of Croatia and their immediate family members;
 - passengers with a long-term residence permit or a long term "D" visa issued by Croatia.
