@@ -1,10 +1,11 @@
 Published 16.12.2021
 1. Flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
-2. Passengers who in the past 14 days have been in Austria, Belgium, Botswana, Czechia, Eswatini, Hungary, Italy, Lesotho, Mozambique, Namibia, Netherlands, Portugal, South Africa, Switzerland or Zimbabwe, are not allowed to enter.
+2. Passengers who in the past 14 days have been in Andorra, France, Monaco, Northern Mariana Isl., Reunion, San Marino, South Africa or Switzerland, are not allowed to enter.
 - This does not apply to:
-- nationals of the Philippines on Bayanihan flights or repatriation flights
-- passengers with diplomatic or official passports and their family members.
-3. Nationals of Philippines arriving from Austria, Belgium, Botswana, Czechia, Eswatini, Hungary, Italy, Lesotho, Mozambique, Namibia, Netherlands, Portugal, South Africa, Switzerland or Zimbabwe, must enter the Philippines via Angeles city (CRK) or Manila (MNL).
+- nationals of the Philippines on Bayanihan flights or repatriation flights;
+- passengers with diplomatic or official passports and their family members;
+- passengers who only transited through Andorra, France, Monaco, Northern Mariana Isl., Reunion, San Marino, South Africa or Switzerland.
+3. Passengers arriving from Andorra, France, Monaco, Northern Mariana Isl., Reunion, San Marino, South Africa or Switzerland , must enter the Philippines via Angeles city (CRK) or Manila (MNL).
 4. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to passengers without COVID-19 symptoms who are 3 years old and younger.
 5. Passengers are not allowed to enter.
@@ -22,9 +23,6 @@ Published 16.12.2021
 - This does not apply to:
 - passengers with a diplomatic passport traveling on duty and their family members;
 - airline crew staying in the aircraft.
-8. Merchant seamen with a 9 (C) visa issued by the Philippines must have a negative COVID-19 RT-PCR test result issued at most 72 hours before arrival.
-9. Passengers traveling to Davao (DVO) must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure.
-- This does not apply to merchant seamen with a 9 (C) visa issued by the Philippines.
-10. Passengers must install the app 'TRAZE' on their personal device before departure.
-11. Suspension of all visa on arrival facilities.
-12. Suspension of all visa exemptions.
+8. Passengers must install the app 'TRAZE' on their personal device before departure.
+9. Suspension of all visa on arrival facilities.
+10. Suspension of all visa exemptions.
