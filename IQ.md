@@ -1,4 +1,4 @@
-Published 10.12.2021
+Published 17.12.2021
 1. Passengers arriving from India are not allowed to enter Iraq via Baghdad (BGW) or Najaf (NJF).
 2. Nationals of India are not allowed to enter Iraq via Najaf (NJF).
 3. Nationals of Indonesia are not allowed to enter Iraq via Basra (BSR) or Najaf (NJF).
@@ -9,7 +9,7 @@ Published 10.12.2021
 6. Passengers traveling to Sulaymaniyah (ISU) must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival.
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated;
-- passengers younger than 10 years.
+- passengers younger than 12 years.
 7. Passengers traveling to Erbil (EBL) must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival.
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated;
