@@ -1,5 +1,5 @@
-Published 03.12.2021
-1. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at <a href="https://reg.entrynorway.no/">https://reg.entrynorway.no/</a> and presented upon arrival.
+Published 17.12.2021
+1. Passengers and airline crew must complete a registration form before arrival at <a href="https://reg.entrynorway.no/">https://reg.entrynorway.no/</a> . After completing the form, passengers will receive a receipt which must be presented upon arrival.
 - This does not apply to:
 - airline crew who are not leaving the aircraft;
 - passengers younger than 16 years;
