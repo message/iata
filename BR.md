@@ -17,5 +17,3 @@ Published 17.12.2021
 - a COVID-19 recovery certificate in English, Portuguese or Spanish showing that they are asymptomatic and fit to fly. The certificate must show the travel date.
 4. Nationals and residents of Brazil without a COVID-19 vaccination certificate are subject to quarantine for 5 days.
 5. Passengers and airline crew must complete a "Traveler's Health Declaration" form at most 24 hours before departure from the first embarkation point and present it upon arrival. The form can be found at <a href="https://formulario.anvisa.gov.br/">https://formulario.anvisa.gov.br/</a>
-6. Airline crew are subject to quarantine in a hotel room until their next flight.
-- This does not apply to airline crew with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure from the first embarkation point.

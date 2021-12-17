@@ -1,4 +1,4 @@
-Published 16.12.2021
+Published 17.12.2021
 1. Until 31 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Japan;
@@ -24,7 +24,7 @@ Details can be found at <a href="https://www.mhlw.go.jp/stf/covid-19/bordercontr
 - passengers with a diplomatic or an official visa issued by Japan;
 - US military personnel, civilian personnel, and their dependents. They must have SOFA status and have the required documents stipulated in Article IX of the US-Japan Status of Forces Agreement;
 - passengers with a consular letter specifying why the test could not be taken.
-4. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://www.mhlw.go.jp/content/000867601.pdf">https://www.mhlw.go.jp/content/000867601.pdf</a>
+4. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://www.mhlw.go.jp/content/000868271.pdf">https://www.mhlw.go.jp/content/000868271.pdf</a>
 5. Visa exemption for passengers with a British passport, Chinese Taipei (on the cover: Republic of China Taiwan) passport, Hong Kong (SAR China) passport and Macao (SAR China) passport is suspended.
 6. Visa exemption for nationals of Andorra, Argentina, Australia, Austria, Bahamas, Barbados, Belgium, Brunei Darussalam, Bulgaria, Costa Rica, Croatia, Czechia, Cyprus, Denmark, Dominican Rep., El Salvador, Estonia, Finland, France, Germany, Greece, Guatemala, Honduras, Hungary, Iceland, Indonesia, Iran, Ireland (Rep.), Israel, Italy, Korea (Rep.), Latvia, Lesotho, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Monaco, Netherlands, New Zealand, Norway, Peru, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Suriname, Sweden, Switzerland, Thailand, Tunisia, United Arab Emirates, Uruguay and Vatican City (Holy See) is suspended.
 7. Visa exemption for nationals of Azerbaijan, Bangladesh, Cambodia, Colombia, Georgia, India, Kazakhstan, Lao People's Dem. Rep., Mongolia, Myanmar, Nauru, Oman, Pakistan, Palau, Papua New Guinea, Paraguay, Qatar, Samoa, Solomon Isl., Turkmenistan, Ukraine, Uzbekistan and Viet Nam with a diplomatic, official or service passport is suspended.
