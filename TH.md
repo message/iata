@@ -1,4 +1,4 @@
-Published 13.12.2021
+Published 17.12.2021
 1. Until 31 January 2022, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -15,16 +15,16 @@ Published 13.12.2021
 2. Passengers transiting through Thailand must have:
 - medical insurance with minimum coverage of USD 50,000; and
 - a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure.
+- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.
 - This does not apply to passengers transiting without disembarking the aircraft.
 3. Passengers traveling under the Exemption from Quarantine (EQ) scheme must:
 a. arrive from or have been in Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Malaysia, Maldives, Malta, Mongolia, Myanmar, Nepal, Netherlands, New Zealand, Norway, Oman, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Arab Emirates, United Kingdom or Viet Nam in the past 21 days;
 b. have a Thailand Pass QR code obtained at <a href="https://tp.consular.go.th">https://tp.consular.go.th</a>;
-c. have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure;
+c. have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure;
 - This does not apply to:
-- nationals of Thailand between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one vaccine dose;
+- nationals of Thailand between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;
 - unvaccinated passengers younger than 12 years traveling with their fully-vaccinated parents/guardians;
-- passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of the vaccine at most 3 months after the infection and at least 14 days before departure.
+- passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at most 3 months after the infection and at least 14 days before departure.
 d. have a COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;
 e. medical insurance with minimum coverage of USD 50,000.
 - This does not apply to nationals of Thailand.
@@ -33,11 +33,11 @@ f. have a hotel reservation for 1 night at AQ, OQ, or SHA+ hotel obtained at <a 
 a. arrive at Chiang Mai (CNX), Don Mueng (DMK), Phuket (HKT), Samui (USM), Suvarnabhumi (BKK) or U-Tapao (UTP) airports;
 b. arrive from or who have been in a country other than Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe in the past 14 days;
 c. have a Thailand Pass QR code obtained at <a href="https://tp.consular.go.th">https://tp.consular.go.th</a> ;
-d. have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure;
+d. have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure;
 - This does not apply to:
-- nationals of Thailand between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one vaccine dose;
+- nationals of Thailand between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;
 - unvaccinated passengers younger than 18 years traveling with their fully-vaccinated parents/guardians;
-- passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of the vaccine at most 3 months after the infection and at least 14 days before departure.
+- passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at most 3 months after the infection and at least 14 days before departure.
 e. have a COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;
 f. medical insurance with minimum coverage of USD 50,000.
 - This does not apply to nationals of Thailand.
