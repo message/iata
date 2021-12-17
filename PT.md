@@ -16,7 +16,7 @@ Published 14.12.2021
 - This does not apply to passengers traveling on a direct flight to Azores or Madeira.
 4. Passengers traveling to Azores must complete a "Health Form upon arrival at the Azores" and a "Draft statement for inter-island travel" upon arrival; or
 - submit a "Questionnaire for Risk Assessment and Early Detection" before departure at <a href="https://mysafeazores.com/">https://mysafeazores.com/</a>
-5. Passengers traveling to Madeira must complete an epidemiological survey before departure at <a href="https://madeirasafe.com">https://madeirasafe.com</a> . This will generate a QR code which must be presented upon arrival.
+5. Passengers traveling to Madeira must complete an epidemiological survey before departure at <a href="https://madeirasafe.com/">https://madeirasafe.com</a> . This will generate a QR code which must be presented upon arrival.
 6. Passengers who have been in Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe in the past 14 days are subject to COVID-19 test upon arrival and quarantine.
 7. Passengers entering or transiting through Portugal must have:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point; or
