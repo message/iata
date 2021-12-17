@@ -19,4 +19,3 @@ This does not apply to:
 5. Passengers could be subject to medical screening and quarantine upon arrival.
 6. Nationals of the U.S.A. are allowed to enter with an expired passport.
 - This does not apply to emergency passports which must be valid on arrival.
-</p>
