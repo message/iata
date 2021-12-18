@@ -55,7 +55,7 @@ Published 10.12.2021
 - passengers arriving from Samoa if they in the past 14 days have only been in New Zealand or Samoa;
 - passengers arriving from Tonga if they in the past 14 days have only been in New Zealand or Tonga;
 - passengers arriving from Vanuatu if they in the past 14 days have only been in New Zealand or Vanuatu.
-13. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz">https://border.covid19.govt.nz</a>
+13. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz/">https://border.covid19.govt.nz</a>
 14. Passengers could be subject to medical screening and quarantine for 14 days.
 15. Airline crew not residing in Australia or New Zealand must have:
 - a negative COVID-19 test result. Tests accepted are: antigen, LAMP, NAAT, PCR, RT-PCR and TMA tests. The test must have been taken at most 7 days before arrival; or
