@@ -1,4 +1,4 @@
-Published 17.12.2021
+Published 18.12.2021
 1. Until 4 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
@@ -38,7 +38,7 @@ The test result must be in English, French, German, Greek, Italian, Spanish or R
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival.
 All documents must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
 - This does not apply to:
-- passengers younger than 12 years;
+- passengers younger than 5 years;
 - passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe.
 7. Passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe must have a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival.
 - This does not apply to passengers younger than 12 years.
