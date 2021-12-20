@@ -1,4 +1,4 @@
-Published 15.12.2021
+Published 20.12.2021
 1. Until 29 December 2021, flights from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia and Zimbabwe are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Until 31 December 2021, passengers are not allowed to enter.
@@ -24,6 +24,7 @@ Published 15.12.2021
 - a COVID-19 recovery certificate issued at least 11 days after the positive COVID-19 NAAT test result. The sample for the certificate must have been taken at most 180 days before arrival.
 - This does not apply to:
 - passengers younger than 12 years;
+- passengers arriving from Romania (excluding Bucuresti-Ilfov, Centru, Nord-Vest, Sud-Est, Sud-Muntenia, Vest);
 - passengers arriving from Argentina, Australia, Bahrain, Canada, Chile, China (People's Rep.), Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates or Uruguay;
 - passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe;
 - residents of the United Kingdom arriving from the United Kingdom;

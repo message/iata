@@ -67,7 +67,6 @@ Published 17.12.2021
 - passengers residing in Belgium;
 - passengers younger than 12 years;
 - passengers arriving from orange regions of Finland, France, Italy, Portugal, Spain or Sweden .Details can be found at <a href="https://www.info-coronavirus.be/en/colour-codes-by-country/">https://www.info-coronavirus.be/en/colour-codes-by-country/</a> ;
-- passengers arriving from Argentina, Australia, Bahrain, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates or Uruguay;
 - passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe.
 9. Passengers must have:
 - a negative COVID-19 antigen test taken at most 36 hours before arrival. The test result must be in Dutch, English, French or German; or;
