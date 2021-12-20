@@ -9,4 +9,4 @@ More information can be found at <a href="https://tinyurl.com/bzk624mh">https://
 4. Passengers entering or transiting through Ireland (Rep.) without a COVID-19 digital vaccination or recovery certificate must have a negative COVID-19 RT-PCR test taken at most 72 hours before arrival.
 More information can be found at <a href="https://tinyurl.com/bzk624mh">https://tinyurl.com/bzk624mh</a>
 - This does not apply to passengers who are 11 years or younger.
-5. Residence permits issued by Ireland (Rep.) which have expired on or after 20 March 2020 are considered valid until 31 May 2022.
+5. Residence permits issued by Ireland (Rep.) which have expired on or after 20 March 2020 are considered valid until 15 January 2022.
