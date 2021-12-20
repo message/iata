@@ -1,4 +1,4 @@
-Published 10.12.2021
+Published 20.12.2021
 1. Passengers and airline crew must complete a "Declaracion Jurada Electronica para el ingreso al Territorio Nacional" at <a href="http://ddjj.migraciones.gob.ar/app/">http://ddjj.migraciones.gob.ar/app/</a>
 - This does not apply to passengers older than 70 years who can complete it upon arrival.
 2. Passengers must have a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point.
@@ -14,7 +14,4 @@ Published 10.12.2021
 - This does not apply to nationals and residents of Argentina.
 5. Passengers are subject to a COVID-19 antigen test upon arrival at their own expense.
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
-6. Passengers could be subject to quarantine for 7 days.
-- This does not apply to passengers with:
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; and
-- a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point.
+6. Passengers could be subject to quarantine for 7 days. More information can be found at <a href="https://tinyurl.com/3hk57f9t">https://tinyurl.com/3hk57f9t</a>
