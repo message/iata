@@ -1,4 +1,4 @@
-Published 15.12.2021
+Published 20.12.2021
 1. Passengers are not allowed to enter.
 This does not apply to:
 - nationals and residents of Lithuania;
@@ -8,7 +8,7 @@ This does not apply to:
 - residents of Australia, Israel, Japan, Korea (Rep.), New Zealand, Rwanda, Thailand or Uruguay;
 - passengers with a national visa issued by Lithuania;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty);
-- children, spouses and their children, partners with registered partnership and their children, parents and guardians of nationals of Lithuania and of permanent residents of Lithuania;
+- children, spouses and their children, partners with registered partnership and their children, siblings, parents and guardians of nationals and of permanent residents of Lithuania;;
 - students;
 - NATO personnel and their family members;
 - merchant seamen.
