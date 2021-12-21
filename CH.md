@@ -1,4 +1,4 @@
-Published 20.12.2021
+Published 21.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
@@ -26,7 +26,5 @@ Published 20.12.2021
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 16 years.
-4. Passengers must:
-- provide the contact details electronically at <a href="https://swissplf.admin.ch/home">https://swissplf.admin.ch/home</a> ; or
-- complete the "Contact Tracing Card" form. The form is available at <a href="https://tinyurl.com/yckhd3sr">https://tinyurl.com/yckhd3sr</a> or on board.
+4. Passengers must complete an "Electronic Passenger Locator Form" (ePLF) found at <a href="https://swissplf.admin.ch/home">https://swissplf.admin.ch/home</a>
 5. Passengers could be subject to quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/yjn3csr7">https://tinyurl.com/yjn3csr7</a>
