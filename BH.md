@@ -1,4 +1,4 @@
-Published 19.12.2021
+Published 21.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates;
@@ -21,10 +21,6 @@ Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covi
 - passengers with a COVID-19 vaccination certificate issued in Cyprus, Greece, Hungary, Israel, Jordan Kuwait, Oman, Saudi Arabia, Seychelles or United Arab Emirates showing that they were fully vaccinated at least 14 days before arrival;
 - passengers with a COVID-19 vaccination certificate issued in countries that are eligible for visa on arrival.
 Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
-5. Flights from Addis Ababa (ABB) and Baku (BAK) are suspended.
-- This does not apply to humanitarian, medevac and repatriation flights.
-6. Flights from Iraq, Lebanon and Syria are suspended.
-- This does not apply to humanitarian, medevac and repatriation flights.
-7. Visa on arrival facility restarted.
+5. Visa on arrival facility restarted.
 - This does not apply to passengers with a residence permit issued by Kuwait, Oman, Saudi Arabia or United Arab Emirates, if arriving from a country other than Kuwait, Oman, Saudi Arabia and United Arab Emirates.
-8. Border crossing on the causeway is suspended.
+6. Border crossing on the causeway is suspended.
