@@ -3,8 +3,6 @@ Published 21.12.2021
 2. Passengers must have a negative COVID-19 PCR test result issued at most 48 hours before arrival.
 - This does not apply to:
 - passengers younger than 12 years;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before departure;
-- passengers with a COVID-19 recovery certificate issued at most 90 days before departure;
 - passengers returning to Lebanon within 7 days.
 3. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense.
 - This does not apply to passengers younger than 12 years.
