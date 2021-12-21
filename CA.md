@@ -1,4 +1,4 @@
-Published 20.12.2021
+Published 21.12.2021
 1. Until 31 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Canada;
@@ -19,8 +19,6 @@ Published 20.12.2021
 2. Passengers must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. The test result must not be issued in India or Morocco. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. More details can be found at <a href="https://tinyurl.com/uuf5nntc">https://tinyurl.com/uuf5nntc</a>
 - This does not apply to:
 - passengers younger than 5 years;
-- until 20 December 2021, nationals and residents of Canada and passengers registered under the Canada's Indian Act, returning to Canada within 72 hours of their initial scheduled departure time from Canada until the initial scheduled departure time of their return flight to Canada, with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. The certificate must be in English, French or accompanied by a certified English or French translation.
-- Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. A combination of vaccines is accepted;
 - passengers younger than 12 years traveling with their vaccinated parents/guardians, returning to Canada within 72 hours of their departure from Canada;
 - passengers with a positive COVID-19 test taken at least 14 days and at most 180 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS;
 - passengers arriving directly from India;

@@ -1,5 +1,5 @@
-Published 15.12.2021
-1. Passengers must obtain a MOPH Pass at <a href="https://PASS.MOPH.GOV.LB">https://PASS.MOPH.GOV.LB</a>
+Published 21.12.2021
+1. Passengers must upload their COVID-19 test or vaccination certificate on the MOPH Pass at <a href="https://PASS.MOPH.GOV.LB">https://PASS.MOPH.GOV.LB</a> . They will receive a QR code which they must present at the time of check-in.
 2. Passengers must have a negative COVID-19 PCR test result issued at most 48 hours before arrival.
 - This does not apply to:
 - passengers younger than 12 years;

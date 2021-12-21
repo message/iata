@@ -1,4 +1,4 @@
-Published 15.12.2021
+Published 21.12.2021
 1. Passengers arriving from Botswana, Croatia, Eswatini, Hungary, Ireland (Rep.), Lesotho, Mozambique, Namibia, Netherlands, Poland, Slovenia, South Africa, Ukraine, Viet Nam or Zimbabwe are not allowed to enter.
 - Until 31 December 2021, this does not apply to nationals of Pakistan.
 2. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated.
@@ -17,11 +17,11 @@ Published 15.12.2021
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with disabilities.
-6. Passengers arriving from Botswana, Croatia, Eswatini, Hungary, Ireland (Rep.), Lesotho, Mozambique, Namibia, Netherlands, Poland, Slovenia, South Africa, Ukraine, Viet Nam or Zimbabwe are subject to a COVID-19 rapid antigen test upon arrival.
+6. Passengers arriving from Botswana, Croatia, Eswatini, Hungary, Ireland (Rep.), Lesotho, Mozambique, Namibia, Netherlands, Poland, Slovenia, South Africa, Ukraine, United Kingdom, Viet Nam or Zimbabwe are subject to a COVID-19 rapid antigen test upon arrival.
 - This does not apply to passengers younger than 6 years.
 7. Passengers could be subject to a COVID-19 rapid antigen test upon arrival.
 - This does not apply to:
 - passengers younger than 6 years;
-- passengers arriving from Botswana, Croatia, Eswatini, Hungary, Ireland (Rep.), Lesotho, Mozambique, Namibia, Netherlands, Poland, Slovenia, South Africa, Ukraine, Viet Nam or Zimbabwe.
+- passengers arriving from Botswana, Croatia, Eswatini, Hungary, Ireland (Rep.), Lesotho, Mozambique, Namibia, Netherlands, Poland, Slovenia, South Africa, Ukraine, United Kingdom, Viet Nam or Zimbabwe.
 8. Passengers and airline crew could be subject to quarantine for up to 10 days.
 9. Flights to Gwadar (GWD) and Turbat (TUK) are suspended.
