@@ -1,5 +1,5 @@
-Published 21.12.2021
-1. Until 14 January 2022, passengers are not allowed to enter.
+Published 22.12.2021
+1. Until 31 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Canada;
 - permanent residents of Canada;
@@ -11,7 +11,7 @@ Published 21.12.2021
 - passengers with a letter of authorization from the Deputy Minister of Canadian Heritage (PCH);
 - passengers with a COVID-19 vaccination certificate uploaded in ArriveCAN showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. The certificate must be in English, French or accompanied by a certified English or French translation. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. A combination of vaccines is accepted.
 - passengers younger than 12 years accompanied by a guardian with a COVID-19 vaccination certificate uploaded in ArriveCAN showing that the guardian was fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. The certificate must be in English, French or accompanied by a certified English or French translation. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. A combination of vaccines is accepted.
-- passengers arriving directly from the USA and traveling on an essential purpose listed on <a href="https://tinyurl.com/4absxrpa">https://tinyurl.com/4absxrpa</a> ;
+- passengers arriving directly from the USA and traveling on an essential purpose listed on <a href="https://tinyurl.com/4absxrpa">https://tinyurl.com/4absxrpa</a>
 - passengers with a study permit or a post-graduation work permit, issued by Canada. They must be attending a designated learning institution (DLI) with a COVID-19 readiness plan approved by its province or territory. They must travel only to attend their study;
 - passengers with an application for permanent residence. They must have a written notice issued under the Immigration and Refugee Protection Act;
 - members of the Canadian forces traveling on duty, and their immediate family members;
@@ -39,6 +39,6 @@ Published 21.12.2021
 - passengers younger than 12 years traveling with their vaccinated parents/guardians;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. The certificate must be in English or French or be accompanied by a certified translation to English or French.
 - Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. A combination of vaccines is accepted.
-- More details can be found at <a href="https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada">https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada</a>;
+- More details can be found at <a href="https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada">https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada</a>
 8. Passenger could be subject to COVID-19 molecular test upon arrival. Details can be found at <a href="https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada">https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada</a> for vaccinated passengers and <a href="https://travel.gc.ca/travel-covid/travel-restrictions/exemptions#unvaccinated">https://travel.gc.ca/travel-covid/travel-restrictions/exemptions#unvaccinated</a> for unvaccinated passengers.
 9. All travel restrictions may be prolonged as necessary for public health reasons.

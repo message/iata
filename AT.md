@@ -1,4 +1,4 @@
-Published 20.12.2021
+Published 22.12.2021
 1. Until 9 January 2022, flights from Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia and Zimbabwe are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Passengers arriving from or who have been in Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe in the past 10 days are not allowed to enter.
@@ -18,7 +18,10 @@ Published 20.12.2021
 - are subject to quarantine for 10 days.
 - This does not apply to:
 - passengers younger than 12 years if accompanied by an adult;
-- passengers with a COVID-19 vaccination certificate showing that they received a booster dose.
+- passengers with a COVID-19 vaccination certificate showing that they received a booster dose;
+- passengers between 6 and 15 years, traveling alone if they have:
+- two negative COVID-19 LAMP, PCR or TMA tests and one negative COVID-19 antigen test. The tests must have been taken within 5 days of the last 7 days before departure; or
+- three negative COVID-19 LAMP, PCR or TMA tests been taken within 5 days of the last 7 days before departure.
 Passengers with a medical certificate of contraindication who cannot be vaccinated and pregnant women do not need a COVID-19 recovery or vaccination certificate.
 4. Passengers must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; and
 - a COVID-19 recovery certificate issued at most 180 days before arrival; or
@@ -33,7 +36,10 @@ Passengers with a medical certificate of contraindication who cannot be vaccinat
 - This does not apply to:
 - passengers arriving from Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe;
 - passengers younger than 12 years if accompanied by an adult;
-- passengers with a COVID-19 vaccination certificate showing that they received a booster dose.
+- passengers with a COVID-19 vaccination certificate showing that they received a booster dose;
+- passengers between 6 and 15 years, traveling alone if they have:
+- two negative COVID-19 LAMP, PCR or TMA tests and one negative COVID-19 antigen test. The tests must have been taken within 5 days of the last 7 days before departure; or
+- three negative COVID-19 LAMP, PCR or TMA tests been taken within 5 days of the last 7 days before departure.
 Passengers with a medical certificate of contraindication who cannot be vaccinated and pregnant women do not need a COVID-19 recovery or vaccination certificate.
 5. Passengers must present a completed "Pre-Travel-Clearance" upon arrival. The form can be found at <a href="https://entry.ptc.gv.at">https://entry.ptc.gv.at</a>
 - This does not apply to passengers who have not been in the past 10 days in Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe with:
