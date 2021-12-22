@@ -1,4 +1,4 @@
-Published 21.12.2021
+Published 22.12.2021
 Until 31 December 2021:
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
@@ -29,7 +29,7 @@ Effective 1 January 2022:
 - nationals and permanent residents of Brunei Darussalam;
 - passengers with a diplomatic passport. They must have an Entry Travel Pass letter issued by The Government of Brunei Darussalam and a return/onward ticket. They must not arrive from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe;
 - members of the Armed Forces. They must not arrive from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe;
-- passengers arriving from Australia, China (People’s Rep.), Chinese Taipei, Hong Kong (SAR China), Macao (SAR China), Singapore or United Kingdom. They must have not been in any other country in the past 14 days. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated with:
+- passengers arriving from Australia, China (People’s Rep.), Chinese Taipei, Hong Kong (SAR China), Macao (SAR China) or Singapore. They must have not been in any other country in the past 14 days. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated with:
 - Astrazeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinovac, Sinopharm (BIBP) at least 14 days before arrival; or
 - Janssen at least 28 days before arrival;
 - passengers with an Entry Travel Pass obtained at <a href="http://www.pmo.gov.bn/travelportal">www.pmo.gov.bn/travelportal</a> . They must have stayed in the country of departure in the last 14 days before departure and have a mobile device with the BruHealth app downloaded. They must not arrive from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated with:

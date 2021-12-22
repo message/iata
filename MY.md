@@ -1,4 +1,4 @@
-Published 14.12.2021
+Published 22.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Malaysia;
@@ -17,7 +17,7 @@ Published 14.12.2021
 - permanent residents of Malaysia;
 - passengers with a Long Term Visit Pass.
 3. Passengers must install 'MySejahtera app' in their phone and complete the health declaration at least one day before departure.
-4. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point.
+4. Passengers must have a negative COVID-19 RT-PCR test taken at most 2 days before departure from the first embarkation point.
 - This does not apply to:
 - passengers arriving from Singapore under the Vaccinated Travel Lanes scheme;
 - passengers traveling to Langkawi (LGK) under the Langkawi Travel Bubble;
