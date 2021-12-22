@@ -1,5 +1,5 @@
-Published 18.11.2021
-1. Until 1 January 2022, passengers are not allowed to enter.
+Published 22.12.2021
+1. Until 1 March 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Argentina, Australia, Austria, Azerbaijan, Bahrain, Belgium, Brazil, Brunei Darussalam, Cambodia, Canada, Chile, China (People's Rep.), Costa Rica, Croatia, Cuba, Czechia, Denmark, Ecuador, El Salvador, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Kazakhstan, Korea (Rep.), Kuwait, Latvia, Luxembourg, Malaysia, Maldives, Malta, Mexico, Mongolia, Montenegro, Morocco, Netherlands, New Zealand, Norway, Oman, Panama, Poland, Portugal, Qatar, Russian Fed., Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Arab Emirates, Uruguay or USA;
 - British nationals;

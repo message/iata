@@ -32,7 +32,7 @@ Published 19.12.2021
 - residents of Qatar, 12 years and older, arriving from red list countries: Algeria, Austria, Barbados, Belgium, Croatia, Czechia, Denmark, Dominica, Georgia, Germany, Greece, Hungary, Iran, Ireland (Rep.), Lithuania, Montenegro, Netherlands, Poland, Slovakia, Slovenia, Switzerland, Syria or United Kingdom, with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival.
 6. Passengers could be subject to a COVID-19 PCR test upon arrival.
 7. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival, must have:
-- a positive COVID-19 serology antibody test taken before departure; or
+- a positive COVID-19 serology antibody test taken at most 30 days before departure; or
 - a COVID-19 vaccination certificate stating that they also received one vaccine dose of Covaxin, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 14 days before arrival.
 8. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates are not allowed to enter with a national ID card.
 9. Visa on arrival facilities restarted.
