@@ -1,6 +1,6 @@
-Published 21.12.2021
+Published 22.12.2021
 1. Passengers entering or transiting through Trinidad and Tobago must complete the "TTravel Pass" at <a href="http://www.ttravelpass.gov.tt">www.ttravelpass.gov.tt</a> . They will receive a registration number and a confirmation email to be presented prior to boarding and upon arrival.
-2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be in English and based on nasopharyngeal swab.
+2. Passengers must have a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival. The test result must be in English and based on nasopharyngeal swab.
 3. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival. Vaccines accepted are AstraZeneca, Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. The following combinations of vaccines are accepted: the first dose of AstraZeneca with a second dose of Pfizer-BioNTech (Comirnaty) or Moderna (Spikevax).
 More information can be found at <a href="https://tinyurl.com/4vcwbxp5">https://tinyurl.com/4vcwbxp5</a> .
 - This does not apply to:
