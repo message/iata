@@ -1,11 +1,9 @@
-Published 20.12.2021
-1. Until 27 February 2022, passengers arriving from or who in the past 14 days have transited through Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter.
-- This does not apply to nationals of Sudan.
-2. Nationals of Sudan arriving from or who in the past 14 days have transited through Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe must have two negative COVID-19 PCR tests. The first PCR test must be taken at most 24 hours before departure from the first embarkation point and the second PCR test must be taken at most 6 hours before departure from the first embarkation point.
+Published 23.12.2021
+1. Until 19 March 2022, passengers arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe must have two negative COVID-19 PCR tests. The first PCR test must be taken at most 24 hours before departure from the first embarkation point and the second PCR test must be taken at most 6 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 8 years.
-3. Passengers arriving from Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, USA or United Kingdom must have a negative COVID-19 RT-PCR test taken at most 96 hours before arrival.
+2. Passengers arriving from Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, USA or United Kingdom must have a negative COVID-19 RT-PCR test taken at most 96 hours before arrival.
 - This does not apply to passengers younger than 8 years.
-4. Passengers arriving from a country other than Australia, Austria, Belgium, Botswana, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Eswatini, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lesotho, Lithuania, Luxembourg, Malta, Mozambique, Namibia, Netherlands, New Zealand, Poland, Portugal, Romania, Slovakia, Slovenia, South Africa, Spain, Sweden, USA, United Kingdom or Zimbabwe must have a negative COVID-19 RT-PCR test taken at most 72 hours before arrival.
+3. Passengers arriving from a country other than Australia, Austria, Belgium, Botswana, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Eswatini, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lesotho, Lithuania, Luxembourg, Malta, Mozambique, Namibia, Netherlands, New Zealand, Poland, Portugal, Romania, Slovakia, Slovenia, South Africa, Spain, Sweden, USA, United Kingdom or Zimbabwe must have a negative COVID-19 RT-PCR test taken at most 72 hours before arrival.
 - This does not apply to passengers younger than 8 years.
-5. Passengers could be subject to medical screening upon arrival.
-6. Nationals of Sudan arriving from or who in the past 14 days have transited through Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to quarantine.
+4. Passengers could be subject to medical screening upon arrival.
+5. Until 19 March 2022, passengers arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to quarantine.
