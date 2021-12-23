@@ -1,14 +1,14 @@
-Published 22.12.2021
+Published 23.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Australia and their immediate family members;
 - permanent residents of Australia and their immediate family members;
 - nationals of New Zealand residing in Australia and their immediate family members;
-- passengers who have been in Australia or New Zealand in the past 14 days;
-- nationals of Japan, Korea (Rep.) and Singapore arriving directly from their country of nationality with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (BIBP) (for ages 18-60 years only) and Sinovac;
+- passengers who have only been in Australia or New Zealand in the past 14 days;
+- nationals of Japan, Korea (Rep.) and Singapore arriving directly from their country of nationality with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (BIBP) (for passengers younger than 60 years only) and Sinovac;
 - nationals of Japan, Korea (Rep.) and Singapore younger than 18 years and older than 11 years arriving directly from their country of nationality and traveling with their vaccinated parents/guardians;
 - nationals of Japan, Korea (Rep.) and Singapore younger than 12 years arriving directly from their country of nationality;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure and a visa issued by Australia listed at <a href="https://covid19.homeaffairs.gov.au/vaccinated-travellers">https://covid19.homeaffairs.gov.au/vaccinated-travellers</a> . Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (BIBP) (for ages 18-60 years only) and Sinovac;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure and a visa issued by Australia listed at <a href="https://covid19.homeaffairs.gov.au/vaccinated-travellers">https://covid19.homeaffairs.gov.au/vaccinated-travellers</a> . Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (BIBP) (for passengers younger than 60 years only) and Sinovac;
 - passengers with a Special Purpose Visa;
 - military personnel participating in military activities sponsored by Australian Department of Defence.
 2. Passengers entering or transiting through Australia must have a negative COVID-19 PCR test taken at most 3 days before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/y398dxv4">https://tinyurl.com/y398dxv4</a>
@@ -18,7 +18,7 @@ Published 22.12.2021
 - passengers arriving from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl.
 3. Passengers entering or transiting through Australia from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl. must have a negative COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/y398dxv4">https://tinyurl.com/y398dxv4</a>
 - This does not apply to passengers younger than 5 years.
-4. Passengers traveling above the passenger caps, must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (BIBP) (for ages 18-60 years only) and Sinovac.
+4. Passengers traveling above the passenger caps, must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTec (Comirnaty), Sinopharm (BIBP) (for passengers younger than 60 years only) and Sinovac.
 - This does not apply to:
 - passengers younger than 12 years traveling with a fully vaccinated parent/guardian;
 - nationals of Australia between 12 and 17 years traveling with a fully vaccinated parent/guardian and arriving in Australian Capital Territory, New South Wales or Victoria.

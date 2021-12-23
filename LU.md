@@ -1,4 +1,4 @@
-Published 20.12.2021
+Published 23.12.2021
 1. Until 31 December 2021, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -18,8 +18,8 @@ Published 20.12.2021
 - merchant seamen;
 - passengers with a certificate issued by the Passport, Visa and Legalization Office (BPVL).
 2. Passengers must have:
-- a negative COVID-19 LAMP, NAAT, PCR or TMA test taken at most 72 hours before departure from the first embarkation point; or
-- a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point.
+- a negative COVID-19 LAMP, NAAT, PCR or TMA test taken at most 48 hours before departure from the first embarkation point; or
+- a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point.
 The test result must be in English, French, German, Italian, Luxembourgish, Portuguese or Spanish. A certified translation to English, French, German or Luxembourgish is accepted.
 - This does not apply to:
 - passengers younger than 12 years and 2 months;
