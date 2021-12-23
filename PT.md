@@ -1,4 +1,4 @@
-Published 14.12.2021
+Published 23.12.2021
 1. Flights from Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe are suspended.
 2. Passengers are not allowed to enter.
 - This does not apply to:
@@ -26,7 +26,9 @@ Published 14.12.2021
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers traveling on a direct flight to Madeira.
-8. Passengers traveling on a direct flight to Madeira without a negative COVID-19 RT-PCR test taken at most 72 hours before departure are subject to a COVID-19 rapid antigen test upon arrival or quarantine for 10 days.
+8. Passengers traveling on a direct flight to Madeira:
+- without a negative COVID-19 RT-PCR test taken at most 48 hours before departure; or
+- without a rapid antigen test taken at most 24 hours before departure are subject to a COVID-19 rapid antigen test upon arrival or quarantine for 10 days.
 This does not apply to:
 - passengers younger than 12 years;
 - passengers with a COVID-19 recovery certificate issued at most 90 days before arrival;
