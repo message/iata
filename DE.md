@@ -1,4 +1,4 @@
-Published 23.12.2021
+Published 24.12.2021
 1. Passengers are not allowed to enter.
 1.1. This does not apply to:
 - nationals and residents of Germany;
@@ -20,11 +20,11 @@ Published 23.12.2021
 - passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty), and a positive COVID-19 LAMP, NAAT, PCR, RT-LAMP, RT-PCR or TMA test taken at least 28 days and at most 6 months before arrival. The certificates must be in in English, French, German, Italian or Spanish. They must not be arriving from China (People's Rep.);
 - passengers younger than 12 years accompanied by a parent with a COVID-19 vaccination certificate showing that the parent was fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 14 days before departure. The certificate must be in in English, French, German, Italian or Spanish. They must not be arriving from China (People's Rep.);
 - passengers younger than 12 years accompanied by a parent with a COVID-19 vaccination certificate showing that the parent received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty). The parent must also have a positive COVID-19 LAMP, NAAT, PCR, RT-LAMP, RT-PCR or TMA test taken at least 28 days and at most 6 months before arrival. The certificates must be in in English, French, German, Italian or Spanish. They must not be arriving from China (People's Rep.).
-2. Passengers and airline crew entering or transiting through Germany who are arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, United Kingdom or Zimbabwe must have a negative COVID-19 LAMP, NAAT, PCR, RT-LAMP, RT-PCR or TMA test taken at most 48 hours before departure. The test result must be in English, French, German, Italian or Spanish.
+2. Passengers and airline crew entering or transiting through Germany who are arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, United Kingdom or Zimbabwe must have a negative COVID-19 LAMP, NAAT, PCR, RT-LAMP, RT-PCR or TMA test taken at most 48 hours before departure from the first embarkation point. The test result must be in English, French, German, Italian or Spanish.
 - This does not apply to passengers younger than 6 years;
 3. Passengers entering or transiting through Germany who are arriving from a country other than Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, United Kingdom or Zimbabwe must have:
 - a negative COVID-19 antigen test taken at most 48 hours before arrival; or
-- a negative COVID-19 LAMP, NAAT, PCR, RT-LAMP, RT-PCR or TMA test taken at most 48 hours before departure.
+- a negative COVID-19 LAMP, NAAT, PCR, RT-LAMP, RT-PCR or TMA test taken at most 48 hours before departure from the first embarkation point.
 The test result must be in English, French, German, Italian or Spanish.
 - This does not apply to:
 - passengers younger than 6 years;
