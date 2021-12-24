@@ -116,3 +116,18 @@ The test result must be in Arabic or English and must be issued by an approved l
 - This does not apply to:
 - nationals of United Arab Emirates;
 - passengers with a golden visa issued by United Arab Emirates.
+30. Effective 19:30, 25 December 2021, passengers entering United Arab Emirates who are arriving from or have transited through Tanzania must have:
+- a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
+- a printed negative COVID-19 rapid PCR test taken at most 6 hours before departure of the last direct flight to United Arab Emirates.
+The test result must be in Arabic or English and be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+- This does not apply to:
+- passengers younger than 12 years;
+- passengers with disabilities.
+31. Effective 19:30, 25 December 2021, passengers entering United Arab Emirates who are arriving from or have transited through Ghana or Uganda must have:
+- a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
+- a printed negative COVID-19 rapid PCR test taken at most 6 hours before departure of the last direct flight to United Arab Emirates.
+The test result must be in Arabic or English and be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+- This does not apply to:
+- passengers younger than 12 years;
+- passengers with disabilities.
+- nationals of United Arab Emirates.
