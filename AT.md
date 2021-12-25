@@ -38,14 +38,4 @@ Passengers with a medical certificate of contraindication who cannot be vaccinat
 - passengers between 6 and 15 years, traveling alone if they have a negative COVID-19 LAMP, PCR, TMA issued at most 72 hours before arrival or a negative COVID-19 antigen test issued at most 48 hours before arrival.
 Passengers with a medical certificate of contraindication who cannot be vaccinated and pregnant women do not need a COVID-19 recovery or vaccination certificate.
 5. Passengers must present a completed "Pre-Travel-Clearance" upon arrival. The form can be found at <a href="https://entry.ptc.gv.at">https://entry.ptc.gv.at</a>
-- This does not apply to passengers who have not been in the past 10 days in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe with:
-- a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; and
-- a COVID-19 recovery certificate issued at most 180 days before arrival; or
-- a COVID-19 vaccination certificate stating that they received:
-- the second vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 270 days before arrival. A combination of vaccines is accepted; or
-- the third vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, at least 120 days after the second dose and at most 270 days before arrival; or
-- the Janssen vaccine at least 22 days and at most 270 days before arrival; or
-- the second vaccine dose of Janssen vaccine at least 14 days after the first dose and at most 270 days before arrival; or
-- the first vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 22 days and at most 270 days before arrival and proof of previous COVID-19 infection; or
-- the second vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, at least 120 days after the first dose and at most 270 days before arrival and proof of previous COVID-19 infection.
 6. Passengers could be subject to self-quarantine for 10 days. Exemptions can be found at <a href="https://tinyurl.com/8w8kyybv">https://tinyurl.com/8w8kyybv</a>
