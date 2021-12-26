@@ -1,4 +1,4 @@
-Published 22.12.2021
+Published 26.12.2021
 1. Nationals of Israel are not allowed to enter and transit.
 2. Passengers are not allowed to enter.
 This does not apply to:
@@ -17,9 +17,7 @@ This does not apply to:
 3. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to nationals of Kuwait.
 4. Flights from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia and Zimbabwe are suspended.
-5. Until 25 December 2021, passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure.
-- This does not apply to passengers younger than 6 years.
-6. Effective 26 December 2021, passengers must have a negative COVID-19 PCR test taken at most 48 hours before departure.
+5. Passengers must have a negative COVID-19 PCR test taken at most 48 hours before departure.
 - This does not apply to passengers younger than 6 years.
 6. Passengers are subject to medical screening.
 7. Passengers should install "Shlonik" and "Kuwait-Mosafer" applications on their personal device.
