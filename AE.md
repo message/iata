@@ -1,4 +1,4 @@
-Published 24.12.2021
+Published 28.12.2021
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -13,7 +13,7 @@ Published 24.12.2021
 - passengers traveling to Abu Dhabi (AUH) with a resident visa;
 - passengers traveling to Abu Dhabi (AUH) with a pre-arranged visa issued by any emirate;
 - nationals of Indonesia traveling under the Safe Travel Corridor program. They must have an entry permit and a return ticket.
-2. Passengers who in the past 14 days have been in or transited through Botswana, Congo, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter and transit.
+2. Passengers who in the past 14 days have been in or transited through Botswana, Congo, Congo (Dem. Rep.), Eswatini, Ethiopia, Kenya, Lesotho, Mozambique, Namibia, Nigeria, South Africa, Tanzania or Zimbabwe are not allowed to enter and transit.
 - This does not apply to:
 - nationals of United Arab Emirates;
 - passengers with a golden visa issued by United Arab Emirates.
@@ -22,7 +22,7 @@ Published 24.12.2021
 - must download and register the COVID-19 DXB Smart App before departure or upon arrival.
 4. Passengers traveling as tourists arriving at Dubai (DXB) or Sharjah (SHJ) must have health insurance.
 5. Residents of United Arab Emirates with a residence visa returning to Dubai (DXB) or Al Maktoum (DWC) and arriving from Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Pakistan, Sierra Leone, South Africa or Sri Lanka must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx</a> .
-6. Passengers entering United Arab Emirates arriving from Afghanistan, Bangladesh, Botswana, Congo, Congo (Dem. Rep.), Eswatini, India, Lesotho, Liberia, Mozambique, Namibia, Nepal, Pakistan, Sierra Leone, South Africa, Sri Lanka, Uganda, Viet Nam, Zambia or Zimbabwe must have:
+6. Passengers entering United Arab Emirates arriving from Afghanistan, Bangladesh, Botswana, Congo, Congo (Dem. Rep.), Eswatini, India, Lesotho, Liberia, Mozambique, Namibia, Nepal, Pakistan, Sierra Leone, South Africa, Sri Lanka, Viet Nam, Zambia or Zimbabwe must have:
 - a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
 - a printed negative COVID-19 rapid PCR test (rapid RT-PCR is required for passengers arriving from Bangladesh) taken at most 6 hours before departure from the first embarkation point. The rapid PCR test must be taken at the first departure airport.
 The test result must be in Arabic or English and be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
@@ -31,7 +31,7 @@ The test result must be in Arabic or English and be issued by an approved labora
 - passengers with disabilities.
 - passengers entering Dubai (DXB) or Al Maktoum (DWC).
 - The rapid PCR test requirement does not apply to nationals of United Arab Emirates and their first degree family members.
-7. Passengers entering United Arab Emirates who are arriving from or have transited through Ethiopia, Kenya, Nigeria or Rwanda must have:
+7. Passengers entering United Arab Emirates who are arriving from or have transited through Ethiopia, Ghana, Kenya, Nigeria, Rwanda, Tanzania or Uganda must have:
 - a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
 - a printed negative COVID-19 rapid PCR test taken at most 6 hours before departure of the last direct flight to United Arab Emirates.
 The test result must be in Arabic or English and be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
@@ -44,7 +44,7 @@ The test result must be in Arabic or English and be issued by an approved labora
 - passengers younger than 12 years;
 - passengers with disabilities;
 - passengers transiting through Dubai (DXB), Al Maktoum (DWC) or Abu Dhabi (AUH).
-9. Passengers entering or transiting through Dubai (DXB) or Al Maktoum (DWC) from Burundi, Cameroon, Chad, Kenya, Nigeria, Rwanda, Tanzania, Uganda or Zambia must have:
+9. Passengers entering or transiting through Dubai (DXB) or Al Maktoum (DWC) from Burundi, Cameroon, Chad, Ghana, Kenya, Nigeria, Rwanda, Tanzania, Uganda or Zambia must have:
 - a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
 - a printed negative COVID-19 rapid PCR test taken at most 6 hours before departure of the last direct flight to United Arab Emirates.
 The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
@@ -112,22 +112,3 @@ The test result must be in Arabic or English and must be issued by an approved l
 27. Airline crew without a printed negative COVID-19 PCR test result of a test taken at most 72 hours before departure from the first embarkation point are subject to quarantine until their next flight.
 28. Passengers entering Abu Dhabi (AUH) must register before departure on <a href="https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals">https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals</a> . This will generate a QR code which must be presented before departure and upon arrival.
 - This does not apply to nationals of United Arab Emirates.
-29. Effective 19:30, 25 December 2021, passengers who in the past 14 days have been in or transited through Ethiopia, Kenya, Nigeria or Tanzania are not allowed to enter and transit.
-- This does not apply to:
-- nationals of United Arab Emirates;
-- passengers with a golden visa issued by United Arab Emirates.
-30. Effective 19:30, 25 December 2021, passengers entering United Arab Emirates who are arriving from or have transited through Tanzania must have:
-- a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
-- a printed negative COVID-19 rapid PCR test taken at most 6 hours before departure of the last direct flight to United Arab Emirates.
-The test result must be in Arabic or English and be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
-- This does not apply to:
-- passengers younger than 12 years;
-- passengers with disabilities.
-31. Effective 19:30, 25 December 2021, passengers entering United Arab Emirates who are arriving from or have transited through Ghana or Uganda must have:
-- a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
-- a printed negative COVID-19 rapid PCR test taken at most 6 hours before departure of the last direct flight to United Arab Emirates.
-The test result must be in Arabic or English and be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
-- This does not apply to:
-- passengers younger than 12 years;
-- passengers with disabilities.
-- nationals of United Arab Emirates.

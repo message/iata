@@ -1,4 +1,4 @@
-Published 21.12.2021
+Published 28.12.2021
 1. Until 16 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Finland and their family members;
@@ -14,11 +14,12 @@ Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Mo
 - nationals and residents of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland with a COVID-19 recovery certificate issued at most 6 months before arrival;
 - military personnel;
 - more exemptions can be found at <a href="https://raja.fi/en/guidelines-for-border-traffic-during-pandemic">https://raja.fi/en/guidelines-for-border-traffic-during-pandemic</a>
-2. Passengers must have:
-- a negative COVID-19 antigen or PCR test result issued at most 48 hours before arrival. The test result must be in English; and
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac; or
-- a COVID-19 recovery certificate. The passenger must have tested positive at least 2 weeks and at most 6 months before arrival.
+2. Passengers must have a negative COVID-19 antigen or PCR test result issued at most 48 hours before arrival. The test result must be in English; and
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP) or Sinovac; or
+- a COVID-19 recovery certificate, and a COVID-19 vaccination certificate showing that they received one vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP) or Sinovac; or
+- an EU Digital Covid Certificate (EU DCC) as proof of recovery issued at most 6 months before arrival.
 - This does not apply to:
 - nationals and residents of Finland;
-- passengers younger than 16 years;
-- passengers arriving from Austria, Belgium, Czechia, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden and Switzerland.
+- military personnel;
+- until 31 December 2021, passengers younger than 16 years;
+- effective 1 January 2022, passengers younger than 15 years.
