@@ -1,5 +1,5 @@
-Published 25.12.2021
-1. Until 31 December 2021, passengers are not allowed to enter.
+Published 29.12.2021
+1. Until further notice, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Japan;
 - spouses or children of nationals of Japan;
