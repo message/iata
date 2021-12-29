@@ -1,10 +1,10 @@
-Published 22.12.2021
+Published 29.12.2021
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Israel;
 - passengers with an authorization letter issued by the Population and Immigration Authority;
 - passengers with an A1, A2, A3, A4, A5 visa;
-- passengers with a B1, B3 or B4 visa if arriving from a country other than Angola, Belgium, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Canada, Cape Verde, Central African Rep., Chad, Comoros, Congo, Congo (Dem. Rep.), Cote d'Ivoire, Denmark, Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Finland, France, Gabon, Gambia, Germany, Ghana, Guinea, Guinea-Bissau, Hungary, Ireland (Rep.), Italy, Kenya, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Norway, Portugal, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Spain, St. Helena, Sweden, Switzerland, Tanzania, Togo, Turkey, USA, Uganda, United Arab Emirates, United Kingdom, Zambia or Zimbabwe;
+- passengers with a B1, B3 or B4 visa if arriving from a country other than Canada, Ethiopia, France, Hungary, Mexico (effective 30 December 2021), Nigeria, Portugal, South Africa, Spain, Switzerland, Tanzania, Turkey, United Arab Emirates, United Kingdom or USA;
 - passengers with a diplomatic passport.
 2. Passengers with an A1, A2, A3, A4, A5, B1, B3 or B4 visa must a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days and at most 180 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V.
 3. Passengers must complete an "Entry Statement" at most 48 hours before departure of the last direct flight to Israel at <a href="https://www.gov.il/en/service/request-entry-to-israel-covid19">https://www.gov.il/en/service/request-entry-to-israel-covid19</a> . They will receive an electronic approval from the Ministry of Health. They will receive an electronic approval from the Ministry of Health and a Green Pass which must be presented before boarding.
