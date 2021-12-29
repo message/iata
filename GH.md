@@ -1,7 +1,6 @@
-Published 14.12.2021
+Published 29.12.2021
 1. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP), Sinovac and Sputnik V.
 - This does not apply to passengers younger than 18 years.
-- Until 28 December 2021, this does not apply to nationals and residents of Ghana who will be vaccinated upon arrival.
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must have a QR code obtained at <a href="http://www.globalhaven.org">www.globalhaven.org</a> or <a href="https://trustedtravel.panabios.org">https://trustedtravel.panabios.org</a>
 - This does not apply to:
 - nationals and residents of Ghana returning within one week;

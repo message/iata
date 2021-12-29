@@ -1,4 +1,4 @@
-Published 28.09.2021
+Published 29.12.2021
 1. Passengers and airline crew must complete the "Traveler's Surveillance Form" for Tanzania at <a href="https://afyamsafiri.moh.go.tz/">https://afyamsafiri.moh.go.tz/</a> and for Zanzibar at <a href="https://healthtravelznz.mohz.go.tz">https://healthtravelznz.mohz.go.tz</a> at most 24 hours before arrival.
 2. Passengers must have a negative COVID-19 NAAT or RT-PCR test taken at most 96 hours before departure from the first embarkation point.
 - This does not apply to passengers who are 5 years or younger.
