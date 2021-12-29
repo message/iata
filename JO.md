@@ -1,6 +1,6 @@
-Published 21.12.2021
-1. Flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
-2. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter and transit.
+Published 29.12.2021
+1. Until 31 January 2022, flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
+2. Until 31 January 2022, passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter and transit.
 - This does not apply to nationals of Jordan and their spouses and children.
 3. Nationals of , Angola, Belize, Benin, Botswana, Burkina Faso, Burundi, Cambodia, Cameroon, Central African Rep., Colombia, Comoros, Congo (Dem. Rep.), Cote d'Ivoire, Cuba, Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Iraq, Liberia, Madagascar, Mali, Mauritania, Mongolia, Morocco, Mozambique, Myanmar, Namibia, Nepal, Niger, Pakistan, Papua New Guinea, Philippines, Senegal, Sierra Leone, Somalia, South Sudan, Sri Lanka, Sudan, Tanzania, Togo, Uganda, Viet Nam and Zambia are not allowed to enter.
 - This does not apply to:
@@ -18,17 +18,17 @@ This does not apply to:
 6. Passengers entering or transiting through Jordan must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result for passengers arriving from Egypt, Iraq or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a>
 - This does not apply to:
 - passengers younger than 5 years;
-- passengers with a diplomatic or special passport and their family members;
+- passengers with a diplomatic or special passport and their family members.
 7. Passengers are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo/</a> .
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and a diplomatic QR code;
 - family members of passengers with a diplomatic or special passport;
 - passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe.
-8. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo/</a> .
+8. Until 31 January 2022, passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo/</a> .
 - This does not apply to passengers younger than 5 years.
 9. Passengers must complete a "Passenger Health Declaration Form" and present it before departure.
-10. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to quarantine for 14 days at a hotel at their own expense.
+10. Until 31 January 2022, passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to quarantine for 14 days at a hotel at their own expense.
 11. Airline crew must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point.
 - This does not apply to airline crew with a round trip flight.
 12. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.

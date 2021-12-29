@@ -18,7 +18,7 @@ Published 29.12.2021
 - passengers with a COVID-19 vaccination certificate issued in Albania, Andorra, Armenia, Cape Verde, El Salvador, Faroe Isl., Georgia, Guernsey, Isle of Man, Israel, Jersey, Lebanon, Moldova (Rep.), Monaco, Morocco, New Zealand, North Macedonia (Rep.), Panama, San Marino, Serbia, Singapore, Switzerland, Togo, Turkey, USA, Ukraine, United Arab Emirates, United Kingdom or the Vatican City (Holy See) showing that they were fully vaccinated at least 14 days before arrival.
 Vaccines accepted are: Astrazeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield , Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac;
 - unvaccinated passengers younger than 18 years if they are traveling with their fully vaccinated parents/guardians.
-2. Passengers entering or transiting through Sweden must have a negative COVID-19 test taken at most 48 hours before arrival. Tests accepted are: antigen, LAMP, PCR and TMA.
+2. Passengers entering or transiting through Sweden must have a negative COVID-19 test taken at most 48 hours before arrival. Tests accepted are: antigen, LAMP, NAAT, PCR and TMA.
 - This does not apply to:
 - nationals and residents of Sweden;
 - passengers younger than 12 years.

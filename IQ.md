@@ -1,4 +1,4 @@
-Published 17.12.2021
+Published 29.12.2021
 1. Passengers arriving from India are not allowed to enter Iraq via Baghdad (BGW) or Najaf (NJF).
 2. Nationals of India are not allowed to enter Iraq via Najaf (NJF).
 3. Nationals of Indonesia are not allowed to enter Iraq via Basra (BSR) or Najaf (NJF).
@@ -22,7 +22,7 @@ Published 17.12.2021
 - passengers younger than 12 years.
 10. Passengers traveling to Najaf (NJF) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English and have a signature and a stamp from a laboratory.
 - This does not apply to passengers younger than 10 years.
-11. Nationals of Australia, Austria, Belgium, Bulgaria, Canada, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Korea (Rep.), Latvia, Lebanon, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Russian Fed., Slovakia, Slovenia, Spain, Sweden, United Kingdom and USA, can obtain a visa on arrival at Najaf (NJF). They must have a return ticket and a reservation confirmation from one of the following hotels: Qaser Aldur Hotel, Qaser Altad Hotel or Rebal Hotel.
+11. Nationals of Australia, Austria, Belgium, Bulgaria, Canada, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Korea (Rep.), Latvia, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Poland, Portugal, Romania, Russian Fed., Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom and USA, can obtain a visa on arrival at Najaf (NJF). They must have a return ticket and a hotel reservation confirmation.
 12. Passengers traveling to Erbil (EBL) could be subject to quarantine at a designated facility for up to 14 days.
 13. Airline crew traveling to Erbil (EBL) or Sulaymaniyah (ISU) are subject to self-isolation in a hotel until their next flight.
 14. Passengers are subject to medical screening and quarantine.
