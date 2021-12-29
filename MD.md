@@ -1,5 +1,6 @@
-Published 06.10.2021
-Passengers could be subject to self-isolation for 14 days; more details can be found at <a href="https://www.border.gov.md/index.php/traversarea-frontierei-perioada-pandemica">https://www.border.gov.md/index.php/traversarea-frontierei-perioada-pandemica</a>
+Published 29.12.2021
+1. Passengers who in the past 14 days have been in or transited through Andorra, Aruba, Belgium, Botswana, Cayman Isl., Cyprus, Croatia, Curacao, Denmark, Eswatini, France, Georgia, Gibraltar, Iceland, Ireland (Rep.), Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Northern Mariana Isl., Norway, Portugal, San Marino, Slovakia, Slovenia, Spain, Switzerland, USA or Virgin Isl. (British) must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be issued in English, French, German, Italian, Romanian or Russian.
+2. Passengers could be subject to self-isolation for 14 days; more details can be found at <a href="https://www.border.gov.md/index.php/traversarea-frontierei-perioada-pandemica">https://www.border.gov.md/index.php/traversarea-frontierei-perioada-pandemica</a>
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must in English, French, German, Italian, Romanian or Russian; or
 - passengers with a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point; or

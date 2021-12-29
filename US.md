@@ -1,6 +1,6 @@
-Published 09.12.2021
-1. Passengers who in the past 14 days have been in, or transited through, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe, are not allowed to enter.
-This does not apply to:
+Published 29.12.2021
+1. Until 30 December 2021, passengers who in the past 14 days have been in, or transited through, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe, are not allowed to enter.
+- This does not apply to:
 - nationals of USA;
 - passengers with a Permanent Resident/Resident Alien Card (Form I-551);
 - spouses of nationals and of residents of the USA;
