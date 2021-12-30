@@ -1,4 +1,4 @@
-Published 20.12.2021
+Published 30.12.2021
 1. Flights from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia and Zimbabwe are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Until 31 December 2021, passengers are not allowed to enter.
@@ -29,8 +29,13 @@ Published 20.12.2021
 - passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe;
 - residents of the United Kingdom arriving from the United Kingdom;
 - deadheading crew.
-4. Passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe must have a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
+4. Passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival; or
+- a COVID-19 recovery certificate issued at least 11 days after the positive COVID-19 NAAT test result. The sample for the certificate must have been taken at most 180 days before arrival; and
+- a negative COVID-19 rapid antigen test taken at most 48 hours before arrival; or
 - a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation.
+- This does not apply to:
+- passengers younger than 12 years;
+- deadheading crew.
 5. Residents of the United Kingdom arriving from the United Kingdom must have:
 - a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival.

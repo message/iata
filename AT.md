@@ -1,4 +1,4 @@
-Published 25.12.2021
+Published 30.12.2021
 1. Until 9 January 2022, flights from Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia and Zimbabwe are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Passengers arriving from or who have been in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe in the past 10 days are not allowed to enter.
@@ -24,6 +24,7 @@ Published 25.12.2021
 Passengers with a medical certificate of contraindication who cannot be vaccinated and pregnant women do not need a COVID-19 recovery or vaccination certificate.
 4. Passengers must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or
 - take a test after arrival; and
+- have a COVID-19 recovery certificate issued at most 180 days before arrival; or
 - have a COVID-19 vaccination certificate stating that they received:
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 270 days before arrival. A combination of vaccines is accepted; or
 - the third vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, at least 120 days after the second dose and at most 270 days before arrival; or
@@ -35,7 +36,7 @@ Passengers with a medical certificate of contraindication who cannot be vaccinat
 - passengers arriving from Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe;
 - passengers younger than 12 years if accompanied by an adult;
 - passengers with a COVID-19 vaccination certificate showing that they received a booster dose;
-- passengers between 6 and 15 years, traveling alone if they have a negative COVID-19 LAMP, PCR, TMA issued at most 72 hours before arrival or a negative COVID-19 antigen test issued at most 48 hours before arrival.
+- passengers between 6 and 15 years, if they have a negative COVID-19 LAMP, PCR, TMA issued at most 72 hours before arrival or a negative COVID-19 antigen test issued at most 48 hours before arrival.
 Passengers with a medical certificate of contraindication who cannot be vaccinated and pregnant women do not need a COVID-19 recovery or vaccination certificate.
 5. Passengers must present a completed "Pre-Travel-Clearance" upon arrival. The form can be found at <a href="https://entry.ptc.gv.at">https://entry.ptc.gv.at</a>
 6. Passengers could be subject to self-quarantine for 10 days. Exemptions can be found at <a href="https://tinyurl.com/8w8kyybv">https://tinyurl.com/8w8kyybv</a>

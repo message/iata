@@ -1,2 +1,2 @@
-Published 29.11.2021
-Until 31 December 2021, passengers are not allowed to enter.
+Published 30.12.2021
+Until 31 January 2022, passengers are not allowed to enter.
