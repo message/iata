@@ -1,4 +1,4 @@
-Published 15.12.2021
+Published 30.12.2021
 1. Passengers entering or transiting through Virgin Isl. (USA) must have a travel certification obtained at <a href="https://usvitravelportal.com/">https://usvitravelportal.com/</a> at most 5 days before departure from the first embarkation point. This will generate a green QR code which must be presented before boarding.
 - This does not apply to:
 - passengers younger than 5 years arriving from Guam, Northern Mariana Isl., Puerto Rico or USA;
@@ -14,7 +14,8 @@ This does not apply to:
 - This does not apply to:
 - passengers younger than 2 years;
 - passengers arriving from Guam, Northern Mariana Isl., Puerto Rico or USA.
-4. Passengers who are arriving from Guam, Northern Mariana Isl., Puerto Rico or USA and who are entering or transiting through Virgin Isl. must have a negative COVID-19 test taken at most 5 days before departure from the first embarkation point. Tests accepted are: antigen, NAAT, RT-LAMP, RT-PCR or TMA.
+4. Until 2 January 2022, passengers who are arriving from Guam, Northern Mariana Isl., Puerto Rico or USA and who are entering or transiting through Virgin Isl. must have a negative COVID-19 test taken at most 5 days before departure from the first embarkation point. Tests accepted are: antigen, NAAT, RT-LAMP, RT-PCR or TMA.
+Effective 3 January 2022, passengers who are arriving from Guam, Northern Mariana Isl., Puerto Rico or USA and who are entering or transiting through Virgin Isl. must have a negative COVID-19 test taken at most 3 days before departure from the first embarkation point. Tests accepted are: antigen, NAAT, RT-LAMP, RT-PCR or TMA.
 - This does not apply to passengers younger than 2 years.
 5. Passengers could be subject to medical screening and quarantine upon arrival.
 6. Nationals of the U.S.A. are allowed to enter with an expired passport.

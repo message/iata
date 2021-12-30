@@ -1,9 +1,8 @@
-Published 29.12.2021
+Published 30.12.2021
 1. Passengers who in the past 14 days have been in or transited through Andorra, Aruba, Belgium, Botswana, Cayman Isl., Cyprus, Croatia, Curacao, Denmark, Eswatini, France, Georgia, Gibraltar, Iceland, Ireland (Rep.), Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Northern Mariana Isl., Norway, Portugal, San Marino, Slovakia, Slovenia, Spain, Switzerland, USA or Virgin Isl. (British) must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be issued in English, French, German, Italian, Romanian or Russian.
-2. Passengers could be subject to self-isolation for 14 days; more details can be found at <a href="https://www.border.gov.md/index.php/traversarea-frontierei-perioada-pandemica">https://www.border.gov.md/index.php/traversarea-frontierei-perioada-pandemica</a>
-- This does not apply to:
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must in English, French, German, Italian, Romanian or Russian; or
-- passengers with a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
-- passengers with a negative COVID-19 antigen test taken at most 48 hours before arrival; or
-- passengers with proof of presence of COVID-19 antibodies issued at most 90 days before arrival. The document must in English, French, German, Italian, Romanian or Russian.
-More exemptions can be found at <a href="https://www.border.gov.md/index.php/traversarea-frontierei-perioada-pandemica">https://www.border.gov.md/index.php/traversarea-frontierei-perioada-pandemica</a>
+2. Passengers without:
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must in English, French, German, Italian, Romanian or Russian; or
+- a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
+- a negative COVID-19 antigen test taken at most 48 hours before arrival; or
+- proof of presence of COVID-19 antibodies issued at most 90 days before arrival. The document must in English, French, German, Italian, Romanian or Russian,
+must complete an Epidemiological Card at most 72 hours before arrival at <a href="https://fisa-covid.gov.md/">https://fisa-covid.gov.md/</a> , and are subject to self-isolation for 14 days. More details can be found at <a href="https://www.border.gov.md/index.php/traversarea-frontierei-perioada-pandemica">https://www.border.gov.md/index.php/traversarea-frontierei-perioada-pandemica</a>
