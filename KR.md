@@ -1,6 +1,6 @@
-Published 15.12.2021
-1. Until 6 January 2022, flights from Ethiopia are suspended.
-2. Until 6 January 2022, passengers arriving from or who have been in Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia and Zimbabwe in the past 14 days are not allowed to enter and transit.
+Published 31.12.2021
+1. Until 3 February 2022, flights from Ethiopia are suspended.
+2. Until 3 February 2022, passengers arriving from or who in the past 14 days have been in Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia and Zimbabwe are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Korea (Rep.);
 - passengers with a diplomatic or official passport;
