@@ -1,4 +1,4 @@
-Published 03.12.2021
+Published 31.12.2021
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals of Kazakhstan;
@@ -20,4 +20,4 @@ This does not apply to:
 - passengers with a COVID-19 vaccination certificate issued in Argentina, Armenia, Belarus, Estonia, Georgia, Hungary, India, Iran, Jordan, Kazakhstan, Kyrgyzstan, Maldives, Moldova (Rep.), Mongolia, Philippines, San Marino, Thailand and Turkey, showing that they were fully vaccinated. They must not be arriving from Australia, Belgium, Canada, Czechia, Egypt, Germany, Israel, Italy, Netherlands or United Kingdom;
 - passengers younger than 5 years if accompanied by a person with a negative COVID-19 PCR test result.
 5. Passengers are subject to medical screening.
-6. Until 31 December 2021, suspension of visa exemptions for British nationals and nationals of Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, Chile, China (People's Rep.), Colombia, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Monaco, Netherlands, New Zealand, Norway, Oman, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Turkey, USA, United Arab Emirates, Vatican City (Holy See) and Vietnam with a normal passport.
+6. Suspension of visa exemptions for British nationals and nationals of Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, Chile, China (People's Rep.), Colombia, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Indonesia, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Mexico, Monaco, Netherlands, New Zealand, Norway, Oman, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Turkey, USA, United Arab Emirates, Vatican City (Holy See) and Vietnam with a normal passport.
