@@ -1,4 +1,4 @@
-Published 03.12.2021
+Published 31.12.2021
 1. Flights from Botswana, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
 2. Passengers must complete a "Traveler Entry" form at most 72 hours before departure. The form must be presented at check-in and upon arrival. The form can be obtained at <a href="https://register.health.gov.tr">https://register.health.gov.tr</a>
 - This does not apply to passengers younger than 6 years.
@@ -23,4 +23,4 @@ Published 03.12.2021
 - passengers who in the past 14 days have been in Afghanistan, Bangladesh, Brazil, India, Nepal, Pakistan or Sri Lanka with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
 7. Passengers could be subject to self-isolation for up to 14 days.
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.
-9. Diplomatic and official passports issued to nationals of North Macedonia (Rep.) which expired on 31 July 2020 or later are considered valid until 31 December 2021.
+9. Diplomatic and official passports issued to nationals of North Macedonia (Rep.) which expired on 31 July 2020 or later are considered valid until 31 March 2022.
