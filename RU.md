@@ -1,6 +1,6 @@
-Published 14.12.2021
-1. Nationals and residents of Botswana, Eswatini, Hong Kong (SAR China), Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania and Zimbabwe are not allowed to enter.
-2. Passengers and airline crew who in the past 10 days have been in Botswana, Eswatini, Hong Kong (SAR China), Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania or Zimbabwe are not allowed to enter.
+Published 03.01.2022
+1. Nationals and residents of Botswana, Eswatini, Hong Kong (SAR China), Kenya, Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania and Zimbabwe are not allowed to enter.
+2. Passengers and airline crew who in the past 10 days have been in Botswana, Eswatini, Hong Kong (SAR China), Kenya, Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania or Zimbabwe are not allowed to enter.
 - This does not apply to nationals of the Russian Fed.
 3. Passengers are not allowed to enter.
 - This does not apply to:
@@ -17,9 +17,9 @@ Published 14.12.2021
 - passengers arriving from Armenia, Azerbaijan, Belarus, Kazakhstan, Moldova (Rep.), Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan.
 5. Passengers arriving from Armenia, Azerbaijan, Belarus, Kazakhstan, Moldova (Rep.), Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan must have a negative COVID-19 PCR test taken at most 2 days before arrival. The test result must have a green QR code obtained in the app 'Traveling without COVID-19'.
 - This does not apply to nationals of the Russian Fed.
-6. Nationals of the Russian Fed. arriving from Botswana, China (People's Rep.), Eswatini, Hong Kong (SAR China), Israel, Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania, United Kingdom or Zimbabwe are subject to a COVID-19 antigen test upon arrival.
+6. Nationals of the Russian Fed. arriving from Botswana, China (People's Rep.), Eswatini, Hong Kong (SAR China), Kenya, Israel, Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania, United Kingdom or Zimbabwe are subject to a COVID-19 antigen test upon arrival.
 7. Passengers arriving from China (People's Rep.), Israel or United Kingdom are subject to a COVID-19 antigen test upon arrival.
 - This does not apply to nationals of the Russian Fed.
 8. Flights from Morocco and Tanzania to the Russian Fed. are suspended.
-9. Passengers must complete an "Application Form" and present it upon arrival. The form can be obtained at <a href="https://www.rospotrebnadzor.ru/upload/%D0%B0%D0%B2%D0%B8%D0%B0%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0%20RUS.docx">https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docx</a>
+9. Passengers must complete an "Application Form" and present it upon arrival. The form can be obtained at <a href="https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docx">https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docx</a>
 10. Suspension of e-visa issuance.
