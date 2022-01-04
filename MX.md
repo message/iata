@@ -1,2 +1,2 @@
-Published 08.10.2021
-A completed "Cuestionario de identificacion de factores de riesgo en viajeros" must be presented to immigration upon arrival. The form must be completed at <a href="https://www.vuelaseguro.com/login">https://www.vuelaseguro.com/login</a> upon arrival.
+Published 04.01.2022
+COVID-19 entry regulations lifted on 1 January 2022.
