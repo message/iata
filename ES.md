@@ -43,4 +43,3 @@ This does not apply to:
 5. Passengers entering or transiting through Spain must complete an "FCS Health Control Form" before departure at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> or via the Spain Travel Health-SpTH App. This will generate a QR code which must be presented upon arrival.
 - This does not apply to deadheading crew.
 6. Passengers are subject to medical screening upon arrival.
-7. Passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia or Zimbabwe are subject to quarantine for 10 days. More information can be found at <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2021-19644">https://www.boe.es/buscar/act.php?id=BOE-A-2021-19644</a>

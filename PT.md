@@ -1,4 +1,4 @@
-Published 30.12.2021
+Published 05.01.2022
 1. Flights from Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe are suspended.
 2. Passengers are not allowed to enter.
 - This does not apply to:
@@ -12,7 +12,7 @@ Published 30.12.2021
 - passengers with an EU Digital Covid Certificate (EU DCC); or
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and issued in Argentina, Australia, Bahrain, Canada, Chile, China (People's Rep.), Chinese Taipei, Colombia, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates or Uruguay. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty);
 - passengers with a positive COVID-19 test result and a recovery certificate.
-3. Passengers must complete an electronic "Passenger Locator Form (PLF)" and present it before boarding. The form can be found at <a href="https://portugalcleanandsafe.pt/en/passenger-locator-card">https://portugalcleanandsafe.pt/en/passenger-locator-card</a>
+3. Passengers entering or transiting through Portugal must complete an electronic "Passenger Locator Form (PLF)" and present it before boarding. The form can be found at <a href="https://portugalcleanandsafe.pt/en/passenger-locator-card">https://portugalcleanandsafe.pt/en/passenger-locator-card</a>
 - This does not apply to passengers traveling on a direct flight to Azores or Madeira.
 4. Passengers traveling to Azores must complete a "Health Form upon arrival at the Azores" and a "Draft statement for inter-island travel" upon arrival; or
 - submit a "Questionnaire for Risk Assessment and Early Detection" before departure at <a href="https://mysafeazores.com/">https://mysafeazores.com/</a>
