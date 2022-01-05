@@ -1,11 +1,12 @@
-Published 16.12.2021
+Published 05.01.2022
 1. Passengers entering or transiting through the United Kingdom must have a negative COVID-19 antigen, NAAT, PCR, LAMP or LFD test, taken at most 2 days before departure from the first embarkation point. The test result must be in English, French or Spanish. More details can be found at <a href="https://tinyurl.com/yeypzpy8">https://tinyurl.com/yeypzpy8</a>
 This does not apply to:
 - passengers younger than 12 years;
 - passengers arriving from Ethiopia, Falkland Isl. (Malvinas), Ireland (Rep.) or St. Helena.
-2. A "Public Health Passenger Locator Form" completed at <a href="https://www.gov.uk/provide-journey-contact-details-before-travel-uk">https://www.gov.uk/provide-journey-contact-details-before-travel-uk</a> ir required for:
+2. A "Public Health Passenger Locator Form" completed at <a href="https://www.gov.uk/provide-journey-contact-details-before-travel-uk">https://www.gov.uk/provide-journey-contact-details-before-travel-uk</a> is required for:
 - passengers entering the United Kingdom; and
-- passengers making a landside transit, detail can be found at <a href="https://tinyurl.com/2p99z3zc">https://tinyurl.com/2p99z3zc</a>
+- passengers making a landside transit, details can be found at <a href="https://tinyurl.com/2p99z3zc">https://tinyurl.com/2p99z3zc</a>
+Exemptions can be found at <a href="https://tinyurl.com/3surj2kz">https://tinyurl.com/3surj2kz</a>
 3. Passengers are subject to a COVID-19 test on day 2 and day 8 after arrival at their own expense. They must have a payment confirmation obtained at: <a href="https://quarantinehotelbookings.ctmportal.co.uk/">https://quarantinehotelbookings.ctmportal.co.uk/</a> or <a href="https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals">https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals</a>
 4. Passengers could be subject to quarantine for 10 days. Details can be found for:
 - England at: <a href="https://www.gov.uk/guidance/booking-and-staying-in-a-quarantine-hotel-when-you-arrive-in-england">https://www.gov.uk/guidance/booking-and-staying-in-a-quarantine-hotel-when-you-arrive-in-england</a>
