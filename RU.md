@@ -21,5 +21,5 @@ Published 03.01.2022
 7. Passengers arriving from China (People's Rep.), Israel or United Kingdom are subject to a COVID-19 antigen test upon arrival.
 - This does not apply to nationals of the Russian Fed.
 8. Flights from Morocco and Tanzania to the Russian Fed. are suspended.
-9. Passengers must complete an "Application Form" and present it upon arrival. The form can be obtained at <a href="https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docx">https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docx</a>
+9. Passengers must complete an "Application Form" and present it upon arrival. The form can be obtained at <a href="https://www.rospotrebnadzor.ru/upload/%D0%B0%D0%B2%D0%B8%D0%B0%D0%90%D0%BD%D0%BA%D0%B5%D1%82%D0%B0%20RUS.docx">https://www.rospotrebnadzor.ru/upload/авиаАнкета%20RUS.docx</a>
 10. Suspension of e-visa issuance.
