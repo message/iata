@@ -1,4 +1,4 @@
-Published 04.01.2022
+Published 05.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -68,13 +68,13 @@ The test result must be in Arabic or English and must be issued by an approved l
 - domestic workers who are traveling with the sponsor or with the first degree family members of the sponsor;
 - passengers younger than 12 years;
 - passengers with disabilities.
-12. Passengers entering Dubai (DXB) or Al Maktoum (DWC) must have a printed negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must have a QR code for passengers arriving from Egypt, Lebanon or Viet Nam.
+12. Passengers entering Dubai (DXB) or Al Maktoum (DWC) must have a printed negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must have a QR code for passengers arriving from Egypt or Viet Nam.
 - This does not apply to:
 - nationals of United Arab Emirates and their parents, spouses, children and siblings;
 - domestic workers who are traveling with the sponsor or with the first degree family members of the sponsor;
 - passengers arriving from Afghanistan, Bangladesh, Botswana, Congo, Congo (Dem. Rep.), Eswatini, Ethiopia, India, Lesotho, Liberia, Mozambique, Namibia, Nepal, Pakistan, Sierra Leone, South Africa, Sri Lanka, Sudan or Zimbabwe;
 - passengers arriving from Burundi, Cameroon, Chad, Kenya, Nigeria, Rwanda, Tanzania, Uganda or Zambia;
-- passengers arriving from the United Kingdom;
+- passengers arriving from Lebanon, Turkey or United Kingdom;
 - passengers younger than 12 years;
 - passengers with disabilities.
 13. Passengers entering Ras Al Khaimah (RKT) must have a printed negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country.
@@ -117,13 +117,7 @@ The test result must be in Arabic or English and must be issued by an approved l
 - This does not apply to:
 - nationals of United Arab Emirates;
 - passengers with a golden visa issued by United Arab Emirates.
-30. Passengers entering or transiting through Dubai (DXB) or Al Maktoum (DWC) from United Kingdom must have a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
-- This does not apply to:
-- nationals of United Arab Emirates and their parents, spouses, children and siblings;
-- domestic workers who are traveling with the sponsor or with the first degree family members of the sponsor;
-- passengers younger than 12 years;
-- passengers with disabilities.
-31. Effective 17:30, 5 January 2022, passengers entering or transiting through Dubai (DXB) or Al Maktoum (DWC) from Lebanon or Turkey must have a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+30. Passengers entering or transiting through Dubai (DXB) or Al Maktoum (DWC) from Lebanon, Turkey or United Kingdom must have a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae/">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
 - This does not apply to:
 - nationals of United Arab Emirates and their parents, spouses, children and siblings;
 - domestic workers who are traveling with the sponsor or with the first degree family members of the sponsor;

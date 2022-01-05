@@ -1,4 +1,4 @@
-Published 31.12.2021
+Published 05.01.2022
 1. Until 31 January 2022, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -11,7 +11,8 @@ Published 31.12.2021
 - residents of Hong Kong (SAR China) with an APEC Business Travel Card arriving from Hong Kong (SAR China);
 - students.
 - passengers transiting through Bangkok (BKK). They must not have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe in the past 14 days;
-- passengers traveling to Phuket (HKT). They must not have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe in the past 14 days.
+- passengers traveling to Phuket (HKT). They must not have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe in the past 14 days;
+- passengers with a Thailand Pass QR code obtained at <a href="https://tp.consular.go.th">https://tp.consular.go.th</a> . They must not have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe in the past 14 days.
 2. Passengers transiting through Thailand must have:
 - medical insurance with minimum coverage of USD 50,000; and
 - a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai; or
