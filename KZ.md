@@ -1,4 +1,4 @@
-Published 05.01.2021
+Published 05.01.2022
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals of Kazakhstan;
