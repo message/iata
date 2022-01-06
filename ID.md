@@ -1,5 +1,5 @@
-Published 03.01.2022
-1. Passengers who in the past 14 days have been in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, Norway, South Africa, United Kingdom, Zambia or Zimbabwe are not allowed to enter.
+Published 06.01.2022
+1. Passengers who in the past 14 days have been in Angola, Botswana, Denmark, Eswatini, France, Lesotho, Malawi, Mozambique, Namibia, Nigeria, Norway, South Africa, United Kingdom, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
 - participants of the G20 event with a diplomatic assignment letter issued by their government and invitation letter from the Ministry of Indonesia.
@@ -13,7 +13,7 @@ Published 03.01.2022
 - passengers with an APEC Business Travel Card;
 - passengers traveling under the Travel Corridor Arrangement (TCA);
 - participants of the G20 event with a diplomatic assignment letter issued by their government and invitation letter from the Ministry of Indonesia;
-- passengers who in the past 14 days have been in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, Norway, South Africa, United Kingdom, Zambia or Zimbabwe;
+- passengers who in the past 14 days have been in Angola, Botswana, Denmark, Eswatini, France, Lesotho, Malawi, Mozambique, Namibia, Nigeria, Norway, South Africa, United Kingdom, Zambia or Zimbabwe;
 - nationals of Bahrain, China (People's Rep.), France, Hungary, India, Italy, Japan, Korea (Rep.), Kuwait, Liechtenstein, New Zealand, Norway, Poland, Portugal, Qatar, Saudi Arabia, Spain, Sweden and United Arab Emirates arriving at Denpasar-Bali (DPS) or Batam (BTH) as tourists from their country of nationality. They must have:
 - a confirmed booking of accommodation; and
 - an e-visit tourist visa with a visa number ending with LN; and
@@ -31,7 +31,7 @@ Published 03.01.2022
 - passengers with a diplomatic or service visa and an invitation letter issued by an Indonesian Ministry under the Travel Corridor Arrangement (TCA).
 9. Airline crew must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. The certificate must be issued in both English and a local language of the country where the airline crew was vaccinated.
 - This does not apply to airline crew transiting without disembarking the aircraft.
-10. Passengers are subject to a COVID-19 PCR test upon arrival and quarantine for up to 14 days.
+10. Passengers are subject to a COVID-19 PCR test upon arrival and quarantine for up to 10 days.
 11. A completed "electronic health awareness card (e-HAC)" must be presented upon arrival. The card can be obtained before departure through the "Pedulilindungi" mobile app.
 12. Airline crew with a crew ID card are visa exempt if they are listed in the General Declaration and wearing uniform.
 13. Deadhead crew will be given an entry stamp. They must:

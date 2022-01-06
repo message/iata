@@ -1,5 +1,5 @@
-Published 30.11.2021
-1. Passengers are not allowed to enter.
+Published 06.01.2022
+1. Until 28 February 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Iceland;
 - nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and EEA Member States;

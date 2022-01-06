@@ -1,4 +1,4 @@
-Published 30.12.2021
+Published 06.01.2022
 1. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before arrival. The certificate must have a QR code or be approved by the authorities in the country of departure; and be uploaded at <a href="https://covid19.emushrif.om/">https://covid19.emushrif.om/</a> .
 - This does not apply to
 - nationals of Oman;
@@ -9,9 +9,9 @@ Published 30.12.2021
 The test must have a QR code or be approved by the authorities in the country of departure; and
 - be uploaded at <a href="https://covid19.emushrif.om/">https://covid19.emushrif.om/</a>
 - This does not apply to:
-- nationals of Oman and United Arab Emirates;
+- nationals of Oman and United Arab Emirates arriving from United Arab Emirates;
 - passengers younger than 18 years.
-3. Nationals of Oman and United Arab Emirates must have a negative COVID-19 PCR test taken at most 14 days before arrival. The test must have a QR code or be approved by the authorities in the country of departure and be uploaded at <a href="https://covid19.emushrif.om/">https://covid19.emushrif.om/</a>
+3. Nationals of Oman and United Arab Emirates arriving from United Arab Emirates must have a negative COVID-19 PCR test taken at most 14 days before arrival. The test must have a QR code or be approved by the authorities in the country of departure and be uploaded at <a href="https://covid19.emushrif.om/">https://covid19.emushrif.om/</a>
 - This does not apply to passengers younger than 18 years.
 4. Passengers must register at <a href="https://covid19.emushrif.om/">https://covid19.emushrif.om/</a> before departure.
 - This does not apply to passengers with a diplomatic passport traveling on duty
