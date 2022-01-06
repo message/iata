@@ -1,4 +1,4 @@
-Published 04.01.2022
+Published 06.01.2022
 1. Passengers are not allowed to enter if arriving from or if in the past 14 days they have been in, or transited through, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe.
 This does not apply to:
 - nationals and residents of Cyprus;
@@ -16,7 +16,7 @@ This does not apply to:
 - passengers who recovered from COVID-19 with an EU Digital Covid Certificate (EU DCC) showing that they received at least one dose of a COVID-19 vaccine;
 - passengers arriving from Botswana, Eswatini, Lesotho, Mozambique, Malawi, Namibia, South Africa or Zimbabwe.
 4. Passengers must complete their application for a Cyprus Flight Pass at most 48 hours before the departure at <a href="https://www.cyprusflightpass.gov.cy/">https://www.cyprusflightpass.gov.cy</a> .
-5. Passengers must have a negative COVID-19 PCR test taken at most 48 hours before departure.
+5. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure.
 - This does not apply to passengers younger than 12 years.
 6. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense.
 - This does not apply to passengers younger than 12 years.
