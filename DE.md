@@ -1,4 +1,4 @@
-Published 06.01.2022
+Published 07.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Germany;
@@ -10,7 +10,8 @@ Published 06.01.2022
 - passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;
 - British nationals with a residence permit issued by Germany before 31 December 2020;
 - passengers with a long term "D" visa issued by an EEA Member State or Switzerland;
-- residents of Argentina, Australia, Bahrain, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates and Uruguay. They must have been living in the residence country in the past 6 months;
+- residents of Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Korea (Rep.), Macao (SAR China), New Zealand, Peru and Saudi Arabia. They must have been living in the residence country in the past 6 months;
+- until 8 January 2022, residents of Argentina, Australia, Bahrain, Kuwait, Qatar, Rwanda, United Arab Emirates and Uruguay. They must have been living in the residence country in the past 6 months;
 - military personnel;
 - merchant seamen;
 - students;
