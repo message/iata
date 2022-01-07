@@ -1,4 +1,4 @@
-Published 06.01.2022
+Published 07.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -30,39 +30,31 @@ Published 06.01.2022
 - passengers who are members of the New Zealand Defence Force with operating orders;
 - nationals of Afghanistan arriving in New Zealand on or before 12 December 2022;
 - refugees with a visa issued by New Zealand.
-8. Until 6 January 2022, passengers must have a negative COVID-19 test taken at most 72 hours before departure from the first international embarkation point. Tests accepted are: antigen, LAMP, NAAT, PCR, RT-PCR and TMA tests. More details can be found at <a href="https://tinyurl.com/39tsn56h">https://tinyurl.com/39tsn56h</a>
-- This does not apply to:
-- passengers arriving from Antarctica, Australia, Cook Isl., Fiji, Kiribati, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Niue, Palau, Samoa, Solomon Isl., Tonga, Tuvalu or Vanuatu;
-- passengers younger than 2 years;
-- passengers with a medical certificate specifying that the passenger cannot take a test due to medical reasons and does not have COVID-19 symptoms. The certificate must be issued at most 72 hours before departure from the first embarkation point;
-- passengers with a diplomatic or consular visa;
-- passengers who are members of the New Zealand Defence Force;
-- passengers arriving from Albania, Belize, Dominica, Kenya, Lao People's Dem. Rep., Montenegro, Myanmar, Slovenia, St. Kitts and Nevis, St. Vincent and the Grenadines, Tajikistan or Turkmenistan. They must have a medical certificate issued at most 72 hours before departure from the first embarkation point and it must confirm that they have no COVID-19 symptoms.
-9. Until 6 January 2022, passengers arriving from Australia must have a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first international embarkation point.
-- This does not apply to passengers younger than 2 years.
-10. Effective 7 January 2022, passengers must have a negative COVID-19 PCR or RT-PCR test taken at most 48 hours before departure from the first international embarkation point.
+8. Passengers must have a negative COVID-19 PCR or RT-PCR test taken at most 48 hours before departure from the first international embarkation point.
 - This does not apply to:
 - passengers arriving from Antarctica, Cook Isl., Fiji, Kiribati, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Niue, Palau, Samoa, Solomon Isl., Tonga, Tuvalu or Vanuatu;
 - passengers younger than 2 years;
 - passengers with a medical certificate specifying that the passenger cannot take a test due to medical reasons and does not have COVID-19 symptoms. The certificate must be issued at most 48 hours before departure from the first embarkation point;
+- passengers with a positive COVID-19 test taken at most 48 hours before departure from the first embarkation point and a medical certificate showing that they are not contagious;
 - passengers arriving from Albania, Belize, Dominica, Kenya, Lao People's Dem. Rep., Montenegro, Myanmar, Slovenia, St. Kitts and Nevis, St. Vincent and the Grenadines, Tajikistan or Turkmenistan. They must have a medical certificate issued at most 48 hours before departure from the first embarkation point and it must confirm that they have no COVID-19 symptoms;
 - passengers arriving from Algeria, Andorra, Angola, Antigua and Barbuda, Armenia, Australia, Bahrain, Bangladesh, Barbados, Belarus, Benin, Bhutan, Bolivia, Brunei Darussalam, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Central African Rep., Chad, Chile, China (People's Rep.), Colombia, Comoros, Congo, Congo (Dem. Rep.), Costa Rica, Cote d'Ivoire, Croatia, Cuba, Cyprus, Czechia, Dominican Rep., Ecuador, El Salvador, Equatorial Guinea, Eritrea, France, Gabon, Gambia, Grenada, Guatemala, Guinea, Guinea-Bissau, Haiti, Honduras, Hong Kong (SAR China), Hungary, Indonesia, Iran, Iraq, Jamaica, Kazakhstan, Korea (Dem. People's Rep.), Kuwait, Kyrgyzstan, Lesotho, Liberia, Libya, Liechtenstein, Luxembourg, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Mauritania, Moldova (Rep.), Mongolia, Morocco, Nepal, Nicaragua, Niger, North Macedonia (Rep.), Oman, Pakistan, Peru, Portugal, Qatar, San Marino, Sao Tome and Principe, Sierra Leone, Somalia, Spain, Sri Lanka, Sudan, Suriname, Syria, Togo, Tunisia, Uzbekistan, Wallis and Futuna Isl., Yemen or Zambia.
-11. Effective 7 January 2022, passengers arriving from Algeria, Andorra, Angola, Antigua and Barbuda, Armenia, Australia, Bahrain, Bangladesh, Barbados, Belarus, Benin, Bhutan, Bolivia, Brunei Darussalam, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Central African Rep., Chad, Chile, China (People's Rep.), Colombia, Comoros, Congo, Congo (Dem. Rep.), Costa Rica, Cote d'Ivoire, Croatia, Cuba, Cyprus, Czechia, Dominican Rep., Ecuador, El Salvador, Equatorial Guinea, Eritrea, France, Gabon, Gambia, Grenada, Guatemala, Guinea, Guinea-Bissau, Haiti, Honduras, Hong Kong (SAR China), Hungary, Indonesia, Iran, Iraq, Jamaica, Kazakhstan, Korea (Dem. People's Rep.), Kuwait, Kyrgyzstan, Lesotho, Liberia, Libya, Liechtenstein, Luxembourg, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Mauritania, Moldova (Rep.), Mongolia, Morocco, Nepal, Nicaragua, Niger, North Macedonia (Rep.), Oman, Pakistan, Peru, Portugal, Qatar, San Marino, Sao Tome and Principe, Sierra Leone, Somalia, Spain, Sri Lanka, Sudan, Suriname, Syria, Togo, Tunisia, Uzbekistan, Wallis and Futuna Isl., Yemen or Zambia must have:
+9. Passengers arriving from Algeria, Andorra, Angola, Antigua and Barbuda, Armenia, Australia, Bahrain, Bangladesh, Barbados, Belarus, Benin, Bhutan, Bolivia, Brunei Darussalam, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Central African Rep., Chad, Chile, China (People's Rep.), Colombia, Comoros, Congo, Congo (Dem. Rep.), Costa Rica, Cote d'Ivoire, Croatia, Cuba, Cyprus, Czechia, Dominican Rep., Ecuador, El Salvador, Equatorial Guinea, Eritrea, France, Gabon, Gambia, Grenada, Guatemala, Guinea, Guinea-Bissau, Haiti, Honduras, Hong Kong (SAR China), Hungary, Indonesia, Iran, Iraq, Jamaica, Kazakhstan, Korea (Dem. People's Rep.), Kuwait, Kyrgyzstan, Lesotho, Liberia, Libya, Liechtenstein, Luxembourg, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Mauritania, Moldova (Rep.), Mongolia, Morocco, Nepal, Nicaragua, Niger, North Macedonia (Rep.), Oman, Pakistan, Peru, Portugal, Qatar, San Marino, Sao Tome and Principe, Sierra Leone, Somalia, Spain, Sri Lanka, Sudan, Suriname, Syria, Togo, Tunisia, Uzbekistan, Wallis and Futuna Isl., Yemen or Zambia must have:
 - a negative COVID-19 PCR or RT-PCR test taken at most 48 hours before departure from the first international embarkation point; or
 - a negative COVID-19 antigen or LAMP test taken at most 24 hours before departure from the first international embarkation point.
 - This does not apply to:
 - passengers younger than 2 years;
-- passengers with a medical certificate specifying that the passenger cannot take a test due to medical reasons and does not have COVID-19 symptoms. The certificate must be issued at most 48 hours before departure from the first embarkation point.
-12. Passengers must have a voucher confirming their allocation to a place in managed isolation. The voucher can be obtained at <a href="https://allocation.miq.govt.nz/portal/">https://allocation.miq.govt.nz/portal/</a>
+- passengers with a medical certificate specifying that the passenger cannot take a test due to medical reasons and does not have COVID-19 symptoms. The certificate must be issued at most 48 hours before departure from the first embarkation point;
+- passengers with a positive COVID-19 test taken at most 48 hours before departure from the first embarkation point and a medical certificate showing that they are not contagious.
+10. Passengers must have a voucher confirming their allocation to a place in managed isolation. The voucher can be obtained at <a href="https://allocation.miq.govt.nz/portal/">https://allocation.miq.govt.nz/portal/</a>
 - This does not apply to:
 - passengers arriving from Cook Isl. if they in the past 14 days have only been in Cook Isl. or New Zealand;
 - passengers arriving from Niue if they in the past 14 days have only been in New Zealand or Niue;
 - passengers arriving from Samoa if they in the past 14 days have only been in New Zealand or Samoa;
 - passengers arriving from Tonga if they in the past 14 days have only been in New Zealand or Tonga;
 - passengers arriving from Vanuatu if they in the past 14 days have only been in New Zealand or Vanuatu.
-13. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz/">https://border.covid19.govt.nz</a>
-14. Passengers could be subject to medical screening and quarantine for 14 days.
-15. Airline crew not residing in Australia or New Zealand must have:
+11. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz/">https://border.covid19.govt.nz</a>
+12. Passengers could be subject to medical screening and quarantine for 14 days.
+13. Airline crew not residing in Australia or New Zealand must have:
 - a negative COVID-19 test result. Tests accepted are: antigen, LAMP, NAAT, PCR, RT-PCR and TMA tests. The test must have been taken at most 7 days before arrival; or
 - a medical certificate issued at most 7 days before arrival. The certificate must confirm that they have no COVID-19 symptoms and they cannot take a COVID-19 test due to particular needs; or
 - a medical certificate specifying that they do not have COVID-19 symptoms and are not contagious, if they were tested positive at most 7 days before arrival.

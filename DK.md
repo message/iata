@@ -1,4 +1,4 @@
-Published 28.12.2021
+Published 07.01.2022
 1. Passengers must have:
 - a COVID-19 PCR test taken at most 72 hours before arrival; or
 - a COIVD-19 antigen test taken at most 48 hours before arrival.
@@ -27,13 +27,13 @@ Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNT
 - passengers traveling to Greenland with a vaccination certificate showing that they were fully vaccinated. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty).
 4. Passengers traveling to Greenland must have a COVID-19 vaccination certificate showing that they were fully vaccinated. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech (Comirnaty).
 - This does not apply to:
-- passengers younger than 15 years;
 - residents of Greenland;
-- passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 180 days before departure.
+- passengers who are 11 years or younger;
+- passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 weeks before departure.
 5. Passengers traveling to Greenland must have a negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to Greenland. The test must be taken in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom.
 - This does not apply to:
 - passengers younger than 2 years;
-- passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 180 days before departure.
+- passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 weeks before departure.
 6. Passengers traveling to Greenland could be subject to a COVID-19 test upon arrival. Details can be found at <a href="https://visitgreenland.com/corona-faq/">https://visitgreenland.com/corona-faq/</a>
 7. Passengers traveling to Faroe Isl. are subject to a COVID-19 test upon arrival.
 - This does not apply to passengers younger than 12 years.
