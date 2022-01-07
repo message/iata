@@ -1,11 +1,10 @@
-Published 31.12.2021
+Published 07.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to passengers with a completed Travel Certificate obtained at <a href="https://demarches.gouv.nc/demande-entree-nc#no-back">https://demarches.gouv.nc/demande-entree-nc#no-back</a>
 2. Passengers must have a COVID-19 vaccination certificate showing that:
 - they were vaccinated with Janssen at least 28 days before arrival; or
 - they were fully vaccinated at least 7 days before arrival with AstraZeneca (Vaxzevria), Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty).
 - This does not apply to:
-- passengers with a proof of previous COVID-19 infection and a COVID-19 vaccination certificate showing that they received one dose at least 7 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty);
 - passengers younger than 18 years;
 - passengers with a medical certificate of contraindication.
 3. Passengers must have a negative COVID-19 antigen or RT-PCR test taken at most 24 hours before departure from the first embarkation point.

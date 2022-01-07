@@ -1,4 +1,4 @@
-Published 21.12.2021
+Published 07.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates;
@@ -11,7 +11,7 @@ Published 21.12.2021
 - a COVID-19 vaccination certificate with a QR code; or
 - a COVID-19 vaccination certificate issued in Cyprus, Greece, Hungary, Israel, Jordan Kuwait, Oman, Saudi Arabia, Seychelles or United Arab Emirates.
 Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
-2. Passengers must have a negative COVID-19 PCR test taken at most 48 hours before departure. The test result must have a QR code.
+2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must have a QR code.
 - This does not apply to passengers younger than 6 years.
 3. Passengers are subject to a COVID-19 PCR test upon arrival.
 - This does not apply to passengers younger than 6 years.
