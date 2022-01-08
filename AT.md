@@ -1,5 +1,5 @@
-Published 30.12.2021
-1. Until 9 January 2022, flights from Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia and Zimbabwe are suspended.
+Published 07.01.2022
+1. Flights from Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia and Zimbabwe are suspended.
 - This does not apply to humanitarian, medevac and repatriation flights.
 2. Passengers arriving from or who have been in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe in the past 10 days are not allowed to enter.
 - This does not apply to:
