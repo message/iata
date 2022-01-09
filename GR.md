@@ -1,5 +1,5 @@
-Published 21.12.2021
-1. Until 10 January 2022, passengers are not allowed to enter.
+Published 09.01.2022
+1. Until 24 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
 - British nationals and residents of the United Kingdom;

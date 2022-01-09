@@ -1,4 +1,4 @@
-Published 05.01.2022
+Published 09.01.2022
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to:
 - nationals of Singapore;
@@ -50,7 +50,7 @@ More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs-
 - This does not apply to:
 - passengers younger than 3 years;
 - merchant seamen;
-- effective 8 January 2022, passengers not travelling under the Vaccinated Travel Lane (VTL), Reciprocal Green Lane (RGL), Business Travel Pass (BTP) and Overseas Singaporeans Vaccination Program, and who have travel history to countries/regions classified as Category II, Category III or Category IV in <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>
+- passengers not travelling under the Vaccinated Travel Lane (VTL), Reciprocal Green Lane (RGL), Business Travel Pass (BTP) and Overseas Singaporeans Vaccination Program, and who have travel history to countries/regions classified as Category II, Category III or Category IV in <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>
 6. Passengers must submit a health declaration before arrival via the SG Arrival Card (SGAC) e-Service (<a href="https://eservices.ica.gov.sg/sgarrivalcard">https://eservices.ica.gov.sg/sgarrivalcard</a>) or via the mobile application.
 - This does not apply to passengers in transit.
 7. Passengers with a Work Pass, Long-Term Visit Pass (LTVP), Dependant's Pass, or the respective In-Principle Approval (IPA), a Student's Pass (STP) or a Student's Pass In-Principle Approval (STP IPA), must have:

@@ -1,11 +1,13 @@
-Published 07.01.2022
+Published 09.01.2022
 1. Passengers must have:
-- a COVID-19 PCR test taken at most 72 hours before arrival; or
-- a COIVD-19 antigen test taken at most 48 hours before arrival.
+- a negative COVID-19 PCR test taken at most 72 hours before arrival; or
+- a negative COVID-19 antigen test taken at most 48 hours before arrival.
 - This does not apply to:
 - passengers youngers than 15 years;
 - passengers residing in Denmark;
-- passengers with a positive COVID-19 PCR test taken at least 15 days and at most 179 days before arrival.
+- passengers with a positive COVID-19 PCR test taken at least 15 days and at most 179 days before arrival;
+- passengers residing in Slesvig-Holstein in Germany;
+- passengers residing in Blekinge, Hallands, Skane or Vastra Gotalands in Sweden.
 2. Passengers are subject to a COVID-19 test upon arrival.
 - This does not apply to:
 - passengers younger than 16 years;
