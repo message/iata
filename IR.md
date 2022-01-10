@@ -1,9 +1,9 @@
-Published 26.12.2021
+Published 10.01.2022
 1. Passengers arriving from or who have transited through Botswana, Denmark, Eswatini, France, Lesotho, Malawi, Mozambique, Namibia, Norway, South Africa, United Kingdom and Zimbabwe in the past 14 days are not allowed to enter.
 - This does not apply to nationals and residents of Iran.
 2. Passengers entering or transiting through Iran, must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English or approved by an Iranian consulate.
 - This does not apply to passengers 12 years and younger.
-3. Passengers must have a COVID-19 vaccination certificate in English, showing that they were fully vaccinated at least 14 days before arrival.
+3. Passengers must have a COVID-19 vaccination certificate in English, showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 - This does not apply to:
 - nationals of Iran;
 - passengers 12 years and younger.

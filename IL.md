@@ -1,4 +1,4 @@
-Published 07.01.2022
+Published 10.01.2022
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Israel;
@@ -6,7 +6,7 @@ Published 07.01.2022
 - passengers with an A1, A2, A3, A4, A5 visa;
 - passengers with a B1, B3 or B4 visa;
 - passengers with a diplomatic passport;
-- effective 9 January 2022, passengers with a COVID-19 vaccination certificate showing that were fully vaccinated at least 15 days (day of vaccination + 14 days) and at most 180 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
+- passengers with a COVID-19 vaccination certificate showing that were fully vaccinated at least 15 days (day of vaccination + 14 days) and at most 180 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 2. Passengers with an A1, A2, A3, A4, A5, B1, B3 or B4 visa must have a COVID-19 vaccination certificate showing that were fully vaccinated at least 15 days (day of vaccination + 14 days) and at most 180 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 3. Passengers must complete an "Entry Statement" at most 48 hours before departure of the last direct flight to Israel at <a href="https://www.gov.il/en/service/request-entry-to-israel-covid19">https://www.gov.il/en/service/request-entry-to-israel-covid19</a> . They will receive an electronic approval from the Ministry of Health. They will receive an electronic approval from the Ministry of Health and a Green Pass which must be presented before boarding.
 4. Passengers and airline crew who have been outside Israel for more than 72 hours entering or transiting through Israel must have:
@@ -19,7 +19,7 @@ The test result must be in English and indicate the passenger passport number.
 5. Passengers must have health insurance to cover COVID-19 expenses.
 - This does not apply to nationals and residents of Israel.
 6. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense. Payment of ILS 100,- can be made upon arrival. Or ILS 80,- in advance at <a href="https://www.gov.il/en/service/request-entry-to-israel-covid19">https://www.gov.il/en/service/request-entry-to-israel-covid19</a>
-7. Effective 9 January 2022, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with Sputnik V at least 15 days (day of vaccination + 14 days) and at most 180 days before arrival, are subject to a COVID-19 serological test upon arrival.
+7. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with Sputnik V at least 15 days (day of vaccination + 14 days) and at most 180 days before arrival, are subject to a COVID-19 serological test upon arrival.
 8. Airline crew are subject to a COVID-19 PCR test upon arrival.
 - This does not apply to airline crew with any type of negative COVID-19 PCR test taken at most 7 days before arrival.
 9. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://tinyurl.com/h8hxy4w7">https://tinyurl.com/h8hxy4w7</a> and <a href="https://tinyurl.com/4tbzd4rx">https://tinyurl.com/4tbzd4rx</a>
