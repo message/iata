@@ -1,4 +1,4 @@
-Published 04.01.2022
+Published 10.01.2022
 1. Nationals of Israel are not allowed to enter and transit.
 2. Passengers are not allowed to enter.
 This does not apply to:
@@ -21,8 +21,10 @@ This does not apply to:
 - This does not apply to passengers younger than 6 years.
 6. Passengers are subject to medical screening.
 7. Passengers should install "Shlonik" and "Kuwait-Mosafer" applications on their personal device.
+- Installing the “Kuwait-Mosafer" application does not apply to military personnel.
 8. Suspension of visa on arrival facilities.
 9. Passengers must register online before departure at <a href="https://kuwaitmosafer.gov.kw/home.html">https://kuwaitmosafer.gov.kw/home.html</a>
+- This does not apply to military personnel.
 10. Passengers are subject to 2 PCR tests at their own expense upon arrival. They must have a payment confirmation obtained at <a href="https://kuwaitmosafer.gov.kw/home.html">https://kuwaitmosafer.gov.kw/home.html</a> before departure.
 - This does not apply to:
 - nationals of Kuwait;
