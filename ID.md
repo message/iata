@@ -1,5 +1,5 @@
-Published 06.01.2022
-1. Passengers who in the past 14 days have been in Angola, Botswana, Denmark, Eswatini, France, Lesotho, Malawi, Mozambique, Namibia, Nigeria, Norway, South Africa, United Kingdom, Zambia or Zimbabwe are not allowed to enter.
+Published 10.01.2022
+1. Passengers who in the past 14 days have been in Angola, Botswana, Denmark, Eswatini, France, Lesotho, Malawi, Mozambique, Namibia, Norway, South Africa, United Kingdom, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
 - participants of the G20 event with a diplomatic assignment letter issued by their government and invitation letter from the Ministry of Indonesia.
@@ -13,7 +13,6 @@ Published 06.01.2022
 - passengers with an APEC Business Travel Card;
 - passengers traveling under the Travel Corridor Arrangement (TCA);
 - participants of the G20 event with a diplomatic assignment letter issued by their government and invitation letter from the Ministry of Indonesia;
-- passengers who in the past 14 days have been in Angola, Botswana, Denmark, Eswatini, France, Lesotho, Malawi, Mozambique, Namibia, Nigeria, Norway, South Africa, United Kingdom, Zambia or Zimbabwe;
 - nationals of Bahrain, China (People's Rep.), France, Hungary, India, Italy, Japan, Korea (Rep.), Kuwait, Liechtenstein, New Zealand, Norway, Poland, Portugal, Qatar, Saudi Arabia, Spain, Sweden and United Arab Emirates arriving at Denpasar-Bali (DPS) or Batam (BTH) as tourists from their country of nationality. They must have:
 - a confirmed booking of accommodation; and
 - an e-visit tourist visa with a visa number ending with LN; and
