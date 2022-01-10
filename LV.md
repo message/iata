@@ -1,4 +1,4 @@
-Published 27.12.2021
+Published 10.01.2022
 1. Passengers who in the past 10 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter.
 - This does not apply to nationals and residents of Latvia.
 2. Passengers are not allowed to enter.
@@ -6,7 +6,7 @@ Published 27.12.2021
 - nationals and residents of Latvia;
 - family members of nationals and of residents of Latvia;
 - passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
-- passengers arriving from Argentina, Australia, Bahrain, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates, United Kingdom or Uruguay;
+- passengers arriving from Argentina, Australia, Bahrain, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates, United Kingdom or Uruguay;
 - passengers who reside in Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
 - passengers with a diplomatic passport traveling on duty and their family members;
 - merchant seamen.
@@ -22,8 +22,8 @@ Published 27.12.2021
 - passengers with a diplomatic passport traveling on duty and their family members;
 - merchant seamen;
 - passengers who in the past 10 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe.
-- passengers arriving from Belgium, Denmark, Germany, Ireland (Rep.), Norway, Russian Fed., Sweden or United Kingdom.
-4. Passengers arriving from Belgium, Denmark, Germany, Ireland (Rep.), Norway, Russian Fed., Sweden or United Kingdom must have:
+- until 11 January 2022, passengers arriving from Belgium, Denmark, Germany, Ireland (Rep.), Norway, Russian Fed., Sweden or United Kingdom.
+4. Until 11 January 2022, passengers arriving from Belgium, Denmark, Germany, Ireland (Rep.), Norway, Russian Fed., Sweden or United Kingdom must have:
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the last embarkation point; or
 - a negative COVID-19 antigen test taken at most 48 hours before departure from the last embarkation point.
 5. Passengers who in the past 10 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before departure from the last embarkation point.
