@@ -1,4 +1,4 @@
-Published 30.12.2021
+Published 10.01.2022
 1. Until 31 January 2022, flights to India are suspended.
 - This does not apply to:
 - relief, repatriation and humanitarian flights;
@@ -21,8 +21,8 @@ This does not apply to:
 6. Passengers must complete the self-declaration form before departure. They must select ‘Air Suvidha' on the right top corner at <a href="http://www.newdelhiairport.in">www.newdelhiairport.in</a>
 7. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test must be uploaded at <a href="http://www.newdelhiairport.in">www.newdelhiairport.in</a>
 - This does not apply to passenger younger than 5 years.
-8. Passengers arriving from Austria, Belgium, Botswana, Brazil, Bulgaria, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Ghana, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritius, the Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Tanzania, the United Kingdom or Zimbabwe are subject to a COVID-19 antigen or RT-PCR test upon arrival at their own expense. Passengers traveling to Bangalore (BLR), Chennai (MAA), Delhi (DEL), Hyderabad (HYD), Kolkata (CCU) or Mumbai (BOM) must pre-pay for the test at <a href="http://www.newdelhiairport.in">www.newdelhiairport.in</a> at most 72 hours before departure.
+8. Passengers arriving from Austria, Belgium, Botswana, Brazil, Bulgaria, China (People's Rep.), Congo, Croatia, Cyprus, Czechia, Denmark, Estonia, Ethiopia, Finland, France, Germany, Ghana, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Kazakhstan, Kenya, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritius, Netherlands, New Zealand, Nigeria, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Tanzania, Tunisia, United Kingdom, Zambia or Zimbabwe are subject to a COVID-19 antigen or RT-PCR test upon arrival at their own expense. Passengers traveling to Bangalore (BLR), Chennai (MAA), Delhi (DEL), Hyderabad (HYD), Kolkata (CCU) or Mumbai (BOM) must pre-pay for the test at <a href="http://www.newdelhiairport.in">www.newdelhiairport.in</a> at most 72 hours before departure.
 - This does not apply to passengers younger than 5 years.
-9. Passengers could be subject to quarantine for up to 14 days. Details can be found at <a href="https://www.mohfw.gov.in/">https://www.mohfw.gov.in/</a>
-10. Passengers are subject to medical screening
+9. Passengers are subject to quarantine for 7 days.
+10. Passengers are subject to medical screening.
 11. Persons of Indian Origin (PIO) cards which have expired are considered valid until 31 December 2021.
