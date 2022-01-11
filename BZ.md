@@ -1,4 +1,4 @@
-Published 08.12.2021
+Published 11.01.2022
 1. Passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe:
 - must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; and
 - are subject to a COVID-19 test upon arrival; and
@@ -14,5 +14,7 @@ This does not apply to:
 - This does not apply to:
 - passengers visiting friends or relatives. Details can be found at <a href="https://www.travelbelize.org/health-safety">https://www.travelbelize.org/health-safety</a> ;
 - passengers arriving from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe.
-5. Passengers could be subject to quarantine.
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and a negative COVID-19 PCR or rapid antigen test.
+5. Passengers could be subject to quarantine for 10 days.
+- This does not apply to:
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and a negative COVID-19 PCR or rapid antigen test;
+- passengers with a COVID-19 recovery certificate issued at most 3 months before arrival.

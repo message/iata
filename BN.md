@@ -1,4 +1,4 @@
-Published 01.01.2022
+Published 11.01.2022
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and permanent residents of Brunei Darussalam;
@@ -13,10 +13,12 @@ Published 01.01.2022
 - have a return ticket or proof of other transportation arrangements to depart from Brunei Darussalam.
 More details can be found at <a href="http://www.pmo.gov.bn/travelportal/Home.aspx">http://www.pmo.gov.bn/travelportal/Home.aspx</a> and <a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-brunei">https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-brunei</a>
 2. Passengers must have a negative COVID-19 RT-PCR test taken at most 48 hours before departure.
-3. Passengers are subject to a COVID-19 rapid antigen test upon arrival at their own expense. The payment must be done on <a href="https://www.healthinfo.gov.bn/entrypayment/#/user/login">https://www.healthinfo.gov.bn/entrypayment/#/user/login</a>
+3. Passengers are subject to a COVID-19 rapid antigen and RT-PCR test upon arrival at their own expense. The payment must be done on <a href="https://www.healthinfo.gov.bn/entrypayment/#/user/login">https://www.healthinfo.gov.bn/entrypayment/#/user/login</a>
 4. Passengers must download and register on the "BruHealth App" before departure.
 5. Passengers must submit an "Arrival Declaration" form on the Travel Portal. The form must be completed online on <a href="http://www.pmo.gov.bn/travelportal">www.pmo.gov.bn/travelportal</a> at most 24 hours before departure.
 6. Passengers must have Travel Health insurance to cover COVID-19 expenses (minimum coverage of $50,000BND).
-- This does not apply to nationals and permanent residents of Brunei Darussalam.
+- This does not apply to:
+- nationals and permanent residents of Brunei Darussalam;
+- passengers staying in Brunei Darussalam for more than 90 days.
 7. Passengers are subject to quarantine in designated hotels.
 8. More details can be found at <a href="http://www.pmo.gov.bn/travelportal/Home.aspx">http://www.pmo.gov.bn/travelportal/Home.aspx</a>
