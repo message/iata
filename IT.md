@@ -1,4 +1,4 @@
-Published 24.12.2021
+Published 11.01.2022
 1. Until 31 January 2022, flights from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
 2. Until 31 January 2022, passengers are not allowed to enter.
 - This does not apply to:
@@ -14,9 +14,9 @@ Published 24.12.2021
 3. Until 31 January 2022, passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe, are not allowed to enter and transit.
 - This does not apply to nationals of Italy residing in Italy since before 26 November 2021.
 4. Passengers must complete a Digital Passenger Locator Form at <a href="https://app.euplf.eu/">https://app.euplf.eu/</a>
-5. Passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe, must have a negative COVID-19 molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish; and
+5. Passengers entering or transiting through Italy who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe, must have a negative COVID-19 molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish; and
 - are subject to a COVID-19 antigen or molecular test upon arrival and self-isolation for 10 days.
-6. Passengers must have:
+6. Passengers entering or transiting through Italy must have:
 - a negative COVID-19 molecular test taken at most 72 hours before arrival; or
 - a negative COVID-19 antigen test taken at most 24 hours before arrival.
 The test result must be in English, French, Italian or Spanish.
@@ -26,7 +26,7 @@ The test result must be in English, French, Italian or Spanish.
 - military personnel;
 - passengers younger than 6 years;
 - more exemptions can be found at <a href="https://tinyurl.com/xwwuut4a">https://tinyurl.com/xwwuut4a</a> .
-7. Passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies (only Guadeloupe and Martinique), Germany, Gibraltar, Greece, Hungary, Iceland, Ireland (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom must have:
+7. Passengers entering or transiting through Italy from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies (only Guadeloupe and Martinique), Germany, Gibraltar, Greece, Hungary, Iceland, Ireland (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom must have:
 - a negative COVID-19 molecular test taken at most 48 hours before arrival; or
 - a negative COVID-19 antigen test taken at most 24 hours before arrival.
 The test result must be in English, French, Italian or Spanish.
