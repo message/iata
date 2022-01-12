@@ -1,4 +1,4 @@
-Published 11.01.2022
+Published 12.01.2022
 1. Nationals of Israel are not allowed to enter and transit.
 2. Passengers are not allowed to enter.
 This does not apply to:
@@ -20,7 +20,11 @@ This does not apply to:
 - This does not apply to nationals of Kuwait. They are subject to hotel quarantine for up to 7 days.
 4. Flights from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, Zambia and Zimbabwe are suspended.
 5. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure.
-- This does not apply to passengers younger than 6 years.
+- This does not apply to:
+- passengers younger than 6 years;
+- passengers with a positive COVID-19 PCR test taken at least 7 days and at most 28 days before arrival and a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTec (Comirnaty);
+- passengers with a positive COVID-19 PCR test taken at least 7 days and at most 28 days before arrival and a COVID-19 vaccination certificate showing that they were fully vaccinated with Sinopharm, Sinovac or Sputnik V and that they also received one vaccine dose of AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTec (Comirnaty);
+- passengers with a positive COVID-19 PCR test taken at least 10 days and at most 28 days before arrival.
 6. Passengers are subject to medical screening.
 7. Passengers should install "Shlonik" application on their personal device.
 8. Suspension of visa on arrival facilities.

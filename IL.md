@@ -1,4 +1,4 @@
-Published 10.01.2022
+Published 12.01.2022
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Israel;
@@ -6,7 +6,8 @@ Published 10.01.2022
 - passengers with an A1, A2, A3, A4, A5 visa;
 - passengers with a B1, B3 or B4 visa;
 - passengers with a diplomatic passport;
-- passengers with a COVID-19 vaccination certificate showing that were fully vaccinated at least 15 days (day of vaccination + 14 days) and at most 180 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
+- passengers with a COVID-19 vaccination certificate showing that were fully vaccinated at least 15 days (day of vaccination + 14 days) and at most 180 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V;
+- passengers with a positive COVID-19 PCR test taken at least 11 days and at most 190 days before arrival, and a COVID-19 vaccination certificate showing that they received one vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V.
 2. Passengers with an A1, A2, A3, A4, A5, B1, B3 or B4 visa must have a COVID-19 vaccination certificate showing that were fully vaccinated at least 15 days (day of vaccination + 14 days) and at most 180 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 3. Passengers must complete an "Entry Statement" at most 48 hours before departure of the last direct flight to Israel at <a href="https://www.gov.il/en/service/request-entry-to-israel-covid19">https://www.gov.il/en/service/request-entry-to-israel-covid19</a> . They will receive an electronic approval from the Ministry of Health. They will receive an electronic approval from the Ministry of Health and a Green Pass which must be presented before boarding.
 4. Passengers and airline crew who have been outside Israel for more than 72 hours entering or transiting through Israel must have:
