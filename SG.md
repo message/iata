@@ -1,4 +1,4 @@
-Published 11.01.2022
+Published 12.01.2022
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
@@ -33,6 +33,10 @@ Published 11.01.2022
 - This does not apply to passengers between 3 and 12 years, if they:
 - in the past 14 days have only been in, or transited through China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Macao (SAR China), Singapore or a VTL country/region; and
 - have a medical certificate with a negative Coronavirus (COVID-19) PCR or rapid antigen test taken at most 2 days before departure from the first embarkation point; and
+- have a visa to enter Singapore (if they are a visa-required short-term visitor); and
+- arrive in Singapore on a designated VTL flight.
+- This does not apply to passengers younger than 3 years, if they:
+- in the past 14 days have only been in, or transited through China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Macao (SAR China), Singapore or a VTL country/region; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor); and
 - arrive in Singapore on a designated VTL flight.
 2. Passengers entering and transiting through Singapore must have a negative COVID-19 test taken at most 2 days before the day of departure from the first embarkation point. If passengers have transited for more than 24 hours before arriving in Singapore, the negative test must be taken at most 2 days before the day of departure of the last direct flight to Singapore. Passengers entering or transiting through Singapore from Category II or Category III countries/regions (<a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>) could be subject to presenting a negative COVID-19 PCR test or professionally-administered ART result. Passengers entering or transiting through Singapore from Category IV countries/regions (<a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>) must present a negative COVID-19 PCR test result. The test result must:
