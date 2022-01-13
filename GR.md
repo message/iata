@@ -1,4 +1,4 @@
-Published 10.01.2022
+Published 13.01.2022
 1. Until 24 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
@@ -22,4 +22,4 @@ All documents must be in English, French, German, Greek, Italian, Spanish or Rus
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
 - passengers with a COVID-19 recovery certificate.
 5. Passengers arriving from a country other than Albania, Argentina, Brazil, Bulgaria, Chile, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Mexico, Morocco, North Macedonia (Rep.), Oman, Pakistan, Russian Fed., Turkey, United Arab Emirates or Uruguay could be subject to a COVID-19 rapid test upon arrival.
-6. Passengers could be subject to self-isolation for up to 10 days. Details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
+6. Passengers could be subject to quarantine for 5 days. Details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
