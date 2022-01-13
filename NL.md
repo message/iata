@@ -1,4 +1,4 @@
-Published 23.12.2021
+Published 13.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of the Netherlands;
@@ -15,7 +15,7 @@ Published 23.12.2021
 - partners with a completed 'Declaration of relationship for COVID-19 entry ban exemption' form, a return onward ticket and proof that they have been in a relationship for at least 3 months with a resident of the Netherlands who is a national of an EEA Member State or Switzerland. As well as accompanying children of the partner who are younger than 18 years. More details can be found at <a href="https://tinyurl.com/25s9p98h">https://tinyurl.com/25s9p98h</a> ;
 - passengers with a COVID-19 vaccination certificate showing that:
 - they were vaccinated with Janssen at least 28 days before arrival; or
-- they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.
+- they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.
 2. Passengers are not allowed to transit through the Netherlands to Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) as final destination.
 This does not apply to:
 - nationals and residents of the Netherlands;
@@ -33,7 +33,7 @@ This does not apply to:
 - military personnel;
 - passengers with a COVID-19 vaccination certificate showing that:
 - they were vaccinated with Janssen at least 28 days before arrival; or
-- they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.
+- they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.
 3. Passengers must have:
 - a negative COVID-19 test taken at most 48 hours before departure. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before boarding the flight of the first embarkation point.
@@ -46,10 +46,10 @@ Details can be found at <a href="https://tinyurl.com/59zy6bna">https://tinyurl.c
 - passengers with a COVID-19 recovery certificate issued at least 11 days and at most 180 days before departure if arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland with a COVID-19 vaccination certificate showing that:
 - they were vaccinated with Janssen at least 28 days before arrival; or
-- they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.
+- they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.
 4. A completed "Health Declaration Form" must be presented prior to boarding. The form can be found at <a href="https://tinyurl.com/ybtmdgja">https://tinyurl.com/ybtmdgja</a>
 - This does not apply to passengers younger than 13 years.
 5. Passengers could be subject to self-quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/3zvzaz3b">https://tinyurl.com/3zvzaz3b</a>
 - This does not apply to:
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. They must be arriving from a country other than Afghanistan, Anguilla, Armenia, Barbados, Belize, Botswana, Cayman Isl., Dominica, Eswatini, Georgia, Haiti, Jordan, Lesotho, Malawi, Mauritius, Montenegro, Mozambique, Namibia, Nigeria, Serbia, Somalia, South Africa, St. Kitts and Nevis, St. Vincent and the Grenadines, Trinidad and Tobago, United Kingdom, Venezuela or Zimbabwe;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. They must be arriving from a country other than Afghanistan, Anguilla, Armenia, Barbados, Belize, Botswana, Cayman Isl., Dominica, Eswatini, Georgia, Haiti, Jordan, Lesotho, Malawi, Mauritius, Montenegro, Mozambique, Namibia, Nigeria, Serbia, Somalia, South Africa, St. Kitts and Nevis, St. Vincent and the Grenadines, Trinidad and Tobago, United Kingdom, Venezuela or Zimbabwe;
 - passengers with a COVID-19 vaccination certificate showing that they were vaccinated with Janssen at least 28 days before arrival. They must be arriving from a country other than Afghanistan, Anguilla, Armenia, Barbados, Belize, Botswana, Cayman Isl., Dominica, Eswatini, Georgia, Haiti, Jordan, Lesotho, Malawi, Mauritius, Montenegro, Mozambique, Namibia, Nigeria, Serbia, Somalia, South Africa, St. Kitts and Nevis, St. Vincent and the Grenadines, Trinidad and Tobago, United Kingdom, Venezuela or Zimbabwe.

@@ -1,4 +1,4 @@
-Published 07.01.2022
+Published 13.01.2022
 1. Passengers arriving from or who have transited through Botswana, Egypt, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals of Ecuador;
@@ -7,7 +7,7 @@ Published 07.01.2022
 - This does not apply to:
 - passengers younger than 2 years;
 - passengers with a positive COVID-19 RT-PCR test result issued at least 1 month before departure and a medical certificate stating that they are not contagious;
-- until 16 January 2022, residents of Ecuador arriving from USA. They are subject to a COVID-19 RT-PCR upon arrival at their own expense and quarantine for 14 days.
+- until 23.59h 13 January 2022, residents of Ecuador arriving from USA. They are subject to a COVID-19 RT-PCR upon arrival at their own expense and quarantine for 14 days.
 3. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure.
 - This does not apply to:
 - nationals of Ecuador who left Ecuador before 1 December 2021 and are not fully vaccinated;

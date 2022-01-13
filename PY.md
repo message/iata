@@ -1,10 +1,10 @@
-Published 12.01.2022
+Published 13.01.2022
 1. Passengers must have a negative COVID-19 LAMP, NAAT or RT-PCR test taken at most 48 hours before boarding; or
 - a negative COVID-19 antigen test taken at most 24 hours before boarding.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with a positive COVID-19 test result issued at least 14 days and at most 90 days before arrival. Tests accepted are: antigen, LAMP, NAAT and RT-PCR;
-- passengers residing in Argentina, Bolivia, Brazil, Paraguay, Uruguay or Venezuela arriving from Argentina, Bolivia, Brazil, Uruguay or Venezuela.
+- nationals and residents of Argentina, Bolivia, Brazil, Paraguay and Uruguay arriving from Argentina, Bolivia, Brazil or Uruguay.
 2. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival.
 - This does not apply to:
 - nationals and residents of Paraguay;
