@@ -1,4 +1,4 @@
-Published 11.01.2022
+Published 13.01.2022
 1. Until 31 January 2022, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -11,51 +11,40 @@ Published 11.01.2022
 - residents of Hong Kong (SAR China) with an APEC Business Travel Card arriving from Hong Kong (SAR China);
 - students;
 - passengers transiting through Bangkok (BKK);
-- passengers traveling to Phuket (HKT) or Ko Samui (USM);
-- passengers with a Thailand Pass QR code obtained at <a href="https://tp.consular.go.th">https://tp.consular.go.th</a> .
-2. Passengers transiting through Thailand must have:
-- medical insurance with minimum coverage of USD 50,000; and
+- passengers traveling to Phuket (HKT) or Ko Samui (USM).
+2. Passengers must have a Thailand Pass QR code obtained at <a href="https://tp.consular.go.th">https://tp.consular.go.th</a>
+3. Passengers entering Thailand must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;
+- This does not apply to:
+- nationals of Thailand traveling under the Alternative Quarantine (AQ) scheme;
+- passengers younger than 6 years;
+- passengers with a positive COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point, and a COVID-19 recovery certificate issued at least 15 days and at most 3 months before arrival.
+4. Passengers entering Thailand must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure;
+- This does not apply to:
+- passengers traveling under the Alternative Quarantine (AQ) scheme;
+- passengers younger than 12 years;
+- passengers younger than 18 years traveling under the Sandbox program with their fully-vaccinated parents/guardians;
+- passengers between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;
+- passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.
+5. Passengers entering or transiting through Thailand must have medical insurance with minimum coverage of USD 50,000.
+- This does not apply to:
+- nationals of Thailand;
+- passengers transiting without disembarking the aircraft.
+6. Passengers traveling under the Test & Go scheme must:
+- arrive from, or in the past 21 days have only been in Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Malaysia, Maldives, Malta, Mongolia, Myanmar, Nepal, Netherlands, New Zealand, Norway, Oman, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Arab Emirates, United Kingdom or Viet Nam; and
+- have a hotel reservation for 1 night at AQ, OQ, or SHA+ hotel obtained at <a href="http://www.thailandsha.com">www.thailandsha.com</a> or <a href="https://asq.in.th">https://asq.in.th</a>
+7. Passengers traveling under the Sandbox Program scheme must:
+- arrive at Phuket (HKT) or Ko Samui (USM); and
+- have a hotel reservation for 7 nights at SHA+ hotel obtained at <a href="http://www.thailandsha.com">www.thailandsha.com</a> and proof of payment for COVID-19 tests. They are subject to quarantine for 7 days.
+8. Passengers traveling under the Alternative Quarantine (AQ) scheme must have proof of payment for COVID-19 tests; and
+- a hotel reservation at AQ, OQ or AHQ hotel obtained at <a href="http://www.thailandsha.com">www.thailandsha.com</a> and <a href="https://asq.in.th">https://asq.in.th</a>:
+- for 7 nights if they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure; or
+- for 10 nights if they are not fully vaccinated.
+9. Passengers transiting through Thailand must have:
 - a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.
-- This does not apply to passengers transiting without disembarking the aircraft.
-- The RT-PCR test requirement does not apply to passengers younger than 6 years.
-3. Passengers traveling under the Test & Go scheme must:
-a. arrive from or have been in Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Malaysia, Maldives, Malta, Mongolia, Myanmar, Nepal, Netherlands, New Zealand, Norway, Oman, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Arab Emirates, United Kingdom or Viet Nam in the past 21 days;
-b. have a Thailand Pass QR code obtained at <a href="https://tp.consular.go.th">https://tp.consular.go.th</a> ;
-c. have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure;
 - This does not apply to:
-- nationals of Thailand between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;
-- unvaccinated passengers younger than 12 years traveling with their fully-vaccinated parents/guardians;
-- passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.
-d. have a COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;
-- This does not apply to passengers younger than 6 years.
-e. medical insurance with minimum coverage of USD 50,000.
-- This does not apply to nationals of Thailand.
-f. have a hotel reservation for 1 night at AQ, OQ, or SHA+ hotel obtained at <a href="http://www.thailandsha.com">www.thailandsha.com</a> or <a href="https://asq.in.th">https://asq.in.th</a>
-4. Passengers traveling under the Sandbox Program scheme must:
-a. arrive at Phuket (HKT) or Ko Samui (USM);
-b. have a Thailand Pass QR code obtained at <a href="https://tp.consular.go.th">https://tp.consular.go.th</a> ;
-c. have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure;
-- This does not apply to:
-- passengers younger than 12 years;
-- passengers between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;
-- passengers younger than 18 years travelling with a fully vaccinated parent;
-- passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.
-d. have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;
-- This does not apply to passengers younger than 6 years;
-e. medical insurance with minimum coverage of USD 50,000.
-- This does not apply to nationals of Thailand.
-f. have a hotel reservation for 7 nights at SHA+ hotel obtained at <a href="http://www.thailandsha.com">www.thailandsha.com</a> and proof of payment for COVID-19 tests. They are subject to quarantine for 7 days.
-5. Passengers traveling under the Alternative Quarantine (AQ) scheme must have:
-a. a Thailand Pass QR code obtained at <a href="https://tp.consular.go.th">https://tp.consular.go.th</a> ;
-b. a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;
-- This does not apply to passengers younger than 6 years;
-- This does not apply to nationals of Thailand.
-c. medical insurance with minimum coverage of USD 50,000.
-- This does not apply to nationals of Thailand.
-d. a hotel reservation at AQ, OQ or AHQ hotel obtained at <a href="http://www.thailandsha.com/">www.thailandsha.com</a> and <a href="https://asq.in.th/">https://asq.in.th</a> and proof of payment for COVID-19 tests:
-For fully vaccinated passengers with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure, they must have a hotel reservation for 7 nights;
-For not fully vaccinated passengers, they must have a hotel reservation for 10 nights;
-For passengers who have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days, they must have a hotel reservation for 14 nights.
-6. Airline crew are subject to self-isolation until their next flight.
-7. Airline crew staying overnight must have a guarantee letter from the airline or health insurance certificate with a coverage cost of at least USD 50,000.
+- passengers transiting without disembarking the aircraft.
+- passengers younger than 6 years;
+- passengers younger than 12 years travelling with a fully vaccinated parent/guardian.
+10. Airline crew are subject to self-isolation until their next flight.
+11. Airline crew staying overnight must have a guarantee letter from the airline or health insurance certificate with a coverage cost of at least USD 50,000.

@@ -1,4 +1,4 @@
-Published 12.01.2022
+Published 13.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Latvia;
@@ -9,11 +9,15 @@ Published 12.01.2022
 - passengers with a diplomatic passport traveling on duty and their family members;
 - merchant seamen.
 2. Passengers must have:
-- a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days before arrival; or
+- until 31 January 2022, a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days before arrival; or
+- from 1 February 2022, a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days and at most 270 days before arrival; or
+- from 1 February 2022, a COVID-19 EU digital green vaccination certificate showing that they received a booster dose; or
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the last embarkation point; or
 - a negative COVID-19 antigen test taken at most 48 hours before departure from the last embarkation point; or
 - a COVID-19 EU digital green recovery certificate issued at least 11 days and at most 180 days before arrival; or
-- a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days before arrival; or
+- until 31 January 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days before arrival; or
+- from 1 February 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days and at most 270 days before arrival; or
+- from 1 February 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they received a booster dose; or
 - a COVID-19 recovery certificate issued in Australia, Canada, New Zealand, United Kingdom or USA issued at least 11 days and at most 180 days before arrival.
 - This does not apply to:
 - passengers younger than 12 years;
@@ -24,9 +28,13 @@ Published 12.01.2022
 - This does not apply to:
 - passengers younger than 12 years;
 - merchant seamen.
-5. Passengers could be subject to self-isolation for 10 days. More information is available in the latest “List of countries with 14-day COVID-19 morbidity rates" which can be found at <a href="https://www.spkc.gov.lv/lv/valstu-saslimstibas-raditaji-ar-covid-19-0">https://www.spkc.gov.lv/lv/valstu-saslimstibas-raditaji-ar-covid-19-0</a>
+5. Passengers could be subject to self-isolation for 10 days. More information is available in the latest "List of countries with 14-day COVID-19 morbidity rates" which can be found at <a href="https://www.spkc.gov.lv/lv/valstu-saslimstibas-raditaji-ar-covid-19-0">https://www.spkc.gov.lv/lv/valstu-saslimstibas-raditaji-ar-covid-19-0</a>
 - This does not apply to:
-- passengers with a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days before arrival;
+- until 31 January 2022, a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days before arrival;
+- from 1 February 2022, a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days and at most 270 days before arrival;
+- from 1 February 2022, a COVID-19 EU digital green vaccination certificate showing that they received a booster dose;
 - passengers with a COVID-19 EU digital green recovery issued at least 11 days and at most 180 days before arrival;
-- passengers with a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days before arrival;
+- until 31 January 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days before arrival;
+- from 1 February 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days and at most 270 days before arrival;
+- from 1 February 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they received a booster dose;
 - passengers with a COVID-19 recovery certificate issued in Australia, Canada, New Zealand, United Kingdom or USA issued at least 11 days and at most 180 days before arrival.
