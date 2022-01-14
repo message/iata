@@ -1,5 +1,5 @@
 Published 12.01.2022
-1. Passengers must complete an "Embarkation/Disembarkation Card (ED Card)" at most 3 days before departure at <a href="http://www.edcardaruba.aw">www.edcardaruba.aw</a>. They will receive a "Travel Authorization" which must be presented to the airline before boarding.
+1. Passengers must complete an "Embarkation/Disembarkation Card (ED Card)" at most 3 days before departure at <a href="http://www.edcardaruba.aw/">www.edcardaruba.aw</a>. They will receive a "Travel Authorization" which must be presented to the airline before boarding.
 2. Passengers arriving on a direct or indirect flight from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter.
 - This does not apply to residents of Aruba.
 3. Passengers arriving from Andorra, Belgium, Croatia, Czechia, Denmark, France, Georgia, Ireland (Rep.), Liechtenstein, Monaco, Netherlands, Norway, San Marino, Slovakia, Switzerland or United Kingdom must have a negative COVID-19 molecular test taken at most 1 day before departure. Tests accepted can be found at <a href="https://www.aruba.com/us/traveler-health-requirements/covid-testing">https://www.aruba.com/us/traveler-health-requirements/covid-testing</a>.

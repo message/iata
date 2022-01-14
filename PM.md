@@ -1,4 +1,4 @@
-Published 07.01.2022
+Published 14.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of France, their spouses and children;
@@ -35,6 +35,11 @@ Published 07.01.2022
 6. Passengers arriving from the United Kingdom must have a negative COVID-19 antigen or PCR test taken at most 24 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 12 years;
 7. Passengers arriving from the United Kingdom must register online at <a href="https://passager.serveureos.org/">https://passager.serveureos.org/</a> and show proof at time of check-in.
+- This does not apply to passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. The certificate must state that they received:
+- the first vaccine dose of Janssen at least 28 days before arrival; or
+- the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival; or
+- the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival and proof of previous infection with COVID-19; or
+- the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and proof of complete vaccination of Covaxin, Sinopharm or Sinovac.
 8. Passengers arriving from all other countries must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 12 years.
 9. Passengers entering or transiting through France from orange and red list countries must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at <a href="https://tinyurl.com/2p8mf8fy">https://tinyurl.com/2p8mf8fy</a>
