@@ -1,4 +1,4 @@
-Published 12.01.2022
+Published 14.01.2022
 1. Passengers must enter Bulgaria via Burgas (BOJ), Plovdiv (PDV), Sofia (SOF) or Varna (VAR).
 - This does not apply to:
 - merchant seamen;
@@ -25,6 +25,7 @@ Published 12.01.2022
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V; or
 - a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival.
 - This does not apply to:
+- nationals and residents of Bulgaria, and their family members. They are subject to quarantine for 10 days;
 - passengers younger than 12 years;
 - nationals of Greece, North Macedonia (Rep.), Romania, Serbia and Turkey, with a document certifying admission to an education institution in Bulgaria.
 6. Passengers arriving from Afghanistan, Andorra, Argentina, Aruba, Australia, Bahamas, Barbados, Belgium, Belize, Bermuda, Bolivia, Brazil, Canada, Cape Verde, Cayman Isl., Chile, Costa Rica, Croatia, Cuba, Curacao, Cyprus, Czechia, Denmark, Dominican Rep., El Salvador, Estonia, Faroe Isl., Finland, France, Georgia, Germany, Gibraltar, Greece, Guatemala, Iceland, Ireland (Rep.), Italy, Jordan, Korea (Dem. People's Rep.), Kyrgyzstan, Latvia, Liechtenstein, Lithuania, Malta, Monaco, Montenegro, Netherlands, Norway, Panama, Paraguay, Poland, Portugal, Saba, San Marino, Seychelles, Slovakia, Slovenia, Spain, St. Eustatius, St. Kitts and Nevis, Suriname, Sweden, Switzerland, Tajikistan, Tanzania, Trinidad and Tobago, Turkmenistan, Turks and Caicos Isl., United Kingdom, Uruguay, USA, Virgin Isl. (British) or Zambia could be subject to a COVID-19 antigen test upon arrival.
