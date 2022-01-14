@@ -1,6 +1,8 @@
-Published 12.01.2022
+Published 14.01.2022
 1. Passengers must upload their COVID-19 test or vaccination certificate on the MOPH Pass at <a href="https://PASS.MOPH.GOV.LB">https://PASS.MOPH.GOV.LB</a> . They will receive a QR code which they must present at the time of check-in.
-2. Passengers must have a negative COVID-19 PCR test taken at most 48 hours before departure from the first embarkation point.
+2. Passengers must have:
+- a negative COVID-19 PCR test taken at most 48 hours before departure from the first embarkation point; or
+- a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers returning to Lebanon within 7 days.

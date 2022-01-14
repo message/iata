@@ -1,4 +1,4 @@
-Published 12.01.2022
+Published 14.01.2022
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Israel;
@@ -15,7 +15,7 @@ Published 12.01.2022
 - a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point.
 The test result must be in English and indicate the passenger passport number.
 - This does not apply to:
-- passengers and airline crew with any type of positive COVID-19 PCR test taken at least 11 days and at most 3 months before departure from the first embarkation point;
+- passengers and airline crew with any type of positive COVID-19 PCR test taken at least 8 days and at most 3 months before departure from the first embarkation point;
 - airline crew who stay in Israel for less than 72 hours.
 5. Passengers must have health insurance to cover COVID-19 expenses.
 - This does not apply to nationals and residents of Israel.

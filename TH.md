@@ -1,4 +1,4 @@
-Published 13.01.2022
+Published 14.01.2022
 1. Until 31 January 2022, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -16,7 +16,7 @@ Published 13.01.2022
 3. Passengers entering Thailand must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;
 - This does not apply to:
 - nationals of Thailand traveling under the Alternative Quarantine (AQ) scheme;
-- passengers younger than 6 years;
+- passengers younger than 6 years traveling with a parent/guardian;
 - passengers with a positive COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point, and a COVID-19 recovery certificate issued at least 15 days and at most 3 months before arrival.
 4. Passengers entering Thailand must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure;
 - This does not apply to:
@@ -26,9 +26,7 @@ Published 13.01.2022
 - passengers between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;
 - passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.
 5. Passengers entering or transiting through Thailand must have medical insurance with minimum coverage of USD 50,000.
-- This does not apply to:
-- nationals of Thailand;
-- passengers transiting without disembarking the aircraft.
+- This does not apply to nationals of Thailand.
 6. Passengers traveling under the Test & Go scheme must:
 - arrive from, or in the past 21 days have only been in Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Malaysia, Maldives, Malta, Mongolia, Myanmar, Nepal, Netherlands, New Zealand, Norway, Oman, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Arab Emirates, United Kingdom or Viet Nam; and
 - have a hotel reservation for 1 night at AQ, OQ, or SHA+ hotel obtained at <a href="http://www.thailandsha.com">www.thailandsha.com</a> or <a href="https://asq.in.th">https://asq.in.th</a>
@@ -43,8 +41,7 @@ Published 13.01.2022
 - a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.
 - This does not apply to:
-- passengers transiting without disembarking the aircraft.
-- passengers younger than 6 years;
+- passengers younger than 6 years traveling with a parent/guardian;
 - passengers younger than 12 years travelling with a fully vaccinated parent/guardian.
 10. Airline crew are subject to self-isolation until their next flight.
 11. Airline crew staying overnight must have a guarantee letter from the airline or health insurance certificate with a coverage cost of at least USD 50,000.
