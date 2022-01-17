@@ -8,4 +8,5 @@ Passengers must have a negative COVID-19 antigen or PCR test taken at most 48 ho
 - This does not apply to:
 - nationals and residents of Finland;
 - military personnel;
+- passengers with a diplomatic passport traveling on duty;
 - passengers born in 2007 or later.
