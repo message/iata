@@ -1,6 +1,6 @@
-Published 01.01.2022
+Published 17.01.2022
 1. Until 31 January 2022, flights from South Africa are suspended.
-2. Passengers are not allowed to enter if in the past 14 days they have been in or transited through Botswana or South Africa.
+2. Until 30 January 2022, passengers are not allowed to enter if in the past 14 days they have been in or transited through Botswana or South Africa.
 - This does not apply to nationals and residents of Peru.
 3. Passengers must have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
