@@ -1,4 +1,4 @@
-Published 06.01.2022
+Published 18.01.2022
 1. Until 28 February 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Iceland;
@@ -6,7 +6,7 @@ Published 06.01.2022
 - British nationals who reside in Iceland and have a residence certificate (C-122), which can be obtained at <a href="http://www.icetra.is/about/press-room/news/travel-restrictions-for-uk-citizens-due-to-covid-19">www.icetra.is/about/press-room/news/travel-restrictions-for-uk-citizens-due-to-covid-19</a>
 - passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;
 - family members of nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and EEA Member States;
-- residents of Argentina, Australia, Bahrain, Bosnia and Herzegovina, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Israel, Jordan, Korea (Rep.), Kosovo (Rep.), Kuwait, Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro, Namibia, New Zealand, North Macedonia (Rep.), Peru, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine, United Arab Emirates, Uruguay or USA arriving from their country of residence;
+- residents of Bahrain, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates and Uruguay arriving from their country of residence;
 - passengers in a long-term intimate relationship with a national or resident of Iceland;
 - military personnel traveling on duty;
 - students;
