@@ -1,4 +1,4 @@
-Published 17.01.2022
+Published 18.01.2022
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals of Kazakhstan;
@@ -10,11 +10,10 @@ Published 17.01.2022
 - passengers with a visa issued by Kazakhstan and approved by the Deputy Prime Minister of Kazakhstan;
 - passengers traveling as students with an invitation letter from an educational institution of Kazakhstan;
 - passengers traveling on business and approved by the Deputy Prime Minister of Kazakhstan.
-2. Nationals of India are not allowed to enter.
-3. Flights to Kazakhstan are suspended.
+2. Flights to Kazakhstan are suspended.
 - This does not apply to:
 - flights from Armenia, Belarus, Egypt, Germany, Georgia, Korea (Rep.), Kyrgyzstan, Montenegro, Netherlands, Qatar, Russian Fed., Turkey, Tajikistan Ukraine, United Arab Emirates and Uzbekistan;
 - repatriation flights.
-4. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be issued in English, Kazakh or Russian.
+3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be issued in English, Kazakh or Russian.
 This does not apply to passengers younger than 5 years if accompanied by a person with a negative COVID-19 PCR test result.
-5. Passengers are subject to medical screening.
+4. Passengers are subject to medical screening.
