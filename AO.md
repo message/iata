@@ -1,4 +1,4 @@
-Published 06.01.2022
+Published 18.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Angola;
@@ -7,5 +7,6 @@ Published 06.01.2022
 - passengers with a visa issued by Angola.
 2. Passengers must have a printed negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English or Portuguese.
 3. Passengers are subject to a COVID-19 rapid antigen test upon arrival, at their own expense.
-4. Passengers are subject to quarantine for 10 days.
+4. Passengers are subject to quarantine for 7 days.
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated.
 5. Residence permits, refugee cards and temporary stay visas issued by Angola which expired after 28 February 2020 are considered valid.
