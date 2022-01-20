@@ -1,20 +1,26 @@
-Published 18.01.2022
+Published 20.01.2022
 1. Passengers must complete an "Embarkation/Disembarkation Card (ED Card)" at most 3 days before departure at <a href="http://www.edcardaruba.aw">www.edcardaruba.aw</a>. They will receive a "Travel Authorization" which must be presented to the airline before boarding.
 2. Passengers arriving on a direct or indirect flight from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter.
 - This does not apply to residents of Aruba.
 3. Passengers arriving from Andorra, Belgium, Croatia, Czechia, Denmark, France, Georgia, Ireland (Rep.), Liechtenstein, Monaco, Netherlands, Norway, San Marino, Slovakia, Switzerland or United Kingdom must have a negative COVID-19 antigen or molecular test taken at most 1 day before departure. Tests accepted can be found at <a href="https://www.aruba.com/us/traveler-health-requirements/covid-testing">https://www.aruba.com/us/traveler-health-requirements/covid-testing</a>.
 - Residents of Aruba arriving without a negative COVID-19 antigen or molecular test taken at most 1 day before departure are subject to a COVID-19 test upon arrival.
-- This does not apply to passengers younger than 12 years.
+- This does not apply to:
+- passengers younger than 12 years;
+- passengers with a positive COVID-19 molecular test issued at least 10 days and at most 12 weeks before departure. The test must be based on nasopharyngeal swab. More details can be found at <a href="https://tinyurl.com/mvfju74r">https://tinyurl.com/mvfju74r</a>
 4. Passengers arriving on a direct or indirect flight from Australia, Austria, Barbados, Belarus, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Bulgaria, Canada, Curacao, Cyprus, Dominica, Estonia, Finland, Germany, Greece, Hungary, Iceland, Italy, Jordan, Korea (Rep.), Lao People's Dem Rep., Latvia, Lebanon, Lithuania, Luxembourg, Malaysia, Malta, Moldova (Rep.), Montenegro, North Macedonia (Rep.), Poland, Portugal, Russian Fed., Serbia, Seychelles, Slovenia, Spain, St. Maarten, Sweden, Trinidad and Tobago, Turkey, USA, Ukraine or Viet Nam must have:
 - a negative COVID-19 molecular test taken at most 2 days before departure; or
 - a negative COVID-19 antigen test taken at most 1 day before departure.
 Tests accepted can be found at <a href="https://www.aruba.com/us/traveler-health-requirements/covid-testing">https://www.aruba.com/us/traveler-health-requirements/covid-testing</a>
 - Residents of Aruba arriving without a negative COVID-19 molecular test taken at most 2 days before departure or without a negative COVID-19 antigen test taken at most 1 day before departure are subject to a COVID-19 test upon arrival.
-- This does not apply to passengers younger than 12 years.
+- This does not apply to:
+- passengers younger than 12 years;
+- passengers with a positive COVID-19 molecular test issued at least 10 days and at most 12 weeks before departure. The test must be based on nasopharyngeal swab. More details can be found at <a href="https://tinyurl.com/mvfju74r">https://tinyurl.com/mvfju74r</a>
 5. Passengers arriving on a direct or indirect flight from all other countries must have:
 - a negative COVID-19 molecular test taken at most 3 days before departure; or
 - a negative antigen test taken at most 1 day before departure; or
 - are subject to a COVID-19 test upon arrival. Tests accepted can be found at <a href="https://www.aruba.com/us/traveler-health-requirements/covid-testing">https://www.aruba.com/us/traveler-health-requirements/covid-testing</a>
-- This does not apply to passengers younger than 12 years.
+- This does not apply to:
+- passengers younger than 12 years;
+- passengers with a positive COVID-19 molecular test issued at least 10 days and at most 12 weeks before departure. The test must be based on nasopharyngeal swab. More details can be found at <a href="https://tinyurl.com/mvfju74r">https://tinyurl.com/mvfju74r</a>
 6. Passengers could be subject to medical screening upon arrival.
 7. More COVID-19 related information can be found at <a href="https://tinyurl.com/2rvbmmym">https://tinyurl.com/2rvbmmym</a>
