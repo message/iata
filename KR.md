@@ -1,4 +1,4 @@
-Published 17.01.2022
+Published 20.01.2022
 1. Until 3 February 2022, flights from Ethiopia are suspended.
 2. Until 3 February 2022, passengers arriving from or who in the past 14 days have been in Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia and Zimbabwe are not allowed to enter and transit.
 - This does not apply to:
@@ -34,16 +34,7 @@ Published 17.01.2022
 - This does not apply to nationals of Egypt with a diplomatic or service passport.
 14. Passengers with a visa on an expired passport must present a printed "Visa Grant Notice" and the expired passport to the immigration upon arrival.
 15. Passengers with an E-9 visa issued by Korea (Rep.) must present a completed 'Confirmation of Self-quarantine' form upon arrival. The form can be obtained at the local EPS center.
-16. Until 19 January 2022, passengers must have a printed negative COVID-19 test taken at most 3 days before departure from the first embarkation point. Tests accepted are: LAMP, NAAT, NEAR, PCR, RT-PCR, SDA and TMA tests.
-The test result must:
-- be in English, Korean or accompanied by a certified English or Korean translation; and
-- have the name of the passenger which must match the name in the passport, the date of birth or passport/ID number and the name of the issuing laboratory; and
-- specify the date that the test was taken; and
-- be issued by an approved laboratory if arriving from Philippines or Uzbekistan. Details can be found at the Korean (Rep.) Embassy website in those countries.
-- This does not apply to:
-- passengers younger than 6 years;
-- passengers traveling on official business or funeral attendance purposes with a Quarantine Exemption Certificate.
-Effective 20 January 2022, passengers must have a printed negative COVID-19 test taken at most 2 days before departure from the first embarkation point. Tests accepted are: LAMP, NAAT, NEAR, PCR, RT-PCR, SDA and TMA tests.
+16. Passengers must have a printed negative COVID-19 test taken at most 2 days before departure from the first embarkation point. Tests accepted are: LAMP, NAAT, NEAR, PCR, RT-PCR, SDA and TMA tests.
 The test result must:
 - be in English, Korean or accompanied by a certified English or Korean translation; and
 - have the name of the passenger which must match the name in the passport, the date of birth or passport/ID number and the name of the issuing laboratory; and
