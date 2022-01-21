@@ -1,4 +1,4 @@
-Published 19.01.2022
+Published 21.01.2022
 1. Until 31 January 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
@@ -25,7 +25,8 @@ Published 19.01.2022
 - a COVID-19 recovery certificate issued at least 11 days after the positive COVID-19 NAAT test result. The sample for the certificate must have been taken at most 180 days before arrival.
 - This does not apply to:
 - passengers younger than 12 years;
-- passengers arriving from Bahrain, Chile, China (People's Rep.), Chinese Taipei, Colombia, Hong Kong (SAR China). Indonesia, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates or Uruguay;
+- until 23 January 2022, passengers arriving from Bahrain, Colombia, Kuwait, Peru, Qatar, United Arab Emirates or Uruguay;
+- passengers arriving from Chile, China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Indonesia, Korea (Rep.), Macao (SAR China), New Zealand, Rwanda or Saudi Arabia;
 - residents of the United Kingdom arriving from the United Kingdom;
 - deadheading crew.
 3. Residents of the United Kingdom arriving from the United Kingdom must have:

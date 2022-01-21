@@ -1,4 +1,4 @@
-Published 19.01.2022
+Published 21.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -10,7 +10,12 @@ Published 19.01.2022
 - passengers with an Identification Certificate (IC) or a Certificate of Re-acquisition/Retention of Philippine Citizenship (CRPC) issued by the Philippines;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated in the Philippines, at least 14 days before arrival.
 2. Passengers must have a negative COVID-19 RT-PCR test taken at most 48 hours before departure from the first embarkation point.
-- This does not apply to passengers without COVID-19 symptoms who are 3 years old and younger.
+- This does not apply to:
+- passengers without COVID-19 symptoms who are 3 years old and younger;
+- nationals of the Philippines with:
+- a positive RT-PCR test taken at most 48 hours before departure from the first embarkation point; and
+- a positive COVID-19 RT-PCR test taken at least 10 days and at most 30 days before departure from the first embarkation point; and
+- a medical certificate showing that they completed the mandatory isolation period and are not contagious.
 3. Effective 16 February 2022, passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated.
 - This does not apply to:
 - nationals of the Philippines;

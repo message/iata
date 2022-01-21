@@ -1,5 +1,5 @@
-Published 13.01.2022
-1. Passengers who in the past 10 days have been in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe are not allowed to enter.
+Published 21.01.2022
+1. Until 23 January 2022, passengers who in the past 10 days have been in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland;
 - passengers residing in Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);
@@ -16,7 +16,7 @@ More details can be found at <a href="https://tinyurl.com/3sj2ynan">https://tiny
 - passengers younger than 12 years traveling with an adult;
 - passengers between 6 and 15 years with a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival or;
 - passengers between 6 and 15 years with a negative COVID-19 antigen test result issued at most 48 hours before arrival.
-3. Passengers who in the past 10 days have been in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival.
+3. Until 23 January 2022, passengers who in the past 10 days have been in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival.
 - This does not apply to:
 - passengers younger than 12 years traveling with an adult;
 - passengers between 6 and 15 years with a negative antigen test result issued at most 48 hours before arrival;
@@ -24,4 +24,4 @@ More details can be found at <a href="https://tinyurl.com/3sj2ynan">https://tiny
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they received a booster dose; and
 - a negative COVID-19 LAMP, PCR or TMA test result issued at most 48 hours before arrival.
 More exemptions can be found at <a href="https://tinyurl.com/8w8kyybv">https://tinyurl.com/8w8kyybv</a>
-5. Passengers must present a completed "Pre-Travel-Clearance" upon arrival. The form can be found at <a href="https://entry.ptc.gv.at/">https://entry.ptc.gv.at</a>
+5. Passengers must present a completed "Pre-Travel-Clearance" upon arrival. The form can be found at <a href="https://entry.ptc.gv.at">https://entry.ptc.gv.at</a>
