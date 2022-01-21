@@ -1,17 +1,18 @@
-Published 12.01.2022
+Published 21.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
 - passengers with a "D" visa issued by Switzerland;
 - nationals and residents of EEA Member States;
 - passengers arriving from Schengen Member States;
-- passengers arriving from Andorra, Argentina, Australia, Bahrain, Bulgaria, Canada, Chile, Chinese Taipei, Colombia, Croatia, Cyprus, Hong Kong (SAR China), Indonesia, Ireland (Rep.), Korea (Rep.), Kuwait, Macao (SAR China), Monaco, New Zealand, Peru, Qatar, Romania, Rwanda, San Marino, Saudi Arabia, United Arab Emirates, Uruguay or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
+- passengers arriving from Andorra, Argentina, Australia, Bahrain, Bulgaria, Canada, Chile, Chinese Taipei, Colombia, Croatia, Cyprus, Hong Kong (SAR China), Indonesia, Ireland (Rep.), Korea (Rep.), Kuwait, Macao (SAR China), Monaco, New Zealand, Peru, Qatar, Romania, Rwanda, San Marino, Saudi Arabia, United Arab Emirates, Uruguay or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport. Effective 24 January 2022, Argentina, Australia and Canada will be removed from this list.
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States. They must present proof of their relationship;
 - passengers with proof of being spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of "British Citizens", "British Overseas Territories Citizens" from Gibraltar or British nationals with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom, who have a residence permit issued by Switzerland:
 - with reference to the CH-UK agreement form 25 February 2019; or
 - issued before 1 January 2021;
 - unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship;
-- passengers arriving from countries other than Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, and Zimbabwe with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> ;
+- until 23 January 2022, passengers arriving from countries other than Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, and Zimbabwe with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> ;
+- effective 24 January 2022, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax),Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a>
 - unvaccinated passengers younger than 18 years if they are traveling with their fully vaccinated parents/guardians;
 - merchant seamen;
 - military personnel with a letter issued by the Federal Department of Foreign Affairs of Switzerland or the Federal Department of Defense of Switzerland.
@@ -21,8 +22,21 @@ Published 12.01.2022
 - passengers arriving from Andorra, Argentina, Australia, Bahrain, Bulgaria, Canada, Chile, Chinese Taipei, Colombia, Croatia, Cyprus, Hong Kong (SAR China), Indonesia, Ireland (Rep.), Korea (Rep.), Kuwait, Macao (SAR China), Monaco, New Zealand, Peru, Qatar, Romania, Rwanda, San Marino, Saudi Arabia, United Arab Emirates, Uruguay or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;
 - passengers with a "D" visa issued by a Schengen Member State they are traveling to;
-- passengers arriving from countries other than Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, and Zimbabwe with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> ;
-3. Passengers must have:
+- until 23 January 2022, passengers arriving from countries other than Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa, and Zimbabwe with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax),Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a> ;
+- effective 24 January 2022, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax),Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a>
+3. Until 21 January 2022, passengers must have:
+- a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
+- a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point.
+- This does not apply to passengers younger than 16 years.
+Effective 22 January 2022 and until 31 January 2022, passengers must have:
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac; or
+- a COVID-19 recovery certificate issued at most 12 months before arrival; or
+- a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
+- a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point.
+- This does not apply to passengers younger than 16 years.
+Effective 1 February 2022, passengers must have:
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at most 270 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac; or
+- a COVID-19 recovery certificate issued at most 270 days before arrival; or
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 16 years.
