@@ -1,4 +1,4 @@
-Published 22.12.2021
+Published 21.01.2021
 1. Passengers are not allowed to enter if in the past 14 days they have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe.
 - This does not apply to nationals and residents of Chile.
 2. Passengers are not allowed to enter.
@@ -8,7 +8,7 @@ Published 22.12.2021
 - spouses and partners with registered partnership of nationals and residents of Chile who were married or registered as partners in Chile. They must have a confirmation of their relationship issued by Civil Registry;
 - passengers with a diplomatic or official visa issued by the Ministry of Foreign Affairs of Chile;
 - passengers with a diplomatic or official passport;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covieshield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. The certificate must be uploaded before departure at <a href="https://mevacuno.gob.cl/">https://mevacuno.gob.cl/</a>;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), CanSinoBIO (Convidecia) Covieshield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V. The certificate must be uploaded before departure at <a href="https://mevacuno.gob.cl/">https://mevacuno.gob.cl/</a>;
 - passengers younger than 6 years traveling with their vaccinated parents/guardians.
 3. Passengers must arrive at Antofagasta (ANF), Iquique (IQQ), Punta Arenas (PUQ) or Santiago (SCL).
 - This does not apply to:
