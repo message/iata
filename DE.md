@@ -1,4 +1,4 @@
-Published 18.01.2022
+Published 21.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Germany;
@@ -10,7 +10,8 @@ Published 18.01.2022
 - passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;
 - British nationals with a residence permit issued by Germany before 31 December 2020;
 - passengers with a long term "D" visa issued by an EEA Member State or Switzerland;
-- residents of Chile, Chinese Taipei, Hong Kong (SAR China), Indonesia, Korea (Rep.), Macao (SAR China), New Zealand and Saudi Arabia. They must have been living in the residence country in the past 6 months;
+- Until 23 January 2022: residents of Chile, Chinese Taipei, Hong Kong (SAR China), Indonesia, Korea (Rep.), Macao (SAR China), New Zealand and Saudi Arabia. They must have been living in the residence country in the past 6 months;
+- Effective 24 January 2022: residents of Chinese Taipei, Hong Kong (SAR China), Indonesia, Korea (Rep.), Macao (SAR China), and New Zealand. They must have been living in the residence country in the past 6 months;
 - military personnel;
 - merchant seamen;
 - students;
@@ -27,8 +28,8 @@ The test result must be in English, French, German, Italian or Spanish.
 - passengers younger than 6 years;
 - passengers with a positive COVID-19 LAMP, NAAT, PCR, RT-LAMP, RT-PCR or TMA test taken at least 28 days and at most 90 days before arrival. They must have not been in China (People's Rep.) in the past 10 days;
 - passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in China (People's Rep.). The certificate must show that they were fully vaccinated at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Nuvaxovid (Novavax) and Pfizer-BioNTech (Comirnaty). Passengers who received one dose of Janssen must also receive a booster dose of Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 14 days before departure.
-3. Passengers arriving from a high risk area or an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de">https://www.einreiseanmeldung.de</a> . The list of countries can be found at <a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html">https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html</a>
-4. Airline crew arriving from an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de">https://www.einreiseanmeldung.de</a> .
+3. Passengers arriving from a high risk area or an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> . The list of countries can be found at <a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html">https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html</a>
+4. Airline crew arriving from an area of variant of concern must register before departure at <a href="https://www.einreiseanmeldung.de/">https://www.einreiseanmeldung.de</a> .
 5. Passengers could be subject to quarantine for 10 or 14 days. Details can be found at <a href="https://www.bundesgesundheitsministerium.de/en/service/gesetze-und-verordnungen/guv-19-lp/coronavirus-einreiseverordnung.html">https://www.bundesgesundheitsministerium.de/en/service/gesetze-und-verordnungen/guv-19-lp/coronavirus-einreiseverordnung.html</a>
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in China (People's Rep.). The certificate must show that they were fully vaccinated at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Nuvaxovid (Novavax) and Pfizer-BioNTech (Comirnaty). Passengers who received one dose of Janssen must also receive a booster dose of Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 14 days before departure;
