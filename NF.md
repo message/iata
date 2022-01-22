@@ -12,32 +12,22 @@ Published 21.01.2022
 - passengers with a visa issued by Australia listed at <a href="https://covid19.homeaffairs.gov.au/vaccinated-travellers">https://covid19.homeaffairs.gov.au/vaccinated-travellers</a> and a medical certificate of contraindication showing that they can't be vaccinated. The certificate must be in English. More information can be found at <a href="https://tinyurl.com/yckfk3fy">https://tinyurl.com/yckfk3fy</a>
 - passengers with a Special Purpose Visa;
 - military personnel participating in military activities sponsored by Australian Department of Defence.
-2. Until 23 January 2022 at 00.59, passengers entering or transiting through Australia must have a negative COVID-19 PCR test taken at most 3 days before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/y398dxv4">https://tinyurl.com/y398dxv4</a>
-- This does not apply to:
-- passengers who are 4 years or younger;
-- passengers arriving from Kiribati, Myanmar, Niue, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;
-- passengers arriving from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl.;
-- passengers with positive COVID-19 PCR test taken at least 14 days before departure from the first embarkation point; and
-- a COVID-19 recovery certificate issued at most 30 days before departure from the first embarkation point showing that they are not contagious.</p><p>Effective 23 January 2022 at 01.00, passengers entering or transiting through Australia must have a negative COVID-19 NAAT test taken at most 3 days before departure from the first embarkation point; or
+2. Passengers entering or transiting through Australia must have a negative COVID-19 NAAT test taken at most 3 days before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/y398dxv4">https://tinyurl.com/y398dxv4</a>
 - This does not apply to:
 - passengers who are 4 years or younger;
 - passengers arriving from Kiribati, Myanmar, Niue, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;
 - passengers arriving from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl.;
-- passengers with positive COVID-19 PCR test taken at least 7 days before departure from the first embarkation point; and
+- passengers with a positive COVID-19 PCR test taken at least 7 days before departure from the first embarkation point; and
 - a COVID-19 recovery certificate issued at most 30 days before departure from the first embarkation point showing that they are not contagious.
-3. Until 23 January 2022 at 00.59, passengers entering or transiting through Australia from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl. must have a negative COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/y398dxv4">https://tinyurl.com/y398dxv4</a>
-- This does not apply to:
-- passengers who are 4 years or younger;
-- passengers with positive COVID-19 PCR test taken at least 14 days before departure from the first embarkation point; and
-- a COVID-19 recovery certificate issued at most 30 days before departure from the first embarkation point showing that they are not contagious.</p><p>Effective 23 January 2022 at 01.00, passengers entering or transiting through Australia from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl. must have:
+3. Passengers entering or transiting through Australia from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl. must have:
 - a negative COVID-19 NAAT test taken at most 96 hours before departure from the first embarkation point; or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point. More details can be found at <a href="https://tinyurl.com/y398dxv4">https://tinyurl.com/y398dxv4</a>
 - This does not apply to:
 - passengers who are 4 years or younger;
-- passengers with positive COVID-19 PCR test taken at least 7 days before departure from the first embarkation point; and
+- passengers with a positive COVID-19 PCR test taken at least 7 days before departure from the first embarkation point; and
 - a COVID-19 recovery certificate issued at most 30 days before departure from the first embarkation point showing that they are not contagious.
-4. Passengers traveling above the passenger caps, must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTec (Comirnaty), Sinopharm (BIBP) (for passengers younger than 60 years only), Sinovac and Sputnik V.
+4. Passengers traveling above the passenger caps must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTec (Comirnaty), Sinopharm (BIBP) (for passengers younger than 60 years only), Sinovac and Sputnik V.
 - This does not apply to:
 - passengers younger than 12 years;
 - nationals of Australia between 12 and 17 years traveling with a fully vaccinated parent/guardian and arriving in Australian Capital Territory, New South Wales or Victoria.
