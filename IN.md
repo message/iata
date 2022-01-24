@@ -25,4 +25,3 @@ This does not apply to:
 - This does not apply to passengers younger than 5 years.
 9. Passengers are subject to quarantine for 7 days.
 10. Passengers are subject to medical screening.
-11. Persons of Indian Origin (PIO) cards which have expired are considered valid until 31 December 2021.
