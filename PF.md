@@ -4,10 +4,7 @@ Published 24.01.2022
 - Janssen at least 28 days before departure.
 - This does not apply to passengers younger than 18 years.
 2. Passengers must complete an "ETIS Application" at <a href="https://www.etis.pf/en/">https://www.etis.pf/en/</a> at least 6 days and at most 30 days before departure.
-3. Passengers must have:
-- a negative COVID-19 RT-PCR test taken at most 24 hours before departure from the first embarkation point; or
-- a negative COVID-19 RT-PCR test taken at most 48 hours before departure from the first embarkation point and a negative rapid antigen test taken at most 24 hours before departure from the first embarkation point; or
-- a negative rapid antigen test taken at most 24 hours before departure from the first embarkation point.
+3. Passengers must have a negative COVID-19 rapid antigen or RT-PCR test taken at most 24 hours before departure from the first embarkation point. More information can be found at <a href="https://tahititourisme.com/en-us/covid-19/">https://tahititourisme.com/en-us/covid-19/</a>
 - This does not apply to passengers younger than 12 years.
 4. Passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/ytuat2th">https://tinyurl.com/ytuat2th</a>
 5. Passengers must complete the 'health declaration and attestation' form found at <a href="https://www.cdc.gov/quarantine/pdf/combined-passenger-attestation-p.pdf">https://www.cdc.gov/quarantine/pdf/combined-passenger-attestation-p.pdf</a>

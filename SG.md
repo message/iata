@@ -1,4 +1,4 @@
-Published 12.01.2022
+Published 24.01.2022
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
@@ -39,13 +39,16 @@ Published 12.01.2022
 - in the past 14 days have only been in, or transited through China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Macao (SAR China), Singapore or a VTL country/region; and
 - have a visa to enter Singapore (if they are a visa-required short-term visitor); and
 - arrive in Singapore on a designated VTL flight.
-2. Passengers entering and transiting through Singapore must have a negative COVID-19 test taken at most 2 days before the day of departure from the first embarkation point. If passengers have transited for more than 24 hours before arriving in Singapore, the negative test must be taken at most 2 days before the day of departure of the last direct flight to Singapore. Passengers entering or transiting through Singapore from Category II or Category III countries/regions (<a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>) could be subject to presenting a negative COVID-19 PCR test or professionally-administered rapid antigen test result. Passengers entering or transiting through Singapore from Category IV countries/regions (<a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>) must present a negative COVID-19 PCR test result. The test result must:
+2. Passengers entering and transiting through Singapore must have a negative COVID-19 test taken at most 2 days before the day of departure from the first embarkation point. For passengers with a positive COVID-19 test taken in the past 7 days (for fully vaccinated passengers) or 14 days (for not fully vaccinated passengers), the negative COVID-19 test must be taken at least 72 hours after the positive test. If passengers have transited for more than 24 hours before arriving in Singapore, the negative test must be taken at most 2 days before the day of departure of the last direct flight to Singapore.
+Passengers arriving from Category II or Category III countries/regions (<a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>) must present a negative COVID-19 PCR test or rapid antigen test result. Passengers arriving from Category IV countries/regions (<a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>) must present a negative COVID-19 PCR test result. The test result must:
 - be in English; and
 - include the date the test was taken; and
 - include a minimum of 2 personal identifiers as stated in the passport (i.e. name and either date of birth or passport number).
 More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements">https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements</a> .
 - This does not apply to:
-- passengers younger than 3 years.
+- passengers younger than 3 years;
+- passengers with a COVID-19 recovery certificate;
+- passengers with a letter of exemption issued by a Singapore Government Agency.
 3. Passengers are not allowed to transit.
 - This does not apply when traveling on airlines with transit routes approved by the Civil Aviation Authority of Singapore (CAAS).
 4. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine or Stay Home Notice (SHN). Please refer to <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>
@@ -53,6 +56,7 @@ More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs-
 - This does not apply to:
 - passengers younger than 3 years;
 - merchant seamen;
+- fully vaccinated passengers with a COVID-19 recovery certificate;
 - passengers not travelling under the Vaccinated Travel Lane (VTL), Reciprocal Green Lane (RGL), Business Travel Pass (BTP) and Overseas Singaporeans Vaccination Program, and who have travel history to countries/regions classified as Category II, Category III or Category IV in <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>
 6. Passengers must submit a health declaration before arrival via the SG Arrival Card (SGAC) e-Service (<a href="https://eservices.ica.gov.sg/sgarrivalcard">https://eservices.ica.gov.sg/sgarrivalcard</a>) or via the mobile application.
 - This does not apply to passengers in transit.
