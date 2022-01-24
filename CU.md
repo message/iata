@@ -1,5 +1,6 @@
-Published 17.01.2022
-1. Passengers must complete a "D'Viajeros" form at <a href="https://dviajeros.mitrans.gob.cu/">https://dviajeros.mitrans.gob.cu/</a> before departure. This will generate a QR code which must be presented upon arrival.
+Published 24.01.2022
+1. Passengers must complete a "Declaracion de Sanidad del Viajero" upon arrival; or
+- present a QR code obtained at <a href="https://dviajeros.mitrans.gob.cu/">https://dviajeros.mitrans.gob.cu/</a> .
 2. Nationals of Cuba residing in Cuba without a COVID-19 vaccination certificate showing that they were fully vaccinated are subject to hotel quarantine for 8 days at their own expense.
 - This does not apply to:
 - passengers younger than 12 years;
@@ -18,4 +19,3 @@ Published 17.01.2022
 7. Passengers could be subject to quarantine for 8 days.
 8. Airline crew staying more than 48 hours in Cuba must have a COVID-19 vaccination certificate showing that they were fully vaccinated; and
 - are subject to a COVID-19 RT-PCR test upon arrival.
-9. A completed "Declaracion de Sanidad del Viajero" must be presented upon arrival.
