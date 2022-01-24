@@ -59,4 +59,4 @@ All documents must be in Chinese or English.
 - an approval letter from the Marine Department, and
 - a letter of certification to Department of Health from Hong Kong.
 More information can be found at <a href="https://www.coronavirus.gov.hk/eng/inbound-travel-faq.html#FAQB5">https://www.coronavirus.gov.hk/eng/inbound-travel-faq.html#FAQB5</a>
-20. Flights from Australia, Canada, France, India, Pakistan, Philippines, United Kingdom and USA are suspended.<p>
+20. Flights from Australia, Canada, France, India, Pakistan, Philippines, United Kingdom and USA are suspended.
