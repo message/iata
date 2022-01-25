@@ -1,4 +1,4 @@
-Published 05.01.2022
+Published 25.01.2022
 1. Until 31 January 2022, flights from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa and Zimbabwe are suspended.
 2. Until 31 January 2022, passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter and transit.
 - This does not apply to nationals of Jordan and their spouses and children.
@@ -30,9 +30,10 @@ This does not apply to:
 - passengers with a diplomatic or special passport and a diplomatic QR code;
 - family members of passengers with a diplomatic or special passport.
 9. Passengers must complete a "Passenger Health Declaration Form" and present it before departure.
-10. Until 31 January 2022, passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to quarantine for 14 days at a hotel at their own expense.
-11. Airline crew must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point.
+10. Military personnel must have a "Military QR Code" obtained before departure at <a target="_blank" href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo</a> .
+11. Until 31 January 2022, passengers arriving from, or who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to quarantine for 14 days at a hotel at their own expense.
+12. Airline crew must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point.
 - This does not apply to airline crew with a round trip flight.
-12. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.
-13. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
-14. More COVID-19 related information can be found at <a href="https://www.carc.jo/index.php/en/covid19-related-measures">https://www.carc.jo/index.php/en/covid19-related-measures</a>
+13. Airline crew are subject to a COVID-19 PCR test upon arrival and quarantine until the result is ready.
+14. Foreign airline crew staying overnight must stay at the designated hotel arranged by the airlines.
+15. More COVID-19 related information can be found at <a href="https://www.carc.jo/index.php/en/covid19-related-measures">https://www.carc.jo/index.php/en/covid19-related-measures</a>
