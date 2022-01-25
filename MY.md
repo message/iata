@@ -1,4 +1,4 @@
-Published 21.01.2022
+Published 25.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Malaysia;
@@ -42,25 +42,18 @@ Published 21.01.2022
 - The COVID-19 RT-PCR test does not apply to passengers with a COVID-19 recovery certificate issued at least 11 days and at most 60 days before departure.
 7. Passengers are subject to a COVID-19 RT-PCR test upon arrival at their own expense.
 8. Passengers are subject to medical screening.
-9. Until 23 January 2022, passengers are subject to quarantine for 7, 10 or 14 days at the first point of entry at their own expense.
+9. Passengers are subject to quarantine for 5, 7 or 10 days at the first point of entry at their own expense.
 - This does not apply to:
 - passengers with an approval letter for home quarantine applied at <a href="https://ecovid19.moh.gov.my/outbreak-portal-hqa/index">https://ecovid19.moh.gov.my/outbreak-portal-hqa/index</a> . They must have a COVID-19 vaccination certificate showing that they were fully vaccinated and are subject to home isolation for 7 days;
 - passengers traveling to Langkawi (LGK) with a COVID-19 vaccination certificate showing that they were fully vaccinated with:
 - CanSinoBIO (Convidecia) or Janssen at least 28 days before arrival; or
 - AstraZeneca, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before arrival;
 - passengers with a COVID-19 recovery certificate issued at least 11 days and at most 60 days before departure.
-10. Effective 24 January 2022, passengers are subject to quarantine for 5, 7 or 10 days at the first point of entry at their own expense.
-- This does not apply to:
-- passengers with an approval letter for home quarantine applied at <a href="https://ecovid19.moh.gov.my/outbreak-portal-hqa/index">https://ecovid19.moh.gov.my/outbreak-portal-hqa/index</a> . They must have a COVID-19 vaccination certificate showing that they were fully vaccinated and are subject to home isolation for 7 days;
-- passengers traveling to Langkawi (LGK) with a COVID-19 vaccination certificate showing that they were fully vaccinated with:
-- CanSinoBIO (Convidecia) or Janssen at least 28 days before arrival; or
-- AstraZeneca, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before arrival;
-- passengers with a COVID-19 recovery certificate issued at least 11 days and at most 60 days before departure.
-11. Airline crew must have their names listed on the General Declaration.
-12. Airline crew are subject to quarantine until their next flight and must install 'MySejahtera app' in their phone.
-13. The maximum transit time through Kuala Lumpur (KUL) changed from 48 hours to 24 hours.
-14. Transfer from an international flight to a domestic flight is not allowed.
+10. Airline crew must have their names listed on the General Declaration.
+11. Airline crew are subject to quarantine until their next flight and must install 'MySejahtera app' in their phone.
+12. The maximum transit time through Kuala Lumpur (KUL) changed from 48 hours to 24 hours.
+13. Transfer from an international flight to a domestic flight is not allowed.
 - This does not apply to:
 - nationals of Malaysia traveling to Sabah and Sarawak. They must have approval from the State Government;
 - passengers traveling under the Langkawi Travel Bubble.
-15. Passengers traveling to Sarawak must complete an "enterSarawak" form and an "eHealth Declaration Form" before departure at <a href="https://sarawakdisastermc.com/">https://sarawakdisastermc.com/</a>
+14. Passengers traveling to Sarawak must complete an "enterSarawak" form and an "eHealth Declaration Form" before departure at <a href="https://sarawakdisastermc.com/">https://sarawakdisastermc.com/</a>

@@ -8,7 +8,6 @@ Published 24.01.2022
 - residents of Aruba with a COVID-19 vaccination certificate showing that they were fully vaccinated and received a booster dose at least 7 days and at most 90 days before arrival;
 - residents of Aruba between the age of 12 and 17, with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days and at most 90 days before arrival;
 - passengers younger than 12 years;
-- passengers
 - passengers with a positive COVID-19 molecular test issued at least 10 days and at most 12 weeks before departure. The test must be based on nasopharyngeal swab. More details can be found at <a href="https://tinyurl.com/mvfju74r">https://tinyurl.com/mvfju74r</a>
 4. Passengers arriving on a direct or indirect flight from Australia, Austria, Barbados, Belarus, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Bulgaria, Canada, Curacao, Cyprus, Dominica, Estonia, Finland, Germany, Greece, Hungary, Iceland, Italy, Jordan, Korea (Rep.), Lao People's Dem Rep., Latvia, Lebanon, Lithuania, Luxembourg, Malaysia, Malta, Moldova (Rep.), Montenegro, North Macedonia (Rep.), Poland, Portugal, Russian Fed., Serbia, Seychelles, Slovenia, Spain, St. Maarten, Sweden, Trinidad and Tobago, Turkey, USA, Ukraine or Viet Nam must have:
 - a negative COVID-19 molecular test taken at most 2 days before departure; or
