@@ -1,4 +1,4 @@
-Published 20.01.2022
+Published 25.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Saudi Arabia;
@@ -37,16 +37,16 @@ They must register at <a href="https://muqeem.sa/#/vaccine-registration/home">ht
 - This does not apply to nationals and residents of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates.
 8. Passengers must obtain an institutional quarantine package for 5 days.
 - This does not apply to:
-- nationals of Saudi Arabia and their spouses, mothers, children and accompanying domestic workers. They must not be arriving from Afghanistan, Ethiopia, Lebanon or Turkey;
+- nationals of Saudi Arabia and their spouses, mothers, children and accompanying domestic workers. They must not be arriving from Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Morocco, Pakistan, Turkey or Viet Nam;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with:
 - Janssen at least 14 days before departure; or
 - AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.
-Passengers who received Sinopharm or Sinovac must have also received one vaccine dose of AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 14 days before departure. They must not be arriving from Afghanistan, Ethiopia, Lebanon or Turkey;
-- passengers with a diplomatic visa and their accompanying domestic workers;
+Passengers who received Sinopharm or Sinovac must have also received one vaccine dose of AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 14 days before departure. They must not be arriving from Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Morocco, Pakistan, Turkey or Viet Nam;
 - passengers younger than 18 years accompanied by their parents with a COVID-19 vaccination certificate showing that the parents were fully vaccinated with:
 - Janssen at least 14 days before departure; or
 - AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.
-Passengers who received Sinopharm or Sinovac must have also received one vaccine dose of AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 14 days before departure. They must not be arriving from Afghanistan, Ethiopia, Lebanon or Turkey.
+Passengers who received Sinopharm or Sinovac must have also received one vaccine dose of AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 14 days before departure. They must not be arriving from Afghanistan, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Morocco, Pakistan, Turkey or Viet Nam;
+- passengers with a diplomatic visa and their accompanying family members.
 9. Passengers could be subject to a COVID-19 PCR test upon arrival and quarantine for 5 days.
 10. Airline crew are subject to quarantine until their next flight.
 11. Suspension of visa on arrival facilities.

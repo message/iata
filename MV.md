@@ -3,7 +3,7 @@ Published 24.01.2022
 2. Passengers must have a negative COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point. Passengers who have transited for more than 24 hours must repeat the test. The test result must have the name of the passenger as in the passport and name and address of the testing laboratory.
 - This does not apply to:
 - passengers younger than 1 year;
-- passengers with a positive COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point, and a COVID-19 recovery certificate issued at most 60 days before departure.
+- passengers with a positive COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point, and a COVID-19 recovery certificate issued at most 60 days before departure. More details can be found at <a href="https://covid19.health.gov.mv/guidance-for-positive-recovered-travelers">https://covid19.health.gov.mv/guidance-for-positive-recovered-travelers</a>
 3. Passengers traveling as tourists must have a hotel reservation confirmation for the entire stay in a registered tourist facility. More details can be found at <a href="https://tinyurl.com/4pps5htf">https://tinyurl.com/4pps5htf</a> .
 4. Passengers could be subject to self-quarantine for 14 days. More details can be found at <a href="https://imuga.immigration.gov.mv/ethd">https://imuga.immigration.gov.mv/ethd</a> .
 - This does not apply to:
