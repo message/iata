@@ -15,14 +15,17 @@ Published 26.01.2022
 - nationals of Indonesia traveling under the Safe Travel Corridor program. They must have an entry permit and a return ticket.
 2. Passengers who in the past 14 days have been in or transited through Botswana, Congo, Congo (Dem. Rep.), Eswatini, Ethiopia, Kenya, Lesotho, Mozambique, Namibia, Nigeria, South Africa, Tanzania or Zimbabwe are not allowed to enter and transit.
 - This does not apply to:
-- nationals of United Arab Emirates;
+- nationals of United Arab Emirates, their accompanying first degree family members and domestic workers;
 - passengers with a golden visa issued by United Arab Emirates;
 - passengers with a diplomatic passport arriving from Kenya.
 3. Passengers arriving at Dubai (DXB):
 - are subject to medical screening, and
 - must download and register the COVID-19 DXB Smart App before departure or upon arrival.
 4. Passengers traveling as tourists arriving at Dubai (DXB) or Sharjah (SHJ) must have health insurance.
-5. Residents of United Arab Emirates with a residence visa returning to Dubai (DXB) or Al Maktoum (DWC) and arriving from Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Pakistan, Sierra Leone, South Africa or Sri Lanka must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx</a> .
+5. Residents of United Arab Emirates with a residence visa returning to Dubai (DXB) or Al Maktoum (DWC) and arriving from Bangladesh, India, Liberia, Nepal, Pakistan, Sierra Leone or Sri Lanka must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx</a> .
+- This does not apply to:
+- first degree family members of nationals of United Arab Emirates and their accompanying domestic workers;
+- nationals of Bahrain, Kuwait, Oman, Qatar and Saudi Arabia.
 6. Passengers entering United Arab Emirates arriving from Afghanistan, Bangladesh, Botswana, Congo, Congo (Dem. Rep.), Eswatini, India, Lesotho, Liberia, Mozambique, Namibia, Nepal, Pakistan, Sierra Leone, South Africa, Sri Lanka, Viet Nam, Zambia or Zimbabwe must have:
 - a printed negative COVID-19 PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
 - a printed negative COVID-19 rapid PCR test (rapid RT-PCR is required for passengers arriving from Bangladesh) taken at most 6 hours before departure from the first embarkation point. The rapid PCR test must be taken at the first departure airport.
@@ -99,7 +102,7 @@ The test result must be in Arabic or English and must be issued by an approved l
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with disabilities.
-17. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Afghanistan, Angola, Argentina, Azerbaijan, Bangladesh, Bosnia and Herzegovina, Brazil, Cambodia, Chile, Cote d'Ivoire, Czechia, Djibouti, Egypt, Eritrea, Ethiopia, Georgia, Ghana, Guinea, India, Iran, Iraq, Jordan, Kenya, Kyrgyzstan, Lebanon, Morocco, Myanmar, Nepal, Nigeria, Pakistan, Philippines, Romania, Russian Fed., Rwanda, Senegal, Slovakia, Somalia, South Africa, South Sudan, Sri Lanka, Sudan, Syria, Tajikistan, Tanzania, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, Uzbekistan, Viet Nam, Zambia or Zimbabwe are subject to a COVID-19 RT-PCR test upon arrival.
+17. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Afghanistan, Angola, Argentina, Azerbaijan, Bangladesh, Bosnia and Herzegovina, Botswana, Brazil, Burundi, Cambodia, Cameroon, Chad, Chile, Colombia, Congo, Congo (Dem. Rep.), Cote d'Ivoire, Djibouti, Egypt, Eritrea, Eswatini, Ethiopia, Georgia, Ghana, Guinea, India, Indonesia, Iran, Iraq, Jordan, Kenya, Kyrgyzstan, Lebanon, Lesotho, Liberia, Mauritania, Mexico, Morocco, Mozambique, Myanmar, Namibia, Nepal, Nigeria, Pakistan, Philippines, Russian Fed., Rwanda, Senegal, Sierra Leone, Slovakia, Somalia, South Africa, South Sudan, Sri Lanka, Sudan, Syria, Tajikistan, Tanzania, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, Uzbekistan, Viet Nam, Zambia or Zimbabwe are subject to a COVID-19 RT-PCR test upon arrival and quarantine until the test result is ready.
 18. Nationals of United Arab Emirates entering Dubai (DXB) or Al Maktoum (DWC) are subject to a COVID-19 PCR test upon arrival.
 19. Passengers entering Abu Dhabi (AUH), Ras Al Khaimah (RKT) or Sharjah (SHJ) are subject to a COVID-19 PCR test upon arrival.
 20. Passengers could be subject to quarantine.
