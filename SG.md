@@ -1,4 +1,4 @@
-Published 24.01.2022
+Published 26.01.2022
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
@@ -47,7 +47,7 @@ Passengers arriving from Category II or Category III countries/regions (<a href=
 More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements">https://www.moh.gov.sg/covid-19/faqs/faqs---border-measures-and-changes-to-stay-home-notice-requirements</a> .
 - This does not apply to:
 - passengers younger than 3 years;
-- passengers with a COVID-19 recovery certificate;
+- passengers with proof of recovery. More details can be found at <a href="https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/mtf-21012022_annex-d.pdf">https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/mtf-21012022_annex-d.pdf</a> ;
 - passengers with a letter of exemption issued by a Singapore Government Agency.
 3. Passengers are not allowed to transit.
 - This does not apply when traveling on airlines with transit routes approved by the Civil Aviation Authority of Singapore (CAAS).
@@ -56,7 +56,7 @@ More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs-
 - This does not apply to:
 - passengers younger than 3 years;
 - merchant seamen;
-- fully vaccinated passengers with a COVID-19 recovery certificate;
+- passengers with proof of recovery. More details can be found at <a href="https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/mtf-21012022_annex-d.pdf">https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/mtf-21012022_annex-d.pdf</a> ;
 - passengers not travelling under the Vaccinated Travel Lane (VTL), Reciprocal Green Lane (RGL), Business Travel Pass (BTP) and Overseas Singaporeans Vaccination Program, and who have travel history to countries/regions classified as Category II, Category III or Category IV in <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>
 6. Passengers must submit a health declaration before arrival via the SG Arrival Card (SGAC) e-Service (<a href="https://eservices.ica.gov.sg/sgarrivalcard">https://eservices.ica.gov.sg/sgarrivalcard</a>) or via the mobile application.
 - This does not apply to passengers in transit.
