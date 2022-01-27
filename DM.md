@@ -7,5 +7,5 @@ Published 30.12.2021
 - This does not apply to passengers younger than 1 year.
 4. Passengers are subject to quarantine at designated hotels for up to 7 days. More details can be found at <a href="https://tinyurl.com/2p8awdba">https://tinyurl.com/2p8awdba</a> .
 - This does not apply to:
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) and Sinopharm. The certificate must be in English;
+- passengers with a COVID-19 vaccination certificate in English showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) and Sinopharm;
 - unvaccinated passengers younger than 18 years if they are traveling with their fully vaccinated parents/guardians.
