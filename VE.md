@@ -1,7 +1,7 @@
-Published 08.12.2021
+Published 27.01.2022
 1. Flights to Venezuela are suspended.
 - This does not apply to:
-- flights from Bolivia, Dominican Rep., Mexico, Panama, Russian Fed. or Turkey;
+- flights from Bolivia, Cuba, Dominican Rep., Mexico, Panama, Russian Fed., Spain and Turkey;
 - humanitarian, medevac and repatriation flights.
 2. Passengers entering or transiting through Venezuela must have a negative COVID-19 PCR test taken at most 72 hours before arrival.
 - This does not apply to passengers younger than 1 year.
