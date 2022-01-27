@@ -1,4 +1,4 @@
-Published 26.01.2022
+Published 27.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -13,7 +13,7 @@ Published 26.01.2022
 - passengers traveling to Abu Dhabi (AUH) with a resident visa;
 - passengers traveling to Abu Dhabi (AUH) with a pre-arranged visa issued by any emirate;
 - nationals of Indonesia traveling under the Safe Travel Corridor program. They must have an entry permit and a return ticket.
-2. Passengers who in the past 14 days have been in or transited through Botswana, Congo, Congo (Dem. Rep.), Eswatini, Ethiopia, Kenya, Lesotho, Mozambique, Namibia, Nigeria, South Africa, Tanzania or Zimbabwe are not allowed to enter and transit.
+2. Until 14:29, 29 January 2022, passengers who in the past 14 days have been in or transited through Botswana, Congo, Congo (Dem. Rep.), Eswatini, Ethiopia, Kenya, Lesotho, Mozambique, Namibia, Nigeria, South Africa, Tanzania or Zimbabwe are not allowed to enter and transit.
 - This does not apply to:
 - nationals of United Arab Emirates, their accompanying first degree family members and domestic workers;
 - passengers with a golden visa issued by United Arab Emirates;
