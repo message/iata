@@ -1,4 +1,4 @@
-Published 27.01.2022
+Published 24.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates;
@@ -12,10 +12,7 @@ Published 27.01.2022
 - a COVID-19 vaccination certificate issued in Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Oman, Saudi Arabia, Seychelles, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Arab Emirates, United Kingdom or USA.
 Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must have a QR code if passengers arrive from a country other than Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom or USA.
-This does not apply to:
-- passengers with a COVID-19 recovery certificate issued at least 14 days and at most 30 days before departure; or
-- a positive COVID-19 PCR test taken at least 14 days and at most 30 days before departure;
-- passengers younger than 6 years.
+- This does not apply to passengers younger than 6 years.
 3. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense.
 - This does not apply to passengers younger than 6 years.
 4. Passengers could be subject to quarantine for up to 10 days.
