@@ -12,14 +12,13 @@ Published 23.01.2022
 - merchant seamen;
 - students;
 - passengers with a Laissez-Passer;
-- deadheading crew;
 - passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. The certificate must state that they received:
 - the first vaccine dose of Janssen at least 28 days before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival and proof of previous infection with COVID-19; or
 - the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and proof of complete vaccination of Covaxin, Sinopharm or Sinovac.
-- More exemptions can be found at <a href="https://tinyurl.com/2p8mf8fy2">https://tinyurl.com/2p8mf8fy2</a>. Passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/2p8mf8fy">https://tinyurl.com/2p8mf8fy</a>
-- This does not apply to deadheading crew.
+- More exemptions can be found at <a href="https://tinyurl.com/2p8mf8fy2">https://tinyurl.com/2p8mf8fy2</a>.
+2. Passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/2p8mf8fy">https://tinyurl.com/2p8mf8fy</a>
 3. Passengers arriving from red list countries: Afghanistan, Belarus, Congo (Dem. Rep.), Georgia, Mauritius, Montenegro, Nigeria, Pakistan, Suriname, Tanzania, Turkey, USA or Zambia must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 12 years.
 4. Passengers arriving from green list countries: Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See) must have:
