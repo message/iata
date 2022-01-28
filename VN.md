@@ -5,7 +5,7 @@ Published 28.01.2022
 - passengers with a Permanent / Temporary Residence Card (TRC);
 - passengers with a Visa Label;
 - passengers with a Certificate of Visa-Exemption Label in the Passport / Booklet;
-- passengers arriving on repatriation flights.
+- passengers with a written approval from Immigration Department of Viet Nam.
 2. Passengers must complete a 'Health Declaration Form' before arrival. The form can be found at <a href="https://tokhaiyte.vn/">https://tokhaiyte.vn/</a>
 3. Passengers must download the “PC-Covid" app before arrival. The app can be found at <a href="http://www.pccovid.gov.vn">www.pccovid.gov.vn</a>
 4. Passengers must have a printed negative COVID-19 RT-LAMP or RT-PCR test taken at most 72 hours before arrival. The test result must be in English and specify "negative" or "not detected".
