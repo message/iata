@@ -24,7 +24,6 @@ Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covieshield, Covovax, Ja
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated;
 - passengers younger than 12 years.
-9. Nationals of Australia, Austria, Belgium, Bulgaria, Canada, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Korea (Rep.), Latvia, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Poland, Portugal, Romania, Russian Fed., Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom and USA, can obtain a visa on arrival at Najaf (NJF). They must have a return ticket and a hotel reservation confirmation.
-10. Passengers traveling to Erbil (EBL) could be subject to quarantine at a designated facility for up to 14 days.
-11. Airline crew traveling to Erbil (EBL) or Sulaymaniyah (ISU) are subject to self-isolation in a hotel until their next flight.
-12. Passengers are subject to medical screening and quarantine.
+9. Passengers traveling to Erbil (EBL) could be subject to quarantine at a designated facility for up to 14 days.
+10. Airline crew traveling to Erbil (EBL) or Sulaymaniyah (ISU) are subject to self-isolation in a hotel until their next flight.
+11. Passengers are subject to medical screening and quarantine.
