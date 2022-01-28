@@ -1,9 +1,11 @@
-Published 07.01.2022
+Published 28.01.2022
 1. Passengers must present an "Immigration/Customs Form" upon arrival. The form can be found at <a href="http://www.travelform.gov.bb">www.travelform.gov.bb</a> or completed upon arrival at the available kiosks.
 2. Passengers must have a negative COVID-19 rapid PCR test taken at most 24 hours before arrival; or
 - a negative COVID-19 RT-PCR test taken at most 3 days before arrival.
 The test result must be in English, based on nasopharyngeal and/or oropharyngeal swab and taken by a healthcare provider.
-- This does not apply to passengers younger than 5 years who are accompanied by a legal guardian.
+- This does not apply to:
+- passengers younger than 5 years who are accompanied by a legal guardian;
+- passengers with a COVID-19 recovery certificate issued at most 3 months before arrival.
 3. Passengers are subject to a COVID-19 PCR test upon arrival.
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V. A combination of vaccines is accepted.
 4. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival could be subject to a COVID-19 antigen test upon arrival.
