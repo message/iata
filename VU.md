@@ -1,7 +1,7 @@
-Published 30.12.2021
-1. Until 31 January 2022, Vanuatu's borders are closed.
+Published 31.01.2022
+1. Until 31 July 2022, Vanuatu's borders are closed.
 - This does not apply to humanitarian flights.
-2. Until 31 January 2022, passengers are not allowed to enter.
+2. Until 31 July 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Vanuatu;
 - permanent residents of Vanuatu who have resided in Vanuatu for the past 3 years;
