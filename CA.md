@@ -1,5 +1,5 @@
-Published 29.01.2022
-1. Until 31 January 2022, passengers are not allowed to enter.
+Published 31.01.2022
+1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Canada;
 - permanent residents of Canada;
