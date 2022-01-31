@@ -1,4 +1,4 @@
-Published 29.01.2022
+Published 31.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -17,11 +17,11 @@ Published 29.01.2022
 - are subject to medical screening, and
 - must download and register the COVID-19 DXB Smart App before departure or upon arrival.
 3. Passengers traveling as tourists arriving at Dubai (DXB) or Sharjah (SHJ) must have health insurance.
-4. Residents of United Arab Emirates with a residence visa returning to Dubai (DXB) or Al Maktoum (DWC) and arriving from Bangladesh, India, Liberia, Nepal, Pakistan, Sierra Leone or Sri Lanka must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx</a> .
+4. Residents of United Arab Emirates with a residence visa returning to Dubai (DXB) or Al Maktoum (DWC) and arriving from Bangladesh, India, Nepal, Pakistan or Sri Lanka must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx</a> .
 - This does not apply to:
 - first degree family members of nationals of United Arab Emirates and their accompanying domestic workers;
 - nationals of Bahrain, Kuwait, Oman, Qatar and Saudi Arabia.
-5. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Afghanistan, Bangladesh, Botswana, Cameroon, Congo, Congo (Dem. Rep.), Eswatini, Ethiopia, India, Kenya, Lesotho, Liberia, Mozambique, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Tanzania or Zimbabwe must have:
+5. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Afghanistan, Bangladesh, Botswana, Cameroon, Congo, Congo (Dem. Rep.), Eswatini, Ethiopia, India, Kenya, Lesotho, Liberia, Mozambique, Nepal, Nigeria, Pakistan, Sierra Leone, Sri Lanka, Tanzania or Zimbabwe must have:
 - a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
 - a printed negative COVID-19 rapid PCR test taken at most 6 hours before departure of the last direct flight to United Arab Emirates.
 The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
@@ -30,7 +30,7 @@ The test result must be in Arabic or English and must be issued by an approved l
 - domestic workers who are traveling with the sponsor or with the first degree family members of the sponsor;
 - passengers younger than 12 years;
 - passengers with disabilities.
-6. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Argentina, Burundi, Chad, Colombia, Egypt, Lebanon, Mauritania, Mexico, Namibia, Sudan, Tajikistan, Turkey, United Kingdom, Uzbekistan or Zambia must have a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
+6. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Argentina, Burundi, Chad, Colombia, Egypt, Lebanon, Mauritania, Mexico, Namibia, South Africa, Sudan, Tajikistan, Turkey, United Kingdom, Uzbekistan or Zambia must have a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.
 - This does not apply to:
 - nationals of United Arab Emirates and their first degree family members;
 - domestic workers who are traveling with the sponsor or with the first degree family members of the sponsor;
@@ -43,7 +43,7 @@ The test result must be in Arabic or English and must be issued by an approved l
 - passengers arriving from Afghanistan, Argentina, Bangladesh, Botswana, Burundi, Cameroon, Chad, Colombia, Congo, Congo (Dem. Rep.), Egypt, Eswatini, Ethiopia, India, Kenya, Lebanon, Lesotho, Liberia, Mauritania, Mexico, Mozambique, Namibia, Nepal, Nigeria, Pakistan, Sierra Leone, South Africa, Sri Lanka, Sudan, Tajikistan, Tanzania, Turkey, United Kingdom, Uzbekistan, Zambia or Zimbabwe;
 - passengers younger than 12 years;
 - passengers with disabilities.
-8. Passengers transiting through Dubai (DXB) or Al Maktoum (DWC) from Botswana, Cameroon, Congo, Congo (Dem. Rep.), Eswatini, Ethiopia, Kenya, Lesotho, Mozambique, Nigeria, South Africa, Tanzania or Zimbabwe must have:
+8. Passengers transiting through Dubai (DXB) or Al Maktoum (DWC) from Botswana, Cameroon, Congo, Congo (Dem. Rep.), Eswatini, Ethiopia, Kenya, Lesotho, Mozambique, Nigeria, Tanzania or Zimbabwe must have:
 - a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
 - a printed negative COVID-19 rapid PCR test taken at most 6 hours before departure of the last direct flight to United Arab Emirates.
 The test result must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test result must also have a QR code.

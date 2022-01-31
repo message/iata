@@ -1,4 +1,4 @@
-Published 21.01.2022
+Published 31.01.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of the Netherlands;
