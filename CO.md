@@ -4,7 +4,7 @@ Published 01.02.2022
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
 - a COVID-19 vaccination certificate showing that they received the first vaccine dose and a negative COVID-19 antigen or PCR test.
 The negative COVID-19 antigen test must be taken at most 48 hours before boarding.
-The negative COVID-19 PCR test be must taken at most 72 hours before boarding.
+The negative COVID-19 PCR test must be taken at most 72 hours before boarding.
 - This does not apply to:
 - nationals and residents of Colombia;
 - passengers younger than 18 years.
