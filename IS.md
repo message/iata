@@ -1,4 +1,4 @@
-Published 31.01.2022
+Published 01.02.2022
 1. Until 28 February 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Iceland;
@@ -10,10 +10,8 @@ Published 31.01.2022
 - passengers in a long-term intimate relationship with a national or resident of Iceland;
 - military personnel traveling on duty;
 - students;
-- until 31 January 2022, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months and at least 14 days before arrival. Details can be found at <a href="https://tinyurl.com/y4el6uru">https://tinyurl.com/y4el6uru</a> ;
-- effective 1 February 2022:
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 9 months and at least 14 days before arrival;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated more than 9 months before arrival. They must have received a booster dose at least 14 days before arrival;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 9 months and at least 14 days before arrival. Details can be found at <a href="https://tinyurl.com/y4el6uru">https://tinyurl.com/y4el6uru</a>;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated more than 9 months before arrival. They must have received a booster dose at least 14 days before arrival. Details can be found at <a href="https://tinyurl.com/y4el6uru">https://tinyurl.com/y4el6uru</a>;
 - passengers with a certificate of previous COVID-19 infection. The certificate must be in Danish, English, Icelandic, Norwegian or Swedish. Tests accepted are:
 - positive COVID-19 PCR test result issued at least 14 days before arrival; or
 - presence of antibodies against COVID-19 measured by ELISA serologic assay.
@@ -31,10 +29,8 @@ The test and the certificates must be in Danish, English, Icelandic, Norwegian o
 5. Passengers are subject to a COVID-19 PCR test upon arrival.
 - This does not apply to:
 - passengers younger than 16 years;
-- until 31 January 2022, passengers who are not nationals or residents of Iceland with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months and at least 14 days before arrival. Details can be found at <a href="https://tinyurl.com/y4el6uru">https://tinyurl.com/y4el6uru</a> ;
-- effective 1 February 2022:
-- passengers who are not nationals or residents of Iceland with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 9 months and at least 14 days before arrival;
-- passengers who are not nationals or residents of Iceland with a COVID-19 vaccination certificate showing that they were fully vaccinated more than 9 months before arrival. They must have received a booster dose at least 14 days before arrival;
+- passengers who are not nationals or residents of Iceland with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 9 months and at least 14 days before arrival. Details can be found at <a href="https://tinyurl.com/y4el6uru">https://tinyurl.com/y4el6uru</a>
+- passengers who are not nationals or residents of Iceland with a COVID-19 vaccination certificate showing that they were fully vaccinated more than 9 months before arrival. They must have received a booster dose at least 14 days before arrival. Details can be found at <a href="https://tinyurl.com/y4el6uru">https://tinyurl.com/y4el6uru</a>
 - passengers with a certificate of previous COVID-19 infection.
 The certificate must be in Danish, English, Icelandic, Norwegian or Swedish. Tests accepted are:
 - positive COVID-19 PCR test result issued at least 14 days before arrival; or

@@ -1,4 +1,4 @@
-Published 24.01.2022
+Published 01.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
@@ -22,13 +22,7 @@ Published 24.01.2022
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;
 - passengers with a "D" visa issued by a Schengen Member State they are traveling to;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax),Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a>
-3. Until 31 January 2022, passengers must have:
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac; or
-- a COVID-19 recovery certificate issued at most 12 months before arrival; or
-- a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
-- a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point.
-- This does not apply to passengers younger than 16 years.
-Effective 1 February 2022, passengers must have:
+3. Passengers must have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at most 270 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac; or
 - a COVID-19 recovery certificate issued at most 270 days before arrival; or
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
