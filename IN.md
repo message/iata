@@ -3,17 +3,14 @@ Published 21.01.2022
 - This does not apply to:
 - relief, repatriation and humanitarian flights;
 - flights under the Air Transport Bubbles.
-2. Passengers are not allowed to enter.
-This does not apply to:
+2. The following passengers are allowed to enter:
 - nationals of Bhutan, India, Maldives and Nepal;
-- residents of India;
+- passengers with a residence permit issued by India;
+- passengers with a visa (tourist visas must be issued on or after 6 October 2021; medical visas must be issued after 21 October 2020);
+- passengers with an E-visa (E-Tourist visas must be issued on or after 6 October 2021);
 - passengers with an Overseas Citizen of India (OCI) card or booklet;
 - passengers with a Persons of Indian Origin (PIO) card;
-- passengers with a diplomatic passport and an NOC (No Objection Certificate) issued by the Ministry of External Affairs;
-- passengers with a visa (excluding medical visas issued on or before 21 October 2020, and tourist visas(Type T)) issued by India;
-- passengers with an E-visa (excluding E-Tourist visas) issued by India;
-- passengers with an E-Tourist visa issued on or after 6 October 2021;
-- passengers with a tourist visa (Type T) issued on or after 6 October 2021.
+- passengers with a diplomatic passport and an NOC (No Objection Certificate) issued by the Ministry of External Affairs.
 3. Passengers are not allowed to transit through Bangalore (BLR), Chennai (MAA), Delhi (DEL), Hyderabad (HYD), Kolkata (CCU) or Mumbai (BOM) to a third country.
 4. E-Tourist visas and tourist visas (Type T) are no longer valid.
 - This does not apply to E-Tourist visas and tourist visas (Type T) issued on or after 6 October 2021.
