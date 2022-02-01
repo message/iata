@@ -1,5 +1,5 @@
-Published 25.01.2022
-1. Passengers are not allowed to enter.
+Published 01.02.2022
+1. Until 28 February 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Poland;
 - spouses and children of nationals of Poland;
@@ -23,5 +23,5 @@ Published 25.01.2022
 - Kindergarten, preschool and primary school pupils.
 3. Passengers must complete a "Passenger Locator Form" (PLF) and present it upon arrival. The form can be found at <a href="https://aplikacje.gov.pl/app/klp/#/home">https://aplikacje.gov.pl/app/klp/#/home</a> or on board.
 4. Passengers could be subject to quarantine for 10 days.
-- This does not apply to passengers with a COVID-19 vaccination certificate in English or Polish showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.
+- This does not apply to passengers with a COVID-19 vaccination certificate in English or Polish showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).
 More quarantine exemptions can be found at <a href="https://www.gov.pl/web/coronavirus/temporary-limitations">https://www.gov.pl/web/coronavirus/temporary-limitations</a>
