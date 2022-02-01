@@ -1,5 +1,6 @@
-Published 26.01.2022
-Passengers entering or transiting through Egypt must have a printed negative COVID-19 PCR or rapid antigen test taken at most 72 hours before arrival. The test must be based on a nasal or oral swab. The test result must have a stamp of the issuing laboratory or a QR code. A COVID-19 RT-PCR test used to depart Egypt becomes invalid for re-entry in all cases; or
+Published 01.02.2022
+Passengers entering or transiting through Egypt must have:
+- a printed negative COVID-19 PCR or rapid antigen test taken at most 72 hours before arrival. The test must be based on a nasal or oral swab. The test result must have a stamp of the issuing laboratory or a QR code. A COVID-19 RT-PCR test used to depart Egypt becomes invalid for re-entry in all cases; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure. The certificate must be in Arabic, French or English and have a QR code; or
-- a COVID-19 vaccination certificate approved and certified by the Egyptian Embassy in the country of departure showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure. The certificate must be in Arabic, French or English and have a QR code.
+- a COVID-19 vaccination certificate approved and certified by the Egyptian Embassy in the country of departure showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.
 - This does not apply to passengers younger than 12 years.
