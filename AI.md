@@ -1,7 +1,7 @@
-Published 24.12.2021
+Published 02.02.2022
 1. Passengers must complete an "Application for Entry" before departure at <a href="https://ivisitanguilla.com/">https://ivisitanguilla.com/</a> . They must present an "Electronic Travel Authorization Certificate" upon arrival.
-2. Passengers must have a printed negative COVID-19 antigen test taken at most 48 hours before arrival. The test must be based on nasopharyngeal swab; or
-- a printed negative COVID-19 NAAT, RNA or RT-PCR test taken within 2-5 days before arrival. The test must be based on nasopharyngeal swab.
+2. Passengers must have a negative COVID-19 antigen test taken at most 48 hours before arrival. The test must be based on nasopharyngeal swab; or
+- a negative COVID-19 NAAT, RNA or RT-PCR test taken within 2-5 days before arrival. The test must be based on nasopharyngeal swab.
 3. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 21 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP) and Sinovac. A combination of vaccines is accepted, but they must be a variation of AstraZeneca (Vaxzevria), Covaxin, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP) and Sinovac.
 - This does not apply to:
 - residents of Anguilla;

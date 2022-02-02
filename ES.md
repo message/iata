@@ -18,9 +18,11 @@ Published 01.02.2022
 2. Passengers must have:
 - a negative COVID-19 rapid antigen test taken at most 24 hours before arrival. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
 - a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 270 days and at least 14 days before arrival; or
-- a COVID-19 vaccination certificate showing that they received a booster dose; or
-- a COVID-19 recovery certificate issued at least 11 days after the positive COVID-19 NAAT test result. The sample for the certificate must have been taken at most 180 days before arrival.
+- a COVID-19 recovery certificate issued at least 11 days after the positive COVID-19 NAAT test result. The sample for the certificate must have been taken at most 180 days before arrival; or
+- a COVID-19 vaccination certificate showing that:
+- they were fully vaccinated at least 14 days and at most 270 days before arrival; or
+- they were fully vaccinated and received a booster dose.
+Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers arriving from Chile, China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Indonesia, Korea (Rep.), Macao (SAR China), New Zealand, Rwanda or Saudi Arabia;
@@ -28,8 +30,10 @@ Published 01.02.2022
 - deadheading crew.
 3. Residents of the United Kingdom arriving from the United Kingdom must have:
 - a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 270 days and at least 14 days before arrival; or
-- a COVID-19 vaccination certificate showing that they received a booster dose.
+- a COVID-19 vaccination certificate showing that:
+- they were fully vaccinated at least 14 days and at most 270 days before arrival; or
+- they were fully vaccinated and received a booster dose.
+Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac.
 This does not apply to:
 - passengers younger than 12 years;
 - deadheading crew.
