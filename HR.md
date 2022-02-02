@@ -13,7 +13,8 @@ Published 02.02.2022
 - merchant seamen;
 - military personnel.
 2. Passengers are subject to a COVID-19 PCR or rapid antigen test upon arrival at their own expense and to self-isolation until a negative test result is ready.
-- This does not apply to passengers with:
+- This does not apply to:
+- passengers with:
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
 - a rapid antigen test taken at most 24 hours before arrival. The rapid antigen test must be listed at <a href="https://tinyurl.com/mu423dca">https://tinyurl.com/mu423dca</a> ; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days and at most 270 days before arrival; or
