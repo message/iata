@@ -1,4 +1,4 @@
-Published 31.01.2022
+Published 02.02.2022
 1. Until 28 February 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Croatia
@@ -12,25 +12,20 @@ Published 31.01.2022
 - passengers traveling as students;
 - merchant seamen;
 - military personnel.
-2. Passengers arriving from Tanzania (only Zanzibar) must have a negative COVID-19 PCR test taken at most 72 hours before arrival. They are subject to mandatory self-isolation for 14 days.
-3. Passengers arriving from Brazil must have a negative COVID-19 antigen test taken at most 48 hours before arrival; or
-- a negative COVID-19 PCR test taken at most 72 hours before arrival. The test must be based on nasopharyngeal swab.
-4. Passengers are subject to a COVID-19 PCR or rapid antigen test upon arrival at their own expense.
-- This does not apply to:
-- passengers with:
+2. Passengers are subject to a COVID-19 PCR or rapid antigen test upon arrival at their own expense and to self-isolation until a negative test result is ready.
+- This does not apply to passengers with:
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or
-- a rapid antigen test taken at most 48 hours before arrival. The rapid antigen test must be listed on <a href="https://tinyurl.com/b57mretv">https://tinyurl.com/b57mretv</a> ; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at most 365 days before arrival; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated with Janssen at least 14 days and at most 365 days before arrival; or
-- a COVID-19 recovery certificate and a COVID-19 vaccination certificate showing that the passenger received the first dose of AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, or Sputnik V vaccine not more than 8 months after infection with COVID-19 and 365 days before arrival; or
-- a positive COVID-19 PCR or rapid antigen test result issued at least 11 days and at most 365 days before arrival;
-- passengers arriving from Brazil or Tanzania (only Zanzibar);
+- a rapid antigen test taken at most 24 hours before arrival. The rapid antigen test must be listed at <a href="https://tinyurl.com/mu423dca">https://tinyurl.com/mu423dca</a> ; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days and at most 270 days before arrival; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated with Janssen at least 14 days and at most 270 days before arrival; or
+- a COVID-19 vaccination certificate showing that they received a booster dose; or
+- a COVID-19 recovery certificate and a COVID-19 vaccination certificate showing that the passenger received the first dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days after infection with COVID-19 and at most 270 days before arrival; or
+- a positive COVID-19 PCR or rapid antigen test result issued at least 11 days and at most 180 days before arrival;
 - passengers arriving directly from Switzerland or an EEA Member State with an EU Digital COVID Certificate;
-- passengers arriving directly from Switzerland or an EEA Member State with a COVID-19 vaccination certificate showing that they received the first vaccine dose of Moderna (Spikevax) , Pfizer-BioNTech (Comirnaty) or Sputnik V between 22 and 42 days before arrival, or showing that they received the first vaccine dose of AstraZeneca (Vaxzevria) between 22 and 84 days before arrival;
 - minors younger than 12 years accompanied by their parents or legal guardians. The parents or guardians must have an EU Digital COVID Certificate, a negative COVID-19 PCR or rapid antigen test result, a vaccination certificate or a recovery certificate.
 More exemptions can be found at <a href="https://mup.gov.hr/uzg-covid/english/286212">https://mup.gov.hr/uzg-covid/english/286212</a>
-5. Passengers could be subject to self-isolation; details can be found at <a href="https://mup.gov.hr/uzg-covid/english/286212">https://mup.gov.hr/uzg-covid/english/286212</a>
-6. Passengers must complete an "Enter Croatia Form" and present it upon arrival. The form can be completed before departure at <a href="https://entercroatia.mup.hr/">https://entercroatia.mup.hr/</a> or upon arrival.
+3. Passengers could be subject to self-isolation; details can be found at <a href="https://mup.gov.hr/uzg-covid/english/286212">https://mup.gov.hr/uzg-covid/english/286212</a>
+4. Passengers must complete an "Enter Croatia Form" and present it upon arrival. The form can be completed before departure at <a href="https://entercroatia.mup.hr/">https://entercroatia.mup.hr/</a> or upon arrival.
 - This does not apply to nationals and residents of Croatia.
-7. More information can be found at <a href="https://mup.gov.hr/uzg-covid/english/286212">https://mup.gov.hr/uzg-covid/english/286212</a>
-8. Passports and national ID cards issued to nationals of Croatia which expired on 11 March 2020 or later are considered valid.
+5. More information can be found at <a href="https://mup.gov.hr/uzg-covid/english/286212">https://mup.gov.hr/uzg-covid/english/286212</a>
+6. Passports and national ID cards issued to nationals of Croatia which expired on 11 March 2020 or later are considered valid.
