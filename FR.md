@@ -1,4 +1,4 @@
-Published 23.01.2022
+Published 02.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of France, their spouses and children;
@@ -17,6 +17,7 @@ Published 23.01.2022
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival and proof of previous infection with COVID-19; or
 - the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and proof of complete vaccination of Covaxin, Sinopharm or Sinovac.
+Passengers with a vaccination certificate showing that they were fully vaccinated more than 270 days before arrival, must have received a booster dose.
 - More exemptions can be found at <a href="https://tinyurl.com/2p8mf8fy2">https://tinyurl.com/2p8mf8fy2</a>.
 2. Passengers must have a completed sworn statement obtained at <a href="https://tinyurl.com/2p8mf8fy">https://tinyurl.com/2p8mf8fy</a>
 3. Passengers arriving from red list countries: Afghanistan, Belarus, Congo (Dem. Rep.), Georgia, Mauritius, Montenegro, Nigeria, Pakistan, Suriname, Tanzania, Turkey, USA or Zambia must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
@@ -27,7 +28,8 @@ Published 23.01.2022
 - the first vaccine dose of Janssen at least 28 days before arrival; or
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival and proof of previous infection with COVID-19; or
-- the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and proof of complete vaccination of Covaxin, Sinopharm or Sinovac; or
+- the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and proof of complete vaccination of Covaxin, Sinopharm or Sinovac.
+Passengers with a vaccination certificate showing that they were fully vaccinated more than 270 days before arrival, must have received a booster dose;
 - a COVID-19 recovery certificate issued at least 11 days and at most 6 months before departure from the first embarkation point.
 - This does not apply to passengers younger than 12 years.
 5. Passengers arriving from green list countries: Bahrain, Chinese Taipei, Hong Kong (SAR China), Japan, Korea (Rep.), Kuwait, New Zealand, Qatar, Rwanda, Saudi Arabia, Senegal, United Arab Emirates, Uruguay or Vanuatu must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
@@ -40,6 +42,7 @@ Published 23.01.2022
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival and proof of previous infection with COVID-19; or
 - the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and proof of complete vaccination of Covaxin, Sinopharm or Sinovac.
+Passengers with a vaccination certificate showing that they were fully vaccinated more than 270 days before arrival, must have received a booster dose.
 8. Passengers arriving from all other countries must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 12 years.
 9. Passengers entering or transiting through France from orange and red list countries must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at <a href="https://tinyurl.com/2p8mf8fy">https://tinyurl.com/2p8mf8fy</a>
@@ -49,6 +52,7 @@ Published 23.01.2022
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival and proof of previous infection with COVID-19; or
 - the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and proof of complete vaccination of Covaxin, Sinopharm or Sinovac.
+Passengers with a vaccination certificate showing that they were fully vaccinated more than 270 days before arrival, must have received a booster dose.
 10. Passengers could be subject to a COVID-19 test upon arrival. More details can be found at <a href="https://tinyurl.com/2p8mf8fy">https://tinyurl.com/2p8mf8fy</a>
 11. Passengers could be subject to self-isolation or quarantine for up to 10 days.
 - This does not apply to passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. The certificate must state that they received:
@@ -56,4 +60,5 @@ Published 23.01.2022
 - the second vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival; or
 - the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days before arrival and proof of previous infection with COVID-19; or
 - the first vaccine dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before arrival and proof of complete vaccination of Covaxin, Sinopharm or Sinovac.
+Passengers with a vaccination certificate showing that they were fully vaccinated more than 270 days before arrival, must have received a booster dose.
 More exemptions can be found at <a href="https://tinyurl.com/2p8mf8fy">https://tinyurl.com/2p8mf8fy</a>

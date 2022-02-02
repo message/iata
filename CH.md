@@ -1,4 +1,4 @@
-Published 01.02.2022
+Published 02.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Liechtenstein and Switzerland;
@@ -11,7 +11,7 @@ Published 01.02.2022
 - with reference to the CH-UK agreement form 25 February 2019; or
 - issued before 1 January 2021;
 - unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax),Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a>
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 270 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax),Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a>
 - unvaccinated passengers younger than 18 years if they are traveling with their fully vaccinated parents/guardians;
 - merchant seamen;
 - military personnel with a letter issued by the Federal Department of Foreign Affairs of Switzerland or the Federal Department of Defense of Switzerland.
@@ -21,7 +21,7 @@ Published 01.02.2022
 - passengers arriving from Andorra, Bahrain, Bulgaria, Chile, Chinese Taipei, Colombia, Croatia, Cyprus, Hong Kong (SAR China), Indonesia, Ireland (Rep.), Korea (Rep.), Kuwait, Macao (SAR China), Monaco, New Zealand, Peru, Qatar, Romania, Rwanda, San Marino, Saudi Arabia, United Arab Emirates, Uruguay or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;
 - passengers with a "D" visa issued by a Schengen Member State they are traveling to;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax),Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a>
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 270 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax),Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/hyk4cbj7">https://tinyurl.com/hyk4cbj7</a>
 3. Passengers must have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at most 270 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac; or
 - a COVID-19 recovery certificate issued at most 270 days before arrival; or
