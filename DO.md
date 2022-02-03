@@ -14,6 +14,6 @@ Published 02.02.2022
 - This does not apply to:
 - passengers with a negative COVID-19 antigen or PCR test taken at most 72 hours before arrival; or
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 3 weeks before arrival.
-7. Passengers and airline crew could be subject to medical screening upon arrival. Details can be found at <a href="http://www.godominicanrepublic.com/newsroom/coronavirus">www.godominicanrepublic.com/newsroom/coronavirus</a>
+7. Passengers and airline crew could be subject to medical screening upon arrival.
 8. Airline crew arriving from Angola, Australia, Botswana, Brazil, Congo (Dem. Rep.), Eswatini, India, Indonesia, Iraq, Ireland (Rep.), Kuwait, Lesotho, Monaco, Namibia, Senegal, South Africa, St. Vincent and the Grenadines, Sweden, Syria, Thailand, Tunisia or United Kingdom without a negative COVID-19 antigen or PCR test taken at most 72 hours before arrival or a COVID-19 vaccination certificate showing that they were fully vaccinated at least 3 weeks before arrival, are subject to self-isolation until their next flight.
 9. Airline crew arriving from Venezuela are subject to self-isolation until their next flight.
