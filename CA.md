@@ -1,4 +1,4 @@
-Published 01.02.2022
+Published 03.02.2022
 1. Until 28 February 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Canada;
@@ -13,7 +13,7 @@ Published 01.02.2022
 2. Passengers must have a negative COVID-19 test taken outside of Canada at most 72 hours before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. More details can be found at <a href="https://tinyurl.com/uuf5nntc">https://tinyurl.com/uuf5nntc</a>
 - This does not apply to:
 - passengers younger than 5 years;
-- passengers with a positive COVID-19 test taken at least 11 days and at most 180 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS;
+- passengers with a positive COVID-19 test taken at least 10 days and at most 180 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS;
 - more exemption can be found via <a href="https://travel.gc.ca/travel-covid/travel-restrictions/exemptions">https://travel.gc.ca/travel-covid/travel-restrictions/exemptions</a>
 3. Passengers and airline crew must submit their information electronically, at most 72 hours before arrival, through the ArriveCAN app or the website <a href="https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html">https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html</a> . Passengers must present an ArriveCAN receipt before boarding.
 4. Passengers must arrive at Abbotsford International (YXX), Calgary (YYC), Edmonton (YEG), Halifax (YHZ), John C. Munro Hamilton International (YHM), Kelowna International (YLW), Montreal (YUL), Ottawa (YOW), Quebec (YQB), Regina International (YQR), Region of Waterloo International (YKF), Saskatoon John G. Diefenbaker International (YXE), St. John's International (YYT), Toronto Pearson (YYZ), Toronto Billy Bishop (YTZ), Vancouver (YVR), Victoria International (YYJ) or Winnipeg (YWG).
