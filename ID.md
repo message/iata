@@ -1,4 +1,4 @@
-Published 02.02.2022
+Published 03.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
@@ -11,12 +11,12 @@ Published 02.02.2022
 - participants of the G20 event with a diplomatic assignment letter issued by their government and invitation letter from the Ministry of Indonesia;
 - passengers arriving at Denpasar-Bali (DPS) or Batam (BTH) as tourists.
 2. Passengers are not allowed to transit.
-3. Passengers must enter Indonesia via Jakarta (CGK) or Manado (MDC).
+3. Passengers must enter Indonesia via Denpasar-Bali (DPS) (effective 4 February 2022), Jakarta (CGK) or Manado (MDC).
 - This does not apply to nationals of Indonesia.
 4. Nationals of Indonesia must enter Indonesia via Batam (BTH) (as tourists), Denpasar-Bali (DPS) (as tourists), Jakarta (CGK), Manado (MDC) or Surabaya (SUB).
 5. Passengers must have a negative COVID-19 PCR or RT-PCR test taken at most 48 hours before departure from the first embarkation point. The test result must be in English.
 6. Airline crew must have a negative COVID-19 PCR or RT-PCR test taken at most 3 days before departure from the first embarkation point. The test result must be in English.
-7. Passengers must have a COVID-19 vaccination certificate showing that they received at least one dose at least 14 days before departure. The certificate must be issued in both English and a local language of the country where passengers were vaccinated.
+7. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. The certificate must be issued in both English and a local language of the country where passengers were vaccinated.
 - This does not apply to:
 - nationals of Indonesia;
 - passengers younger than 18 years;
@@ -24,7 +24,7 @@ Published 02.02.2022
 8. Passengers arriving at Denpasar-Bali (DPS) or Batam (BTH) as tourists must have:
 - a confirmed booking of accommodation; and
 - an e-visit tourist visa with a visa number ending with LN; and
-- a medical insurance with minimal coverage of USD 100,000- for COVID-19 treatment.
+- a medical insurance with minimal coverage of USD 25,000- for COVID-19 treatment.
 9. Airline crew must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. The certificate must be issued in both English and a local language of the country where the airline crew was vaccinated.
 - This does not apply to airline crew transiting without disembarking the aircraft.
 10. Passengers are subject to a COVID-19 PCR test upon arrival and quarantine for up to 7 days.

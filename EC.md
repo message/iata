@@ -1,9 +1,9 @@
-Published 14.01.2022
+Published 03.02.2022
 1. Passengers arriving from or who have transited through Botswana, Egypt, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter.
 - This does not apply to:
 - nationals of Ecuador;
 - permanent residents of Ecuador.
-2. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure.
+2. Passengers must have a negative COVID-19 antigen or RT-PCR test taken at most 72 hours before departure.
 - This does not apply to:
 - passengers younger than 2 years;
 - passengers with a positive COVID-19 RT-PCR test result issued at least 1 month before departure and a medical certificate stating that they are not contagious.
