@@ -1,4 +1,4 @@
-Published 04.01.2022
+Published 03.02.2022
 1. Passengers entering or transiting through Virgin Isl. (USA) must have a travel certification obtained at <a href="https://usvitravelportal.com/">https://usvitravelportal.com/</a> at most 5 days before departure from the first embarkation point. This will generate a green QR code which must be presented before boarding.
 - This does not apply to:
 - passengers younger than 5 years arriving from Guam, Northern Mariana Isl., Puerto Rico or USA;
@@ -10,12 +10,14 @@ This does not apply to:
 - residents of the USA;
 - passengers younger than 18;
 - passengers arriving from Guam, Northern Mariana Isl., Puerto Rico or USA.
-3. Passengers entering or transiting through Virgin Isl. must have a negative COVID-19 test taken at most 1 day before departure from the first embarkation point. Tests accepted are: antigen, NAAT, RT-LAMP, RT-PCR or TMA.
+3. Passengers entering or transiting through Virgin Isl. (USA) must have a negative COVID-19 test taken at most 1 day before departure from the first embarkation point. Tests accepted are: antigen, NAAT, RT-LAMP, RT-PCR or TMA.
 - This does not apply to:
 - passengers younger than 2 years;
 - passengers arriving from Guam, Northern Mariana Isl., Puerto Rico or USA.
-4. Passengers who are arriving from Guam, Northern Mariana Isl., Puerto Rico or USA and who are entering or transiting through Virgin Isl. must have a negative COVID-19 test taken at most 3 days before departure from the first embarkation point. Tests accepted are: antigen, NAAT, RT-LAMP, RT-PCR or TMA.
-- This does not apply to passengers younger than 5 years.
+4. Passengers who are arriving from Guam, Northern Mariana Isl., Puerto Rico or USA and who are entering or transiting through Virgin Isl. (USA) must have a negative COVID-19 test taken at most 5 days before departure from the first embarkation point. Tests accepted are: antigen, NAAT, RT-LAMP, RT-PCR or TMA.
+- This does not apply to:
+- passengers younger than 5 years;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated in Virgin Isl. (USA) at least 15 days (day of vaccination + 14 days) before arrival.
 5. Passengers could be subject to medical screening and quarantine upon arrival.
 6. Nationals of the U.S.A. are allowed to enter with an expired passport.
 - This does not apply to emergency passports which must be valid on arrival.
