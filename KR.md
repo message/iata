@@ -1,40 +1,34 @@
-Published 20.01.2022
-1. Until 3 February 2022, flights from Ethiopia are suspended.
-2. Until 3 February 2022, passengers arriving from or who in the past 14 days have been in Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia and Zimbabwe are not allowed to enter and transit.
+Published 04.02.2022
+1. Short-term visas (type C-1 and C-3) issued on or before 5 April 2020 are no longer valid.
+2. Suspension of visa exemptions for:
+- nationals of Japan;
+- passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) normal passport;
+- passengers with a Hong Kong (SAR China) passport;
+- passengers with a Macao (SAR China) passport;
+- nationals of Antigua and Barbuda, Argentina, Australia, Bahamas, Bahrain, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Canada, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, El Salvador, Eswatini, Fiji, Grenada, Guatemala, Haiti, Honduras, Israel, Jamaica, Kazakhstan, Kiribati, Kuwait, Lesotho, Malaysia, Marshall Isl., Mauritius, Micronesia (Federated States), Montenegro, Morocco, Nauru, New Zealand, Oman, Panama, Paraguay, Peru, Qatar, Russian Fed., Samoa, Saudi Arabia, Serbia, Seychelles, Solomon Isl., South Africa, Spain, St. Lucia, Suriname, Thailand, Tonga, Trinidad and Tobago, Tunisia, Turkey, Tuvalu, United Arab Emirates or Uruguay with a normal passport.
 - This does not apply to:
-- nationals and residents of Korea (Rep.);
-- passengers with a diplomatic or official passport;
-- passengers with an A1, A2 and A3 visa.
-3. Short-term visas (type C-1 and C-3) issued on or before 5 April 2020 are no longer valid.
-4. Suspension of visa exemptions for nationals of Antigua and Barbuda, Argentina, Australia, Bahamas, Bahrain, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Canada, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, El Salvador, Eswatini (Swaziland), Fiji, Grenada, Guatemala, Haiti, Honduras, Israel, Jamaica, Kazakhstan, Kiribati, Kuwait, Lesotho, Malaysia, Marshall Isl., Mauritius, Micronesia (Federated States), Montenegro, Morocco, Nauru, New Zealand, Oman, Panama, Paraguay, Peru, Qatar, Russian Fed., Samoa, Saudi Arabia, Serbia, Seychelles, Solomon Isl., South Africa, Spain, St. Lucia, Suriname, Thailand, Tonga, Trinidad and Tobago, Tunisia, Turkey, Tuvalu, United Arab Emirates or Uruguay with a normal passport.
-- This does not apply to airline crew.
-- This does not apply to passengers with an APEC Business Travel Card.
-- This does not apply to passengers with a diplomatic, an official or a service passport.
-5. Suspension of visa exemptions for nationals of Japan.
-6. Suspension of visa exemptions for passengers with a Chinese Taipei (on the cover: Republic of China Taiwan) normal passport.
-7. Suspension of visa exemptions for passengers with a Hong Kong (SAR China) passport.
-8. Suspension of visa exemptions for passengers with a Macao (SAR China) passport.
-9. Passengers could be subject to quarantine for 10 days.
+- airline crew.
+- passengers with an APEC Business Travel Card.
+- passengers with a diplomatic, an official or a service passport.
+3. Passengers could be subject to quarantine for 7 days.
 - This does not apply to:
 - passengers with a Quarantine Exemption Certificate (the Quarantine Exemption Certificate for family visit purposes is invalid);
 - passengers arriving from Singapore under the Vaccinated Travel Lane with:
 - a COVID-19 vaccination certificate with a QR code obtained from <a href="https://www.notarise.gov.sg/">https://www.notarise.gov.sg/</a> ; and
 - a confirmed booking for the COVID-19 test upon arrival obtained from <a href="https://safe2gopass.com/">https://safe2gopass.com/</a> ; and
 - a printed copy of travel insurance with minimum coverage of approximate USD 25,100.- for COVID-19 related medical expenses (the insurance requirement does not apply to nationals of Korea (Rep.) and passengers with a long-term visa).
-10. Passengers must install the 'self-quarantine safety protection mobile app' found at <a href="https://tinyurl.com/m9fcz6dc">https://tinyurl.com/m9fcz6dc</a> before departure or upon arrival.
+4. Passengers must install the 'self-quarantine safety protection mobile app' found at <a href="https://tinyurl.com/m9fcz6dc">https://tinyurl.com/m9fcz6dc</a> before departure or upon arrival.
 - This does not apply to:
 - passengers with a Quarantine Exemption Certificate (the Quarantine Exemption Certificate for family visit purposes is invalid);
 - passengers arriving from Singapore under the Vaccinated Travel Lane with:
 - a COVID-19 vaccination certificate with a QR code obtained from <a href="https://www.notarise.gov.sg/">https://www.notarise.gov.sg/</a> ; and
 - a confirmed booking for the COVID-19 test upon arrival obtained from <a href="https://safe2gopass.com/">https://safe2gopass.com/</a> ; and
 - a printed copy of travel insurance with minimum coverage of approximate USD 25,100.- for COVID-19 related medical expenses (the insurance requirement does not apply to nationals of Korea (Rep.) and passengers with a long-term visa).
-11. Passengers must complete a "Health Declaration Form" and a "Travel Record Declaration" and present it upon arrival. The forms can be obtained upon arrival.
-12. Passengers are not allowed to transit through Korea (Rep.) for more than 24 hours.
-13. Nationals of Egypt, Sudan, Syria and Yemen are not allowed to transit through Korea (Rep.).
+5. Passengers are not allowed to transit through Korea (Rep.) for more than 24 hours.
+6. Nationals of Egypt, Sudan, Syria and Yemen are not allowed to transit through Korea (Rep.).
 - This does not apply to nationals of Egypt with a diplomatic or service passport.
-14. Passengers with a visa on an expired passport must present a printed "Visa Grant Notice" and the expired passport to the immigration upon arrival.
-15. Passengers with an E-9 visa issued by Korea (Rep.) must present a completed 'Confirmation of Self-quarantine' form upon arrival. The form can be obtained at the local EPS center.
-16. Passengers must have a printed negative COVID-19 test taken at most 2 days before departure from the first embarkation point. Tests accepted are: LAMP, NAAT, NEAR, PCR, RT-PCR, SDA and TMA tests.
+7. Passengers with a visa on an expired passport must present a printed "Visa Grant Notice" and the expired passport to the immigration upon arrival.
+8. Passengers must have a printed negative COVID-19 test taken at most 2 days before departure from the first embarkation point. Tests accepted are: LAMP, NAAT, NEAR, PCR, RT-PCR, SDA and TMA tests.
 The test result must:
 - be in English, Korean or accompanied by a certified English or Korean translation; and
 - have the name of the passenger which must match the name in the passport, the date of birth or passport/ID number and the name of the issuing laboratory; and
@@ -43,8 +37,7 @@ The test result must:
 - This does not apply to:
 - passengers younger than 6 years;
 - passengers traveling on official business or funeral attendance purposes with a Quarantine Exemption Certificate.
-17. Passengers transiting to China (People's Rep.) must enter Korea (Rep.) to obtain a green QR code with an 'HDC' mark.
+9. Passengers transiting to China (People's Rep.) must enter Korea (Rep.) to obtain a green QR code with an 'HDC' mark.
 - This does not apply to passengers with:
 - an invitation letter issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games;
 - a Pre-Valid card (PVC) issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games.
-18. Airline crew arriving from or who have been Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia or Zimbabwe in the past 14 days are subject to a PCR test upon arrival.

@@ -1,4 +1,4 @@
-Published 03.02.2022
+Published 04.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Indonesia;
@@ -11,7 +11,7 @@ Published 03.02.2022
 - participants of the G20 event with a diplomatic assignment letter issued by their government and invitation letter from the Ministry of Indonesia;
 - passengers arriving at Denpasar-Bali (DPS) or Batam (BTH) as tourists.
 2. Passengers are not allowed to transit.
-3. Passengers must enter Indonesia via Denpasar-Bali (DPS) (effective 4 February 2022), Jakarta (CGK) or Manado (MDC).
+3. Passengers must enter Indonesia via Denpasar-Bali (DPS), Jakarta (CGK) or Manado (MDC).
 - This does not apply to nationals of Indonesia.
 4. Nationals of Indonesia must enter Indonesia via Batam (BTH) (as tourists), Denpasar-Bali (DPS) (as tourists), Jakarta (CGK), Manado (MDC) or Surabaya (SUB).
 5. Passengers must have a negative COVID-19 PCR or RT-PCR test taken at most 48 hours before departure from the first embarkation point. The test result must be in English.
