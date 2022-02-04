@@ -1,4 +1,4 @@
-Published 01.02.2022
+Published 04.02.2022
 1. Until 31 March 2022, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -27,7 +27,7 @@ Published 01.02.2022
 - passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.
 5. Passengers entering or transiting through Thailand must have medical insurance with minimum coverage of USD 50,000.
 - This does not apply to nationals of Thailand.
-6. Passengers traveling under the Test & Go scheme must have a hotel reservation for 1 night at AQ, OQ, or SHA+ hotel and 2 RT-PCR tests obtained at <a href="http://www.thailandsha.com/">www.thailandsha.com</a> or <a href="https://asq.in.th/">https://asq.in.th</a> .
+6. Passengers traveling under the Test & Go scheme must have a hotel reservation for 2 nights (day 1 and day 5) at AQ, OQ, or SHA+ hotel and 2 RT-PCR tests obtained at <a href="http://www.thailandsha.com">www.thailandsha.com</a> or <a href="https://asq.in.th">https://asq.in.th</a> .
 7. Passengers traveling under the Sandbox Program scheme must:
 - arrive at Bangkok (BKK), Phuket (HKT) or Ko Samui (USM); and
 - have a hotel reservation for 7 nights at SHA+ hotel obtained at <a href="http://www.thailandsha.com">www.thailandsha.com</a> and proof of payment for COVID-19 tests. They are subject to quarantine for 7 days.
