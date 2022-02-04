@@ -30,10 +30,11 @@ More details can be found at <a href="https://tinyurl.com/y398dxv4">https://tiny
 - passengers who are 4 years or younger;
 - passengers with a positive COVID-19 PCR test taken at least 7 days before departure from the first embarkation point; and
 - a COVID-19 recovery certificate issued at most 30 days before departure from the first embarkation point showing that they are not contagious.
-4. Passengers traveling above the passenger caps must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTec (Comirnaty), Sinopharm (BIBP) (for passengers younger than 60 years only), Sinovac and Sputnik V.
+4. Passengers travelling above the passenger caps must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (Covishield), Covaxin, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTec (Comirnaty), Sinopharm (BIBP) (for passengers younger than 60 years only), Sinovac and Sputnik V.
 - This does not apply to:
 - passengers younger than 12 years;
-- nationals of Australia between 12 and 17 years traveling with a fully vaccinated parent/guardian and arriving in Australian Capital Territory, New South Wales or Victoria.
+- passengers between 12 and 17 years traveling with a fully vaccinated guardian to a state or territory in which they will not be required to undertake mandatory supervised quarantine. More details can be found at <a href="https://www.australia.gov.au/states">https://www.australia.gov.au/states</a>;
+- passengers with a travel exemption obtained at <a href="https://travel-exemptions.homeaffairs.gov.au/tep">https://travel-exemptions.homeaffairs.gov.au/tep</a>. More details can be found at <a href="https://covid19.homeaffairs.gov.au/travel-restrictions#toc-5">https://covid19.homeaffairs.gov.au/travel-restrictions#toc-5</a>
 5. Passengers are not allowed to transit through Australia to New Zealand for more than 72 hours.
 - This does not apply to passengers with an exemption applied at <a href="https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form">https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form</a>
 6. Passengers must have a "Travel Declaration" form and present it at time of check-in. The form can be found at <a href="https://covid19.homeaffairs.gov.au/australia-travel-declaration">https://covid19.homeaffairs.gov.au/australia-travel-declaration</a>

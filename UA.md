@@ -1,4 +1,4 @@
-Published 05.12.2021
+Published 04.02.2022
 1. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe for more than 7 days are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Ukraine;
@@ -19,6 +19,7 @@ Published 05.12.2021
 3. Passengers must have insurance to cover medical expenses in Ukraine.
 - This does not apply to:
 - nationals of Ukraine;
+- permanent residents of Ukraine;
 - passengers with a diplomatic passport;
 - merchant seamen;
 - NATO military personnel.
@@ -33,3 +34,4 @@ Published 05.12.2021
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm or Sinovac;
 - passengers with a negative COVID-19 PCR test taken at most 72 hours before arrival;
 - passengers with a COVID-19 recovery certificate.
+<p>
