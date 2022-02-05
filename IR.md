@@ -1,4 +1,4 @@
-Published 17.01.2022
+Published 04.02.2022
 1. Passengers arriving from or who have transited through Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, United Kingdom or Zimbabwe in the past 14 days are not allowed to enter.
 - This does not apply to nationals and residents of Iran.
 2. Passengers entering or transiting through Iran, must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English or approved by an Iranian consulate.
@@ -12,4 +12,4 @@ Published 17.01.2022
 5. Passengers could be subject to COVID-19 test upon arrival and quarantine at their own expense.
 6. Nationals and residents of Iran arriving from or who have transited through Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa, United Kingdom or Zimbabwe in the past 14 days are subject to a COVID-19 test upon arrival and quarantine for 14 days at a hotel in the airport.
 7. Passengers must complete a "Self-declaration Form" before arrival at <a href="https://tinyurl.com/2amxzs3u">https://tinyurl.com/2amxzs3u</a>
-8. E-visas can be obtained before departure at <a href="http://e_visa.mfa.ir/en/">http://e_visa.mfa.ir/en/</a> . Passengers must have an e-visa confirmation.
+8. E-visas can be obtained before departure at <a href="http://e_visa.mfa.ir/en/">http://e_visa.mfa.ir/en/</a> . Passengers must have an e-visa confirmation and return/onward tickets.
