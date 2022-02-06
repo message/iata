@@ -1,4 +1,4 @@
-Published 04.02.2022
+Published 06.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of France, their spouses and children;
@@ -8,7 +8,7 @@ Published 04.02.2022
 - a document that proofs residence before 1 January 2021, in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
 - passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EU Member State;
 - passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See). They must have not been outside these countries in the past 30 days;
-- passengers arriving from Bahrain, Chinese Taipei, Honduras, Hong Kong (SAR China), Indonesia, Japan, Korea (Rep.), Kuwait, New Zealand, Qatar, Rwanda, Saudi Arabia, Senegal, United Arab Emirates, Uruguay or Vanuatu. They must not have been outside these countries in the past 30 days;
+- passengers arriving from Bahrain, Chinese Taipei, Honduras, Hong Kong (SAR China), Indonesia, Japan, Korea (Rep.), Kuwait, New Zealand, Qatar, Rwanda, Saudi Arabia, Senegal, United Arab Emirates or Vanuatu. They must not have been outside these countries in the past 30 days;
 - merchant seamen;
 - students;
 - passengers with a Laissez-Passer;
@@ -30,7 +30,7 @@ Passengers with a vaccination certificate showing that they were fully vaccinate
 Passengers with a vaccination certificate showing that they were fully vaccinated more than 270 days before arrival, must have received a booster dose;
 - a COVID-19 recovery certificate issued at least 11 days and at most 6 months before departure from the first embarkation point.
 - This does not apply to passengers younger than 12 years.
-4. Passengers arriving from green list countries: Bahrain, Chinese Taipei, Honduras, Hong Kong (SAR China), Indonesia, Japan, Korea (Rep.), Kuwait, New Zealand, Qatar, Rwanda, Saudi Arabia, Senegal, United Arab Emirates, Uruguay or Vanuatu must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
+4. Passengers arriving from green list countries: Bahrain, Chinese Taipei, Honduras, Hong Kong (SAR China), Indonesia, Japan, Korea (Rep.), Kuwait, New Zealand, Qatar, Rwanda, Saudi Arabia, Senegal, United Arab Emirates or Vanuatu must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 12 years.
 5. Passengers arriving from the United Kingdom must have a negative COVID-19 antigen or PCR test taken at most 24 hours before departure from the first embarkation point.
 - This does not apply to passengers younger than 12 years;
