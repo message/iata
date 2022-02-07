@@ -15,4 +15,4 @@ The certificate must:
 - passengers younger than 18 years.
 3. Passengers must complete a "Traveler's Health Information" form at most 24 hours before arrival at <a href="https://tinyurl.com/2er8ee42">https://tinyurl.com/2er8ee42</a> . This will generate a QR code which must be presented upon arrival.
 - This does not apply to passengers younger than 12 years.
-4. Passengers could be subject to quarantine for 10 days.</p><p>
+4. Passengers could be subject to quarantine for 10 days. <p/><p>

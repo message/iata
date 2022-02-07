@@ -1,4 +1,4 @@
-Published 04.02.2022
+Published 07.02.2022
 1. Until 28 February 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
@@ -22,10 +22,9 @@ Published 04.02.2022
 - a COVID-19 vaccination certificate showing that:
 - they were fully vaccinated at least 14 days and at most 270 days before arrival; or
 - they were fully vaccinated and received a booster dose.
-Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac.
+Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. Other vaccines are accepted if the last dose received is one of the previously listed vaccines.
 - This does not apply to:
 - passengers younger than 12 years;
-- until 6 February 2022, passengers arriving from Chile;
 - passengers arriving from China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Indonesia, Korea (Rep.), Macao (SAR China), New Zealand, Rwanda or Saudi Arabia;
 - residents of the United Kingdom arriving from the United Kingdom;
 - deadheading crew.
@@ -34,7 +33,7 @@ Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Cova
 - a COVID-19 vaccination certificate showing that:
 - they were fully vaccinated at least 14 days and at most 270 days before arrival; or
 - they were fully vaccinated and received a booster dose.
-Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac.
+Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. Other vaccines are accepted if the last dose received is one of the previously listed vaccines.
 This does not apply to:
 - passengers younger than 12 years;
 - deadheading crew.
