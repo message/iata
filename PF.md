@@ -1,7 +1,8 @@
-Published 24.01.2022
-1. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated with:
-- AstraZeneca (Vaxzevria), Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 7 days before departure; or
-- Janssen at least 28 days before departure.
+Published 07.02.2022
+1. Passengers must have a COVID-19 vaccination certificate showing that:
+- they were fully vaccinated at least 7 days and at most 9 months before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty); or
+- they were fully vaccinated at least 28 days and at most 9 months before arrival. Vaccine accepted is Janssen; or
+- they were fully vaccinated and received a booster dose.
 - This does not apply to passengers younger than 18 years.
 2. Passengers must complete an "ETIS Application" at <a href="https://www.etis.pf/en/">https://www.etis.pf/en/</a> at least 6 days and at most 30 days before departure.
 3. Passengers must have a negative COVID-19 rapid antigen or RT-PCR test taken at most 24 hours before departure from the first embarkation point. More information can be found at <a href="https://tahititourisme.com/en-us/covid-19/">https://tahititourisme.com/en-us/covid-19/</a>

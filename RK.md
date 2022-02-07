@@ -1,10 +1,11 @@
-Published 25.01.2022
+Published 07.02.2022
 Passengers must have:
-- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 15 days before arrival, and a negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to Kosovo (Rep.); or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 15 days before arrival, and they also received a booster dose.
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days and at most 12 months before arrival. Vaccines accepted are: with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty); or
+- a COVID-19 vaccination certificate showing that they received one dose of AstraZeneca (Vaxzevria), Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) and a negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to Kosovo; or
+- they were fully vaccinated and received a booster dose; or
+- a COVID-19 recovery certificate issued at least 21 days and at most 90 days before arrival; or
+- a negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to Kosovo.
 - This does not apply to:
 - nationals and residents of Kosovo (Rep.);
 - passengers younger than 12 years;
-- passengers between 12 and 16 years with a negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to Kosovo (Rep.);
-- passengers traveling through Kosovo (Rep.) to a third country. They must leave Kosovo (Rep.) within 3 hours;
-- passengers with a medical certificate specifying that the passenger cannot be vaccinated due to medical reasons. They must have a negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to Kosovo (Rep.).
+- passengers traveling through Kosovo (Rep.) to a third country. They must leave Kosovo (Rep.) within 3 hours.
