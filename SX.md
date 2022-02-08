@@ -1,4 +1,4 @@
-Published 08.02.2021
+Published 08.02.2022
 1. Passengers entering and transiting through St.Maarten must have a negative COVID-19 RT-PCR test based on a nasopharyngeal swab, taken at most 48 hours before departure (an oropharyngeal swab is accepted for children between 5 and 10 years).
 - This does not apply to:
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days and at most 9 months before arrival. They must have a negative antigen test based on a nasopharyngeal swab, taken at most 24 hours before departure. Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP);
