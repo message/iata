@@ -1,4 +1,4 @@
-Published 03.02.2022
+Published 08.02.2022
 1. Until 9 February 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of the Philippines;
@@ -10,11 +10,16 @@ Published 03.02.2022
 - passengers with an Identification Certificate (IC) or a Certificate of Re-acquisition/Retention of Philippine Citizenship (CRPC) issued by the Philippines;
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated in the Philippines, at least 14 days before arrival.
 2. Passengers must have a negative COVID-19 RT-PCR test taken at most 48 hours before departure from the first embarkation point.
-3. Passengers without a COVID-19 vaccination certificate showing that they were fully vaccinated, are subject to quarantine for up to 19 days.
+- Effective 10 February 2022, this does not apply to nationals of the Philippines with:
+- a positive COVID-19 RT-PCR test taken at most 48 hours before departure from the first embarkation point; and
+- a positive COVID-19 RT-PCR test taken at least 10 days and at most 30 days before departure from the first embarkation point; and
+- a medical certificate specifying that they do not have COVID-19 symptoms and are not contagious.
+3. Passengers without a COVID-19 vaccination certificate showing that they were fully vaccinated, are subject to quarantine for 14 days.
 - This does not apply to passengers younger than 12 years accompanied by their fully vaccinated parent or guardian.
-4. Effective 10 February 2022, passengers who are visa exempt must have a COVID-19 vaccination certificate showing that they were fully vaccinated.
+4. Effective 10 February 2022, passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before departure from the first embarkation point.
 - This does not apply to:
-- passengers younger than 18 years;
+- passengers younger than 12 years accompanied by a fully vaccinated parent/guardian;
+- nationals of the Philippines;
 - passengers with a medical certificate of contraindication who cannot be vaccinated.
 5. Passengers and airline crew traveling to Angeles city (CRK), Cebu (CEB) and Manila (MNL) must complete the "One Health Pass" form before arrival at <a href="https://onehealthpass.com.ph/e-HDC/OHP-Registration/">https://onehealthpass.com.ph/e-HDC/OHP-Registration/</a> . This will generate a QR code which must be presented upon arrival.
 - This does not apply to:
@@ -22,4 +27,4 @@ Published 03.02.2022
 - airline crew staying in the aircraft.
 6. Passengers must install the app 'TRAZE' on their personal device before departure.
 7. Suspension of all visa on arrival facilities.
-8. Suspension of all visa exemptions.
+8. Effective 10 February 2022, visa exemptions will be reinstated.
