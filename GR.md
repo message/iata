@@ -1,25 +1,13 @@
-Published 07.02.2022
-1. Until 21 February 2022, passengers are not allowed to enter.
-- This does not apply to:
-- nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
-- British nationals and residents of the United Kingdom;
-- nationals and residents of Albania, Andorra, Argentina, Armenia, Australia, Azerbaijan, Bahrain, Belarus, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chile, China (People's Rep.), Chinese Taipei, India, Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Kuwait, Lebanon, Mexico, Moldova (Rep.), Monaco, Montenegro, New Zealand, North Macedonia (Rep), Oman, Qatar, Russian Fed., San Marino, Saudi Arabia, Serbia, Singapore, Turkey, USA, Ukraine, United Arab Emirates, Uruguay and Vatican City (Holy See);
-- passengers with a residence permit issued by Greece. A certificate of application for renewal of a residence permit issued by Greece is also accepted;
-- passengers with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom;
-- passengers with a long term visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;
-- merchant seamen;
-- military personnel;
-- students.
-More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
-2. Passengers must complete a "Passenger Locator Form (PLF)" at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> before arrival in Greece. A confirmation email or a QR code generated from the completed form must be presented upon arrival. Families can be accepted with one joint confirmation e-mail or a unique QR code.
-3. Passengers must have:
+Published 08.02.2022
+1. Passengers must complete a "Passenger Locator Form (PLF)" at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a> before arrival in Greece. A confirmation email or a QR code generated from the completed form must be presented upon arrival. Families can be accepted with one joint confirmation e-mail or a unique QR code.
+2. Passengers must have:
 - a negative COVID-19 rapid antigen test taken at most 24 hours before arrival; or
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival.
 All documents must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
 - This does not apply to:
 - passengers younger than 5 years;
 - passengers arriving from Albania, Andorra, Armenia, Austria, Belgium, Bulgaria, Cape Verde, Chinese Taipei, Croatia, Cyprus, Denmark, El Salvador, Estonia, Finland, France, Georgia, Germany, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova (Rep.), Monaco, Montenegro, Morocco, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Panama, Poland, Portugal, Romania, San Marino, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Togo, Tunisia, Ukraine, United Arab Emirates, United Kingdom, Uruguay or Vatican City (Holy See).
-4. Passengers arriving from Albania, Andorra, Armenia, Austria, Belgium, Bulgaria, Cape Verde, Chinese Taipei, Croatia, Cyprus, Denmark, El Salvador, Estonia, Finland, France, Georgia, Germany, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova (Rep.), Monaco, Montenegro, Morocco, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Panama, Poland, Portugal, Romania, San Marino, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Togo, Tunisia, Ukraine, United Arab Emirates, United Kingdom, Uruguay or Vatican City (Holy See) must have:
+3. Passengers arriving from Albania, Andorra, Armenia, Austria, Belgium, Bulgaria, Cape Verde, Chinese Taipei, Croatia, Cyprus, Denmark, El Salvador, Estonia, Finland, France, Georgia, Germany, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova (Rep.), Monaco, Montenegro, Morocco, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Panama, Poland, Portugal, Romania, San Marino, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Togo, Tunisia, Ukraine, United Arab Emirates, United Kingdom, Uruguay or Vatican City (Holy See) must have:
 - an EU Digital COVID Certificate (EU DCC); or
 - a negative COVID-19 rapid antigen test taken at most 24 hours before arrival; or
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival; or
@@ -27,9 +15,5 @@ All documents must be in English, French, German, Greek, Italian, Spanish or Rus
 - a positive COVID-19 antigen, PCR or RT-PCR test result issued at least 14 days and at most 180 days before arrival.
 All documents must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
 - This does not apply to passengers younger than 5 years.
-5. Passengers arriving from Albania, Argentina, Brazil, Bulgaria, Chile, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Mexico, Morocco, North Macedonia (Rep.), Oman, Pakistan, Russian Fed., Turkey, United Arab Emirates or Uruguay are subject to a COVID-19 PCR or rapid antigen test upon arrival.
-- This does not apply to:
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
-- passengers with a COVID-19 recovery certificate.
-6. Passengers arriving from a country other than Albania, Argentina, Brazil, Bulgaria, Chile, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Mexico, Morocco, North Macedonia (Rep.), Oman, Pakistan, Russian Fed., Turkey, United Arab Emirates or Uruguay could be subject to a COVID-19 rapid test upon arrival.
-7. Passengers could be subject to quarantine for 5 days. Details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
+4. Passengers could be subject to a COVID-19 test upon arrival.
+5. Passengers could be subject to quarantine for 5 days. Details can be found at <a href="https://travel.gov.gr/">https://travel.gov.gr/</a>
