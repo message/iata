@@ -1,10 +1,8 @@
-Published 31.12.2021
-1. Passengers entering or transiting through St. Maarten must have:
-- a negative COVID-19 RT-PCR test based on a nasopharyngeal swab, taken at most 48 hours before departure (an oropharyngeal swab is accepted for children between 5 and 10 years); or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP) and they also received a booster dose at least 2 weeks before arrival.
+Published 08.02.2021
+1. Passengers entering and transiting through St.Maarten must have a negative COVID-19 RT-PCR test based on a nasopharyngeal swab, taken at most 48 hours before departure (an oropharyngeal swab is accepted for children between 5 and 10 years).
 - This does not apply to:
-- passengers with a negative antigen test based on a nasopharyngeal swab, taken at most 24 hours before departure, and a vaccination certificate showing that they they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP) or Sinovac at least 2 weeks before arrival;
-- passengers between 5 and 17 years with a vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP) or Sinovac at least 2 weeks before arrival;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days and at most 9 months before arrival. They must have a negative antigen test based on a nasopharyngeal swab, taken at most 24 hours before departure. Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP);
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated and received a booster dose at least 2 weeks before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP).
 - passengers younger than 5 years.
 2. Passengers entering or transiting through St. Maarten must complete a health declaration form at least 12 hours before departure obtained at <a href="https://stmaartenentry.com/">https://stmaartenentry.com/</a> . This will generate a QR code which must be presented at time of check-in and upon arrival.
 - This does not apply to passengers transiting in the same calendar day to Saba, with an authorization obtained at <a href="http://www.sabatourism.com/travel-requirements">www.sabatourism.com/travel-requirements</a>
