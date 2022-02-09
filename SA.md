@@ -31,6 +31,7 @@ Those who received Sinopharm or Sinovac must have also received one vaccine dose
 They must register at <a href="https://muqeem.sa/#/vaccine-registration/home">https://muqeem.sa/#/vaccine-registration/home</a> , and must download the Tawakkalna App and submit their personal details within 8 hours after arrival. Passengers who received Sinopharm or Sinovac must have also received one vaccine dose of AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 14 days before departure.
 - This does not apply to:
 - nationals of Saudi Arabia;
+- passengers younger than 18 years;
 - first degree family members of nationals of Saudi Arabia;
 - domestic workers of nationals of Saudi Arabia. They must be accompanied by the sponsor.
 6. Passengers must register before departure at <a href="https://muqeem.sa/#/vaccine-registration/home">https://muqeem.sa/#/vaccine-registration/home</a> .
