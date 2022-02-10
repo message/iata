@@ -1,4 +1,4 @@
-Published 08.02.2022
+Published 10.02.2022
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
@@ -50,7 +50,7 @@ More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs-
 - passengers with proof of recovery. More details can be found at <a href="https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/mtf-21012022_annex-d.pdf">https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/mtf-21012022_annex-d.pdf</a> ;
 - passengers with a letter of exemption issued by a Singapore Government Agency.
 3. Passengers are not allowed to transit.
-- This does not apply when traveling on airlines with transit routes approved by the Civil Aviation Authority of Singapore (CAAS).
+- This does not apply when traveling on airlines with transit routes approved by the Civil Aviation Authority of Singapore (CAAS) and being through-checked to their destination without clearing arrival immigration.
 4. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine or Stay Home Notice (SHN). Please refer to <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>
 5. Passengers could be subject to a COVID-19 PCR test upon arrival at their own expense. Passengers should register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for at <a href="https://safetravel.changiairport.com">https://safetravel.changiairport.com</a>
 - This does not apply to:
