@@ -1,4 +1,4 @@
-Published 04.12.2021
+Published 10.12.2021
 1. Passengers must have:
 - a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must be issued in Andorra, Armenia, Austria, Belgium, Cape Verde, Croatia, Cyprus, Czechia, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, India, Ireland (Rep.), Italy, Lebanon, Liechtenstein, Lithuania, Malta, Moldova (Rep.), Morocco, Netherlands, Romania, San Marino, Serbia, Spain, Slovakia, Slovenia, Switzerland, Tunisia, Turkey, Ukraine, United Arab Emirates or United Kingdom. Details can be found at <a href="https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements">https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements</a> ; or
@@ -12,7 +12,6 @@ Published 04.12.2021
 - nationals of Slovenia;
 - nationals of Albania, Bosnia and Herzegovina, Bulgaria, Hungary, Montenegro and North Macedonia (Rep.) if arriving from their country of nationality;
 - residents of Albania, Bosnia and Herzegovina, Bulgaria, Hungary, Montenegro and North Macedonia (Rep.) if arriving from their country of residency. They are subject to a COVID-19 antigen or PCR test at most 48 hours after arrival;
-- passengers arriving from Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa, USA or Zimbabwe;
 - passengers younger than 12 years;
 - passengers between 12 years and 18 years. They must take an antigen or RT-PCR test within 48 hours after arrival;
 - passengers traveling on business with an email confirmation from the Serbian Chamber of Commerce;
@@ -51,11 +50,3 @@ Published 04.12.2021
 - passengers in transit for less than 12 hours;
 - airline crew;
 - military personnel traveling on duty.
-5. Passengers arriving from Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe must have:
-- a negative COVID-19 RT-PCR test result issued at most 48 hours before arrival; or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must be issued in Andorra, Armenia, Austria, Belgium, Cape Verde, Croatia, Cyprus, Czechia, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, India, Ireland (Rep.), Italy, Lebanon, Liechtenstein, Lithuania, Malta, Moldova (Rep.), Morocco, Netherlands, Romania, San Marino, Serbia, Spain, Slovakia, Slovenia, Switzerland, Tunisia, Turkey, Ukraine, United Arab Emirates or United Kingdom; or
-- a COVID-19 recovery certificate issued in Andorra, Austria, Bulgaria, Cape Verde, Croatia, Denmark, Estonia, Germany, Greece, Iceland, Ireland (Rep.), Liechtenstein, Luxembourg, Romania, San Marino, Serbia, Slovenia, Spain, Switzerland, Tunisia, Turkey or USA. Passengers must have tested positive at least 14 days and at most 6 months before arrival. Details can be found at <a href="https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements">https://www.mfa.gov.rs/en/citizens/travel-serbia/covid-19-entry-requirements</a> .
-6. Passengers arriving from Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe must sign a "statement of consent" accepting the quarantine mesures; and
-- submit a "Foreigners Surveillance Registration" before departure at <a href="http://www.ezdravlje.gov.rs/">http://www.ezdravlje.gov.rs/</a> . They must have a confirmation email.
-- This does not apply to nationals and residents of Serbia.
-7. Passengers could be subject to quarantine for 14 days.
