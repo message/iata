@@ -1,4 +1,4 @@
-Published 08.02.2022
+Published 10.02.2022
 1. Passengers are not allowed to enter if in the past 14 days they have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe.
 - This does not apply to nationals and residents of Chile.
 2. Passengers are not allowed to enter.
@@ -17,10 +17,12 @@ Published 08.02.2022
 4. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Chile.
 - This does not apply to:
 - passengers younger than 2 years;
+- merchant seamen;
 - passengers with 2 medical certificates with positive COVID-19 RT-PCR test results:
 - the first test taken at least 10 days and at most one month before departure, and
 - the second test taken at most 72 hours before departure.
 5. Passengers must complete an "Affidavit for Travellers to Prevent Coronavirus Diseases (COVID-19) (Declaracion Jurada)" at most 48 hours before boarding at <a href="http://www.c19.cl">www.c19.cl</a> . They will receive a confirmation email with a QR code to be presented upon arrival. The confirmation email must state "Vacunas Validadas" for passengers with a COVID-19 vaccination certificate.
+- This does not apply to merchant seamen.
 6. Passengers must have travel insurance to cover COVID-19 expenses, with a minimum coverage of USD 30,000.
 This does not apply to:
 - nationals and residents of Chile;

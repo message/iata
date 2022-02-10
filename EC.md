@@ -1,5 +1,5 @@
-Published 04.02.2022
-1. Passengers must have a negative COVID-19 antigen or RT-PCR test taken at most 72 hours before departure.
+Published 10.02.2022
+1. Until 10 February 2022, passengers must have a negative COVID-19 antigen or RT-PCR test taken at most 72 hours before departure.
 - This does not apply to:
 - passengers younger than 2 years;
 - passengers with a positive COVID-19 RT-PCR test result issued at least 1 month before departure and a medical certificate stating that they are not contagious.

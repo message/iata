@@ -34,9 +34,7 @@ The test result must:
 - have the name of the passenger which must match the name in the passport, the date of birth or passport/ID number and the name of the issuing laboratory; and
 - specify the date that the test was taken; and
 - be issued by an approved laboratory if arriving from Philippines or Uzbekistan. Details can be found at the Korean (Rep.) Embassy website in those countries.
-- This does not apply to:
-- passengers younger than 6 years;
-- passengers traveling on official business or funeral attendance purposes with a Quarantine Exemption Certificate.
+- This does not apply to passengers younger than 6 years.
 9. Passengers transiting to China (People's Rep.) must enter Korea (Rep.) to obtain a green QR code with an 'HDC' mark.
 - This does not apply to passengers with:
 - an invitation letter issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games;
