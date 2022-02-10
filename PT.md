@@ -1,38 +1,31 @@
-Published 07.02.2022
-1. The following passengers are allowed to enter:
+Published 10.02.2022
+1. Passengers are not allowed to enter.
+This does not apply to:
 - nationals of Portugal and their family members;
 - residents of Portugal;
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;
 - passengers with a long term visa issued by Portugal;
-- passengers arriving from Argentina, Australia, Austria, Bahrain, Belgium, Brazil, Bulgaria, Canada, Chile, China (People's Rep.), Chinese Taipei, Colombia, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Indonesia, Ireland (Rep.), Italy, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Netherlands, New Zealand, Norway, Peru, Poland, Portugal, Qatar, Romania, Rwanda, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, United Arab Emirates, United Kingdom or Uruguay;
+- passengers arriving from Austria, Bahrain, Belgium, Brazil, Bulgaria, Chile, China (People's Rep.), Chinese Taipei, Colombia, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Indonesia, Ireland (Rep.), Italy, Korea (Rep.), Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Netherlands, New Zealand, Norway, Peru, Poland, Portugal, Qatar, Romania, Rwanda, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, United Arab Emirates, United Kingdom or Uruguay;
 - passengers with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden, returning via Portugal to their country of residence;
 - passengers with a long term visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden, returning via Portugal to their country of residence;
-- passengers with:
-- an EU Digital Covid Certificate (EU DCC); or
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The certificate must be issued in Argentina, Australia, Bahrain, Canada, Chile, China (People's Rep.), Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates or Uruguay. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty);
-- a positive COVID-19 test result and a recovery certificate.
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days and at most 270 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Nuvaxovid (Novavax) and Pfizer-BioNTech (Comirnaty);
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated and have received a booster dose;
+- passengers with a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival.
 2. Passengers entering or transiting through Portugal must complete an electronic "Passenger Locator Form (PLF)" and present it before boarding. The form can be found at <a href="https://portugalcleanandsafe.pt/en/passenger-locator-card">https://portugalcleanandsafe.pt/en/passenger-locator-card</a>
 - This does not apply to passengers traveling on a direct flight to Azores or Madeira.
 3. Passengers traveling to Azores must complete a "Health Form upon arrival at the Azores" and a "Draft statement for inter-island travel" upon arrival; or
 - submit a "Questionnaire for Risk Assessment and Early Detection" before departure at <a href="https://mysafeazores.com/">https://mysafeazores.com/</a>
 4. Passengers traveling to Madeira must complete an epidemiological survey before departure at <a href="https://madeirasafe.com">https://madeirasafe.com</a> . This will generate a QR code which must be presented upon arrival.
 5. Passengers entering or transiting through Portugal must have:
-- a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point; or
+- a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point; or
 - a negative COVID-19 NAAT, PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
-- an EU Digital Covid Certificate (EU DCC) as proof of recovery; or
-- a COVID-19 recovery certificate issued by Albania, Andorra, Armenia, El Salvador, Faroe Islands, Georgia, Israel, Iceland, Liechtenstein, Moldova, Monaco, Morocco, New Zealand, North Macedonia, Norway, Panama, San Marino, Serbia, Singapore, Switzerland, Togo, Turkey, Ukraine, United Kingdom or Vatican City (Holy See).
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days and at most 270 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Nuvaxovid (Novavax) and Pfizer-BioNTech (Comirnaty); or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated and received a booster dose; or
+- passengers with a COVID-19 recovery certificate issued at least 11 days and at most 180 days before arrival.
 - This does not apply to:
 - passengers younger than 12 years;
-- passengers with an EU Digital Covid Certificate (EU DCC) showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty); or
 - passengers traveling on a direct flight to Madeira.
-6. Passengers traveling on a direct flight to Madeira without a rapid antigen test taken at most 48 hours before departure are subject to a COVID-19 rapid antigen test upon arrival or quarantine for 10 days.
-This does not apply to:
-- passengers younger than 12 years;
-- passengers with a COVID-19 recovery certificate issued at most 90 days before arrival;
-- passengers with an EU Digital Covid Certificate (EU DCC); or
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP), Sinovac and Sputnik V;
-- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP), Sinovac or Sputnik V at least 14 days before arrival. They must have a positive COVID-19 test taken more than 90 days before arrival or taken after receiving the first dose.
-7. Passengers are subject to medical screening.
-8. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe are subject to quarantine for 14 days.
-9. National ID cards issued to nationals of Portugal which have expired on 24 February 2020 or later are considered valid until 31 March 2022.
-10. Residence permits issued by Portugal which have expired on 24 February 2020 or later are considered valid until 31 March 2022.
+6. Passengers are subject to medical screening.
+7. Passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Namibia, Mozambique, South Africa and Zimbabwe are subject to quarantine for 14 days.
+8. National ID cards issued to nationals of Portugal which have expired on 24 February 2020 or later are considered valid until 31 March 2022.
+9. Residence permits issued by Portugal which have expired on 24 February 2020 or later are considered valid until 31 March 2022.
