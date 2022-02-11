@@ -1,4 +1,4 @@
-Published 07.02.2022
+Published 11.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -20,7 +20,8 @@ Published 07.02.2022
 4. Residents of United Arab Emirates with a residence visa returning to Dubai (DXB) or Al Maktoum (DWC) and arriving from Bangladesh, India, Nepal, Pakistan or Sri Lanka must have a GDRFA approval obtained before departure at <a href="https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx">https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx</a> .
 - This does not apply to:
 - first degree family members of nationals of United Arab Emirates and their accompanying domestic workers;
-- nationals of Bahrain, Kuwait, Oman, Qatar and Saudi Arabia.
+- nationals of Bahrain, Kuwait, Oman, Qatar and Saudi Arabia;
+- passengers with a golden residence visa issued by United Arab Emirates.
 5. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Afghanistan, Bangladesh, India, Nepal, Pakistan or Sri Lanka must have:
 - a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
 - a printed negative COVID-19 rapid PCR test taken at most 6 hours before departure of the last direct flight to United Arab Emirates.
