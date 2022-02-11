@@ -1,9 +1,11 @@
-Published 10.02.2022
+Published 11.02.2022
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Israel;
 - passengers with an authorization letter issued by the Population and Immigration Authority. The letter must be issued on or after 28 November 2021;
 - passengers with a diplomatic passport;
+- passengers younger than 18 years accompanied by their parents who are nationals of Israel;
+- passengers younger than 18 years accompanied by their parents with an A1, A2, A3, A4 or A5 visa;
 - passengers with a COVID-19 vaccination certificate showing that were fully vaccinated at least 15 days (day of vaccination + 14 days) and at most 180 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V;
 - passengers with a COVID-19 vaccination certificate showing that were fully vaccinated and received a booster dose at least 15 days (day of vaccination + 14 days) before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V;
 - passengers with a positive COVID-19 PCR test taken at least 8 days and at most 190 days before arrival;
@@ -15,6 +17,7 @@ Published 10.02.2022
 The test result must be in English and indicate the passenger passport number.
 - This does not apply to:
 - passengers and airline crew with any type of positive COVID-19 PCR test taken at least 8 days and at most 3 months before departure from the first embarkation point;
+- passengers and airline crew with a COVID-19 recovery certificate issued in Israel at most 3 months before departure from the first embarkation point;
 - airline crew who stay in Israel for less than 72 hours.
 4. Passengers must have health insurance to cover COVID-19 expenses.
 - This does not apply to nationals and residents of Israel.
