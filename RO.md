@@ -1,7 +1,7 @@
-Published 10.02.2022
+Published 11.02.2022
 1. Passengers arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter.
 - This does not apply to nationals of EEA Member States and Switzerland.
-2. Passengers and airline crew must present a completed digital Passenger Locator Form (dPLF). The form must be completed at most 24 hours before arrival and can be obtained at <a href="https://plf.gov.ro">https://plf.gov.ro</a>
+2. Passengers and airline crew must present a completed digital Passenger Locator Form (dPLF). The form must be completed at most 72 hours before arrival and can be obtained at <a href="https://plf.gov.ro">https://plf.gov.ro</a>
 3. Passengers could be subject to quarantine for up to 5 days. More details can be found at <a href="https://www.cnscbt.ro/index.php/lex">https://www.cnscbt.ro/index.php/lex</a> .
 - This does not apply to passengers with:
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or

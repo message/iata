@@ -1,4 +1,4 @@
-Published 25.01.2022
+Published 11.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and permanent residents of Australia;
@@ -37,7 +37,8 @@ More details can be found at <a href="https://tinyurl.com/y398dxv4">https://tiny
 - passengers with a travel exemption obtained at <a href="https://travel-exemptions.homeaffairs.gov.au/tep">https://travel-exemptions.homeaffairs.gov.au/tep</a>. More details can be found at <a href="https://covid19.homeaffairs.gov.au/travel-restrictions#toc-5">https://covid19.homeaffairs.gov.au/travel-restrictions#toc-5</a>
 5. Passengers are not allowed to transit through Australia to New Zealand for more than 72 hours.
 - This does not apply to passengers with an exemption applied at <a href="https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form">https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form</a>
-6. Passengers must have a "Travel Declaration" form and present it at time of check-in. The form can be found at <a href="https://covid19.homeaffairs.gov.au/australia-travel-declaration">https://covid19.homeaffairs.gov.au/australia-travel-declaration</a>
+6. Until 14 February 2022, passengers must have a "Travel Declaration" form and present it at time of check-in. The form can be found at <a href="https://covid19.homeaffairs.gov.au/australia-travel-declaration">https://covid19.homeaffairs.gov.au/australia-travel-declaration</a>
+Effective 15 February 2022, passengers must complete a "Digital Passenger Declaration (DPD)" form and present it at time of check-in. The form can be found at <a href="https://covid19.homeaffairs.gov.au/digital-passenger-declaration">https://covid19.homeaffairs.gov.au/digital-passenger-declaration</a>
 7. Passengers could be subject to quarantine for 14 days at the first point of entry. Details can be found at <a href="https://www.australia.gov.au/states">https://www.australia.gov.au/states</a>
 8. Quarantine arrangements for airline crew are subject to respective state or territory requirements.
 9. Passengers transiting through Australia for 8 to 72 hours to a third country are subject to quarantine until their next flight.

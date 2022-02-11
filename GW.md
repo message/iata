@@ -4,4 +4,4 @@ Published 10.02.2022
 - passengers younger than 12 years;
 - passengers with a recovery certificate issued at most 6 months before arrival.
 2. Passengers are subject to medical screening and a COVID-19 rapid antigen test upon arrival.
-3. Passengers are subject to quarantine for up to 10 days.
+3. Passengers could be subject to quarantine for up to 10 days.

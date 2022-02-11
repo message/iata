@@ -1,3 +1,6 @@
-Published 18.09.2020
-Passengers must have a medical certificate with a negative Coronavirus (COVID-19) PCR test result. The test must have been taken at most 72 hours before departure.
-- This does not apply to passengers younger than 5 years who are accompanied by parents or legal guardians.
+Published 11.02.2022
+Passengers must have:
+- a negative COVID-19 PCR test taken at most 72 hours before departure; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; and
+- a COVID-19 rapid antigen test taken at most 48 hours before departure.
+- This does not apply to passengers younger than 12 years.
