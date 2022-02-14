@@ -1,4 +1,4 @@
-Published 05.02.2022
+Published 14.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - passengers with a Hong Kong SAR, China passport;
@@ -14,7 +14,7 @@ Published 05.02.2022
 - spouses and minor children younger than 18 years of Hong Kong SAR, China residents. They must present proof of their relationship;
 - deadheading crew;
 - merchant seamen.
-2. Passengers who in the past 14 days have stayed for more than 2 hours in Australia, Canada, France, India, Pakistan, Philippines, United Kingdom or USA are not allowed to enter.
+2. Passengers who in the past 14 days have stayed for more than 2 hours in Australia, Canada, France, India, Nepal, Pakistan, Philippines, United Kingdom or USA are not allowed to enter.
 3. Passengers transiting through Hong Kong SAR, China must:
 - have a connecting flight booked on the same ticket, and
 - have all the boarding passes printed, and
@@ -50,4 +50,4 @@ All documents must be in Chinese or English.
 - an approval letter from the Marine Department, and
 - a letter of certification to Department of Health from Hong Kong.
 More information can be found at <a href="https://www.coronavirus.gov.hk/eng/inbound-travel-faq.html#FAQB5">https://www.coronavirus.gov.hk/eng/inbound-travel-faq.html#FAQB5</a>
-17. Flights from Australia, Canada, France, India, Pakistan, Philippines, United Kingdom and USA are suspended.
+17. Flights from Australia, Canada, France, India, Nepal, Pakistan, Philippines, United Kingdom and USA are suspended.
