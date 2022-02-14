@@ -1,4 +1,4 @@
-Published 04.02.2022
+Published 14.02.2022
 1. Until 31 March 2022, passengers and airline crew are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Thailand;
@@ -18,13 +18,13 @@ Published 04.02.2022
 - nationals of Thailand traveling under the Alternative Quarantine (AQ) scheme;
 - passengers younger than 6 years traveling with a parent/guardian;
 - passengers with a positive COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point, and a COVID-19 recovery certificate issued at least 15 days and at most 3 months before arrival.
-4. Passengers entering Thailand must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure;
+Passengers entering Thailand must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure. If traveling under the Sandbox Program scheme, Medigen (MVC-COV1901) and Sputnik Light are also accepted.
 - This does not apply to:
 - passengers traveling under the Alternative Quarantine (AQ) scheme;
 - passengers younger than 12 years;
 - passengers younger than 18 years traveling under the Sandbox program with their fully-vaccinated parents/guardians;
-- passengers between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;
-- passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.
+- passengers between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V. If traveling under the Sandbox Program scheme, Medigen (MVC-COV1901) and Sputnik Light are also accepted.
+- passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure. If traveling under the Sandbox Program scheme, Medigen (MVC-COV1901) and Sputnik Light are also accepted.
 5. Passengers entering or transiting through Thailand must have medical insurance with minimum coverage of USD 50,000.
 - This does not apply to nationals of Thailand.
 6. Passengers traveling under the Test & Go scheme must have a hotel reservation for 2 nights (day 1 and day 5) at AQ, OQ, or SHA+ hotel and 2 RT-PCR tests obtained at <a href="http://www.thailandsha.com">www.thailandsha.com</a> or <a href="https://asq.in.th">https://asq.in.th</a> .
