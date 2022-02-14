@@ -1,4 +1,4 @@
-Published 10.02.2022
+Published 14.02.2022
 1. Passengers must have a negative COVID-19 RT-PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to nationals of the Philippines with:
 - a positive COVID-19 RT-PCR test taken at most 48 hours before departure from the first embarkation point; and
@@ -15,6 +15,10 @@ Published 10.02.2022
 - This does not apply to:
 - passengers with a diplomatic passport traveling on duty and their family members;
 - airline crew staying in the aircraft.
-5. Passengers must install the app 'TRAZE' on their personal device before departure.
-6. Visa exemptions have been reinstated.
-7. Suspension of all visa on arrival facilities.
+5. Passengers must have travel insurance to cover COVID-19 expenses, with a minimum coverage of USD 35,000.
+- This does not apply to:
+- nationals of the Philippines;
+- passengers with a visa issued by the Philippines.
+6. Passengers must install the app 'TRAZE' on their personal device before departure.
+7. Visa exemptions have been reinstated.
+8. Suspension of all visa on arrival facilities.
