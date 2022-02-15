@@ -1,6 +1,8 @@
 Published 15.02.2022
 1. Passengers must have a negative COVID-19 RT-PCR test taken at most 48 hours before departure from the first embarkation point.
-- This does not apply to nationals of the Philippines with:
+- This does not apply to:
+- passengers younger than 4 years;
+- nationals of the Philippines with:
 - a positive COVID-19 RT-PCR test taken at most 48 hours before departure from the first embarkation point; and
 - a positive COVID-19 RT-PCR test taken at least 10 days and at most 30 days before departure from the first embarkation point; and
 - a medical certificate specifying that they do not have COVID-19 symptoms and are not contagious.
