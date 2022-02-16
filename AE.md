@@ -1,4 +1,4 @@
-Published 14.02.2022
+Published 16.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of United Arab Emirates;
@@ -23,7 +23,7 @@ Published 14.02.2022
 - nationals of Bahrain, Kuwait, Oman, Qatar and Saudi Arabia;
 - passengers with a golden residence visa issued by United Arab Emirates.
 5. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Afghanistan, Bangladesh, India (excluding Kolkata (CCU)), Pakistan or Sri Lanka must have:
-- a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
+- a printed negative COVID-19 PCR or RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates; and
 - a printed negative COVID-19 rapid PCR test taken at most 6 hours before departure of the last direct flight to United Arab Emirates.
 The test certificate must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test certificate must also have a QR code.
 - This does not apply to:
@@ -31,13 +31,13 @@ The test certificate must be in Arabic or English and must be issued by an appro
 - domestic workers who are traveling with the sponsor or with the first degree family members of the sponsor;
 - passengers younger than 12 years;
 - passengers with disabilities.
-6. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Argentina, Botswana, Burundi, Cameroon, Chad, Colombia, Congo, Congo (Dem. Rep.), Egypt, Eswatini, Ethiopia, Ghana, Guinea, India (only Kolkata (CCU), Iran, Iraq, Kenya, Lebanon, Lesotho, Liberia, Mauritania, Mexico, Mozambique, Namibia, Nepal, Nigeria, Russian Fed., Rwanda, Sierra Leone, South Africa, South Sudan, Sudan, Tajikistan, Tanzania, Turkey, Uganda, Ukraine, United Kingdom, Uzbekistan, Zambia or Zimbabwe must have a printed negative COVID-19 RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test certificate must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test certificate must also have a QR code.
+6. Passengers entering Dubai (DXB) or Al Maktoum (DWC) from Argentina, Botswana, Burundi, Cameroon, Chad, Colombia, Congo, Congo (Dem. Rep.), Egypt, Eswatini, Ethiopia, Ghana, Guinea, India (only Kolkata (CCU), Iran, Iraq, Kenya, Lebanon, Lesotho, Liberia, Mauritania, Mexico, Mozambique, Namibia, Nepal, Nigeria, Russian Fed., Rwanda, Sierra Leone, South Africa, South Sudan, Sudan, Tajikistan, Tanzania, Turkey, Uganda, Ukraine, United Kingdom, Uzbekistan, Zambia or Zimbabwe must have a printed negative COVID-19 PCR or RT-PCR test taken at most 48 hours before departure of the last direct flight to United Arab Emirates. The test certificate must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country. The test certificate must also have a QR code.
 - This does not apply to:
 - nationals of United Arab Emirates and their first degree family members;
 - domestic workers who are traveling with the sponsor or with the first degree family members of the sponsor;
 - passengers younger than 12 years;
 - passengers with disabilities.
-7. Passengers entering Dubai (DXB) or Al Maktoum (DWC) must have a printed negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test certificate must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country.
+7. Passengers entering Dubai (DXB) or Al Maktoum (DWC) must have a printed negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test certificate must be in Arabic or English and must be issued by an approved laboratory listed on <a href="https://screening.purehealth.ae">https://screening.purehealth.ae</a> or a laboratory accredited by the departure country.
 - This does not apply to:
 - nationals of United Arab Emirates and their first degree family members;
 - domestic workers who are traveling with the sponsor or with the first degree family members of the sponsor;
