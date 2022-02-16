@@ -1,4 +1,4 @@
-Published 16.02.2022
+Published 11.02.2022
 1. Passengers entering or transiting through the USA must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. Passenger details (e.g., name and date of birth) in the certificate must match those stated in the passport/travel document. Vaccines accepted are:
 - AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP) and Sinovac. A combination of these vaccines is accepted if administered at least 17 days apart. More details can be found at <a href="http://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html">www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html</a>
 This does not apply to:
@@ -17,8 +17,7 @@ This does not apply to:
 - passengers younger than 2 years;
 - US military personnel;
 - passengers with a positive COVID-19 test taken at most 90 days before departure from the first embarkation point; and
-- a letter issued by a health authority stating that the passenger has been cleared for travel;
-- until 1 March 2022, nationals of USA and their family members arriving from Ukraine.
+- a letter issued by a health authority stating that the passenger has been cleared for travel.
 3. Passengers must complete an attestation form before departure. The form can be found at <a href="https://tinyurl.com/f39bu7dt">https://tinyurl.com/f39bu7dt</a>
 - This does not apply to passengers younger than 2 years.
 4. Passengers are subject to COVID-19 measures set by the state/territory of their final destination. More information can be found at <a href="http://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html">www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html</a>
