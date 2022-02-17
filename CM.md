@@ -1,6 +1,5 @@
-Published 09.08.2021
-1. Passengers are not allowed to enter.
-- This does not apply to:
+Published 17.02.2022
+1. The following passengers are allowed to enter:
 - nationals and residents of Cameroon;
 - passengers with a visa.
 2. Passengers must have a negative COVID-19 PCR test taken at most 3 days before departure from the first embarkation point.
