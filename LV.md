@@ -1,5 +1,5 @@
-Published 01.02.2022
-1. Passengers are not allowed to enter.
+Published 17.02.2022
+1. Until 28 February 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Latvia;
 - family members of nationals and of residents of Latvia;
@@ -10,27 +10,15 @@ Published 01.02.2022
 - merchant seamen.
 2. Passengers must have:
 - a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days and at most 270 days before arrival; or
-- from 1 February 2022, a COVID-19 EU digital green vaccination certificate showing that they received a booster dose; or
+- a COVID-19 EU digital green vaccination certificate showing that they received a booster dose; or
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the last embarkation point; or
 - a negative COVID-19 antigen test taken at most 48 hours before departure from the last embarkation point; or
 - a COVID-19 EU digital green recovery certificate issued at least 11 days and at most 180 days before arrival; or
 - a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days and at most 270 days before arrival; or
-- from 1 February 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they received a booster dose; or
+- a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they received a booster dose; or
 - a COVID-19 recovery certificate issued in Australia, Canada, New Zealand, United Kingdom or USA issued at least 11 days and at most 180 days before arrival.
 - This does not apply to:
 - passengers younger than 12 years;
 - passengers with a diplomatic passport traveling on duty and their family members;
 - merchant seamen.
 3. Passengers entering or transiting through Latvia must complete a "COVIDpass" before departure at <a href="http://www.covidpass.lv">www.covidpass.lv</a>. This will generate a QR code which must be presented before departure and upon arrival.
-4. Passengers could be subject to a COVID-19 PCR test upon arrival.
-- This does not apply to:
-- passengers younger than 12 years;
-- merchant seamen.
-5. Passengers could be subject to self-isolation for 10 days. More information is available in the latest "List of countries with 14-day COVID-19 morbidity rates" which can be found at <a href="https://www.spkc.gov.lv/lv/valstu-saslimstibas-raditaji-ar-covid-19-0">https://www.spkc.gov.lv/lv/valstu-saslimstibas-raditaji-ar-covid-19-0</a>
-- This does not apply to:
-- a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days and at most 270 days before arrival;
-- a COVID-19 EU digital green vaccination certificate showing that they received a booster dose;
-- passengers with a COVID-19 EU digital green recovery issued at least 11 days and at most 180 days before arrival;
-- a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days and at most 270 days before arrival;
-- a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they received a booster dose;
-- passengers with a COVID-19 recovery certificate issued in Australia, Canada, New Zealand, United Kingdom or USA issued at least 11 days and at most 180 days before arrival.

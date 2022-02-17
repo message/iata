@@ -1,11 +1,15 @@
-Published 07.01.2022
-1. Passengers and airline crew are not allowed to enter.
-- This does not apply to passengers with a "National Control Centre Covid-19 Response" controller approval.
-2. Passengers and airline crew are not allowed to transit.
-3. Passengers must arrive at Port Moresby (POM) from Australia, Cook Isl., Fiji, Hong Kong (SAR China), Japan, Kiribati, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, New Zealand, Niue, Palau, Philippines, Samoa, Singapore, Solomon Isl., Tonga, Tuvalu or Vanuatu.
-4. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure; and
-- a COVID-19 vaccination certificate showing that they were fully vaccinated.
-Vaccines accepted are AstraZeneca (SK Bioscience), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP) and Sinovac.
-5. Passengers must have an approved International Air Passenger Travel Form (I-APTF). The form can be obtained by sending an email to <a href="mailto:covid19-travel@police.gov.pg">covid19-travel@police.gov.pg</a>
-6. Passengers must complete an e-Health Declaration Form at most 24 hours before departure at <a href="https://www.pnghdf.info">https://www.pnghdf.info</a> . A generated barcode must be presented.
-7. Passengers could be subject to quarantine for up to 14 days. They must have a hotel booking confirmation or approved Home Quarantine. More details can be found at <a href="https://www.airniugini.com.pg/travel-advice/">https://www.airniugini.com.pg/travel-advice/</a>
+Published 17.02.2022
+1. Passengers must have a COVID-19 vaccination certificate showing that:
+- they were fully vaccinated at least 14 days and at most 6 months before arrival. Vaccines accepted are AstraZeneca (SK Bioscience), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP) and Sinovac; or
+- they were fully vaccinated and received a booster dose.
+- This does not apply to:
+- nationals and residents of Papua New Guinea;
+- passengers younger than 18 years.
+2. Passengers must have:
+- a negative COVID-19 PCR test taken at most 72 hours before departure; or
+- a recovery certificate issued at most 3 months before arrival.
+- This does not apply to passengers younger than 5 years.
+3. Passengers must complete an e-Health Declaration Form at most 24 hours before departure at <a href="https://www.pnghdf.info">https://www.pnghdf.info</a> . A generated barcode must be presented.
+4. Passengers are subject to a COVID-19 test upon arrival.
+- This does not apply to passengers younger than 5 years.
+5. Passengers could be subject to quarantine for 7 days.
