@@ -1,4 +1,4 @@
-Published 18.02.2022
+Published 02.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of the Netherlands;
@@ -49,7 +49,7 @@ Details can be found at <a href="https://tinyurl.com/59zy6bna">https://tinyurl.c
 - they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.
 4. A completed "Health Declaration Form" must be presented prior to boarding. The form can be found at <a href="https://tinyurl.com/ybtmdgja">https://tinyurl.com/ybtmdgja</a>
 - This does not apply to passengers younger than 13 years.
-5. Until 24 February 2022, passengers could be subject to self-quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/3zvzaz3b">https://tinyurl.com/3zvzaz3b</a>
+5. Passengers could be subject to self-quarantine for 10 days. A list of quarantine exemptions can be found at <a href="https://tinyurl.com/3zvzaz3b">https://tinyurl.com/3zvzaz3b</a>
 - This does not apply to passengers arriving from a country other than Afghanistan, Anguilla, Argentina, Australia, Barbados, Belize, Bermuda, Botswana, Canada, Cape Verde, Cayman Isl., Dominica, French Guiana, French West Indies, Georgia, Haiti, Israel, Jordan, Mauritius, Montenegro, Mozambique, Puerto Rico, Somalia, St. Kitts and Nevis, St. Vincent and the Grenadines, Trinidad and Tobago, USA, United Kingdom, Venezuela or Virgin Isl. (British) with a COVID-19 vaccination certificate showing that:
 - they were fully vaccinated and received a booster dose at least 14 days and at most 9 months before arrival. Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac; or
 - they were vaccinated with Janssen and received a booster dose at least 28 days and at most 9 months before arrival.
