@@ -10,5 +10,5 @@ Published 17.02.2022
 - passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom and Vatican City (Holy See);
 - passengers younger than 16 years;
 - airline crew staying for a maximum of 24 hours.
-3. Passengers must complete a health questionnaire and present it at check-in. The e-questionnaire can be obtained at <a href="https://keleiviams.nvsc.lt/lt/form">https://keleiviams.nvsc.lt/lt/form</a>.
+3. Passengers must complete a health questionnaire and present it at check-in. The e-questionnaire can be obtained at <a href="https://keleiviams.nvsc.lt/lt/form">https://keleiviams.nvsc.lt/lt/form</a>
 - This does not apply to passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom and Vatican City (Holy See).
