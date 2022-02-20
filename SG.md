@@ -52,7 +52,7 @@ More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs-
 3. Passengers are not allowed to transit.
 - This does not apply when traveling on airlines with transit routes approved by the Civil Aviation Authority of Singapore (CAAS) and being through-checked to their destination without clearing arrival immigration.
 4. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine or Stay Home Notice (SHN). Please refer to <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>
-5. Passengers could be subject to a COVID-19 PCR test upon arrival at their own expense. Passengers should register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for at <a href="https://safetravel.changiairport.com">https://safetravel.changiairport.com</a>
+5. Passengers could be subject to a COVID-19 PCR test upon arrival at their own expense. Passengers should register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for at <a href="https://safetravel.changiairport.com/">https://safetravel.changiairport.com</a>
 - This does not apply to:
 - passengers younger than 3 years;
 - merchant seamen;
