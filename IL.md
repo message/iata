@@ -7,15 +7,15 @@ Published 21.02.2022
 - passengers with an A1, A2, A3, A4 or A5 visa;
 - passengers with a COVID-19 vaccination certificate showing that were fully vaccinated at least 15 days (day of vaccination + 14 days) and at most 180 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac, Sputnik V and Sputnik Light;
 - passengers with a COVID-19 vaccination certificate showing that were fully vaccinated and received a booster dose at least 15 days (day of vaccination + 14 days) before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac, Sputnik V and Sputnik Light;
-- passengers with a digital positive COVID-19 PCR test taken at least 8 days and at most 180 days before arrival;
-- passengers with a digital positive COVID-19 PCR test, and a COVID-19 vaccination certificate showing that they received one vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac, Sputnik V or Sputnik Light.
+- passengers with a digital positive COVID-19 CRISPR, HAD, LAMP, NEAR, PCR, RT-PCR, SDA or TMA test taken at least 8 days and at most 180 days before arrival;
+- passengers with a digital positive COVID-19 CRISPR, HAD, LAMP, NEAR, PCR, RT-PCR, SDA or TMA test, and a COVID-19 vaccination certificate showing that they received one vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac, Sputnik V or Sputnik Light.
 2. Passengers must complete an "Entry Statement" at most 48 hours before departure of the last direct flight to Israel at <a href="https://corona.health.gov.il/en/flights/">https://corona.health.gov.il/en/flights/</a> . They will receive an electronic approval from the Ministry of Health. They will receive an electronic approval from the Ministry of Health and a Green Pass which must be presented before boarding.
 3. Passengers and airline crew who have been outside Israel for more than 72 hours entering or transiting through Israel must have:
-- any type of negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
+- a negative COVID-19 CRISPR, HAD, LAMP, NEAR, PCR, RT-PCR, SDA or TMA test taken at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point.
 The test certificate must be in English and indicate the passenger passport number.
 - This does not apply to:
-- passengers and airline crew with any type of positive COVID-19 PCR test taken at least 8 days and at most 90 days before departure from the first embarkation point;
+- passengers and airline crew with a positive COVID-19 CRISPR, HAD, LAMP, NEAR, PCR, RT-PCR, SDA or TMA test taken at least 8 days and at most 90 days before departure from the first embarkation point;
 - passengers and airline crew with a COVID-19 recovery certificate issued in Israel at most 90 days before departure from the first embarkation point;
 - airline crew who stay in Israel for less than 72 hours;
 - until 21 February 2022, passengers arriving from Ukraine.

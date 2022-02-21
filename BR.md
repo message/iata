@@ -1,9 +1,8 @@
-Published 14.02.2022
+Published 21.02.2022
 1. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure from the first embarkation point. The certificate must be in English, Portuguese or Spanish.
 - This does not apply to:
 - nationals and residents of Brazil;
-- passengers younger than 5 years arriving from Argentina, Australia, Austria, Bahrain, Belgium, Bolivia, Bulgaria, Canada, Chile, China (People's Rep.), Colombia, Costa Rica, Croatia, Cuba, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Finland, France, Germany, Greece, Hungary, Indonesia, Iran, Israel, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Paraguay, Peru, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, Switzerland, USA, United Arab Emirates, United Kingdom, Uruguay or Venezuela;
-- passengers younger than 12 years arriving from a country other than Argentina, Australia, Austria, Bahrain, Belgium, Bolivia, Bulgaria, Canada, Chile, China (People's Rep.), Colombia, Costa Rica, Croatia, Cuba, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Finland, France, Germany, Greece, Hungary, Indonesia, Iran, Israel, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Paraguay, Peru, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden, Switzerland, USA, United Arab Emirates, United Kingdom, Uruguay or Venezuela.
+- passengers younger than 12 years.
 2. Passengers entering or transiting through Brazil must have:
 - a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point; or
 - a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point. The test result must be in English, Portuguese or Spanish.
