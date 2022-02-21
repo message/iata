@@ -1,4 +1,4 @@
-Published 17.02.2022
+Published 21.02.2022
 1. Passengers are not allowed to enter and transit.
 - This does not apply to:
 - nationals and residents of Israel;
@@ -17,7 +17,8 @@ The test certificate must be in English and indicate the passenger passport numb
 - This does not apply to:
 - passengers and airline crew with any type of positive COVID-19 PCR test taken at least 8 days and at most 90 days before departure from the first embarkation point;
 - passengers and airline crew with a COVID-19 recovery certificate issued in Israel at most 90 days before departure from the first embarkation point;
-- airline crew who stay in Israel for less than 72 hours.
+- airline crew who stay in Israel for less than 72 hours;
+- until 21 February 2022, passengers arriving from Ukraine.
 4. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense and self-isolation until the test result is ready.
 5. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with Sputnik V or Sputnik Light are subject to a COVID-19 serological test upon arrival.
 6. Airline crew are subject to a COVID-19 PCR test upon arrival.
