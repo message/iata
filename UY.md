@@ -1,4 +1,4 @@
-Published 17.02.2022
+Published 21.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Uruguay;
@@ -9,8 +9,8 @@ Published 17.02.2022
 2. Passengers are not allowed to transit.
 - This does not apply to:
 - nationals and residents of Argentina, Brazil and Paraguay transiting through Montevideo (MVD) or Punta del Este (PDP);
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 9 months and at least 14 days before arrival;
-- passengers with a positive COVID-19 antigen or PCR test result issued at most 90 days and at least 10 days before arrival;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days and at most 9 months before arrival;
+- passengers with a positive COVID-19 antigen or PCR test result issued at least 10 days and at most 90 days before arrival;
 - passengers younger than 18 years.
 3. Passengers can only land at Montevideo (MVD) and Punta del Este (PDP).
 4. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at most 9 months before departure from the first embarkation point.
@@ -18,12 +18,12 @@ Published 17.02.2022
 - nationals and residents of Uruguay;
 - passengers younger than 18 years;
 - passengers with a positive COVID-19 antigen or PCR test result issued at least 10 days and at most 90 days before arrival.
-5. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point.
+5. Passengers must have a negative COVID-19 antigen or RT-PCR test taken at most 72 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 6 years;
 - passengers with a positive COVID-19 antigen or PCR test result issued at least 10 days and at most 90 days before arrival;
 - passengers with a letter issued by a consulate of Uruguay stating that the passenger is exempt from the COVID-19 PCR test requirement before departure. The passenger is subject to a PCR test upon arrival.
-6. Airline crew without a negative COVID-19 PCR test result issued at most 72 hours before departure are subject to self-isolation.
+6. Airline crew without a negative COVID-19 antigen or RT-PCR test result issued at most 72 hours before departure are subject to self-isolation.
 7. Passengers and airline crew must have health insurance to cover COVID-19 expenses.
 - This does not apply to nationals and residents of Uruguay.
 8. Nationals and residents of Uruguay must present a completed Traveler's Health Affidavit (Declaración Jurada de Salud del Viajero) upon arrival. The form can be found at <a href="https://tinyurl.com/32jwxnpc">https://tinyurl.com/32jwxnpc</a>

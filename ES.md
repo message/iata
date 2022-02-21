@@ -1,4 +1,4 @@
-Published 18.02.2022
+Published 21.02.2022
 1. Until 28 February 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
@@ -25,8 +25,7 @@ iii. a COVID-19 vaccination certificate showing that:
 - Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. Other vaccines are accepted if the last dose received was one of the previously listed vaccines.
 - This does not apply to:
 - passengers younger than 12 years;
-- passengers arriving from China (People's Rep.), Chinese Taipei, Hong Kong (SAR China), Indonesia, Korea (Rep.), Macao (SAR China), New Zealand, Rwanda or Saudi Arabia;
-- deadheading crew.
+- passengers arriving from China (People's Rep.), Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia or United Arab Emirates.
 3. Passengers entering or transiting through Spain must complete an "FCS Health Control Form" before departure at <a href="https://www.spth.gob.es/">https://www.spth.gob.es/</a> or via the Spain Travel Health-SpTH App. This will generate a QR code which must be presented upon arrival.
 - This does not apply to deadheading crew.
 4. Passengers are subject to medical screening upon arrival.

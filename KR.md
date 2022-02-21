@@ -1,4 +1,4 @@
-Published 15.02.2022
+Published 21.02.2022
 1. Short-term visas (type C-1and C-3) issued on or before 5 April 2020 are no longer valid.
 2. Suspension of visa exemptions for:
 - nationals of Japan;
@@ -18,7 +18,7 @@ The test result must:
 - be issued by an approved laboratory if arriving from Philippines or Uzbekistan. Details can be found at the Korean (Rep.) Embassy website in those countries.
 - This does not apply to:
 - nationals of Korea (Rep.) and their family members arriving from Ukraine;
-- passengers younger than 6 years.
+- passengers who are 5 years or younger.
 4. Passengers transiting to China (People's Rep.) must enter Korea (Rep.) to obtain a green QR code with an 'HDC' mark.
 - This does not apply to passengers with:
 - an invitation letter issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games;

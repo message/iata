@@ -1,4 +1,4 @@
-Published 20.02.2022
+Published 21.02.2022
 1. The following passengers are allowed to enter:
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates;
 - passengers with a residence permit issued by Bahrain;
