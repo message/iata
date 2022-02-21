@@ -1,4 +1,4 @@
-Published 18.02.2022
+Published 20.02.2022
 1. The following passengers are allowed to enter:
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates;
 - passengers with a residence permit issued by Bahrain;
@@ -10,14 +10,6 @@ Published 18.02.2022
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The certificate must have a QR code; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The certificate must be issued in Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Oman, Saudi Arabia, Seychelles, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Arab Emirates, United Kingdom or USA.
 Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
-2. Until 19 February 2022, passengers are subject to a COVID-19 PCR test upon arrival at their own expense.
-- This does not apply to passengers younger than 6 years.
-3. Until 19 February 2022, passengers could be subject to quarantine for up to 10 days.
-- This does not apply to:
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The certificate must be issued in countries that are eligible for visa on arrival.
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The certificate must have a QR code;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The certificate must be issued in Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Kuwait, Latvia, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Oman, Saudi Arabia, Seychelles, Poland, Portugal, Romania, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Arab Emirates, United Kingdom or USA showing that they were fully vaccinated at least 14 days before arrival.
-Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V.
-4. Visa on arrival facility restarted.
+2. Visa on arrival facility restarted.
 - This does not apply to passengers with a residence permit issued by Kuwait, Oman, Saudi Arabia or United Arab Emirates, if arriving from a country other than Kuwait, Oman, Saudi Arabia and United Arab Emirates.
-5. Border crossing on the causeway is suspended.
+3. Border crossing on the causeway is suspended.
