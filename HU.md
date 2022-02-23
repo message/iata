@@ -1,4 +1,4 @@
-Published 15.02.2022
+Published 23.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Hungary and their family members;
@@ -8,6 +8,7 @@ Published 15.02.2022
 - passengers entering Hungary to transit by land to a third country. They must prove that they can enter the final destination, or prove that they can enter a neighboring country in order to reach their final destination;
 - passengers traveling on business;
 - passengers with a signed and stamped letter issued by the Deputy-Chief Officer of the National Police;
+- passengers with an immunity COVID-19 certificate issued by Albania, Andorra, Armenia, Bahrain, Benin, Cape Verde, Chinese Taipei, Croatia, Cyprus, Czechia, Egypt, El Salvador, Faroe Isl., Georgia, Hungary, Iceland, India, Iran, Israel, Jordan, Kazakhstan, Kyrgyzstan, Lebanon, Liechtenstein, Maldives, Moldova (Rep.), Monaco, Mongolia, Montenegro, Morocco, New Zealand, North Macedonia (Rep.), Norway, Panama, Romania, Russian Fed., San Marino, Serbia, Seychelles, Singapore, Slovakia, Slovenia, Switzerland, Thailand, Togo, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, Uruguay, Uzbekistan or Vatican City (Holy See) and minors under 18 years in their company.
 - passengers with an EU Digital Covid Certificate (EU DCC) showing that:
 - they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac at least 14 days and at most 6 months before arrival; or
 - they received a booster dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac at least 14 days and at most 6 months before arrival; or
