@@ -1,4 +1,4 @@
-Published 28.01.2022
+Published 24.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -43,7 +43,11 @@ Published 28.01.2022
 - passengers arriving from Niue if they in the past 14 days have only been in New Zealand or Niue;
 - passengers arriving from Samoa if they in the past 14 days have only been in New Zealand or Samoa;
 - passengers arriving from Tonga if they in the past 14 days have only been in New Zealand or Tonga;
-- passengers arriving from Vanuatu if they in the past 14 days have only been in New Zealand or Vanuatu.
+- passengers arriving from Vanuatu if they in the past 14 days have only been in New Zealand or Vanuatu;
+- effective 28 February 2022, nationals and residents of New Zealand arriving from Australia with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure;
+- effective 28 February 2022, partners and dependent children of nationals or residents of New Zealand arriving from Australia. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure;
+- effective 14 March 2022, nationals and residents of New Zealand with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure;
+- effective 14 March 2022, partners and dependent children of nationals or residents of New Zealand. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure.
 10. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz/">https://border.covid19.govt.nz</a>
 11. Passengers could be subject to medical screening and quarantine for 14 days.
 12. Airline crew not residing in Australia or New Zealand must have:
