@@ -1,4 +1,4 @@
-Published 22.02.2022
+Published 24.02.2022
 1. Passengers are not allowed to enter Singapore.
 - This does not apply to nationals of Singapore.
 - This does not apply to permanent residents of Singapore.
@@ -48,18 +48,19 @@ More details can be found at <a href="https://www.moh.gov.sg/covid-19/faqs/faqs-
 - passengers younger than 3 years;
 - passengers with proof of recovery. More details can be found at <a href="https://www.caas.gov.sg/docs/default-source/docs---cartf/circulars-2022/caas_circular_08_2022.pdf">https://www.caas.gov.sg/docs/default-source/docs---cartf/circulars-2022/caas_circular_08_2022.pdf</a> ;
 - passengers with a letter of exemption issued by a Singapore Government Agency.
-3. Passengers are not allowed to transit.
+3. Until 24 February 2022, passengers are not allowed to transit.
 - This does not apply when traveling on airlines with transit routes approved by the Civil Aviation Authority of Singapore (CAAS) and being through-checked to their destination without clearing arrival immigration.
-4. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine or Stay Home Notice (SHN). Please refer to <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>
-5. Passengers could be subject to a COVID-19 rapid antigen test upon arrival or within 24 hours after arrival.
+4. Passengers transiting through Singapore must have their baggage checked through to their destination.
+5. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine or Stay Home Notice (SHN). Please refer to <a href="https://safetravel.ica.gov.sg/shn-and-swab-summary">https://safetravel.ica.gov.sg/shn-and-swab-summary</a>
+6. Passengers could be subject to a COVID-19 rapid antigen test upon arrival or within 24 hours after arrival.
 - This does not apply to:
 - passengers younger than 3 years;
 - merchant seamen;
 - passengers with proof of recovery. More details can be found at <a href="https://www.caas.gov.sg/docs/default-source/docs---cartf/circulars-2022/caas_circular_08_2022.pdf">https://www.caas.gov.sg/docs/default-source/docs---cartf/circulars-2022/caas_circular_08_2022.pdf</a> ;
 - passengers not travelling under the Vaccinated Travel Lane (VTL), Reciprocal Green Lane (RGL), Business Travel Pass (BTP) and Overseas Singaporeans Vaccination Program.
-6. Passengers must submit a health declaration before arrival via the SG Arrival Card (SGAC) e-Service (<a href="https://eservices.ica.gov.sg/sgarrivalcard">https://eservices.ica.gov.sg/sgarrivalcard</a>) or via the mobile application.
+7. Passengers must submit a health declaration before arrival via the SG Arrival Card (SGAC) e-Service (<a href="https://eservices.ica.gov.sg/sgarrivalcard">https://eservices.ica.gov.sg/sgarrivalcard</a>) or via the mobile application.
 - This does not apply to passengers in transit.
-7. Passengers with a Work Pass, Long-Term Visit Pass (LTVP), Dependant's Pass, a Student's Pass (STP) or the respective In-Principle Approval (IPA) must have:
+8. Passengers with a Work Pass, Long-Term Visit Pass (LTVP), Dependant's Pass, a Student's Pass (STP) or the respective In-Principle Approval (IPA) must have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac; or
 - a vaccination status on the HealthHub app or TraceTogether app; or
 - an acceptance letter issued by the Safe Travel Office (STO), confirming that the traveller’s vaccination certificate has been verified using the Vaccination Check Portal.
