@@ -1,14 +1,27 @@
-Published 02.06.2020
-1. Passengers arriving from a non-Schengen Member State are not allowed to enter France.
+Published 16.02.2022
+1. Passengers must have:
+- a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
+- a negative COVID-19 antigen taken at most 48 hours before departure from the first embarkation point; or
+- a COVID-19 vaccination certificate showing that:
+- they were vaccinated with Janssen at least 28 days and at most 270 days before arrival; or
+- they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days and at most 270 days before arrival; or
+- they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Fiocruz, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi and received a booster dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty); or
+- they were fully vaccinated with Sinopharm and Sinovac and received a dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty); or
+- a COVID-19 recovery certificate issued at least 11 days and at most 6 months before departure from the first embarkation point if arriving from Andorra, Austria, Bahrain, Belgium, Bulgaria, Cambodia, Cape Verde, Chad, Chinese Taipei, Colombia, Cote d'Ivoire, Croatia, Cuba, Cyprus, Denmark, Ecuador, Equatorial Guinea, Estonia, Fiji, Finland, Gabon, Germany, Ghana, Greece, Guinea, Guinea-Bissau, Honduras, Hong Kong (SAR China), Hungary, Iceland, Indonesia, Ireland (Rep.), Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritania, Mauritius, Monaco, Morocco, Nepal, Netherlands, New Zealand, Nicaragua, Norway, Poland, Portugal, Qatar, Romania, Rwanda, Samoa, San Marino, Saudi Arabia, Senegal, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, Tanzania, Togo, Uganda, United Arab Emirates, Vanuatu, Vatican City (Holy See), Venezuela and Viet Nam.
+- This does not apply to passengers younger than 12 years.
+2. Passengers entering or transiting through France from a country other than Andorra, Austria, Bahrain, Belgium, Bulgaria, Cambodia, Cape Verde, Chad, Chinese Taipei, Colombia, Cote d'Ivoire, Croatia, Cuba, Cyprus, Denmark, Ecuador, Equatorial Guinea, Estonia, Fiji, Finland, Gabon, Germany, Ghana, Greece, Guinea, Guinea-Bissau, Honduras, Hong Kong (SAR China), Hungary, Iceland, Indonesia, Ireland (Rep.), Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritania, Mauritius, Monaco, Morocco, Nepal, Netherlands, New Zealand, Nicaragua, Norway, Poland, Portugal, Qatar, Romania, Rwanda, Samoa, San Marino, Saudi Arabia, Senegal, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, Tanzania, Togo, Uganda, United Arab Emirates, Vanuatu, Vatican City (Holy See), Venezuela and Viet Nam must have a completed sworn statement obtained at <a href="https://www.interieur.gouv.fr/covid-19-international-travel">https://www.interieur.gouv.fr/covid-19-international-travel</a>
+- This does not apply to passengers younger than 12 years.
+3. Passengers entering or transiting through France from a country other than Andorra, Austria, Bahrain, Belgium, Bulgaria, Cambodia, Cape Verde, Chad, Chinese Taipei, Colombia, Cote d'Ivoire, Croatia, Cuba, Cyprus, Denmark, Ecuador, Equatorial Guinea, Estonia, Fiji, Finland, Gabon, Germany, Ghana, Greece, Guinea, Guinea-Bissau, Honduras, Hong Kong (SAR China), Hungary, Iceland, Indonesia, Ireland (Rep.), Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritania, Mauritius, Monaco, Morocco, Nepal, Netherlands, New Zealand, Nicaragua, Norway, Poland, Portugal, Qatar, Romania, Rwanda, Samoa, San Marino, Saudi Arabia, Senegal, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, Tanzania, Togo, Uganda, United Arab Emirates, Vanuatu, Vatican City (Holy See), Venezuela and Viet Nam must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at <a href="https://www.interieur.gouv.fr/covid-19-international-travel">https://www.interieur.gouv.fr/covid-19-international-travel</a>
 - This does not apply to:
-- nationals of France, their spouses and children;
-- nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and an EEA Member State, their spouses and children, on their way home;
-- British nationals, their spouses and children, on their way home;
-- passengers with a residence permit issued by France;
-- passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, United Kingdom, Vatican City (Holy See) or an EEA Member State, on their way home;
-- healthcare professionals and researchers related to Coronavirus (COVID-19);
-- personnel of diplomatic and consular missions and international organizations headquartered or having an office in France, their spouses and children;
-- merchant seamen.
-2. A completed International Travel Certificate must be presented prior to boarding and to Immigration upon arrival or when transiting France. The certificate must be obtained before departure via the French consular offices abroad or online at <a target="_blank" href="https://www.interieur.gouv.fr">https://www.interieur.gouv.fr</a>.
-3. Passengers are subject to quarantine or isolation.
-4. Passengers must complete a declaration on honor to state that they do not have symptoms of Coronavirus (COVID-19). The declaration must be dated with the name and signature of the passenger.
+- passengers with a COVID-19 vaccination certificate showing that:
+- they were vaccinated with Janssen at least 28 days and at most 270 days before arrival; or
+- they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Fiocruz, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi at least 7 days and at most 270 days before arrival; or
+- they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Fiocruz, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) or R-Covi and received a booster dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty); or
+- they were fully vaccinated with Sinopharm and Sinovac and received a dose of Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty);
+- passengers younger than 12 years.
+4. Passengers could be subject to a COVID-19 test upon arrival.
+- This does not apply to:
+- passengers arriving from Andorra, Austria, Bahrain, Belgium, Bulgaria, Cambodia, Cape Verde, Chad, Chinese Taipei, Colombia, Cote d'Ivoire, Croatia, Cuba, Cyprus, Denmark, Ecuador, Equatorial Guinea, Estonia, Fiji, Finland, Gabon, Germany, Ghana, Greece, Guinea, Guinea-Bissau, Honduras, Hong Kong (SAR China), Hungary, Iceland, Indonesia, Ireland (Rep.), Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mauritania, Mauritius, Monaco, Morocco, Nepal, Netherlands, New Zealand, Nicaragua, Norway, Poland, Portugal, Qatar, Romania, Rwanda, Samoa, San Marino, Saudi Arabia, Senegal, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, Tanzania, Togo, Uganda, United Arab Emirates, Vanuatu, Vatican City (Holy See), Venezuela and Viet Nam;
+- passengers younger than 12 years.
+More details can be found at <a href="https://www.interieur.gouv.fr/covid-19-international-travel">https://www.interieur.gouv.fr/covid-19-international-travel</a>
+5. Passengers could be subject to quarantine for up to 7 days.
