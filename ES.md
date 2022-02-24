@@ -1,5 +1,5 @@
 Published 23.02.2022
-1. Passengers must have a vaccination certificate showing that:
+1. Passengers must have a COVID-19 vaccination certificate showing that:
 - they were fully vaccinated at least 14 days and at most 270 days before arrival; or
 - they were fully vaccinated and received a booster dose.
 Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. Other vaccines are accepted if the last dose received is one of the previously listed vaccines.

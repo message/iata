@@ -1,4 +1,4 @@
-Published 17.02.2022
+Published 24.02.2022
 1. Until 28 February 2022, passengers are not allowed to enter.
 - This does not apply to:
 - nationals and residents of Latvia;
@@ -21,4 +21,4 @@ Published 17.02.2022
 - passengers younger than 12 years;
 - passengers with a diplomatic passport traveling on duty and their family members;
 - merchant seamen.
-3. Passengers entering or transiting through Latvia must complete a "COVIDpass" before departure at <a href="http://www.covidpass.lv">www.covidpass.lv</a>. This will generate a QR code which must be presented before departure and upon arrival.
+3. Until 28 February 2022, passengers entering or transiting through Latvia must complete a "COVIDpass" before departure at <a href="http://www.covidpass.lv/">www.covidpass.lv</a>. This will generate a QR code which must be presented before departure and upon arrival.

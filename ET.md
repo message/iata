@@ -1,4 +1,4 @@
-Published 25.11.2021
+Published 24.02.2022
 1. Passengers must have a negative COVID-19 RT-PCR test taken at most 120 hours before arrival.
 - This does not apply to:
 - passengers younger than 10 years;

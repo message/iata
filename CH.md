@@ -27,7 +27,7 @@ This does not apply to:
 - with reference to the CH-UK agreement form 25 February 2019; or
 - issued before 1 January 2021;
 - unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship;
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 270 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Novavx, Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/ye2dcc4t">https://tinyurl.com/ye2dcc4t</a> ;
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 270 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at <a href="https://tinyurl.com/ye2dcc4t">https://tinyurl.com/ye2dcc4t</a> ;
 - unvaccinated passengers younger than 18 years if they are traveling with their fully vaccinated parents/guardians;
 - merchant seamen;
 - military personnel with a letter issued by the Federal Department of Foreign Affairs of Switzerland or the Federal Department of Defense of Switzerland.
