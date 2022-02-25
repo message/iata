@@ -1,7 +1,7 @@
 Published 15.02.2022
-1.Passengers are not allowed to enter.
+1. Passengers are not allowed to enter.
 - This does not apply to passengers with an approval from the Cabinet of Samoa. They must not arrive from or have transited through Australia, Belgium, Botswana, Eswatini, Fiji, Germany, Lesotho, Malawi, Mozambique, Namibia, Seychelles, South Africa, United Kingdom, USA or Zimbabwe.
-2. Passengers and airline crew must have a printed COVID-19 vaccination certificate in English showing that they were fully vaccinated at least 14 days before departure. Vaccines accepted are AstraZeneca (SK Bioscience), Astrazeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. Details can be found at <a href="https://www.health.gov.ws/">https://www.health.gov.ws/</a> .
+2. Passengers and airline crew must have a printed COVID-19 vaccination certificate in English showing that they were fully vaccinated at least 14 days before departure. Vaccines accepted are AstraZeneca (SK Bioscience), Astrazeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. Details can be found at <a href="https://www.health.gov.ws/">https://www.health.gov.ws/</a>
 - This does not apply to passengers younger than 12 years.
 3. Passengers and airline crew must have a printed negative COVID-19 LAMP, NAAT, NEAR, RT-PCR, SDA or TMA test taken at most 48 hours before departure from the first embarkation point. The test result must be in English.
 4. Passengers must have a printed COVID-19 antibody test result issued at most 5 days before departure from the first embarkation point. The test result must be in English.

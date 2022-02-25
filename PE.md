@@ -1,5 +1,5 @@
 Published 16.02.2022
-1. Until 28 February 2022, flights from South Africa are suspended.
+1. Flights from South Africa are suspended.
 2. Passengers older than 39 years entering Peru to continue on a domestic flight must have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days and at most 3 months before arrival; or
 - a COVID-19 vaccination certificate showing that they were fully vaccinated and received a booster dose; or
