@@ -1,4 +1,4 @@
-Published 26.02.2022
+Published 28.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of New Zealand;
@@ -41,8 +41,8 @@ Published 26.02.2022
 - This does not apply to:
 - passengers arriving from Cook Isl. or Niue, if they in the past 14 days have only been in Cook Isl., Nauru, Niue, Samoa, Samoa (American), Vanuatu or Tuvalu;
 - passengers arriving from Nauru, Samoa, Samoa (American), Vanuatu or Tuvalu;
-- effective 28 February 2022, nationals and residents of New Zealand arriving from Australia or Tonga with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. They must in the past 14 days have only been in Australia, Cook Isl., Nauru, Niue, Samoa, Samoa (American), Tonga, Tuvalu or Vanuatu;
-- effective 28 February 2022, partners and dependent children of nationals or residents of New Zealand arriving from Australia or Tonga. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. They must in the past 14 days have only been in Australia, Cook Isl., Nauru, Niue, Samoa, Samoa (American), Tonga, Tuvalu or Vanuatu;
+- nationals and residents of New Zealand arriving from Australia or Tonga with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. They must in the past 14 days have only been in Australia, Cook Isl., Nauru, Niue, Samoa, Samoa (American), Tonga, Tuvalu or Vanuatu;
+- partners and dependent children of nationals or residents of New Zealand arriving from Australia or Tonga. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. They must in the past 14 days have only been in Australia, Cook Isl., Nauru, Niue, Samoa, Samoa (American), Tonga, Tuvalu or Vanuatu;
 - effective 14 March 2022, nationals and residents of New Zealand with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure;
 - effective 14 March 2022, partners and dependent children of nationals or residents of New Zealand. They must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure.
 10. Passengers arriving from Australia, Cook Isl. or Niue must complete a health declaration before check-in. The declaration can be obtained at <a href="https://naumaira.covid19.govt.nz/">https://naumaira.covid19.govt.nz/</a> or <a href="https://border.covid19.govt.nz/">https://border.covid19.govt.nz</a>

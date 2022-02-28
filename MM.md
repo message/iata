@@ -1,5 +1,5 @@
-Published 31.01.2022
-1. Until 28 February 2022, flights to Myanmar are suspended.
+Published 28.02.2022
+1. Flights to Myanmar are suspended.
 - This does not apply to medevac flights.
 2. Passengers must have an approval from Ministry of Foreign Affairs Myanmar.
 - This does not apply to nationals of Myanmar.
@@ -8,3 +8,4 @@ Published 31.01.2022
 4. Passengers are subject to medical screening and quarantine for up to 14 days.
 5. Airline crew are subject to quarantine until their next flight.
 6. Suspension of all visa exemptions and visa on arrival facilities.
+</p><p>

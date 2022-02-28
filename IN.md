@@ -1,5 +1,5 @@
-Published 17.02.2022
-1. Until 28 February 2022, flights to India are suspended.
+Published 28.02.2022
+1. Flights to India are suspended.
 - This does not apply to:
 - relief, repatriation and humanitarian flights;
 - flights under the Air Transport Bubbles.
