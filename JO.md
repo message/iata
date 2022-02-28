@@ -9,22 +9,22 @@ Published 25.02.2022
 - nationals of Syria traveling as part of an organized tourist group of 5 or more people. The travel agency must have submitted an application to the Ministry of Interior of Jordan.
 2. Passengers must complete a "Declaration Form" before departure at <a href="https://www.gateway2jordan.gov.jo">https://www.gateway2jordan.gov.jo</a> . This will generate a QR code which must be presented before boarding and upon arrival.
 - This does not apply to:
-- nationals of Jordan, their wives and children, arriving from Ukraine;
-- passengers with "The Palestinian Authority" passports or cards traveling to West Bank and arriving from Ukraine.
+- nationals of Jordan, their wives and children, arriving from Ukraine. Regardless of the validity of their passports;
+- passengers with "The Palestinian Authority" passports or cards traveling to West Bank and arriving from Ukraine. Regardless of the validity of their passports.
 3. Passengers must have health insurance valid for the period of intended stay.
 This does not apply to:
 - nationals of Jordan;
 - passengers with a diplomatic or special passport and a diplomatic QR code and their family members.
 4. Until 28 February 2022, passengers entering or transiting through Jordan must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result for passengers arriving from Egypt, Iraq or Turkey must be issued by an approved laboratory, details can be found at <a href="https://www.visitjordan.gov.jo/Labs-List.html">https://www.visitjordan.gov.jo/Labs-List.html</a>
 - This does not apply to:
-- nationals of Jordan, their wives and children, arriving from Ukraine;
-- passengers with "The Palestinian Authority" passports or cards traveling to West Bank and arriving from Ukraine;
+- nationals of Jordan, their wives and children, arriving from Ukraine. Regardless of the validity of their passports.;
+- passengers with "The Palestinian Authority" passports or cards traveling to West Bank and arriving from Ukraine. Regardless of the validity of their passports;
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and their family members.
 5. Until 28 February 2022, passengers are subject to a COVID-19 PCR test upon arrival which must be paid before departure at <a href="https://www.gateway2jordan.gov.jo/">https://www.gateway2jordan.gov.jo/</a> .
 - This does not apply to:
-- nationals of Jordan, their wives and children, arriving from Ukraine;
-- passengers with "The Palestinian Authority" passports or cards traveling to West Bank and arriving from Ukraine;
+- nationals of Jordan, their wives and children, arriving from Ukraine. Regardless of the validity of their passports;
+- passengers with "The Palestinian Authority" passports or cards traveling to West Bank and arriving from Ukraine. Regardless of the validity of their passports;
 - passengers younger than 5 years;
 - passengers with a diplomatic or special passport and a diplomatic QR code;
 - family members of passengers with a diplomatic or special passport;

@@ -1,5 +1,5 @@
-Published 01.02.2022
-1. A "Check Mig" form must be submitted at most 24 hours before departure at <a href="https://apps.migracioncolombia.gov.co/pre-registro/public/preregistro.jsf">https://apps.migracioncolombia.gov.co/pre-registro/public/preregistro.jsf</a>
+Published 28.02.2022
+1. A "Check Mig" form must be submitted at most 72 hours before departure at <a href="https://apps.migracioncolombia.gov.co/pre-registro/public/preregistro.jsf">https://apps.migracioncolombia.gov.co/pre-registro/public/preregistro.jsf</a>
 2. Passengers and airline crew must have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or
 - a COVID-19 vaccination certificate showing that they received the first vaccine dose and a negative COVID-19 antigen or PCR test.

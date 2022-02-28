@@ -1,4 +1,4 @@
-Published 21.02.2022
+Published 28.02.2022
 1. Passengers must have a negative COVID-19 RT-PCR test taken at most 48 hours before departure from the first embarkation point.
 - This does not apply to:
 - passengers younger than 4 years;
@@ -8,7 +8,7 @@ Published 21.02.2022
 - a medical certificate specifying that they do not have COVID-19 symptoms and are not contagious.
 2. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days before departure from the first embarkation point. Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Covaxin, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. The certificate must be:
 - VaxCertPH; or
-- issued in Argentina, Armenia, Australia, Austria, Azerbaijan, Bahrain, Belgium, Brazil, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, Colombia, Croatia, Cyprus, Denmark, Ecuador, Estonia, Finland, France, Georgia, Germany, Greece, Hong Kong (SAR China), Hungary, Indonesia, Iraq, Ireland (Rep.), Israel, Italy, Kazakhstan, Korea (Rep.), Latvia, Lebanon, Lithuania, Luxembourg, Macao (SAR China), Maldives, Malta, Monaco, Myanmar, Netherlands, New Zealand, Oman, Papua New Guinea, Peru, Poland, Portugal, Qatar, Romania, Russian Fed., Samoa, Singapore, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, Suriname, Sweden, Switzerland, Syria, Thailand, Timor-Leste, Tunisia, Turkey, USA, Ukraine, United Arab Emirates, United Kingdom or Vatican City (Holy See).
+- issued in Argentina, Armenia, Australia, Austria, Azerbaijan, Bahrain, Belgium, Brazil, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, Colombia, Croatia, Cyprus, Denmark, Ecuador, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hong Kong (SAR China), Hungary, Indonesia, Iraq, Ireland (Rep.), Israel, Italy, Kazakhstan, Korea (Rep.), Latvia, Lebanon, Lithuania, Luxembourg, Macao (SAR China), Maldives, Malta, Monaco, Myanmar, Netherlands, New Zealand, Oman, Papua New Guinea, Palau, Peru, Poland, Portugal, Qatar, Romania, Russian Fed., Samoa, Singapore, Slovakia, Slovenia, South Africa, Spain, Sri Lanka, Suriname, Sweden, Switzerland, Syria, Thailand, Timor-Leste, Tunisia, Turkey, USA, Ukraine, United Arab Emirates, United Kingdom, Uruguay, Vatican City (Holy See) or Virgin Isl. (British).
 - This does not apply to:
 - passengers younger than 12 years accompanied by a fully vaccinated parent/guardian;
 - nationals of the Philippines;
