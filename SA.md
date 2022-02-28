@@ -1,4 +1,4 @@
-Published 09.02.2022
+Published 28.02.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Saudi Arabia;
@@ -17,6 +17,7 @@ Published 09.02.2022
 3. Passengers arriving from Afghanistan, Ethiopia, Lebanon or Turkey are not allowed to transit.
 4. Passengers and airline crew must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure of the last direct flight to Saudi Arabia. The test result must be issued by one of the following medical centers (Kartica Pulomas Hospital, Karunia Jakarta or PT Prodia Widyahusada TBK) if arriving from Indonesia.
 - This does not apply to:
+- nationals of Saudi Arabia and their traveling companions, arriving from Ukraine. They are subject to a COVID-19 test after arrival;
 - passengers younger than 8 years;
 - nationals of Saudi Arabia who have tested positive at least 10 days before departure;
 - nationals of Saudi Arabia who have tested positive at least 7 days before departure with a COVID-19 vaccination certificate showing that they were:
