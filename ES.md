@@ -1,4 +1,4 @@
-Published 23.02.2022
+Published 28.02.2022
 1. Passengers must have a COVID-19 vaccination certificate showing that:
 - they were fully vaccinated at least 14 days and at most 270 days before arrival; or
 - they were fully vaccinated and received a booster dose.
@@ -6,7 +6,7 @@ Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Cova
 - This does not apply to:
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Sweden or Switzerland;
 - nationals and residents of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See);
-- passengers residing in Bahrain, Chile, China (People's Rep.), Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia, United Arab Emirates and Uruguay;
+- passengers residing in China (People's Rep.), Chinese Taipei, Colombia, Hong Kong (SAR China), Indonesia, Macao (SAR China), New Zealand, Peru, Qatar, Rwanda, Saudi Arabia and United Arab Emirates;
 - passengers with a "D" visa issued by a Schengen Member State, returning via Spain to their country of residence;
 - passengers with a diplomatic passport traveling on duty;
 - immediate family members of a national of an EU Member State traveling together or traveling to join the national of an EU Member State;

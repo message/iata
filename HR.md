@@ -1,5 +1,5 @@
-Published 02.02.2022
-1. Until 28 February 2022, passengers are not allowed to enter.
+Published 28.02.2022
+1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Croatia
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See) and their family members;
