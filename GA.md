@@ -1,4 +1,4 @@
-Published 17.11.2021
+Published 01.03.2022
 1. British nationals and nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland are not allowed to enter.
 - This does not apply to residents of Gabon.
 2. Passengers must have a negative COVID-19 PCR test result issued at most 3 days before departure from the first embarkation point.
