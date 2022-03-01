@@ -1,4 +1,4 @@
-Published 21.10.2021
+Published 01.03.2022
 1. Passengers are not allowed to enter.
 - This does not apply to:
 - nationals of Bhutan;
