@@ -1,10 +1,5 @@
-Published 28.02.2022
-1. Until 28 February 2022, passengers must have:
-- a printed negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
-- a printed negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point.
-The test result must be in English.
-- This does not apply to passengers younger than 12 years.
-Effective 1 March 2022, passengers must have:
+Published 01.03.2022
+1. Passengers must have:
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before departure; or
 - COVID-19 recovery certificate issued at least 7 days and at most 6 months before departure, and a COVID-19 vaccination certificate showing that they received a vaccine dose at least 14 days after the positive test and at least 14 days before departure; or
 - a printed negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point; or
