@@ -1,6 +1,6 @@
-Published 18.02.2022
+Published 01.03.2022
 1. Passengers must have:
-- a COVID-19 vaccination certificate showing that they were fully vaccinated. The vaccination certificate must be in English. Vaccines accepted are: Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm, and Sinovac; or
+- a COVID-19 vaccination certificate showing that they were fully vaccinated. The vaccination certificate must be in English. Vaccines accepted are: AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm, and Sinovac; or
 - a COVID-19 recovery certificate issued at most 100 days before arrival and a COVID-19 vaccination certificate showing that they received one dose at least 14 days before arrival. The vaccination certificate must be in English. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac.
 - This does not apply to:
 - nationals and resident of Georgia;

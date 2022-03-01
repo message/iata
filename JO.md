@@ -8,9 +8,7 @@ Published 01.03.2022
 - nationals of Colombia, Libya, Niger, Pakistan and Philippines traveling as part of an organized tourist group of 5 or more people;
 - nationals of Syria traveling as part of an organized tourist group of 5 or more people. The travel agency must have submitted an application to the Ministry of Interior of Jordan.
 2. Passengers must complete a "Declaration Form" before departure at <a href="https://www.gateway2jordan.gov.jo">https://www.gateway2jordan.gov.jo</a> . This will generate a QR code which must be presented before boarding and upon arrival.
-- This does not apply to:
-- nationals of Jordan, their wives and children, arriving from Ukraine. Regardless of the validity of their passports.;
-- passengers with "The Palestinian Authority" passports or cards traveling to West Bank and arriving from Ukraine. Regardless of the validity of their passports.
+- This does not apply to nationals of Jordan, their wives and children.
 3. Passengers must have health insurance valid for the period of intended stay.
 This does not apply to:
 - nationals of Jordan;
